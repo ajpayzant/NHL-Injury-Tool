@@ -1,0 +1,72 @@
+player_id,player,position,team,injury_type,status,source_updated
+29700624,Ian Moore,D,ANA,Lower Body,Expected to be out until at least Oct 16,2026-09-22
+29023281,Drew Helleson,D,ANA,Lower Body,Expected to be out until at least Oct 2,2026-09-22
+2271612,A.J. Greer,LW,ANA,Upper Body,Expected to be out until at least Oct 2,2026-09-22
+2921773,Troy Terry,RW,ANA,Hip,Expected to be out until at least Nov 21,2026-09-19
+28899567,Matthew Poitras,C,BOS,Lower Body,Expected to be out until at least Sep 25,2026-09-23
+2245507,Charlie McAvoy,D,BOS,Suspension,Expected to be out until at least Oct 13,2026-09-01
+2269101,Alex Lyon,G,BUF,Upper Body,Expected to be out until at least Oct 1,2026-09-24
+28895785,Jiri Kulich,C,BUF,Undisclosed,Day-to-Day,2026-09-24
+26799426,Olen Zellweger,D,BUF,Concussion,Expected to be out until at least Oct 1,2026-09-23
+3158655,Mattias Samuelsson,D,BUF,Lower Body,Expected to be out until at least Oct 8,2026-09-23
+1960880,Jason Zucker,LW,BUF,Abdomen,Expected to be out until at least Oct 15,2026-09-16
+1897686,Jonathan Huberdeau,C,CGY,Hip,IR. Expected to be out until at least Oct 8,2026-09-20
+2245466,Jake Bean,D,CGY,Undisclosed,IR. Expected to be out until at least Sep 28,2026-09-15
+26597475,Seth Jarvis,C,CAR,Shoulder,Expected to be out until at least Oct 24,2026-09-17
+29700070,Alexander Nikishin,D,CAR,Contract Dispute,Expected to be out until at least Sep 26,2026-09-16
+29167155,Connor Bedard,C,CHI,Shoulder,Expected to be out until at least Nov 7,2026-08-27
+2845129,Cale Makar,D,COL,Lower Body,Expected to be out until at least Sep 26,2026-09-19
+2245479,Dante Fabbro,D,CBJ,Upper Body,Expected to be out until at least Oct 1,2026-09-23
+3107125,Elvis Merzlikins,G,CBJ,Shoulder,Expected to be out until at least Nov 30,2026-09-16
+2093865,Damon Severson,D,CBJ,Shoulder,Expected to be out until at least Oct 1,2026-09-13
+2940987,Isac Lundestrom,C,CBJ,Achilles,Expected to be out until at least Nov 10,2026-07-19
+2845354,Jake Oettinger,G,DAL,Lower Body,Expected to be out until at least Oct 2,2026-09-24
+1685404,Matt Duchene,C,DAL,Undisclosed,Expected to be out until at least Oct 2,2026-09-24
+2992045,Colin Blackwell,C,DAL,Lower Body,Expected to be out until at least Oct 2,2026-09-21
+2147354,Dylan Larkin,C,DET,Upper Body,Expected to be out until at least Oct 2,2026-09-17
+2197831,Mattias Janmark,C,EDM,Undisclosed,IR. Expected to be out until at least Sep 29,2026-09-20
+2039464,Frederik Andersen,G,EDM,Undisclosed,Expected to be out until at least Oct 20,2026-08-26
+28895759,Matthew Savoie,C,EDM,Undisclosed,Expected to be out until at least Oct 20,2026-08-26
+2940938,Brady Tkachuk,LW,FLA,Undisclosed,Expected to be out until at least Sep 29,2026-09-22
+1133425,Brad Marchand,LW,FLA,Lower Body,IR. Expected to be out until at least Nov 2,2026-09-17
+2858572,Jonah Gadjovich,LW,FLA,Upper Body,IR. Expected to be out until at least Oct 17,2026-09-17
+433603,Corey Perry,RW,LAK,Personal,Day-to-Day,2026-09-24
+1771018,Mats Zuccarello,RW,LAK,Shoulder,Day-to-Day,2026-09-24
+2146557,Kevin Fiala,LW,LAK,Lower Leg,IR. Expected to be out until at least Oct 3,2026-09-17
+2245486,Filip Gustavsson,G,MIN,Hip,Expected to be out until at least Nov 1,2026-09-18
+29404908,Ivan Demidov,RW,MTL,Foot,Day-to-Day,2026-09-24
+26560471,Kaiden Guhle,D,MTL,Groin,Expected to be out until at least Oct 23,2026-09-16
+28899547,Seamus Casey,D,NJD,Knee,Expected to be out until at least Oct 1,2026-09-24
+2054009,Nick Bjugstad,C,NJD,Pectoral,Expected to be out until at least Jan 19,2026-09-17
+3103731,Johnathan Kovacevic,D,NJD,Knee,Expected to be out until at least Oct 1,2026-09-17
+2198286,Mathew Barzal,C,NYI,Knee,Expected to be out until at least Sep 30,2026-09-20
+26799432,Vincent Iorio,D,NYR,Lower Body,Expected to be out until at least Sep 25,2026-09-24
+28899587,Adam Sykora,LW,NYR,Lower Body,Expected to be out until at least Jan 25,2026-09-23
+26648515,Shane Pinto,C,OTT,Undisclosed,Day-to-Day,2026-09-24
+26603210,Jake Sanderson,D,OTT,Undisclosed,Expected to be out until at least Sep 26,2026-09-23
+2831960,Artem Zub,D,OTT,Knee,Expected to be out until at least Oct 5,2026-09-23
+2147206,Kurtis MacDermid,LW,OTT,Upper Body,Expected to be out until at least Sep 26,2026-09-23
+3140820,Jordan Spence,D,OTT,Undisclosed,Expected to be out until at least Sep 26,2026-09-23
+2147651,Warren Foegele,LW,OTT,Undisclosed,Expected to be out until at least Sep 26,2026-09-21
+26599848,Ridly Greig,C,OTT,Suspension,Expected to be out until at least Oct 6,2026-09-01
+29167152,Denver Barkey,C,PHI,Lower Body,Expected to be out until at least Sep 26,2026-09-24
+2271620,Dan Vladar,G,PHI,Upper Body,Expected to be out until at least Sep 30,2026-09-24
+2850816,Andrei Kuzmenko,LW,PIT,Personal,Expected to be out until at least Sep 30,2026-09-24
+50001142,Benjamin Kindel,C,PIT,Lower Body,Expected to be out until at least Oct 3,2026-09-24
+2921134,Justin Brazeau,RW,PIT,Lower Body,Expected to be out until at least Sep 26,2026-09-23
+3111074,Blake Lizotte,C,PIT,Upper Body,Expected to be out until at least Oct 5,2026-09-21
+2921715,Adam Gaudette,C,SJS,Upper Body,Expected to be out until at least Sep 26,2026-09-24
+2987952,Tyler Tucker,D,STL,Knee,Expected to be out until at least Sep 26,2026-09-21
+1960399,Torey Krug,D,STL,Ankle,IR. Expected to be out until at least Jul 1,2026-07-11
+2147340,Yanni Gourde,C,TBL,Hip,Expected to be out until at least Dec 2,2026-09-16
+28899704,Dominic James,C,TBL,Hand,Expected to be out until at least Oct 13,2026-09-16
+3130097,Dakota Joshua,C,TOR,Abdomen,Expected to be out until at least Sep 29,2026-09-23
+2147476,Nick Paul,C,TOR,Undisclosed,Day-to-Day,2026-09-23
+2076018,Max Domi,C,TOR,Back,Expected to be out until at least Nov 7,2026-09-16
+2271605,Michael Carcone,LW,UTA,Undisclosed,Expected to be out until at least Oct 1,2026-09-23
+2845320,Filip Chytil,C,VAN,Upper Body,Day-to-Day,2026-09-24
+2271608,Thatcher Demko,G,VAN,Hip,IR. Expected to be out until at least Sep 29,2026-09-24
+1899089,Derek Forbort,D,VAN,Hip,IR. Expected to be out until at least Sep 28,2026-09-15
+1639463,Alex Pietrangelo,D,VGK,Hip,IR. Expected to be out until at least Jul 1,2026-07-11
+559829,Alex Ovechkin,LW,WSH,Lower Body,Expected to be out until at least Oct 2,2026-09-21
+2940996,Rasmus Sandin,D,WSH,Knee,Expected to be out until at least Dec 26,2026-09-14
