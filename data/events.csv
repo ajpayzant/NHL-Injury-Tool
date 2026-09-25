@@ -15,3 +15,17 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-25T03:39:51Z,2026-09-24,fa2b82f6d606389e,,Adam Jecho,STL,closed,off the report since 2026-09-24
 2026-09-25T03:39:51Z,2026-09-24,fb4b24442e186c8e,,Ryan Ellis,CHI,closed,off the report since 2026-09-24
 2026-09-25T03:39:51Z,2026-09-24,620048a7bd273eb4,,Logan Couture,SJS,closed,off the report since 2026-09-24
+2026-09-25T20:00:23Z,2026-09-25,39f3f243a50545af,28899567,Matthew Poitras,BOS,status_changed,Expected to be out until at least Sep 25 -> Expected to be out until at least Sep 29
+2026-09-25T20:00:23Z,2026-09-25,4299e7482a5fb201,3158655,Mattias Samuelsson,BUF,status_changed,Expected to be out until at least Oct 8 -> Expected to be out until at least Oct 1
+2026-09-25T20:00:23Z,2026-09-25,674b6e91621d3408,28895785,Jiri Kulich,BUF,status_changed,Day-to-Day -> Expected to be out until at least Oct 1
+2026-09-25T20:00:23Z,2026-09-25,4a3b4ea71a58a443,3107125,Elvis Merzlikins,CBJ,status_changed,Expected to be out until at least Nov 30 -> IR. Expected to be out until at least Nov 30
+2026-09-25T20:00:23Z,2026-09-25,9784bdbe71dd91ba,2940987,Isac Lundestrom,CBJ,status_changed,Expected to be out until at least Nov 10 -> IR. Expected to be out until at least Nov 10
+2026-09-25T20:00:23Z,2026-09-25,4e1d5b3ffcc3d5a4,2940994,Jacob Bernard-Docker,DET,opened,Upper Body - Expected to be out until at least Oct 2
+2026-09-25T20:00:23Z,2026-09-25,b7e0d48db9cd147c,2076017,Jason Dickinson,EDM,opened,Undisclosed - Expected to be out until at least Oct 7
+2026-09-25T20:00:23Z,2026-09-25,19fc012a19408e9f,26799432,Vincent Iorio,NYR,status_changed,Expected to be out until at least Sep 25 -> Expected to be out until at least Sep 29
+2026-09-25T20:00:23Z,2026-09-25,6918958d881680cb,29167152,Denver Barkey,PHI,status_changed,Expected to be out until at least Sep 26 -> Day-to-Day
+2026-09-25T20:00:23Z,2026-09-25,c87f8057e36653ef,2921134,Justin Brazeau,PIT,status_changed,Expected to be out until at least Sep 26 -> Day-to-Day
+2026-09-25T20:00:23Z,2026-09-25,1d1289d52934db06,2921715,Adam Gaudette,SJS,status_changed,Expected to be out until at least Sep 26 -> Day-to-Day
+2026-09-25T20:00:23Z,2026-09-25,9edb31f502dcddeb,2987952,Tyler Tucker,STL,status_changed,Expected to be out until at least Sep 26 -> Expected to be out until at least Oct 6
+2026-09-25T20:00:23Z,2026-09-25,590ea6d9024fc1be,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Oct 1 -> Day-to-Day
+2026-09-25T20:00:23Z,2026-09-25,ab4d3ad68c76b8f0,2845320,Filip Chytil,VAN,type_changed,Upper Body -> Shoulder

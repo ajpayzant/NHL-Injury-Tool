@@ -9,6 +9,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1960880,Jason Zucker,BUF,8475722,1992-01-16,L,roster,2026-09-24
 2039464,Frederik Andersen,EDM,8475883,1989-10-02,G,roster,2026-09-24
 2054009,Nick Bjugstad,NJD,8475760,1992-07-17,C,roster,2026-09-24
+2076017,Jason Dickinson,EDM,8477450,1995-07-04,C,roster,2026-09-25
 2076018,Max Domi,TOR,8477503,1995-03-02,C,roster,2026-09-24
 2093865,Damon Severson,CBJ,8476923,1994-08-07,D,roster,2026-09-24
 2146557,Kevin Fiala,LAK,8477942,1996-07-22,L,roster,2026-09-24
@@ -56,6 +57,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29404908,Ivan Demidov,MTL,8484984,2005-12-10,R,roster,2026-09-24
 2940938,Brady Tkachuk,FLA,8480801,1999-09-16,L,roster,2026-09-24
 2940987,Isac Lundestrom,CBJ,8480806,1999-11-06,C,roster,2026-09-24
+2940994,Jacob Bernard-Docker,DET,8480879,2000-06-30,D,roster,2026-09-25
 2940996,Rasmus Sandin,WSH,8480873,2000-03-07,D,roster,2026-09-24
 29700070,Alexander Nikishin,CAR,8482100,2001-10-02,D,roster,2026-09-24
 29700624,Ian Moore,ANA,8482178,2002-01-04,D,roster,2026-09-24
