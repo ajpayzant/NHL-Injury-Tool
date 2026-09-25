@@ -1,0 +1,17 @@
+at,date,injury_id,player_id,player,team,event,detail
+2026-09-25T03:05:45Z,2026-09-24,2276eacb0e93eaa7,,Charlie McAvoy,BOS,reopened,was marked returned 2026-09-24
+2026-09-25T03:05:45Z,2026-09-24,56dfe6133af468b6,,Jake Oettinger,DAL,status_changed,Day-to-Day -> Expected to be out until at least Oct 2
+2026-09-25T03:05:45Z,2026-09-24,88cfec4a0c3148c9,1685404,Matt Duchene,DAL,opened,Undisclosed - Expected to be out until at least Oct 2
+2026-09-25T03:05:45Z,2026-09-24,dad3c42201962fe7,29404908,Ivan Demidov,MTL,opened,Foot - Day-to-Day
+2026-09-25T03:05:45Z,2026-09-24,a4a9ac0954e54ec8,26648515,Shane Pinto,OTT,opened,Undisclosed - Day-to-Day
+2026-09-25T03:05:45Z,2026-09-24,0bb653434df92588,,Ridly Greig,OTT,reopened,was marked returned 2026-09-24
+2026-09-25T03:05:45Z,2026-09-24,abb1e8df103797dd,,Benjamin Kindel,PIT,status_changed,Expected to be out until at least Sep 26 -> Expected to be out until at least Oct 3
+2026-09-25T03:39:51Z,2026-09-24,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,opened,Upper Body - Expected to be out until at least Oct 1
+2026-09-25T03:39:51Z,2026-09-24,674b6e91621d3408,28895785,Jiri Kulich,BUF,opened,Undisclosed - Day-to-Day
+2026-09-25T03:39:51Z,2026-09-24,4765f1a6965812df,28899547,Seamus Casey,NJD,opened,Knee - Expected to be out until at least Oct 1
+2026-09-25T03:39:51Z,2026-09-24,ab4d3ad68c76b8f0,2845320,Filip Chytil,VAN,opened,Upper Body - Day-to-Day
+2026-09-25T03:39:51Z,2026-09-24,90151030ad49c980,,Mason Lohrei,BOS,closed,off the report since 2026-09-24
+2026-09-25T03:39:51Z,2026-09-24,5273a959750956c1,,Adam Fantilli,CBJ,closed,off the report since 2026-09-24
+2026-09-25T03:39:51Z,2026-09-24,fa2b82f6d606389e,,Adam Jecho,STL,closed,off the report since 2026-09-24
+2026-09-25T03:39:51Z,2026-09-24,fb4b24442e186c8e,,Ryan Ellis,CHI,closed,off the report since 2026-09-24
+2026-09-25T03:39:51Z,2026-09-24,620048a7bd273eb4,,Logan Couture,SJS,closed,off the report since 2026-09-24

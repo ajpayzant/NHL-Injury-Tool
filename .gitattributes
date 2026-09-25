@@ -1,0 +1,3 @@
+# Keep LF everywhere so the Action's data commits don't flip line endings.
+* text=auto eol=lf
+*.bat text eol=crlf
