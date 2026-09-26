@@ -29,3 +29,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-25T20:00:23Z,2026-09-25,9edb31f502dcddeb,2987952,Tyler Tucker,STL,status_changed,Expected to be out until at least Sep 26 -> Expected to be out until at least Oct 6
 2026-09-25T20:00:23Z,2026-09-25,590ea6d9024fc1be,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Oct 1 -> Day-to-Day
 2026-09-25T20:00:23Z,2026-09-25,ab4d3ad68c76b8f0,2845320,Filip Chytil,VAN,type_changed,Upper Body -> Shoulder
+2026-09-26T09:20:18Z,2026-09-26,2cd04f19121b5054,2245479,Dante Fabbro,CBJ,status_changed,Expected to be out until at least Oct 1 -> IR. Expected to be out until at least Oct 9
+2026-09-26T09:20:18Z,2026-09-26,dac5c152f6f068ae,29101182,Brock Faber,MIN,opened,Upper Body - Day-to-Day
+2026-09-26T09:20:18Z,2026-09-26,c87f8057e36653ef,2921134,Justin Brazeau,PIT,status_changed,Day-to-Day -> Expected to be out until at least Sep 30
+2026-09-26T09:20:18Z,2026-09-26,cae814b778891533,2271608,Thatcher Demko,VAN,status_changed,IR. Expected to be out until at least Sep 29 -> IR. Expected to be out until at least Oct 3
+2026-09-26T09:20:18Z,2026-09-26,ab4d3ad68c76b8f0,2845320,Filip Chytil,VAN,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 8
+2026-09-26T09:20:18Z,2026-09-26,e8e07f6754c3f40a,2845129,Cale Makar,COL,closed,off the report since 2026-09-25
