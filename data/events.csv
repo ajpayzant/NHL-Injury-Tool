@@ -53,3 +53,56 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-27T09:59:05Z,2026-09-27,2d6c8f9eceb0a5f5,2147507,Bryan Rust,PIT,opened,Undisclosed - Day-to-Day
 2026-09-27T09:59:05Z,2026-09-27,1d1289d52934db06,2921715,Adam Gaudette,SJS,status_changed,Day-to-Day -> Expected to be out until at least Oct 1
 2026-09-27T09:59:05Z,2026-09-27,54c69dc3825c2180,26802507,Logan Mailloux,STL,opened,Upper Body - Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,a54f0bfce8f1416d,28895757,Pavel Mintyukov,ANA,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,e7e5a6ca0590c102,29023281,Drew Helleson,ANA,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,c373a198c00187b2,2271612,A.J. Greer,ANA,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,39f3f243a50545af,28899567,Matthew Poitras,BOS,status_changed,Expected to be out until at least Sep 29 -> IR. Expected to be out until at least Oct 5
+2026-09-27T19:45:05Z,2026-09-27,4299e7482a5fb201,3158655,Mattias Samuelsson,BUF,status_changed,Expected to be out until at least Oct 1 -> Expected to be out until at least Oct 3
+2026-09-27T19:45:05Z,2026-09-27,196890ca73eed0ef,26799426,Olen Zellweger,BUF,status_changed,Expected to be out until at least Oct 1 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,status_changed,Expected to be out until at least Oct 1 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,79a82f82d265e157,1897686,Jonathan Huberdeau,CGY,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 10
+2026-09-27T19:45:05Z,2026-09-27,eb2d7adfefa0562d,26597475,Seth Jarvis,CAR,status_changed,Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 24
+2026-09-27T19:45:05Z,2026-09-27,fb4b24442e186c8e,,Ryan Ellis,CHI,reopened,was marked returned 2026-09-24
+2026-09-27T19:45:05Z,2026-09-27,cb3d4421b5e25a40,2093865,Damon Severson,CBJ,status_changed,Expected to be out until at least Oct 1 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,3ecddffb2a98ffb7,28973342,Mikael Pyyhtia,CBJ,opened,Lower Body - IR. Expected to be out until at least Oct 3
+2026-09-27T19:45:05Z,2026-09-27,56dfe6133af468b6,2845354,Jake Oettinger,DAL,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,4780c1265c36f4a5,2992045,Colin Blackwell,DAL,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,88cfec4a0c3148c9,1685404,Matt Duchene,DAL,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,4e1d5b3ffcc3d5a4,2940994,Jacob Bernard-Docker,DET,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,ffd667ab10de0292,2147354,Dylan Larkin,DET,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,6cd8dc7e1158f3e4,2992271,Alec Regula,EDM,opened,Undisclosed - IR. Expected to be out until at least Oct 3
+2026-09-27T19:45:05Z,2026-09-27,f062cdf4cead8304,28895759,Matthew Savoie,EDM,status_changed,Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Oct 20
+2026-09-27T19:45:05Z,2026-09-27,8b161406bdcabd2e,2039464,Frederik Andersen,EDM,status_changed,Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Oct 20
+2026-09-27T19:45:05Z,2026-09-27,b7e0d48db9cd147c,2076017,Jason Dickinson,EDM,status_changed,Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 17
+2026-09-27T19:45:05Z,2026-09-27,7b3d974cb60e4f05,2197831,Mattias Janmark,EDM,status_changed,IR. Expected to be out until at least Sep 29 -> IR. Expected to be out until at least Oct 3
+2026-09-27T19:45:05Z,2026-09-27,03f983a4b81b0151,2940938,Brady Tkachuk,FLA,status_changed,Expected to be out until at least Sep 29 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,4cd69d9b150fb10d,433603,Corey Perry,LAK,status_changed,Expected to be out until at least Sep 30 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,opened,Upper Body - IR. Expected to be out until at least Oct 6
+2026-09-27T19:45:05Z,2026-09-27,dad3c42201962fe7,29404908,Ivan Demidov,MTL,status_changed,Expected to be out until at least Sep 29 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,ad85c6eb4cbf5095,3103731,Johnathan Kovacevic,NJD,status_changed,Expected to be out until at least Oct 1 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,26ed50f4409fe962,2198286,Mathew Barzal,NYI,status_changed,Expected to be out until at least Sep 30 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,19fc012a19408e9f,26799432,Vincent Iorio,NYR,status_changed,Expected to be out until at least Sep 29 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,a6cc2f6b99dd8bff,2831960,Artem Zub,OTT,status_changed,Expected to be out until at least Oct 5 -> Expected to be out until at least Oct 10
+2026-09-27T19:45:05Z,2026-09-27,a4a9ac0954e54ec8,26648515,Shane Pinto,OTT,status_changed,Expected to be out until at least Oct 3 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,e728b82ea91c68c0,2147206,Kurtis MacDermid,OTT,status_changed,Expected to be out until at least Oct 3 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,0302b64dca58e495,2147651,Warren Foegele,OTT,status_changed,Expected to be out until at least Oct 3 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,14781422ca88ef89,2271620,Dan Vladar,PHI,status_changed,Expected to be out until at least Sep 30 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,6918958d881680cb,29167152,Denver Barkey,PHI,status_changed,Expected to be out until at least Sep 30 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,7d337eeb1234ef15,2850816,Andrei Kuzmenko,PIT,status_changed,Expected to be out until at least Sep 30 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,c87f8057e36653ef,2921134,Justin Brazeau,PIT,status_changed,Expected to be out until at least Sep 30 -> IR. Expected to be out until at least Oct 7
+2026-09-27T19:45:05Z,2026-09-27,106f860450d407c5,3111074,Blake Lizotte,PIT,status_changed,Expected to be out until at least Oct 5 -> IR. Expected to be out until at least Oct 5
+2026-09-27T19:45:05Z,2026-09-27,abb1e8df103797dd,50001142,Benjamin Kindel,PIT,status_changed,Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 7
+2026-09-27T19:45:05Z,2026-09-27,9a61eaf1807503a5,2094574,Ryan Graves,PIT,type_changed,Lower Body -> Knee
+2026-09-27T19:45:05Z,2026-09-27,9a61eaf1807503a5,2094574,Ryan Graves,PIT,status_changed,Expected to be out until at least Sep 30 -> IR. Expected to be out until at least Oct 24
+2026-09-27T19:45:05Z,2026-09-27,2d6c8f9eceb0a5f5,2147507,Bryan Rust,PIT,type_changed,Undisclosed -> Upper Body
+2026-09-27T19:45:05Z,2026-09-27,ccf2a74b2d1d9b68,50001108,Gabriel D'Aigle,PIT,opened,Undisclosed - IR. Expected to be out until at least Oct 29
+2026-09-27T19:45:05Z,2026-09-27,1d1289d52934db06,2921715,Adam Gaudette,SJS,status_changed,Expected to be out until at least Oct 1 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,620048a7bd273eb4,,Logan Couture,SJS,reopened,was marked returned 2026-09-24
+2026-09-27T19:45:05Z,2026-09-27,04a071a3fa31ce26,26802550,Mackie Samoskevich,SEA,opened,Upper Body - IR. Expected to be out until at least Oct 3
+2026-09-27T19:45:05Z,2026-09-27,745f8e86c42e4971,50001174,Jake O'Brien,SEA,opened,Lower Body - IR. Expected to be out until at least Oct 6
+2026-09-27T19:45:05Z,2026-09-27,fa2b82f6d606389e,,Adam Jecho,STL,reopened,was marked returned 2026-09-24
+2026-09-27T19:45:05Z,2026-09-27,9cbf636f8f10bb48,3130097,Dakota Joshua,TOR,status_changed,Expected to be out until at least Sep 29 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,cae814b778891533,2271608,Thatcher Demko,VAN,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 10
+2026-09-27T19:45:05Z,2026-09-27,5bac739d431fc768,559829,Alex Ovechkin,WSH,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-27T19:45:05Z,2026-09-27,590ea6d9024fc1be,2271605,Michael Carcone,UTA,closed,off the report since 2026-09-27
+2026-09-27T19:45:05Z,2026-09-27,8b5442c6adadd34e,1771018,Mats Zuccarello,LAK,closed,off the report since 2026-09-27
