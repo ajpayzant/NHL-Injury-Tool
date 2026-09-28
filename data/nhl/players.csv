@@ -39,6 +39,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26599848,Ridly Greig,OTT,8482092,2002-08-08,C,roster,2026-09-24
 26603210,Jake Sanderson,OTT,8482105,2002-07-08,D,roster,2026-09-24
 26648515,Shane Pinto,OTT,8481596,2000-11-12,C,roster,2026-09-24
+26799321,Zachary L'Heureux,COL,8482742,2003-05-15,L,roster,2026-09-28
 26799426,Olen Zellweger,BUF,8482803,2003-09-10,D,roster,2026-09-24
 26799432,Vincent Iorio,NYR,8482861,2002-11-14,D,roster,2026-09-24
 26802507,Logan Mailloux,STL,8482733,2003-04-15,D,roster,2026-09-27
@@ -77,6 +78,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2987952,Tyler Tucker,STL,8481006,2000-03-01,D,roster,2026-09-24
 2992045,Colin Blackwell,DAL,8476278,1993-03-28,C,roster,2026-09-24
 2992271,Alec Regula,EDM,8480831,2000-08-06,D,roster,2026-09-27
+2992841,Logan O'Connor,COL,8481186,1996-08-14,R,roster,2026-09-28
 3103731,Johnathan Kovacevic,NJD,8480192,1997-07-12,D,roster,2026-09-24
 3107125,Elvis Merzlikins,CBJ,8478007,1994-04-13,G,roster,2026-09-24
 3111074,Blake Lizotte,PIT,8481481,1997-12-13,C,roster,2026-09-24

@@ -106,3 +106,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-27T19:45:05Z,2026-09-27,5bac739d431fc768,559829,Alex Ovechkin,WSH,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
 2026-09-27T19:45:05Z,2026-09-27,590ea6d9024fc1be,2271605,Michael Carcone,UTA,closed,off the report since 2026-09-27
 2026-09-27T19:45:05Z,2026-09-27,8b5442c6adadd34e,1771018,Mats Zuccarello,LAK,closed,off the report since 2026-09-27
+2026-09-28T10:51:09Z,2026-09-28,9f2af962c00f5684,2992841,Logan O'Connor,COL,opened,Lower Body - Day-to-Day
+2026-09-28T10:51:09Z,2026-09-28,07492e3a1b324934,26799321,Zachary L'Heureux,COL,opened,Lower Body - Day-to-Day
+2026-09-28T10:51:09Z,2026-09-28,2cd04f19121b5054,2245479,Dante Fabbro,CBJ,status_changed,IR. Expected to be out until at least Oct 9 -> IR. Expected to be out until at least Nov 3
+2026-09-28T10:51:09Z,2026-09-28,674b6e91621d3408,28895785,Jiri Kulich,BUF,closed,off the report since 2026-09-27
