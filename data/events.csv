@@ -139,3 +139,22 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-28T21:56:11Z,2026-09-28,48b13c6c02848101,2198224,Jake DeBrusk,VAN,opened,Lower Body - Day-to-Day
 2026-09-28T21:56:11Z,2026-09-28,cae814b778891533,2271608,Thatcher Demko,VAN,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Dec 21
 2026-09-28T21:56:11Z,2026-09-28,4780c1265c36f4a5,2992045,Colin Blackwell,DAL,closed,off the report since 2026-09-28
+2026-09-28T22:33:29Z,2026-09-28,3a7abef0121fd9d6,29167155,Connor Bedard,CHI,status_changed,Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 7
+2026-09-28T22:33:29Z,2026-09-28,07492e3a1b324934,26799321,Zachary L'Heureux,COL,status_changed,Day-to-Day -> IR. Expected to be out until at least Sep 30
+2026-09-28T22:33:29Z,2026-09-28,9f2af962c00f5684,2992841,Logan O'Connor,COL,status_changed,Day-to-Day -> IR. Expected to be out until at least Sep 30
+2026-09-28T22:33:29Z,2026-09-28,04b71deab9770589,50001091,Carter Bear,DET,opened,Upper Body - IR. Expected to be out until at least Oct 6
+2026-09-28T22:33:29Z,2026-09-28,e5c6d19504025360,2245486,Filip Gustavsson,MIN,status_changed,Expected to be out until at least Nov 1 -> IR. Expected to be out until at least Nov 1
+2026-09-28T22:33:29Z,2026-09-28,dac5c152f6f068ae,29101182,Brock Faber,MIN,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 6
+2026-09-28T22:33:29Z,2026-09-28,a6cc2f6b99dd8bff,2831960,Artem Zub,OTT,status_changed,Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 10
+2026-09-28T22:33:29Z,2026-09-28,0302b64dca58e495,2147651,Warren Foegele,OTT,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 3
+2026-09-28T22:33:29Z,2026-09-28,e728b82ea91c68c0,2147206,Kurtis MacDermid,OTT,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 31
+2026-09-28T22:33:29Z,2026-09-28,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,opened,Upper Body - IR. Expected to be out until at least Dec 1
+2026-09-28T22:33:29Z,2026-09-28,4476ac08ae85dc3d,28974592,Patrick Giles,SJS,opened,Upper Body - IR. Expected to be out until at least Oct 3
+2026-09-28T22:33:29Z,2026-09-28,caebf3f145fd6c6d,2940996,Rasmus Sandin,WSH,status_changed,Expected to be out until at least Dec 26 -> IR. Expected to be out until at least Dec 26
+2026-09-28T22:33:29Z,2026-09-28,a54f0bfce8f1416d,28895757,Pavel Mintyukov,ANA,closed,off the report since 2026-09-28
+2026-09-28T22:33:29Z,2026-09-28,03f983a4b81b0151,2940938,Brady Tkachuk,FLA,closed,off the report since 2026-09-28
+2026-09-28T22:33:29Z,2026-09-28,2276eacb0e93eaa7,2245507,Charlie McAvoy,BOS,closed,off the report since 2026-09-28
+2026-09-28T22:33:29Z,2026-09-28,5ecc005ff0408bc1,2245466,Jake Bean,CGY,closed,off the report since 2026-09-28
+2026-09-28T22:33:29Z,2026-09-28,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,closed,off the report since 2026-09-28
+2026-09-28T22:33:29Z,2026-09-28,0bb653434df92588,26599848,Ridly Greig,OTT,closed,off the report since 2026-09-28
+2026-09-28T22:33:29Z,2026-09-28,7b1511b80978214e,1899089,Derek Forbort,VAN,closed,off the report since 2026-09-28
