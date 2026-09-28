@@ -12,6 +12,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1960880,Jason Zucker,BUF,8475722,1992-01-16,L,roster,2026-09-24
 2039464,Frederik Andersen,EDM,8475883,1989-10-02,G,roster,2026-09-24
 2054009,Nick Bjugstad,NJD,8475760,1992-07-17,C,roster,2026-09-24
+2076015,Andre Burakovsky,OTT,8477444,1995-02-09,L,roster,2026-09-28
 2076017,Jason Dickinson,EDM,8477450,1995-07-04,C,roster,2026-09-25
 2076018,Max Domi,TOR,8477503,1995-03-02,C,roster,2026-09-24
 2093865,Damon Severson,CBJ,8476923,1994-08-07,D,roster,2026-09-24
@@ -22,8 +23,10 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147354,Dylan Larkin,DET,8477946,1996-07-30,C,roster,2026-09-24
 2147476,Nick Paul,TOR,8477426,1995-03-20,L,roster,2026-09-24
 2147507,Bryan Rust,PIT,8475810,1992-05-11,R,roster,2026-09-27
+2147521,Conor Sheary,BUF,8477839,1992-06-08,L,roster,2026-09-28
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
 2197831,Mattias Janmark,EDM,8477406,1992-12-08,C,roster,2026-09-24
+2198224,Jake DeBrusk,VAN,8478498,1996-10-17,L,roster,2026-09-28
 2198286,Mathew Barzal,NYI,8478445,1997-05-26,C,roster,2026-09-24
 2245466,Jake Bean,CGY,8479402,1998-06-09,D,search,2026-09-24
 2245479,Dante Fabbro,CBJ,8479371,1998-06-20,D,roster,2026-09-24
@@ -42,6 +45,10 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26799321,Zachary L'Heureux,COL,8482742,2003-05-15,L,roster,2026-09-28
 26799426,Olen Zellweger,BUF,8482803,2003-09-10,D,roster,2026-09-24
 26799432,Vincent Iorio,NYR,8482861,2002-11-14,D,roster,2026-09-24
+26799648,Helge Grans,PHI,8482169,2002-05-10,D,roster,2026-09-28
+26802435,Tristan Broz,PIT,8482698,2002-10-10,C,search,2026-09-28
+26802454,Simon Edvinsson,DET,8482762,2003-02-05,D,roster,2026-09-28
+26802481,Oliver Kapanen,MTL,8482775,2003-07-29,C,roster,2026-09-28
 26802507,Logan Mailloux,STL,8482733,2003-04-15,D,roster,2026-09-27
 26802550,Mackie Samoskevich,SEA,8482713,2002-11-15,R,roster,2026-09-27
 2831960,Artem Zub,OTT,8482245,1995-10-03,D,roster,2026-09-24
@@ -50,10 +57,12 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2845354,Jake Oettinger,DAL,8479979,1998-12-18,G,roster,2026-09-24
 2850816,Andrei Kuzmenko,PIT,8483808,1996-02-04,L,roster,2026-09-24
 2858551,Ukko-Pekka Luukkonen,BUF,8480045,1999-03-09,G,roster,2026-09-27
+2858568,Conor Timmins,BUF,8479982,1998-09-18,D,roster,2026-09-28
 2858572,Jonah Gadjovich,FLA,8479981,1998-10-12,L,roster,2026-09-24
 28895757,Pavel Mintyukov,ANA,8483490,2003-11-25,D,roster,2026-09-27
 28895759,Matthew Savoie,EDM,8483512,2004-01-01,C,roster (nickname),2026-09-24
 28895785,Jiri Kulich,BUF,8483468,2004-04-14,C,roster,2026-09-24
+28895787,Maveric Lamoureux,UTA,8483472,2004-01-13,D,roster,2026-09-28
 28899547,Seamus Casey,NJD,8483429,2004-01-08,D,roster,2026-09-24
 28899567,Matthew Poitras,BOS,8483505,2004-03-10,C,roster,2026-09-24
 28899587,Adam Sykora,NYR,8483669,2004-09-07,L,roster,2026-09-24
@@ -85,6 +94,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3130097,Dakota Joshua,TOR,8478057,1996-05-15,C,roster,2026-09-24
 3140820,Jordan Spence,OTT,8481606,2001-02-24,D,roster,2026-09-24
 3158655,Mattias Samuelsson,BUF,8480807,2000-03-14,D,roster,2026-09-24
+3166853,Jack Rathbone,BUF,8480056,1999-05-20,D,roster,2026-09-28
 433603,Corey Perry,LAK,8470621,1985-05-16,R,roster,2026-09-24
 50001108,Gabriel D'Aigle,PIT,8485569,2006-11-21,G,search,2026-09-27
 50001142,Benjamin Kindel,PIT,8485414,2007-04-19,C,roster (nickname),2026-09-24
