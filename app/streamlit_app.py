@@ -21,7 +21,8 @@ inj, events, runs = load()
 
 with st.sidebar:
     st.markdown("### NHL Injury Database")
-    st.caption(f"Source: CBS Sports injury report  \nUpdated {last_updated(runs)}")
+    st.caption(f"Sources: CBS Sports injury report, Daily Faceoff injury news  \n"
+               f"Updated {last_updated(runs)}")
 
 pages = st.navigation({
     "": [

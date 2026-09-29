@@ -1,13 +1,17 @@
 # NHL Injury Database
 
 A running history of every player on the [CBS Sports NHL injury report](https://www.cbssports.com/nhl/injuries/),
-scraped twice a day by a GitHub Action and browsable in a Streamlit app.
+scraped twice a day by a GitHub Action, alongside [Daily Faceoff's injury news](https://www.dailyfaceoff.com/hockey-player-news/injuries)
+(fetched every two hours), browsable in a Streamlit app.
 
 - **Pipeline:** `scripts/update.py` scrapes the report, updates one row per injury in
   `data/injuries.csv`, logs changes to `data/events.csv` and the run to `data/runs.csv`,
   and saves the raw scrape under `data/snapshots/`. It then syncs NHL.com data into `data/nhl/`
   (player ids and birth dates, the schedule, and who dressed in each game) and fills in games
-  missed, the return check and re-injury flags.
+  missed, the return check and re-injury flags. Last it fetches new Daily Faceoff injury news into
+  `data/news.csv` (`nhl_injuries/dfo.py`): one row per item with the reporter and source link, a status,
+  body part, surgery flag and timeline read from the headline, the player's NHL id and the CBS
+  injury it's about.
 - **App:** `app/streamlit_app.py` has pages for Overview, Latest Injury News, Injury Search, Teams, Players,
   Injury Types, Seasons, Season Trends and Data & Downloads (CSV, Excel, or a live Google Sheets
   `IMPORTDATA` link).
@@ -17,9 +21,11 @@ scraped twice a day by a GitHub Action and browsable in a Streamlit app.
 ```
 pip install -r requirements.txt
 run_app.bat                      # or: python -m streamlit run app/streamlit_app.py
-python -m pytest                 # 37 tests
+python -m pytest                 # 78 tests
 python scripts/update.py         # scrape now (--dry-run to preview, --force to skip the row-count guard)
 python scripts/update.py --nhl-only   # refresh only the NHL.com data (--no-nhl skips it)
+python scripts/update.py --news-only  # fetch only Daily Faceoff news (--no-news skips it)
+python scripts/backfill_news.py --since 2025-07-01   # re-fetch older news (or --pages N)
 ```
 
 On Windows set `PYTHONUTF8=1` (`run_app.bat` does this).
@@ -28,7 +34,8 @@ On Windows set `PYTHONUTF8=1` (`run_app.bat` does this).
 
 1. Push this folder to GitHub (`ajpayzant/NHL-Injury-Tool`). If you move it to another repo,
    change `GITHUB_REPO` in `app/core.py` so the Sheets link points at the right file.
-2. **Actions:** `.github/workflows/scrape.yml` runs at 04:15 and 16:15 UTC (12:15 AM / PM Eastern in summer, an hour earlier in winter).
+2. **Actions:** `.github/workflows/scrape.yml` runs at 04:15 and 16:15 UTC (12:15 AM / PM Eastern in summer, an hour earlier in winter),
+   plus a news-only run at :45 every two hours.
    It needs *Settings → Actions → General → Workflow permissions → Read and write*. To run it by hand, use
    *Actions → Scrape CBS injury report → Run workflow* (tick `force` to skip the row-count guard).
 3. **Streamlit Cloud:** New app → this repo, branch `main`, main file `app/streamlit_app.py`,
@@ -46,6 +53,9 @@ On Windows set `PYTHONUTF8=1` (`run_app.bat` does this).
 | Return check | *Played*, *Awaiting first game*, *Not played since* (off the report but hasn't dressed), *On report*, *Playing while listed*, or *No NHL match*. |
 | Re-injury | A new head / neck, upper or lower body injury within **60 days** of returning from one in the same region (*Same injury* if the type matches too). |
 | NHL matching | CBS name + team → NHL roster (full name, then nickname, then any team), then the NHL player search. Unmatched players are retried weekly. Cached in `data/nhl/players.csv`. |
+| News | Each run reads Daily Faceoff from page 1 back to 36 hours before the newest stored item, so edits made after posting (about two-thirds of items, usually within an hour) are picked up. |
+| News matching | Daily Faceoff's NHL id, else the id on another item about the same player, else a unique name match against the CBS rows, else the NHL player search (cached in `data/nhl/players.csv` as `dfo:<id>`). An item is linked to the CBS injury for that player from 5 days before CBS listed it to 3 days after it came off. |
+| News teams | Daily Faceoff shows the player's team at scrape time. Items backfilled on Sept 29, 2026 (`team_is_current`) show the CBS injury's team instead where there is one; the Players page uses the latest scrape to flag a trade CBS hasn't caught up with. |
 | Seasons | Assigned by first-report date; the league year turns over on July 1. |
 | History | Rows before Sept 25, 2026 come from the original Google Sheet (tracking began May 7, 2026). Split-by-trade rows were merged, and rows the sheet never closed got an estimated return (`return_is_estimated`). Injuries already on the report on May 7 have `start_is_lower_bound` set and are left out of days-out averages. |
 

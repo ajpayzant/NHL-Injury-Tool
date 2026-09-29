@@ -6,10 +6,16 @@ on:
     # GitHub often starts scheduled jobs several minutes late; the tracker doesn't mind.
     - cron: "15 4 * * *"
     - cron: "15 16 * * *"
+    # Daily Faceoff injury news only, every two hours in between.
+    - cron: "45 */2 * * *"
   workflow_dispatch:
     inputs:
       force:
         description: "Skip the row-count sanity check"
+        type: boolean
+        default: false
+      news_only:
+        description: "Only fetch Daily Faceoff injury news"
         type: boolean
         default: false
 
@@ -37,7 +43,12 @@ jobs:
         run: python -m pytest -q
 
       - name: Scrape and update data
+        if: ${{ !inputs.news_only && github.event.schedule != '45 */2 * * *' }}
         run: python scripts/update.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Update injury news
+        if: ${{ inputs.news_only || github.event.schedule == '45 */2 * * *' }}
+        run: python scripts/update.py --news-only
 
       - name: Commit data
         run: |
@@ -47,6 +58,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes."
           else
-            git commit -m "data: injury report $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "data: ${{ (inputs.news_only || github.event.schedule == '45 */2 * * *') && 'injury news' || 'injury report' }} $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi

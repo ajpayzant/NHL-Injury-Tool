@@ -41,6 +41,20 @@ def test_player_profile_and_filters():
     assert not at.exception, [e.value for e in at.exception]
     assert any("Re-injury" in e.value for e in at.error)
 
+    with open(Path(APP).parent.parent / "data" / "news.csv", encoding="utf-8") as f:
+        news = list(csv.DictReader(f))
+    if news:
+        # A player Daily Faceoff wrote about who was never on the CBS report.
+        on_report = {r["nhl_id"] for r in rows}
+        loner = next(r for r in news if r["nhl_id"] and r["nhl_id"] not in on_report)
+        at.selectbox[0].set_value(loner["nhl_id"]).run()
+        assert not at.exception, [e.value for e in at.exception]
+        assert any("Not on the CBS injury report" in w.value for w in at.warning)
+        # A player with news linked to a CBS injury.
+        linked = next(r for r in news if r["injury_id"])
+        at.selectbox[0].set_value(linked["nhl_id"]).run()
+        assert not at.exception, [e.value for e in at.exception]
+
     at.switch_page("views/search.py").run()
     at.text_input[0].input("Makar").run()
     assert not at.exception
@@ -49,6 +63,9 @@ def test_player_profile_and_filters():
     at.switch_page("views/news.py").run()
     for window in ("Last 2 days", "Last 14 days"):
         at.segmented_control[0].set_value(window).run()
+        assert not at.exception, [e.value for e in at.exception]
+    for tone in ("Bad news", "Uncertain", "Good news", "All"):
+        at.segmented_control(key="news_tone").set_value(tone).run()
         assert not at.exception, [e.value for e in at.exception]
 
     at.switch_page("views/injury_types.py").run()

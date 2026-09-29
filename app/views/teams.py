@@ -2,7 +2,8 @@ import pandas as pd
 import streamlit as st
 
 import charts
-from core import avg_days_out, display_table, games_lost, download_buttons, load, seasons
+from core import (avg_days_out, display_table, fmt_date, games_lost, download_buttons, load, news,
+                  news_time, seasons, today)
 from nhl_injuries.reference import TEAMS
 
 inj, events, _ = load()
@@ -48,7 +49,21 @@ if current.empty:
 else:
     display_table(current.sort_values("first_seen"),
                   ["player", "position", "age", "injury_type", "status", "first_seen",
-                   "expected_return", "duration", "games_missed", "on_ir", "reinjury_match"])
+                   "expected_return", "duration", "games_missed", "on_ir", "latest_news", "latest_news_at"])
+
+team_news = news()
+team_news = team_news[(team_news["team_shown"] == team) & (team_news["date"] >= today() - pd.Timedelta(days=13))]
+st.subheader("Injury news, last 14 days")
+if team_news.empty:
+    st.caption(f"No Daily Faceoff injury news about the {name} in the last 14 days.")
+else:
+    out = team_news[["published_at", "player", "news_status", "headline", "source_name", "source_url"]].copy()
+    out["published_at"] = [f"{fmt_date(t, year=False)} {news_time(t)}" for t in out["published_at"]]
+    st.dataframe(out.rename(columns={"published_at": "Published (ET)", "player": "Player", "news_status": "Status",
+                                     "headline": "Headline", "source_name": "Reporter", "source_url": "Source"}),
+                 hide_index=True, width="stretch", placeholder="—", height=min(38 + 35 * len(out), 353),
+                 column_config={"Headline": st.column_config.TextColumn(width="large"),
+                                "Source": st.column_config.LinkColumn(display_text="open")})
 
 left, right = st.columns(2, gap="large")
 with left:

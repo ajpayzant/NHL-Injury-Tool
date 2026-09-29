@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 import charts
-from core import display_table, last_updated, load, today
+from core import display_table, fmt_date, last_updated, load, news, news_time, player_link, today
 from nhl_injuries.reference import TEAMS
 
 inj, events, runs = load()
@@ -10,8 +10,8 @@ now = today()
 week_ago = now - pd.Timedelta(days=7)
 
 st.title("NHL Injury Report")
-st.caption(f"Every player on the CBS Sports NHL injury report, tracked twice a day. "
-           f"Last updated {last_updated(runs)}.")
+st.caption(f"Every player on the CBS Sports NHL injury report, tracked twice a day, with Daily Faceoff "
+           f"injury news alongside. Last updated {last_updated(runs)}.")
 
 current = inj[inj["is_open"]]
 new_7 = inj[inj["first_seen"] > week_ago]
@@ -26,6 +26,16 @@ c[1].metric("Out for season / IR",
             border=True)
 c[2].metric("New in last 7 days", len(new_7), border=True)
 c[3].metric("Returned in last 7 days", len(back_7), border=True)
+
+feed = news()
+if len(feed):
+    st.subheader("Latest injury news")
+    top = feed.head(6)
+    st.markdown("\n".join(
+        f"- **[{r['player']}]({player_link(r['player'], r['pkey'])})** ({r['team_shown'] or '—'}) · "
+        f"{r['headline']} <span style='color:#8a8984;font-size:.85em'>{fmt_date(r['date'], year=False)} "
+        f"{news_time(r['published_at'])}</span>" for _, r in top.iterrows()), unsafe_allow_html=True)
+    st.page_link("views/news.py", label="All injury news", icon=":material/arrow_forward:")
 
 left, right = st.columns([3, 2], gap="large")
 
@@ -71,4 +81,4 @@ else:
 st.subheader("Everyone on the report")
 display_table(current.sort_values(["latest_team", "player"]),
               ["player", "position", "age", "latest_team", "injury_type", "status", "first_seen",
-               "expected_return", "duration", "games_missed", "reinjury_match"])
+               "expected_return", "duration", "games_missed", "reinjury_match", "latest_news", "latest_news_at"])

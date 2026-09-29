@@ -112,6 +112,31 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 50001142,Benjamin Kindel,PIT,8485414,2007-04-19,C,roster (nickname),2026-09-24
 50001174,Jake O'Brien,SEA,8485383,2007-06-16,C,search,2026-09-27
 559829,Alex Ovechkin,WSH,8471214,1985-09-17,L,roster,2026-09-24
+dfo:1059,Cam Talbot,CBJ,8475660,1987-07-05,G,roster,2026-09-29
+dfo:1305,Jake Allen,NJD,8474596,1990-08-07,G,roster,2026-09-29
+dfo:1692,Darcy Kuemper,LAK,8475311,1990-05-05,G,roster,2026-09-29
+dfo:1870,John Gibson,DET,8476434,1993-07-14,G,roster,2026-09-29
+dfo:25264,Ilya Sorokin,NYI,8478009,1995-08-04,G,roster,2026-09-29
+dfo:2626,Tristan Jarry,EDM,8477465,1995-04-29,G,roster,2026-09-29
+dfo:26327,Janis Jaks,,8482252,1995-08-22,D,search,2026-09-29
+dfo:28990,Logan Thompson,WSH,8480313,1997-02-25,G,roster,2026-09-29
+dfo:29143,Lukas Dostal,ANA,8480843,2000-06-22,G,roster,2026-09-29
+dfo:30486,Pyotr Kochetkov,CAR,8481611,1999-06-25,G,roster,2026-09-29
+dfo:33773,Cameron Lund,SJS,,,,unmatched,2026-09-29
+dfo:34603,Arvid Soderblom,CHI,8482821,1999-08-19,G,roster,2026-09-29
+dfo:35165,Gabriel Perreault,NYR,8484210,2005-05-07,R,roster (nickname),2026-09-29
+dfo:36542,Berkly Catton,SEA,8484800,2006-01-14,C,roster,2026-09-29
+dfo:36942,Cole Beaudoin,NYR,8484786,2006-04-24,C,search,2026-09-29
+dfo:3792,Mackenzie Blackwood,COL,8478406,1996-12-09,G,roster,2026-09-29
+dfo:38089,Landon Slaggert,CHI,8482172,2002-06-25,L,roster,2026-09-29
+dfo:38130,Damian Clara,ANA,8484391,2005-01-13,G,search,2026-09-29
+dfo:38455,Tom Willander,VAN,,,,unmatched,2026-09-29
+dfo:38474,Matthew Schaefer,NYI,,,,unmatched,2026-09-29
+dfo:38739,Andrea Glauser,,,,,unmatched,2026-09-29
+dfo:3874,Carter Hart,VGK,8479394,1998-08-13,G,roster,2026-09-29
+dfo:38893,Viking Gustafsson Nyberg,MIN,8486166,2003-09-21,D,roster,2026-09-29
+dfo:4741,Stuart Skinner,WPG,8479973,1998-11-01,G,roster,2026-09-29
+dfo:771,Jonathan Quick,,8471734,1986-01-21,G,search,2026-09-29
 name:aaronekblad,Aaron Ekblad,FLA,8477932,1996-02-07,D,roster,2026-09-24
 name:adamfantilli,Adam Fantilli,CBJ,8484166,2004-10-12,C,roster,2026-09-24
 name:adamhenrique,Adam Henrique,EDM,8474641,1990-02-06,C,search,2026-09-24

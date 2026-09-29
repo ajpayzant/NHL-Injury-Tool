@@ -4,10 +4,14 @@
     python scripts/update.py --dry-run    # scrape and report, write nothing
     python scripts/update.py --html page.html --now 2026-09-24T16:00:00Z
     python scripts/update.py --nhl-only   # just refresh the NHL.com data (games missed etc.)
+    python scripts/update.py --news-only  # just fetch new Daily Faceoff injury news
 
 After the scrape, NHL.com data is synced (player ids, schedule, box scores) and the
 games-missed, return-check and re-injury columns are recomputed. If NHL.com is down
 the scrape is still saved and those columns keep their cached values.
+
+Last, new Daily Faceoff injury news is fetched into data/news.csv and every item is
+re-linked to its player and CBS injury. A Daily Faceoff failure is only a warning.
 """
 from __future__ import annotations
 
@@ -18,7 +22,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from nhl_injuries import enrich, nhl, store  # noqa: E402
+from nhl_injuries import dfo, enrich, nhl, store  # noqa: E402
 from nhl_injuries.scrape import ScrapeError, scrape  # noqa: E402
 from nhl_injuries.tracker import apply_report, et_date, parse_utc  # noqa: E402
 
@@ -46,6 +50,30 @@ def sync_nhl(injuries: list[dict], events: list[dict], today, offline: bool = Fa
     return out
 
 
+def sync_news(injuries: list[dict], today, offline: bool = False) -> list[dict]:
+    """Fetch new Daily Faceoff items and recompute every item's derived columns."""
+    news = store.read_news()
+    if not offline:
+        stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        try:
+            news, new, edited = dfo.merge(news, dfo.fetch_new(dfo.Client(), news), stamp)
+            print(f"  Daily Faceoff: {new} new, {edited} edited, {len(news)} stored")
+        except dfo.NewsError as e:
+            print(f"WARNING: Daily Faceoff fetch failed, keeping stored news ({e})", file=sys.stderr)
+    players = store.read_players()
+    news = dfo.refresh(news, injuries, players, today)
+    if not offline and any(r["matched_by"] == "unmatched" for r in news):
+        try:
+            players = dfo.sync_players(nhl.Client(), news, players, today)
+            store.write_players(players)
+            news = dfo.refresh(news, injuries, players, today)
+        except nhl.NHLError as e:
+            print(f"WARNING: NHL.com lookup for news players failed ({e})", file=sys.stderr)
+    linked = sum(1 for r in news if r["injury_id"])
+    print(f"  news: {sum(1 for r in news if r['nhl_id'])}/{len(news)} matched to players, {linked} to CBS injuries")
+    return news
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--html", help="parse a saved page instead of fetching CBS")
@@ -54,11 +82,18 @@ def main() -> int:
     ap.add_argument("--dry-run", action="store_true", help="don't write anything")
     ap.add_argument("--no-nhl", action="store_true", help="skip fetching NHL.com data (use the cache)")
     ap.add_argument("--nhl-only", action="store_true", help="don't scrape CBS; only refresh NHL.com data")
+    ap.add_argument("--news-only", action="store_true", help="don't scrape CBS; only fetch Daily Faceoff news")
+    ap.add_argument("--no-news", action="store_true", help="skip fetching Daily Faceoff news")
     args = ap.parse_args()
 
     now = parse_utc(args.now) if args.now else datetime.now(timezone.utc).replace(microsecond=0)
     if args.nhl_only:
         store.write_injuries(sync_nhl(store.read_injuries(), store.read_events(), et_date(now)))
+        return 0
+    if args.news_only:
+        news = sync_news(store.read_injuries(), et_date(now))
+        if not args.dry_run:
+            store.write_news(news)
         return 0
     html = Path(args.html).read_text(encoding="utf-8") if args.html else None
 
@@ -83,7 +118,9 @@ def main() -> int:
     store.append_run(r)
     store.append_events(result.events)
     store.write_injuries(result.injuries)
-    store.write_injuries(sync_nhl(result.injuries, store.read_events(), et_date(now), offline=args.no_nhl))
+    injuries = sync_nhl(result.injuries, store.read_events(), et_date(now), offline=args.no_nhl)
+    store.write_injuries(injuries)
+    store.write_news(sync_news(injuries, et_date(now), offline=args.no_news))
     return 0
 
 

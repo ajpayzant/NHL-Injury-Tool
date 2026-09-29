@@ -1,8 +1,8 @@
 import pandas as pd
 import streamlit as st
 
-from core import (DOWNLOAD, RAW_CSV_URL, for_download, history, history_for_download, last_updated,
-                  load, to_excel, tracking_changes_since)
+from core import (DOWNLOAD, RAW_CSV_URL, RAW_NEWS_URL, for_download, history, history_for_download,
+                  last_updated, load, news, news_for_download, to_excel, tracking_changes_since)
 from nhl_injuries.enrich import REINJURY_DAYS
 from nhl_injuries.tracker import MISSES_TO_CLOSE, REOPEN_DAYS
 
@@ -12,30 +12,45 @@ st.title("Data & Downloads")
 
 st.subheader("Download the full database")
 full = for_download(inj)
+feed = news_for_download(news())
 ev = events.assign(date=events["date"].dt.strftime("%Y-%m-%d"))
-c = st.columns([1, 1, 3])
+c = st.columns([1, 1, 1, 2])
 c[0].download_button("Injuries (CSV)", full.to_csv(index=False).encode("utf-8"),
                      "nhl_injuries.csv", "text/csv", icon=":material/download:")
-c[1].download_button(
+c[1].download_button("Injury news (CSV)", feed.to_csv(index=False).encode("utf-8"),
+                     "nhl_injury_news.csv", "text/csv", icon=":material/campaign:")
+c[2].download_button(
     "Everything (Excel)",
-    to_excel({"Injuries": full, "Expected Return History": history_for_download(history(), inj),
+    to_excel({"Injuries": full, "Injury News": feed,
+              "Expected Return History": history_for_download(history(), inj),
               "Report Changes": ev,
               "Scrape Log": runs.assign(run_at=runs["run_at"].dt.strftime("%Y-%m-%d %H:%M UTC"))}),
     "nhl_injury_database.xlsx",
     "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", icon=":material/table_view:")
-st.caption(f"{len(inj):,} injuries · {len(events):,} report changes · {len(runs):,} scrapes · "
+st.caption(f"{len(inj):,} injuries · {len(feed):,} news items · {len(events):,} report changes · {len(runs):,} scrapes · "
            f"updated {last_updated(runs)}")
 
 st.subheader("Live copy in Google Sheets")
 st.markdown("Paste this into cell A1 of any Google Sheet. It pulls the latest data every time "
             "Sheets refreshes (about once an hour), with no script or login needed.")
 st.code(f'=IMPORTDATA("{RAW_CSV_URL}")', language=None)
+st.caption("The Daily Faceoff news log works the same way:")
+st.code(f'=IMPORTDATA("{RAW_NEWS_URL}")', language=None)
 
 st.subheader("How the data is built")
 st.markdown(f"""
 - **Source.** The [CBS Sports NHL injury report](https://www.cbssports.com/nhl/injuries/), scraped
   around 12 AM and 12 PM Eastern every day by a scheduled GitHub Action. Each raw scrape is saved
   in `data/snapshots/`, so the whole history can be rebuilt from source.
+- **Injury news.** [Daily Faceoff's injury feed](https://www.dailyfaceoff.com/hockey-player-news/injuries)
+  is fetched with every scrape into `data/news.csv`, one row per item, with the reporter and a link to
+  the source post. Its headline is read for a status (out, game-time decision, returning, IR, ...),
+  the body part, whether surgery is mentioned and any timeline ("4-6 weeks", "at least one month"),
+  which becomes an approximate return window counted from the day of the item. Each item is matched
+  to the player's NHL id and to the CBS injury it's about (from a few days before CBS listed him to
+  a few days after he came off). News from before Sept 29, 2026 was backfilled; for those items
+  Daily Faceoff only knows the player's current team, so the CBS injury's team is shown instead
+  where there is one.
 - **One row per injury.** A row opens the first time a player appears on the report and stays open
   while they remain on it. Players are matched by their CBS player id, so a trade or a refined
   diagnosis (Upper Body → Shoulder) updates the same row rather than starting a new one.
@@ -86,6 +101,12 @@ with st.expander("Column definitions"):
         "Season": "NHL season by first report date (turns over July 1).",
         "Start Is Lower Bound": "Already on the report when tracking began; true start is earlier.",
         "Return Estimated": "Return date inferred at import rather than observed.",
+        "Latest News (Daily Faceoff)": "Most recent Daily Faceoff headline about this injury.",
+        "News Status (news file)": "Out, Left game, Game-time decision, Day-to-day, Week-to-week, IR, "
+                                   "Returning, Practicing, ... read from the headline.",
+        "Timeline Earliest / Latest Return (news file)": "Return window implied by a timeline in the "
+                                                          "headline, counted from the item's date.",
+        "CBS Injury ID (news file)": "The injury in the injuries file this news item is about.",
     }
     st.dataframe(pd.DataFrame(defs.items(), columns=["Column", "Meaning"]),
                  hide_index=True, width="stretch")

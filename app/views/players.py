@@ -3,23 +3,32 @@ import streamlit as st
 
 import charts
 from core import (REINJURY_HELP, RETURN_CHECK_HELP, display_table, download_buttons, fmt_date,
-                  history, load, today, tracking_changes_since)
+                  history, load, news, news_time, today, tracking_changes_since)
 from nhl_injuries.reference import TEAMS
 
 inj, events, _ = load()
+feed = news()
 
 st.title("Players")
 
 latest = inj.sort_values("last_seen").groupby("pkey").tail(1).set_index("pkey")
-labels = (latest["player"] + " · " + latest["position"] + " · " + latest["latest_team"]).sort_values()
+labels = latest["player"] + " · " + latest["position"] + " · " + latest["latest_team"]
+# Players Daily Faceoff has written about who have never been on the CBS report.
+news_only = feed[~feed["pkey"].isin(latest.index)].drop_duplicates("pkey").set_index("pkey")
+labels = pd.concat([labels, news_only["player"] + " · " + news_only["position"] + " · "
+                    + news_only["team_shown"] + " (news only)"]).sort_values()
 
 wanted = st.query_params.get("player")
 keys = list(labels.index)
 if wanted and wanted not in keys:  # older links used the CBS id
     hit = inj.loc[inj["player_id"] == wanted, "pkey"]
     wanted = hit.iloc[0] if len(hit) else None
-pkey = st.selectbox("Player", keys, format_func=labels.get,
-                    index=keys.index(wanted) if wanted in keys else None,
+# Seed the picker from the URL only when the URL changed (a player link was followed);
+# otherwise the picker keeps whatever was just chosen in it.
+if wanted != st.session_state.get("player_url") or "player_pick" not in st.session_state:
+    st.session_state["player_pick"] = wanted if wanted in keys else None
+    st.session_state["player_url"] = wanted
+pkey = st.selectbox("Player", keys, format_func=labels.get, key="player_pick",
                     placeholder="Type a player's name…")
 if pkey is None:
     st.caption("Most injuries on record:")
@@ -31,16 +40,30 @@ if pkey is None:
                                      "days": "Days missed (returned)", "games": "Games missed"}),
                  hide_index=True, width="stretch")
     st.stop()
-st.query_params["player"] = pkey
+st.query_params["player"] = st.session_state["player_url"] = pkey
 st.query_params.pop("name", None)
 
 eps = inj[inj["pkey"] == pkey].sort_values("first_seen", ascending=False)
-me = latest.loc[pkey]
+my_news = feed[feed["pkey"] == pkey]
+if pkey in latest.index:
+    me = latest.loc[pkey]
+else:
+    r = news_only.loc[pkey]
+    me = pd.Series({"player": r["player"], "position": r["position"], "latest_team": r["team_shown"],
+                    "nhl_id": r["nhl_id"], "player_id": "", "age": pd.NA, "birth_date": pd.NaT})
 open_now = eps[eps["is_open"]]
 team_name = TEAMS.get(me["latest_team"], (me["latest_team"],))[0]
+# Daily Faceoff's team is the player's team when the item was scraped, so a recent
+# scrape there catches a trade before CBS moves him.
+fresh = my_news[my_news["team"].isin(list(TEAMS))].sort_values("scraped_at")
+news_team = fresh.iloc[-1]["team"] if len(fresh) else ""
+moved = bool(news_team) and news_team != me["latest_team"] and (
+    eps.empty or pd.Timestamp(fresh.iloc[-1]["scraped_at"].date()) >= eps["last_seen"].max() - pd.Timedelta(days=1))
 
 # Header: name, age, position, team.
 facts = [f"Age {me['age']}" if pd.notna(me["age"]) else None, me["position"] or None, team_name]
+if moved:
+    facts[-1] = f"{TEAMS[news_team][0]} (CBS still lists {me['latest_team']})"
 links = []
 if me["nhl_id"]:
     links.append(f"<a href='https://www.nhl.com/player/{me['nhl_id']}' target='_blank'>NHL.com</a>")
@@ -49,7 +72,7 @@ if me["player_id"]:
 headshot = (f"<img src='https://assets.nhle.com/mugs/nhl/latest/{me['nhl_id']}.png' width='72' height='72' "
             f"style='border-radius:50%;background:#f1f0ec;object-fit:cover' alt='' "
             f"onerror=\"this.style.display='none'\"/>" if me["nhl_id"] else "")
-logo = (f"<img src='https://assets.nhle.com/logos/nhl/svg/{me['latest_team']}_light.svg' width='40' alt=''/>"
+logo = (f"<img src='https://assets.nhle.com/logos/nhl/svg/{news_team if moved else me['latest_team']}_light.svg' width='40' alt=''/>"
         if me["latest_team"] in TEAMS else "")
 st.markdown(
     f"<div style='display:flex;align-items:center;gap:14px;margin:.25rem 0 1rem'>{headshot}"
@@ -60,6 +83,34 @@ st.markdown(
     + (f"<div style='color:#8a8984;font-size:.85rem'>Born {fmt_date(me['birth_date'])}</div>"
        if pd.notna(me["birth_date"]) else "") + "</div></div>",
     unsafe_allow_html=True)
+
+
+def news_section(items: pd.DataFrame) -> None:
+    st.subheader("Daily Faceoff news")
+    if items.empty:
+        st.caption("No Daily Faceoff injury news for this player.")
+        return
+    out = items[["published_at", "news_status", "headline", "context", "timeline", "source_name",
+                 "source_url"]].copy()
+    out["published_at"] = [f"{fmt_date(t)} {news_time(t)}" for t in out["published_at"]]
+    st.dataframe(
+        out.rename(columns={"published_at": "Published (ET)", "news_status": "Status", "headline": "Headline",
+                            "context": "Background", "timeline": "Timeline", "source_name": "Reporter",
+                            "source_url": "Source"}),
+        hide_index=True, width="stretch", placeholder="—", height=min(38 + 35 * len(out), 318),
+        column_config={"Headline": st.column_config.TextColumn(width="large"),
+                       "Background": st.column_config.TextColumn(width="medium"),
+                       "Source": st.column_config.LinkColumn(display_text="open")})
+    st.caption(f"{len(items)} item{'s' if len(items) != 1 else ''} · from "
+               "[Daily Faceoff](https://www.dailyfaceoff.com/hockey-player-news/injuries)")
+
+
+if eps.empty:
+    latest_item = my_news.iloc[0]
+    st.warning(f"**Not on the CBS injury report.** Latest from Daily Faceoff "
+               f"({fmt_date(latest_item['date'])}): {latest_item['headline']}", icon=":material/campaign:")
+    news_section(my_news)
+    st.stop()
 
 k = st.columns(4)
 k[0].metric("Status", open_now.iloc[0]["status_category"] if len(open_now) else "Healthy", border=True)
@@ -73,9 +124,18 @@ if len(open_now):
     o = open_now.iloc[0]
     back = f" Expected back {fmt_date(o['expected_return'])}." if pd.notna(o["expected_return"]) else ""
     games = f", {int(o['games_missed'])} games" if pd.notna(o["games_missed"]) else ""
+    about = my_news[my_news["injury_id"] == o["injury_id"]]
+    latest_news = (f"  \n**Latest news** ({fmt_date(about.iloc[0]['date'])}): {about.iloc[0]['headline']}"
+                   if len(about) else "")
+    dated = about[about["timeline"] != ""]
+    if len(dated):
+        t = dated.iloc[0]
+        span = fmt_date(t["return_earliest"]) + (f" – {fmt_date(t['return_latest'])}"
+                                                 if pd.notna(t["return_latest"]) and t["return_latest"] != t["return_earliest"] else "")
+        latest_news += f"  \n**Daily Faceoff timeline:** {t['timeline']} from {fmt_date(t['date'])} (≈ {span})"
     st.warning(f"**Currently on the report:** {o['injury_type']} — {o['status']} "
-               f"(first reported {fmt_date(o['first_seen'])}, {int(o['duration'])} days{games}).{back}",
-               icon=":material/personal_injury:")
+               f"(first reported {fmt_date(o['first_seen'])}, {int(o['duration'])} days{games}).{back}"
+               + latest_news, icon=":material/personal_injury:")
     if o["return_check"] == "Playing while listed":
         st.info("He dressed for his team's latest game while still on the report.",
                 icon=":material/sports_hockey:")
@@ -85,6 +145,8 @@ for _, r in eps[eps["is_reinjury"]].iterrows():
     st.error(f"**Re-injury — {r['reinjury_match'].lower()}:** {r['injury_type']} on {fmt_date(r['first_seen'])}, "
              f"{int(r['days_since_prior'])} days after returning from {what}.",
              icon=":material/replay:")
+
+news_section(my_news)
 
 st.subheader("Injury timeline")
 tl = eps.copy()

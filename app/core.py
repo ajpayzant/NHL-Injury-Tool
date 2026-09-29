@@ -14,12 +14,13 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from nhl_injuries import enrich, store  # noqa: E402
+from nhl_injuries import dfo, enrich, store  # noqa: E402
 from nhl_injuries.reference import CATEGORY_ORDER, ET, POSITION_GROUP, TEAMS  # noqa: E402
 from nhl_injuries.tracker import INJURY_COLUMNS  # noqa: E402
 
 GITHUB_REPO = "ajpayzant/NHL-Injury-Tool"
 RAW_CSV_URL = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/data/injuries.csv"
+RAW_NEWS_URL = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/data/news.csv"
 
 # Column order and labels for tables and downloads.
 DISPLAY = {
@@ -30,6 +31,7 @@ DISPLAY = {
     "games_missed": "Games Missed", "first_game_back": "First Game Back",
     "return_check": "Return Check", "reinjury_match": "Re-injury",
     "expected_return": "Expected Back", "season": "Season", "on_ir": "IR", "notes": "Notes",
+    "latest_news": "Latest News", "latest_news_at": "News Date",
 }
 DOWNLOAD = {
     "injury_id": "Injury ID", "player_id": "CBS Player ID", "nhl_id": "NHL Player ID",
@@ -42,9 +44,18 @@ DOWNLOAD = {
     "return_check": "Return Check", "reinjury_match": "Re-injury", "reinjury_of": "Re-injury Of",
     "days_since_prior": "Days Since Prior Injury", "season": "Season",
     "start_is_lower_bound": "Start Is Lower Bound", "return_is_estimated": "Return Estimated",
-    "notes": "Notes",
+    "notes": "Notes", "latest_news": "Latest News (Daily Faceoff)", "latest_news_at": "Latest News Date",
 }
-DATE_COLUMNS = ("first_seen", "last_seen", "return_date", "expected_return", "first_game_back")
+NEWS_DOWNLOAD = {
+    "news_id": "News ID", "published_at": "Published (ET)", "date": "Date", "player": "Player",
+    "nhl_id": "NHL Player ID", "position": "Position", "team_shown": "Team", "headline": "Headline",
+    "context": "Background", "news_status": "News Status", "injury": "Injury", "category": "Body Region",
+    "surgery": "Surgery", "timeline": "Timeline", "return_earliest": "Timeline Earliest Return",
+    "return_latest": "Timeline Latest Return", "injury_id": "CBS Injury ID", "source_name": "Reporter",
+    "source_url": "Source Link",
+}
+# Badge colour per Daily Faceoff news status: bad news, uncertain, good news.
+DATE_COLUMNS = ("first_seen", "last_seen", "return_date", "expected_return", "first_game_back", "latest_news_at")
 RETURN_CHECK_HELP = (
     "Checked against NHL box scores. Played: has dressed for a game since coming off the report. "
     "Awaiting first game: his team hasn't played since. Not played since: off the report but has "
@@ -56,7 +67,7 @@ REINJURY_HELP = (f"Hurt again in the same body region within {enrich.REINJURY_DA
 
 def _mtimes() -> tuple:
     return tuple(p.stat().st_mtime if p.exists() else 0
-                 for p in (store.INJURIES, store.EVENTS, store.RUNS, store.GAMES))
+                 for p in (store.INJURIES, store.EVENTS, store.RUNS, store.GAMES, store.NEWS))
 
 
 def _read_events() -> pd.DataFrame:
@@ -78,7 +89,7 @@ def _load(_key: tuple) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     for c in INJURY_COLUMNS:  # files written before a column existed
         if c not in inj:
             inj[c] = ""
-    for c in (*DATE_COLUMNS, "source_updated", "birth_date"):
+    for c in (*DATE_COLUMNS[:-1], "source_updated", "birth_date"):  # latest_news_at comes later
         inj[c] = pd.to_datetime(inj[c], errors="coerce")
     for c in ("on_ir", "start_is_lower_bound", "return_is_estimated"):
         inj[c] = inj[c].str.lower().eq("true")
@@ -99,12 +110,72 @@ def _load(_key: tuple) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     inj["pkey"] = inj["nhl_id"].where(
         inj["nhl_id"] != "", inj["player_id"].where(inj["player_id"] != "", "name:" + inj["player"]))
 
+    # The most recent Daily Faceoff headline about each injury.
+    n = _read_news()
+    latest = (n[n["injury_id"] != ""].sort_values("published_at").groupby("injury_id").tail(1)
+              .set_index("injury_id"))
+    inj["latest_news"] = inj["injury_id"].map(latest["headline"]).fillna("")
+    inj["latest_news_at"] = pd.to_datetime(inj["injury_id"].map(latest["date"]), errors="coerce")
+
     ev = _read_events()
     ev["date"] = pd.to_datetime(ev["date"], errors="coerce")
     runs = pd.read_csv(store.RUNS, dtype=str, keep_default_na=False) if store.RUNS.exists() \
         else pd.DataFrame(columns=["run_at", "run_date", "rows", "new", "updated", "closed", "reopened"])
     runs["run_at"] = pd.to_datetime(runs["run_at"], utc=True, errors="coerce")
     return inj, ev, runs
+
+
+def _read_news() -> pd.DataFrame:
+    if store.NEWS.exists():
+        n = pd.read_csv(store.NEWS, dtype=str, keep_default_na=False)
+    else:
+        n = pd.DataFrame(columns=dfo.NEWS_COLUMNS)
+    for c in dfo.NEWS_COLUMNS:
+        if c not in n:
+            n[c] = ""
+    return n
+
+
+@st.cache_data(show_spinner=False)
+def _news(_key: tuple) -> pd.DataFrame:
+    n = _read_news()
+    for c in ("published_at", "scraped_at"):
+        n[c] = pd.to_datetime(n[c], utc=True, errors="coerce").dt.tz_convert(ET)
+    for c in ("date", "return_earliest", "return_latest"):
+        n[c] = pd.to_datetime(n[c], errors="coerce")
+    for c in store.NEWS_BOOL_COLUMNS:
+        n[c] = n[c].str.lower().eq("true")
+    inj = pd.read_csv(store.INJURIES, dtype=str, keep_default_na=False, usecols=["injury_id", "team"])         if store.INJURIES.exists() else pd.DataFrame(columns=["injury_id", "team"])
+    # Daily Faceoff's team is the player's team when the item was scraped. For items
+    # backfilled long after they were posted, the CBS injury knows the team at the time.
+    cbs_team = n["injury_id"].map(inj.set_index("injury_id")["team"]).fillna("")
+    timely = ~n["team_is_current"] | (n["scraped_at"] - n["published_at"] <= pd.Timedelta(days=2))
+    n["team_shown"] = n["team"].where(timely | cbs_team.eq(""), cbs_team)
+    n["pkey"] = n["nhl_id"].where(n["nhl_id"] != "", "dfo:" + n["dfo_player_id"])
+    n["tone"] = n["news_status"].map(dfo.TONE).fillna("")
+    return n.sort_values("published_at", ascending=False).reset_index(drop=True)
+
+
+def news() -> pd.DataFrame:
+    """Daily Faceoff injury news, newest first, with the player key and team to show."""
+    return _news(_mtimes())
+
+
+def news_time(ts) -> str:
+    """'4:22 PM' (ET), no zero padding on any platform."""
+    return "" if pd.isna(ts) else f"{ts.hour % 12 or 12}:{ts:%M} {'AM' if ts.hour < 12 else 'PM'}"
+
+
+def not_on_report(inj: pd.DataFrame, n: pd.DataFrame, since: pd.Timestamp) -> pd.DataFrame:
+    """Players Daily Faceoff reported hurt since ``since`` who have no open CBS injury:
+    the latest bad or uncertain item per player."""
+    recent = n[(n["date"] >= since) & n["tone"].isin(["bad", "warn"])]
+    listed = set(inj.loc[inj["is_open"], "pkey"])
+    latest = n.sort_values("published_at").groupby("pkey").tail(1)
+    # Only if his latest item is still bad news (not "will return Saturday").
+    still = set(latest.loc[latest["tone"].isin(["bad", "warn"]), "news_id"])
+    out = recent[~recent["pkey"].isin(listed) & recent["news_id"].isin(still)]
+    return out.drop_duplicates("pkey")
 
 
 def load() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
@@ -229,6 +300,14 @@ def history_for_download(hist: pd.DataFrame, inj: pd.DataFrame) -> pd.DataFrame:
         "injury_id": "Injury ID", "player": "Player", "latest_team": "Team", "injury_type": "Injury Type",
         "date": "Date", "status": "Status", "status_category": "Status Category", "on_ir": "On IR",
         "expected_return": "Expected Return", "change": "Change", "date_known": "Date Known"})
+
+
+def news_for_download(n: pd.DataFrame) -> pd.DataFrame:
+    out = n[list(NEWS_DOWNLOAD)].copy()
+    out["published_at"] = out["published_at"].dt.strftime("%Y-%m-%d %H:%M")
+    for c in ("date", "return_earliest", "return_latest"):
+        out[c] = out[c].dt.strftime("%Y-%m-%d").fillna("")
+    return out.rename(columns=NEWS_DOWNLOAD)
 
 
 def to_excel(sheets: dict[str, pd.DataFrame]) -> bytes:

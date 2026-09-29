@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 
+from .dfo import NEWS_COLUMNS
 from .nhl import APPEARANCE_COLUMNS, GAME_COLUMNS, PLAYER_COLUMNS
 from .scrape import ReportRow
 from .tracker import EVENT_COLUMNS, INJURY_COLUMNS, RUN_COLUMNS
@@ -19,8 +20,10 @@ NHL = DATA / "nhl"
 PLAYERS = NHL / "players.csv"
 GAMES = NHL / "games.csv"
 APPEARANCES = NHL / "appearances"      # one file per season: 20262027.csv
+NEWS = DATA / "news.csv"               # Daily Faceoff injury news
 
 BOOL_COLUMNS = ["on_ir", "start_is_lower_bound", "return_is_estimated"]
+NEWS_BOOL_COLUMNS = ["team_is_current", "breaking", "surgery"]
 
 
 def _read(path: Path) -> list[dict]:
@@ -110,3 +113,17 @@ def write_appearances(rows: list[dict], games: list[dict], root: Path = APPEARAN
     for sid, rs in by_season.items():
         _write(root / f"{sid}.csv", sorted(rs, key=lambda r: (r["date"], r["game_id"], r["team"], r["nhl_id"])),
                APPEARANCE_COLUMNS)
+
+
+# ---------------------------------------------------------------- Daily Faceoff news
+
+def read_news(path: Path = NEWS) -> list[dict]:
+    rows = _read(path)
+    for r in rows:
+        for c in NEWS_BOOL_COLUMNS:
+            r[c] = _to_bool(r.get(c, ""))
+    return rows
+
+
+def write_news(rows: list[dict], path: Path = NEWS) -> None:
+    _write(path, rows, NEWS_COLUMNS)
