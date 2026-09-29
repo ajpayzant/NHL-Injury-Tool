@@ -183,3 +183,26 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-29T16:33:52Z,2026-09-29,5ffabd583e44135a,26799690,William Villeneuve,TOR,opened,Knee - IR. Expected to be out until at least Oct 31
 2026-09-29T16:33:52Z,2026-09-29,7f4cb5291ee66844,29373582,Cade Webber,TOR,opened,Elbow - IR. Expected to be out until at least Oct 31
 2026-09-29T16:33:52Z,2026-09-29,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,opened,Undisclosed - Day-to-Day
+2026-09-29T17:42:30Z,2026-09-29,f6754b3b329df5de,2858568,Conor Timmins,BUF,type_changed,Undisclosed -> Lower Body
+2026-09-29T17:42:30Z,2026-09-29,7f3a2ec7363f19cb,2921272,Cameron Hughes,DAL,opened,Upper Body - IR. Expected to be out until at least Oct 5
+2026-09-29T17:42:30Z,2026-09-29,7e9435e30a4fca07,50028669,Harrison Scott,DAL,opened,Undisclosed - IR. Expected to be out until at least Oct 8
+2026-09-29T17:42:30Z,2026-09-29,de53b42b951b61bb,29167157,Tristan Bertucci,DAL,opened,Undisclosed - IR. Expected to be out until at least Oct 5
+2026-09-29T17:42:30Z,2026-09-29,511c26badeacbc52,29518577,James Stefan,EDM,opened,Undisclosed - IR. Expected to be out until at least Oct 10
+2026-09-29T17:42:30Z,2026-09-29,8ba349f67c6f3c7b,1899125,Ryan Nugent-Hopkins,EDM,opened,Lower Body - Expected to be out until at least Oct 13
+2026-09-29T17:42:30Z,2026-09-29,2027da398971cfc6,2879664,MacKenzie Entwistle,FLA,opened,Undisclosed - IR. Expected to be out until at least Oct 10
+2026-09-29T17:42:30Z,2026-09-29,dac5c152f6f068ae,29101182,Brock Faber,MIN,type_changed,Upper Body -> Skull
+2026-09-29T17:42:30Z,2026-09-29,dac5c152f6f068ae,29101182,Brock Faber,MIN,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 15
+2026-09-29T17:42:30Z,2026-09-29,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,opened,Undisclosed - IR. Expected to be out until at least Oct 10
+2026-09-29T17:42:30Z,2026-09-29,aa8a60c666296470,50001179,Bryce Pickford,MTL,opened,Undisclosed - IR. Expected to be out until at least Oct 17
+2026-09-29T17:42:30Z,2026-09-29,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,opened,Undisclosed - IR. Expected to be out until at least Oct 1
+2026-09-29T17:42:30Z,2026-09-29,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,opened,Undisclosed - Day-to-Day
+2026-09-29T17:42:30Z,2026-09-29,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,opened,Undisclosed - IR. Expected to be out until at least Oct 10
+2026-09-29T17:42:30Z,2026-09-29,ccc47320946951e3,26799114,Jack Thompson,VAN,opened,Undisclosed - IR. Expected to be out until at least Oct 11
+2026-09-29T17:42:30Z,2026-09-29,869efb56ac588422,50043134,Kai Uchacz,VGK,opened,Undisclosed - IR. Expected to be out until at least Oct 6
+2026-09-29T17:42:30Z,2026-09-29,63f8f675f1136dec,26600484,Lukas Cormier,VGK,opened,Undisclosed - IR. Expected to be out until at least Oct 6
+2026-09-29T17:42:30Z,2026-09-29,c944171159d0fba9,26799378,Walker Duehr,WPG,opened,Lower Body - IR. Expected to be out until at least Oct 17
+2026-09-29T17:42:30Z,2026-09-29,b3580756ef5c1598,28899568,Elias Salomonsson,WPG,opened,Shoulder - IR. Expected to be out until at least Oct 15
+2026-09-29T17:42:30Z,2026-09-29,ec166d2f585961b1,29700070,Alexander Nikishin,CAR,closed,off the report since 2026-09-29
+2026-09-29T17:42:30Z,2026-09-29,4a3b4ea71a58a443,3107125,Elvis Merzlikins,CBJ,closed,off the report since 2026-09-29
+2026-09-29T17:42:30Z,2026-09-29,2276eacb0e93eaa7,2245507,Charlie McAvoy,BOS,closed,off the report since 2026-09-29
+2026-09-29T17:42:30Z,2026-09-29,0bb653434df92588,26599848,Ridly Greig,OTT,closed,off the report since 2026-09-29
