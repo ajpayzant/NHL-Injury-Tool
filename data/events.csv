@@ -158,3 +158,18 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-28T22:33:29Z,2026-09-28,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,closed,off the report since 2026-09-28
 2026-09-28T22:33:29Z,2026-09-28,0bb653434df92588,26599848,Ridly Greig,OTT,closed,off the report since 2026-09-28
 2026-09-28T22:33:29Z,2026-09-28,7b1511b80978214e,1899089,Derek Forbort,VAN,closed,off the report since 2026-09-28
+2026-09-29T10:39:13Z,2026-09-29,817294bc9fe4e33f,2921773,Troy Terry,ANA,status_changed,Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 21
+2026-09-29T10:39:13Z,2026-09-29,c85174a743eef3d9,29700624,Ian Moore,ANA,status_changed,Expected to be out until at least Oct 16 -> IR. Expected to be out until at least Oct 16
+2026-09-29T10:39:13Z,2026-09-29,2276eacb0e93eaa7,2245507,Charlie McAvoy,BOS,reopened,was marked returned 2026-09-28
+2026-09-29T10:39:13Z,2026-09-29,cb3d4421b5e25a40,2093865,Damon Severson,CBJ,status_changed,Expected to be out until at least Oct 9 -> IR. Expected to be out until at least Oct 9
+2026-09-29T10:39:13Z,2026-09-29,ad85c6eb4cbf5095,3103731,Johnathan Kovacevic,NJD,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 6
+2026-09-29T10:39:13Z,2026-09-29,84bd3934df9ce3f1,2054009,Nick Bjugstad,NJD,status_changed,Expected to be out until at least Jan 19 -> IR. Expected to be out until at least Jan 19
+2026-09-29T10:39:13Z,2026-09-29,4765f1a6965812df,28899547,Seamus Casey,NJD,status_changed,Expected to be out until at least Oct 1 -> IR. Expected to be out until at least Oct 6
+2026-09-29T10:39:13Z,2026-09-29,19fc012a19408e9f,26799432,Vincent Iorio,NYR,status_changed,Day-to-Day -> IR. Expected to be out until at least Sep 29
+2026-09-29T10:39:13Z,2026-09-29,f3d141d72d95226b,28899587,Adam Sykora,NYR,status_changed,Expected to be out until at least Jan 25 -> IR. Expected to be out until at least Jan 25
+2026-09-29T10:39:13Z,2026-09-29,0bb653434df92588,26599848,Ridly Greig,OTT,reopened,was marked returned 2026-09-28
+2026-09-29T10:39:13Z,2026-09-29,1d1289d52934db06,2921715,Adam Gaudette,SJS,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 5
+2026-09-29T10:39:13Z,2026-09-29,daa8f2bb8219e51e,2076018,Max Domi,TOR,status_changed,Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 21
+2026-09-29T10:39:13Z,2026-09-29,9cbf636f8f10bb48,3130097,Dakota Joshua,TOR,status_changed,Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 17
+2026-09-29T10:39:13Z,2026-09-29,48b13c6c02848101,2198224,Jake DeBrusk,VAN,closed,off the report since 2026-09-28
+2026-09-29T10:39:13Z,2026-09-29,a4a9ac0954e54ec8,26648515,Shane Pinto,OTT,closed,off the report since 2026-09-28
