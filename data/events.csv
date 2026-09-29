@@ -206,3 +206,17 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-29T17:42:30Z,2026-09-29,4a3b4ea71a58a443,3107125,Elvis Merzlikins,CBJ,closed,off the report since 2026-09-29
 2026-09-29T17:42:30Z,2026-09-29,2276eacb0e93eaa7,2245507,Charlie McAvoy,BOS,closed,off the report since 2026-09-29
 2026-09-29T17:42:30Z,2026-09-29,0bb653434df92588,26599848,Ridly Greig,OTT,closed,off the report since 2026-09-29
+2026-09-29T20:43:43Z,2026-09-29,f6754b3b329df5de,2858568,Conor Timmins,BUF,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 17
+2026-09-29T20:43:43Z,2026-09-29,07492e3a1b324934,26799321,Zachary L'Heureux,COL,status_changed,IR. Expected to be out until at least Sep 30 -> IR. Expected to be out until at least Oct 3
+2026-09-29T20:43:43Z,2026-09-29,9f2af962c00f5684,2992841,Logan O'Connor,COL,status_changed,IR. Expected to be out until at least Sep 30 -> IR. Expected to be out until at least Oct 3
+2026-09-29T20:43:43Z,2026-09-29,7b3d974cb60e4f05,2197831,Mattias Janmark,EDM,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 15
+2026-09-29T20:43:43Z,2026-09-29,f062cdf4cead8304,28895759,Matthew Savoie,EDM,type_changed,Undisclosed -> Lower Body
+2026-09-29T20:43:43Z,2026-09-29,f062cdf4cead8304,28895759,Matthew Savoie,EDM,status_changed,IR. Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Nov 27
+2026-09-29T20:43:43Z,2026-09-29,b7e0d48db9cd147c,2076017,Jason Dickinson,EDM,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 10
+2026-09-29T20:43:43Z,2026-09-29,8b161406bdcabd2e,2039464,Frederik Andersen,EDM,type_changed,Undisclosed -> Knee
+2026-09-29T20:43:43Z,2026-09-29,8b161406bdcabd2e,2039464,Frederik Andersen,EDM,status_changed,IR. Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Dec 30
+2026-09-29T20:43:43Z,2026-09-29,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,status_changed,Day-to-Day -> Expected to be out until at least Oct 3
+2026-09-29T20:43:43Z,2026-09-29,1d1289d52934db06,2921715,Adam Gaudette,SJS,status_changed,IR. Expected to be out until at least Oct 5 -> IR. Expected to be out until at least Oct 10
+2026-09-29T20:43:43Z,2026-09-29,c3beb49d88c12316,2992289,Akil Thomas,VAN,opened,Undisclosed - IR. Expected to be out until at least Oct 11
+2026-09-29T20:43:43Z,2026-09-29,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 2
+2026-09-29T20:43:43Z,2026-09-29,14781422ca88ef89,2271620,Dan Vladar,PHI,closed,off the report since 2026-09-29
