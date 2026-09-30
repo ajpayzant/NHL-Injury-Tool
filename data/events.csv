@@ -220,3 +220,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-29T20:43:43Z,2026-09-29,c3beb49d88c12316,2992289,Akil Thomas,VAN,opened,Undisclosed - IR. Expected to be out until at least Oct 11
 2026-09-29T20:43:43Z,2026-09-29,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 2
 2026-09-29T20:43:43Z,2026-09-29,14781422ca88ef89,2271620,Dan Vladar,PHI,closed,off the report since 2026-09-29
+2026-09-30T10:28:02Z,2026-09-30,2276eacb0e93eaa7,2245507,Charlie McAvoy,BOS,reopened,was marked returned 2026-09-29
+2026-09-30T10:28:02Z,2026-09-30,65abb156a4dcf87f,2147212,Andrew Mangiapane,CHI,opened,Lower Body - Expected to be out until at least Oct 6
+2026-09-30T10:28:02Z,2026-09-30,0bb653434df92588,26599848,Ridly Greig,OTT,reopened,was marked returned 2026-09-29
+2026-09-30T10:28:02Z,2026-09-30,fc550944902a2d8b,2915882,Kirill Marchenko,CBJ,closed,off the report since 2026-09-29
+2026-09-30T10:28:02Z,2026-09-30,b47164cf28374a2b,2147521,Conor Sheary,BUF,closed,off the report since 2026-09-29
+2026-09-30T10:28:02Z,2026-09-30,19fc012a19408e9f,26799432,Vincent Iorio,NYR,closed,off the report since 2026-09-29
