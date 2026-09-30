@@ -226,3 +226,22 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-30T10:28:02Z,2026-09-30,fc550944902a2d8b,2915882,Kirill Marchenko,CBJ,closed,off the report since 2026-09-29
 2026-09-30T10:28:02Z,2026-09-30,b47164cf28374a2b,2147521,Conor Sheary,BUF,closed,off the report since 2026-09-29
 2026-09-30T10:28:02Z,2026-09-30,19fc012a19408e9f,26799432,Vincent Iorio,NYR,closed,off the report since 2026-09-29
+2026-09-30T20:47:24Z,2026-09-30,e7e5a6ca0590c102,29023281,Drew Helleson,ANA,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 7
+2026-09-30T20:47:24Z,2026-09-30,196890ca73eed0ef,26799426,Olen Zellweger,BUF,status_changed,Day-to-Day -> Expected to be out until at least Oct 3
+2026-09-30T20:47:24Z,2026-09-30,6343c20501a6449f,2178634,Ivan Provorov,CBJ,opened,Lower Body - Day-to-Day
+2026-09-30T20:47:24Z,2026-09-30,88cfec4a0c3148c9,1685404,Matt Duchene,DAL,type_changed,Undisclosed -> Lower Body
+2026-09-30T20:47:24Z,2026-09-30,88cfec4a0c3148c9,1685404,Matt Duchene,DAL,status_changed,Day-to-Day -> Expected to be out until at least Oct 3
+2026-09-30T20:47:24Z,2026-09-30,8364f3aa8cdb05a1,2269437,Andreas Englund,DET,opened,Not Injury Related - IR. Expected to be out until at least Oct 2
+2026-09-30T20:47:24Z,2026-09-30,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,status_changed,Expected to be out until at least Oct 3 -> Day-to-Day
+2026-09-30T20:47:24Z,2026-09-30,ed484807a8f7891a,2094544,Connor Brown,NJD,opened,Undisclosed - Expected to be out until at least Oct 6
+2026-09-30T20:47:24Z,2026-09-30,26ed50f4409fe962,2198286,Mathew Barzal,NYI,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 6
+2026-09-30T20:47:24Z,2026-09-30,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,reopened,was marked returned 2026-09-28
+2026-09-30T20:47:24Z,2026-09-30,c9ed65c087c19ec9,2076015,Andre Burakovsky,OTT,type_changed,Undisclosed -> Upper Body
+2026-09-30T20:47:24Z,2026-09-30,c9ed65c087c19ec9,2076015,Andre Burakovsky,OTT,status_changed,Day-to-Day -> Expected to be out until at least Oct 5
+2026-09-30T20:47:24Z,2026-09-30,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,status_changed,Day-to-Day -> Expected to be out until at least Oct 3
+2026-09-30T20:47:24Z,2026-09-30,9edb31f502dcddeb,2987952,Tyler Tucker,STL,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Nov 12
+2026-09-30T20:47:24Z,2026-09-30,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Expected to be out until at least Oct 2 -> Day-to-Day
+2026-09-30T20:47:24Z,2026-09-30,ba377abbd60fc67f,28899702,Ben Hemmerling,VGK,opened,Undisclosed - IR. Expected to be out until at least Oct 6
+2026-09-30T20:47:24Z,2026-09-30,0a0bf311de2cd0ae,26802454,Simon Edvinsson,DET,closed,off the report since 2026-09-30
+2026-09-30T20:47:24Z,2026-09-30,dad3c42201962fe7,29404908,Ivan Demidov,MTL,closed,off the report since 2026-09-30
+2026-09-30T20:47:24Z,2026-09-30,21518366cc4aeaa2,2147476,Nick Paul,TOR,closed,off the report since 2026-09-30

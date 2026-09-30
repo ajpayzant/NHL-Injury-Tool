@@ -17,6 +17,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2076017,Jason Dickinson,EDM,8477450,1995-07-04,C,roster,2026-09-25
 2076018,Max Domi,TOR,8477503,1995-03-02,C,roster,2026-09-24
 2093865,Damon Severson,CBJ,8476923,1994-08-07,D,roster,2026-09-24
+2094544,Connor Brown,NJD,8477015,1994-01-14,R,roster,2026-09-30
 2094574,Ryan Graves,PIT,8477435,1995-05-21,D,roster,2026-09-26
 2146557,Kevin Fiala,LAK,8477942,1996-07-22,L,roster,2026-09-24
 2147206,Kurtis MacDermid,OTT,8477073,1994-03-25,L,roster,2026-09-24
@@ -27,6 +28,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147507,Bryan Rust,PIT,8475810,1992-05-11,R,roster,2026-09-27
 2147521,Conor Sheary,BUF,8477839,1992-06-08,L,roster,2026-09-28
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
+2178634,Ivan Provorov,CBJ,8478500,1997-01-13,D,roster,2026-09-30
 2197831,Mattias Janmark,EDM,8477406,1992-12-08,C,roster,2026-09-24
 2198224,Jake DeBrusk,VAN,8478498,1996-10-17,L,roster,2026-09-28
 2198286,Mathew Barzal,NYI,8478445,1997-05-26,C,roster,2026-09-24
@@ -36,6 +38,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2245507,Charlie McAvoy,BOS,8479325,1997-12-21,D,roster,2026-09-24
 2267064,MacKenzie MacEachern,VAN,8476907,1994-03-09,L,search,2026-09-29
 2269101,Alex Lyon,BUF,8479312,1992-12-09,G,roster,2026-09-24
+2269437,Andreas Englund,DET,8477971,1996-01-21,D,search,2026-09-30
 2271605,Michael Carcone,UTA,8479619,1996-05-19,L,roster,2026-09-24
 2271608,Thatcher Demko,VAN,8477967,1995-12-08,G,roster,2026-09-24
 2271612,A.J. Greer,ANA,8478421,1996-12-14,L,roster,2026-09-24
@@ -79,6 +82,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28899568,Elias Salomonsson,WPG,8483510,2004-08-31,D,search,2026-09-29
 28899587,Adam Sykora,NYR,8483669,2004-09-07,L,roster,2026-09-24
 28899632,Aidan Thompson,NYR,8483685,2002-02-18,C,search,2026-09-29
+28899702,Ben Hemmerling,VGK,8483748,2004-04-21,R,search,2026-09-30
 28899704,Dominic James,TBL,8483752,2002-07-03,C,roster,2026-09-24
 28902928,Nikita Grebenkin,PHI,8483733,2003-05-02,R,roster,2026-09-29
 28973342,Mikael Pyyhtia,CBJ,8482451,2001-12-17,L,search,2026-09-27
@@ -137,6 +141,7 @@ dfo:1870,John Gibson,DET,8476434,1993-07-14,G,roster,2026-09-29
 dfo:25264,Ilya Sorokin,NYI,8478009,1995-08-04,G,roster,2026-09-29
 dfo:2626,Tristan Jarry,EDM,8477465,1995-04-29,G,roster,2026-09-29
 dfo:26327,Janis Jaks,,8482252,1995-08-22,D,search,2026-09-29
+dfo:2727,Alex Nedeljkovic,SJS,8477968,1996-01-07,G,roster,2026-09-30
 dfo:28990,Logan Thompson,WSH,8480313,1997-02-25,G,roster,2026-09-29
 dfo:29143,Lukas Dostal,ANA,8480843,2000-06-22,G,roster,2026-09-29
 dfo:30486,Pyotr Kochetkov,CAR,8481611,1999-06-25,G,roster,2026-09-29
