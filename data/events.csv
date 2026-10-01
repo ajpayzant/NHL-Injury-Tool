@@ -245,3 +245,13 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-09-30T20:47:24Z,2026-09-30,0a0bf311de2cd0ae,26802454,Simon Edvinsson,DET,closed,off the report since 2026-09-30
 2026-09-30T20:47:24Z,2026-09-30,dad3c42201962fe7,29404908,Ivan Demidov,MTL,closed,off the report since 2026-09-30
 2026-09-30T20:47:24Z,2026-09-30,21518366cc4aeaa2,2147476,Nick Paul,TOR,closed,off the report since 2026-09-30
+2026-10-01T10:55:26Z,2026-10-01,4299e7482a5fb201,3158655,Mattias Samuelsson,BUF,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 1
+2026-10-01T10:55:26Z,2026-10-01,88cfec4a0c3148c9,1685404,Matt Duchene,DAL,status_changed,Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 3
+2026-10-01T10:55:26Z,2026-10-01,6676502ec7be53d2,1133425,Brad Marchand,FLA,status_changed,IR. Expected to be out until at least Nov 2 -> IR. Expected to be out until at least Oct 25
+2026-10-01T10:55:26Z,2026-10-01,9cbf636f8f10bb48,3130097,Dakota Joshua,TOR,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 24
+2026-10-01T10:55:26Z,2026-10-01,b325ec41d4f0c714,2858551,Ukko-Pekka Luukkonen,BUF,closed,off the report since 2026-09-30
+2026-10-01T10:55:26Z,2026-10-01,58097ddcc79cefd1,1897650,Joel Edmundson,LAK,closed,off the report since 2026-09-30
+2026-10-01T10:55:26Z,2026-10-01,56dfe6133af468b6,2845354,Jake Oettinger,DAL,closed,off the report since 2026-09-30
+2026-10-01T10:55:26Z,2026-10-01,5bac739d431fc768,559829,Alex Ovechkin,WSH,closed,off the report since 2026-09-30
+2026-10-01T10:55:26Z,2026-10-01,2276eacb0e93eaa7,2245507,Charlie McAvoy,BOS,closed,off the report since 2026-09-30
+2026-10-01T10:55:26Z,2026-10-01,0bb653434df92588,26599848,Ridly Greig,OTT,closed,off the report since 2026-09-30
