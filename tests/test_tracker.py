@@ -5,7 +5,7 @@ import pytest
 
 from nhl_injuries.reference import expected_return, season_of, status_category
 from nhl_injuries.scrape import ReportRow, ScrapeError, parse_report, parse_updated
-from nhl_injuries.tracker import MISSES_TO_CLOSE, apply_report
+from nhl_injuries.tracker import HOURS_TO_CLOSE, MISSES_TO_CLOSE, apply_report
 
 FIXTURE = Path(__file__).parent / "fixtures" / "cbs_2026-09-24.html"
 T0 = datetime(2026, 10, 1, 16, 0, tzinfo=timezone.utc)  # noon Eastern
@@ -22,13 +22,13 @@ def filler(n=25):
 
 
 class Sim:
-    """Feed reports through the tracker the way the scheduled job does, 12h apart."""
+    """Feed reports through the tracker the way the scheduled job does, ``hours`` apart."""
 
-    def __init__(self):
-        self.injuries, self.runs, self.events, self.n = [], [], [], 0
+    def __init__(self, hours=12):
+        self.injuries, self.runs, self.events, self.n, self.hours = [], [], [], 0, hours
 
     def run(self, report, force=False):
-        now = T0 + timedelta(hours=12 * self.n)
+        now = T0 + timedelta(hours=self.hours * self.n)
         self.n += 1
         res = apply_report(self.injuries, self.runs, report, now, force=force)
         self.injuries, self.events = res.injuries, self.events + res.events
@@ -66,6 +66,21 @@ def test_closes_after_consecutive_misses_dated_to_first_miss():
     (ep,) = s.ep()
     assert ep["return_date"] == "2026-10-02"
     assert ep["days_out"] == 1
+    assert [e["event"] for e in s.events if e["player"] == "Cale Makar"] == ["opened", "closed"]
+
+
+def test_frequent_scrapes_need_the_full_window_to_close():
+    s = Sim(hours=2)
+    s.run([row()] + filler())      # 12:00 ET
+    s.run(filler())                # 14:00 ET  <- first miss
+    for _ in range(HOURS_TO_CLOSE // 2 - 1):
+        s.run(filler())            # several misses, but under 12 hours
+    assert s.ep()[0]["return_date"] == ""
+    s.run([row()] + filler())      # back on the page: still the same open episode
+    for _ in range(HOURS_TO_CLOSE // 2 + 1):
+        s.run(filler())
+    (ep,) = s.ep()
+    assert ep["return_date"] == "2026-10-02"
     assert [e["event"] for e in s.events if e["player"] == "Cale Makar"] == ["opened", "closed"]
 
 

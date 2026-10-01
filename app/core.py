@@ -84,7 +84,7 @@ def _years(born: pd.Series, on: pd.Series) -> pd.Series:
 
 
 @st.cache_data(show_spinner=False)
-def _load(_key: tuple) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+def _load(key: tuple) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     inj = pd.read_csv(store.INJURIES, dtype=str, keep_default_na=False)
     for c in INJURY_COLUMNS:  # files written before a column existed
         if c not in inj:
@@ -137,7 +137,7 @@ def _read_news() -> pd.DataFrame:
 
 
 @st.cache_data(show_spinner=False)
-def _news(_key: tuple) -> pd.DataFrame:
+def _news(key: tuple) -> pd.DataFrame:
     n = _read_news()
     for c in ("published_at", "scraped_at"):
         n[c] = pd.to_datetime(n[c], utc=True, errors="coerce").dt.tz_convert(ET)
@@ -184,7 +184,7 @@ def load() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
 
 
 @st.cache_data(show_spinner=False)
-def _history(_key: tuple) -> pd.DataFrame:
+def _history(key: tuple) -> pd.DataFrame:
     rows = enrich.expected_return_history(
         pd.read_csv(store.INJURIES, dtype=str, keep_default_na=False).to_dict("records"),
         _read_events().to_dict("records"))
@@ -201,7 +201,7 @@ def history() -> pd.DataFrame:
 
 
 @st.cache_data(show_spinner=False)
-def _games(_key: tuple) -> pd.DataFrame:
+def _games(key: tuple) -> pd.DataFrame:
     if not store.GAMES.exists():
         return pd.DataFrame(columns=["game_id", "season", "game_type", "date", "away", "home", "state"])
     g = pd.read_csv(store.GAMES, dtype=str, keep_default_na=False)

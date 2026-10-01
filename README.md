@@ -1,8 +1,8 @@
 # NHL Injury Database
 
 A running history of every player on the [CBS Sports NHL injury report](https://www.cbssports.com/nhl/injuries/),
-scraped twice a day by a GitHub Action, alongside [Daily Faceoff's injury news](https://www.dailyfaceoff.com/hockey-player-news/injuries)
-(fetched every two hours), browsable in a Streamlit app.
+and [Daily Faceoff's injury news](https://www.dailyfaceoff.com/hockey-player-news/injuries), both scraped
+every few hours by a GitHub Action, browsable in a Streamlit app.
 
 - **Pipeline:** `scripts/update.py` scrapes the report, updates one row per injury in
   `data/injuries.csv`, logs changes to `data/events.csv` and the run to `data/runs.csv`,
@@ -34,19 +34,22 @@ On Windows set `PYTHONUTF8=1` (`run_app.bat` does this).
 
 1. Push this folder to GitHub (`ajpayzant/NHL-Injury-Tool`). If you move it to another repo,
    change `GITHUB_REPO` in `app/core.py` so the Sheets link points at the right file.
-2. **Actions:** `.github/workflows/scrape.yml` runs at 04:15 and 16:15 UTC (12:15 AM / PM Eastern in summer, an hour earlier in winter),
-   plus a news-only run at :45 every two hours.
+2. **Actions:** `.github/workflows/scrape.yml` scrapes CBS and Daily Faceoff on every run. Its schedule
+   asks for hourly at :23, but GitHub throttles scheduled jobs, so they actually start every few hours.
+   For a steady cadence, point a [cron-job.org](https://cron-job.org) job (every 2 hours) at
+   `POST https://api.github.com/repos/ajpayzant/NHL-Injury-Tool/actions/workflows/scrape.yml/dispatches`
+   with body `{"ref":"main"}` and a token with Actions read/write on this repo.
    It needs *Settings → Actions → General → Workflow permissions → Read and write*. To run it by hand, use
-   *Actions → Scrape CBS injury report → Run workflow* (tick `force` to skip the row-count guard).
+   *Actions → Scrape CBS injury report and Daily Faceoff news → Run workflow* (tick `force` to skip the row-count guard).
 3. **Streamlit Cloud:** New app → this repo, branch `main`, main file `app/streamlit_app.py`,
-   Python 3.13. Each Action commit redeploys the app with the new data.
+   Python 3.13. Each Action commit redeploys the app, and the app reloads its data whenever the files change.
 
 ## How the data works
 
 | Rule | Detail |
 |---|---|
 | One row per injury | Players are matched by CBS player ID, so a trade or a new diagnosis (Upper Body → Shoulder) updates the same row. `team` is the team when the injury happened; `latest_team` is the current one. |
-| Returns | A player missing from **2** scrapes in a row is marked returned, dated to the first scrape they were missing from. |
+| Returns | A player missing from at least **2** scrapes in a row, spanning at least **12 hours**, is marked returned, dated to the first scrape they were missing from. The time window means running more often doesn't close injuries any sooner. |
 | Reopening | A player who reappears within **3 days** with the same injury type or body region reopens the old row instead of starting a new one. |
 | Safety guard | A scrape with fewer than half the previous run's rows (when that run had 20 or more) is refused, so a broken page can't mark everyone returned. |
 | Games missed | Team regular-season and playoff games the player didn't dress for (NHL box scores), from the first report until his first game back, so a player CBS drops early keeps counting. Preseason games don't count. |

@@ -5,9 +5,11 @@ while they keep appearing. Rules (each fixes a problem in the old Apps Script):
 
 * Matching is on the CBS player id, falling back to the player's name for rows
   imported without one -- never on team, so a trade doesn't open a second row.
-* A player missing from ``MISSES_TO_CLOSE`` consecutive successful scrapes is
-  marked returned, dated to the first scrape they were missing from. One miss
-  alone doesn't close anything, so a page that briefly drops a player is harmless.
+* A player missing from ``MISSES_TO_CLOSE`` consecutive successful scrapes,
+  spanning at least ``HOURS_TO_CLOSE`` hours, is marked returned, dated to the
+  first scrape they were missing from. One miss alone doesn't close anything, and
+  neither do a few quick misses, so a page that briefly drops a player is harmless
+  however often the job runs.
 * A player who reappears within ``REOPEN_DAYS`` of being closed, with the same
   injury (type or body region), reopens that episode instead of starting a new one.
 * A run that returns far fewer rows than the last one is refused outright,
@@ -25,6 +27,7 @@ from .reference import (ET, expected_return, injury_category, on_ir, season_of,
 from .scrape import ReportRow, ScrapeError
 
 MISSES_TO_CLOSE = 2
+HOURS_TO_CLOSE = 12   # first miss to latest miss, so scrape frequency doesn't change it
 REOPEN_DAYS = 3
 MIN_ROWS_RATIO = 0.5   # refuse a scrape below half the previous run's row count ...
 MIN_ROWS_FLOOR = 20    # ... once the previous run had at least this many rows
@@ -191,7 +194,8 @@ def apply_report(injuries: list[dict], runs: list[dict], report: list[ReportRow]
         if inj["return_date"] or inj["injury_id"] in matched:
             continue
         missed = [t for t in run_times if t > inj["last_seen_at"]]
-        if len(missed) >= MISSES_TO_CLOSE:
+        if (len(missed) >= MISSES_TO_CLOSE
+                and parse_utc(run_at) - parse_utc(missed[0]) >= timedelta(hours=HOURS_TO_CLOSE)):
             inj["return_date"] = et_date(parse_utc(missed[0])).isoformat()
             inj["return_is_estimated"] = False
             event(inj, "closed", f"off the report since {inj['return_date']}")

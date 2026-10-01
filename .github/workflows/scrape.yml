@@ -1,13 +1,13 @@
-name: Scrape CBS injury report
+name: Scrape CBS injury report and Daily Faceoff news
 
 on:
   schedule:
-    # ~12:15 AM and ~12:15 PM Eastern during daylight time (an hour earlier in winter).
-    # GitHub often starts scheduled jobs several minutes late; the tracker doesn't mind.
-    - cron: "15 4 * * *"
-    - cron: "15 16 * * *"
-    # Daily Faceoff injury news only, every two hours in between.
-    - cron: "45 */2 * * *"
+    # Every run scrapes CBS and Daily Faceoff. GitHub throttles and delays scheduled jobs
+    # heavily (an every-2h cron fired about every 8h), so this asks for hourly to land
+    # every few hours. For a steady cadence, a cron-job.org job also triggers
+    # workflow_dispatch. The tracker's 12-hour close window means frequency doesn't
+    # change when an injury is marked returned.
+    - cron: "23 * * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -43,11 +43,11 @@ jobs:
         run: python -m pytest -q
 
       - name: Scrape and update data
-        if: ${{ !inputs.news_only && github.event.schedule != '45 */2 * * *' }}
+        if: ${{ !inputs.news_only }}
         run: python scripts/update.py ${{ inputs.force && '--force' || '' }}
 
       - name: Update injury news
-        if: ${{ inputs.news_only || github.event.schedule == '45 */2 * * *' }}
+        if: ${{ inputs.news_only }}
         run: python scripts/update.py --news-only
 
       - name: Commit data
@@ -58,6 +58,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes."
           else
-            git commit -m "data: ${{ (inputs.news_only || github.event.schedule == '45 */2 * * *') && 'injury news' || 'injury report' }} $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "data: ${{ inputs.news_only && 'injury news' || 'injury report' }} $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
