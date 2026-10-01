@@ -255,3 +255,16 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-01T10:55:26Z,2026-10-01,5bac739d431fc768,559829,Alex Ovechkin,WSH,closed,off the report since 2026-09-30
 2026-10-01T10:55:26Z,2026-10-01,2276eacb0e93eaa7,2245507,Charlie McAvoy,BOS,closed,off the report since 2026-09-30
 2026-10-01T10:55:26Z,2026-10-01,0bb653434df92588,26599848,Ridly Greig,OTT,closed,off the report since 2026-09-30
+2026-10-01T20:58:37Z,2026-10-01,196890ca73eed0ef,26799426,Olen Zellweger,BUF,status_changed,Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 3
+2026-10-01T20:58:37Z,2026-10-01,9784bdbe71dd91ba,2940987,Isac Lundestrom,CBJ,status_changed,IR. Expected to be out until at least Nov 10 -> IR. Expected to be out until at least Dec 3
+2026-10-01T20:58:37Z,2026-10-01,6343c20501a6449f,2178634,Ivan Provorov,CBJ,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 9
+2026-10-01T20:58:37Z,2026-10-01,88cfec4a0c3148c9,1685404,Matt Duchene,DAL,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 25
+2026-10-01T20:58:37Z,2026-10-01,ffd667ab10de0292,2147354,Dylan Larkin,DET,status_changed,Day-to-Day -> Expected to be out until at least Oct 6
+2026-10-01T20:58:37Z,2026-10-01,6cd8dc7e1158f3e4,2992271,Alec Regula,EDM,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 24
+2026-10-01T20:58:37Z,2026-10-01,9d1f2ed96039f5d5,1770929,Zach Hyman,EDM,opened,Undisclosed - Expected to be out until at least Oct 17
+2026-10-01T20:58:37Z,2026-10-01,8ba349f67c6f3c7b,1899125,Ryan Nugent-Hopkins,EDM,status_changed,Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 13
+2026-10-01T20:58:37Z,2026-10-01,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,status_changed,IR. Expected to be out until at least Oct 1 -> IR. Expected to be out until at least Oct 11
+2026-10-01T20:58:37Z,2026-10-01,47a74cc1b3d94220,2197838,Joonas Korpisalo,NYR,opened,Lower Body - IR. Expected to be out until at least Oct 9
+2026-10-01T20:58:37Z,2026-10-01,106f860450d407c5,3111074,Blake Lizotte,PIT,type_changed,Upper Body -> Lower Body
+2026-10-01T20:58:37Z,2026-10-01,106f860450d407c5,3111074,Blake Lizotte,PIT,status_changed,IR. Expected to be out until at least Sep 30 -> Day-to-Day
+2026-10-01T20:58:37Z,2026-10-01,4cd69d9b150fb10d,433603,Corey Perry,LAK,closed,off the report since 2026-10-01

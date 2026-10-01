@@ -4,6 +4,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1639463,Alex Pietrangelo,VGK,8474565,1990-01-18,D,search,2026-09-24
 1685404,Matt Duchene,DAL,8475168,1991-01-16,C,roster,2026-09-24
 1707401,Ryan Ellis,CHI,8475176,1991-01-03,D,search,2026-09-27
+1770929,Zach Hyman,EDM,8475786,1992-06-09,L,roster,2026-10-01
 1771018,Mats Zuccarello,LAK,8475692,1987-09-01,R,roster,2026-09-24
 1897650,Joel Edmundson,LAK,8476441,1993-06-28,D,roster,2026-09-27
 1897686,Jonathan Huberdeau,CGY,8476456,1993-06-04,L,roster,2026-09-24
@@ -30,6 +31,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
 2178634,Ivan Provorov,CBJ,8478500,1997-01-13,D,roster,2026-09-30
 2197831,Mattias Janmark,EDM,8477406,1992-12-08,C,roster,2026-09-24
+2197838,Joonas Korpisalo,NYR,8476914,1994-04-28,G,roster,2026-10-01
 2198224,Jake DeBrusk,VAN,8478498,1996-10-17,L,roster,2026-09-28
 2198286,Mathew Barzal,NYI,8478445,1997-05-26,C,roster,2026-09-24
 2245466,Jake Bean,CGY,8479402,1998-06-09,D,search,2026-09-24
