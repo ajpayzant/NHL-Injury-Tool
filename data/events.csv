@@ -269,3 +269,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-01T20:58:37Z,2026-10-01,106f860450d407c5,3111074,Blake Lizotte,PIT,status_changed,IR. Expected to be out until at least Sep 30 -> Day-to-Day
 2026-10-01T20:58:37Z,2026-10-01,4cd69d9b150fb10d,433603,Corey Perry,LAK,closed,off the report since 2026-10-01
 2026-10-01T21:00:12Z,2026-10-01,4299e7482a5fb201,3158655,Mattias Samuelsson,BUF,closed,off the report since 2026-10-01
+2026-10-02T01:43:29Z,2026-10-01,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 3
+2026-10-02T01:43:29Z,2026-10-01,f062cdf4cead8304,28895759,Matthew Savoie,EDM,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 24
+2026-10-02T01:43:29Z,2026-10-01,ed484807a8f7891a,2094544,Connor Brown,NJD,type_changed,Undisclosed -> Lower Body
+2026-10-02T01:43:29Z,2026-10-01,de4e1cd3d776e571,2879654,Alex Barre-Boulet,SJS,opened,Undisclosed - IR. Expected to be out until at least Oct 5
