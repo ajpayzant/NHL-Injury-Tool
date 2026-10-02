@@ -281,3 +281,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-02T15:52:45Z,2026-10-02,6f1408fea4ec698d,26802509,Taylor Makar,COL,closed,off the report since 2026-10-01
 2026-10-02T15:52:45Z,2026-10-02,07bc6e72dbe46a45,26802435,Tristan Broz,PIT,closed,off the report since 2026-10-01
 2026-10-02T15:52:45Z,2026-10-02,ccf2a74b2d1d9b68,50001108,Gabriel D'Aigle,PIT,closed,off the report since 2026-10-01
+2026-10-02T20:48:46Z,2026-10-02,ffd667ab10de0292,2147354,Dylan Larkin,DET,status_changed,Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 6
+2026-10-02T20:48:46Z,2026-10-02,4765f1a6965812df,28899547,Seamus Casey,NJD,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Nov 21
+2026-10-02T20:48:46Z,2026-10-02,6939c60becc59f03,2147344,Connor Hellebuyck,WPG,opened,Suspension - Expected to be out until at least Oct 17
