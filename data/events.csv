@@ -284,3 +284,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-02T20:48:46Z,2026-10-02,ffd667ab10de0292,2147354,Dylan Larkin,DET,status_changed,Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 6
 2026-10-02T20:48:46Z,2026-10-02,4765f1a6965812df,28899547,Seamus Casey,NJD,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Nov 21
 2026-10-02T20:48:46Z,2026-10-02,6939c60becc59f03,2147344,Connor Hellebuyck,WPG,opened,Suspension - Expected to be out until at least Oct 17
+2026-10-03T06:37:09Z,2026-10-03,3f6f91c38861a41b,2879988,Alexei Toropchenko,STL,opened,Upper Body - Expected to be out until at least Oct 6
+2026-10-03T06:37:09Z,2026-10-03,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 4
