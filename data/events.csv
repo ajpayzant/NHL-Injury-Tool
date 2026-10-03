@@ -301,3 +301,10 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-03T17:25:19Z,2026-10-03,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,status_changed,Day-to-Day -> Expected to be out until at least Oct 5
 2026-10-03T17:25:19Z,2026-10-03,6918958d881680cb,29167152,Denver Barkey,PHI,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 13
 2026-10-03T17:25:19Z,2026-10-03,4476ac08ae85dc3d,28974592,Patrick Giles,SJS,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 8
+2026-10-03T21:25:19Z,2026-10-03,873cd728a8c27b6e,3130083,Bowen Byram,CHI,opened,Personal - Expected to be out until at least Oct 6
+2026-10-03T21:25:19Z,2026-10-03,07492e3a1b324934,26799321,Zachary L'Heureux,COL,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 7
+2026-10-03T21:25:19Z,2026-10-03,ab33bb9bb347c0bf,2076014,Aleksander Barkov,FLA,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 27
+2026-10-03T21:25:19Z,2026-10-03,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,status_changed,Day-to-Day -> Expected to be out until at least Oct 6
+2026-10-03T21:25:19Z,2026-10-03,081b42cda3945e35,2000679,Jacob Trouba,SJS,opened,Illness - Day-to-Day
+2026-10-03T21:25:19Z,2026-10-03,596c1477467a08ac,26799195,Jacob Melanson,SEA,opened,Upper Body - IR. Expected to be out until at least Oct 17
+2026-10-03T21:25:19Z,2026-10-03,fbc1641aebeeb001,2198224,Jake DeBrusk,VAN,opened,Illness - Expected to be out until at least Oct 4
