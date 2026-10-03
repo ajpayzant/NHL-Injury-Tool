@@ -291,3 +291,13 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-03T12:37:20Z,2026-10-03,196890ca73eed0ef,26799426,Olen Zellweger,BUF,closed,off the report since 2026-10-02
 2026-10-03T12:37:20Z,2026-10-03,c373a198c00187b2,2271612,A.J. Greer,ANA,closed,off the report since 2026-10-02
 2026-10-03T12:37:20Z,2026-10-03,0302b64dca58e495,2147651,Warren Foegele,OTT,closed,off the report since 2026-10-02
+2026-10-03T17:25:19Z,2026-10-03,e48d4b322a03a9f0,3166853,Jack Rathbone,BUF,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 24
+2026-10-03T17:25:19Z,2026-10-03,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 6
+2026-10-03T17:25:19Z,2026-10-03,9f2af962c00f5684,2992841,Logan O'Connor,COL,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 7
+2026-10-03T17:25:19Z,2026-10-03,3ecddffb2a98ffb7,28973342,Mikael Pyyhtia,CBJ,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 18
+2026-10-03T17:25:19Z,2026-10-03,7953368b29fceaa2,28895750,Marco Kasper,DET,opened,Upper Body - Expected to be out until at least Oct 6
+2026-10-03T17:25:19Z,2026-10-03,d611c0a8978aff78,2146557,Kevin Fiala,LAK,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 17
+2026-10-03T17:25:19Z,2026-10-03,26ed50f4409fe962,2198286,Mathew Barzal,NYI,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 10
+2026-10-03T17:25:19Z,2026-10-03,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,status_changed,Day-to-Day -> Expected to be out until at least Oct 5
+2026-10-03T17:25:19Z,2026-10-03,6918958d881680cb,29167152,Denver Barkey,PHI,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 13
+2026-10-03T17:25:19Z,2026-10-03,4476ac08ae85dc3d,28974592,Patrick Giles,SJS,status_changed,IR. Expected to be out until at least Oct 3 -> IR. Expected to be out until at least Oct 8
