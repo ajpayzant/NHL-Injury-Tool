@@ -331,3 +331,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-04T13:17:05Z,2026-10-04,fbc1641aebeeb001,2198224,Jake DeBrusk,VAN,status_changed,Expected to be out until at least Oct 4 -> Day-to-Day
 2026-10-04T13:17:05Z,2026-10-04,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Expected to be out until at least Oct 4 -> Day-to-Day
 2026-10-04T13:17:05Z,2026-10-04,abb1e8df103797dd,50001142,Benjamin Kindel,PIT,closed,off the report since 2026-10-03
+2026-10-04T21:36:20Z,2026-10-04,6918958d881680cb,29167152,Denver Barkey,PHI,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 10
+2026-10-04T21:36:20Z,2026-10-04,3f6f91c38861a41b,2879988,Alexei Toropchenko,STL,status_changed,Expected to be out until at least Oct 10 -> Expected to be out until at least Nov 14
+2026-10-04T21:36:20Z,2026-10-04,081b42cda3945e35,2000679,Jacob Trouba,SJS,closed,off the report since 2026-10-04
