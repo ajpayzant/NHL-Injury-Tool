@@ -308,3 +308,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-03T21:25:19Z,2026-10-03,081b42cda3945e35,2000679,Jacob Trouba,SJS,opened,Illness - Day-to-Day
 2026-10-03T21:25:19Z,2026-10-03,596c1477467a08ac,26799195,Jacob Melanson,SEA,opened,Upper Body - IR. Expected to be out until at least Oct 17
 2026-10-03T21:25:19Z,2026-10-03,fbc1641aebeeb001,2198224,Jake DeBrusk,VAN,opened,Illness - Expected to be out until at least Oct 4
+2026-10-04T00:44:20Z,2026-10-03,c0fb921001f64ff9,26798877,Chase Stillman,DET,opened,Undisclosed - IR. Expected to be out until at least Oct 4
+2026-10-04T00:44:20Z,2026-10-03,733615f46cb56884,3166641,Justus Annunen,NSH,opened,Undisclosed - Expected to be out until at least Oct 6
+2026-10-04T00:44:20Z,2026-10-03,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,type_changed,Undisclosed -> Upper Body
+2026-10-04T00:44:20Z,2026-10-03,c4a8a39d94bb494a,3107125,Elvis Merzlikins,TOR,opened,Shoulder - IR. Expected to be out until at least Mar 30

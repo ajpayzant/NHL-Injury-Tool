@@ -55,6 +55,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26600484,Lukas Cormier,VGK,8482141,2002-03-27,D,search,2026-09-29
 26603210,Jake Sanderson,OTT,8482105,2002-07-08,D,roster,2026-09-24
 26648515,Shane Pinto,OTT,8481596,2000-11-12,C,roster,2026-09-24
+26798877,Chase Stillman,DET,8482714,2003-03-19,R,search,2026-10-03
 26799114,Jack Thompson,VAN,8482144,2002-03-19,D,search,2026-09-29
 26799195,Jacob Melanson,SEA,8482874,2003-04-22,R,roster,2026-10-03
 26799321,Zachary L'Heureux,COL,8482742,2003-05-15,L,roster,2026-09-28
@@ -135,6 +136,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3140797,Trent Miner,COL,8481529,2001-02-05,G,search,2026-09-29
 3140820,Jordan Spence,OTT,8481606,2001-02-24,D,roster,2026-09-24
 3158655,Mattias Samuelsson,BUF,8480807,2000-03-14,D,roster,2026-09-24
+3166641,Justus Annunen,NSH,8481020,2000-03-11,G,roster,2026-10-03
 3166853,Jack Rathbone,BUF,8480056,1999-05-20,D,roster,2026-09-28
 433603,Corey Perry,LAK,8470621,1985-05-16,R,roster,2026-09-24
 50001091,Carter Bear,DET,8485362,2006-11-04,L,search,2026-09-28
