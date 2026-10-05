@@ -336,3 +336,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-04T21:36:20Z,2026-10-04,081b42cda3945e35,2000679,Jacob Trouba,SJS,closed,off the report since 2026-10-04
 2026-10-05T01:02:08Z,2026-10-04,66275bf29a5bafd6,2940989,Joseph Veleno,NYR,opened,Lower Body - Expected to be out until at least Oct 6
 2026-10-05T01:02:08Z,2026-10-04,fbc1641aebeeb001,2198224,Jake DeBrusk,VAN,status_changed,Day-to-Day -> Expected to be out until at least Oct 8
+2026-10-05T07:10:28Z,2026-10-05,272eb7809460df67,2147283,Aaron Ekblad,FLA,opened,Personal - Day-to-Day
+2026-10-05T07:10:28Z,2026-10-05,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 6

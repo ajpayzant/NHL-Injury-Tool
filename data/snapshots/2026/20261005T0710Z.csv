@@ -1,0 +1,113 @@
+player_id,player,position,team,injury_type,status,source_updated
+29023281,Drew Helleson,D,ANA,Lower Body,IR. Expected to be out until at least Oct 7,2026-09-30
+2921773,Troy Terry,RW,ANA,Hip,IR. Expected to be out until at least Nov 21,2026-09-30
+29700624,Ian Moore,D,ANA,Lower Body,IR. Expected to be out until at least Oct 16,2026-09-28
+28899567,Matthew Poitras,C,BOS,Lower Body,IR. Expected to be out until at least Oct 5,2026-09-27
+3166853,Jack Rathbone,D,BUF,Undisclosed,IR. Expected to be out until at least Oct 24,2026-10-03
+2269101,Alex Lyon,G,BUF,Upper Body,IR. Expected to be out until at least Oct 6,2026-10-03
+2858568,Conor Timmins,D,BUF,Lower Body,IR. Expected to be out until at least Oct 17,2026-09-29
+1960880,Jason Zucker,LW,BUF,Abdomen,IR. Expected to be out until at least Oct 15,2026-09-28
+1897686,Jonathan Huberdeau,C,CGY,Hip,IR. Expected to be out until at least Oct 10,2026-09-27
+26597475,Seth Jarvis,C,CAR,Shoulder,IR. Expected to be out until at least Oct 24,2026-09-27
+3130083,Bowen Byram,D,CHI,Personal,Day-to-Day,2026-10-04
+2147212,Andrew Mangiapane,LW,CHI,Lower Body,Day-to-Day,2026-10-04
+29167155,Connor Bedard,C,CHI,Shoulder,IR. Expected to be out until at least Nov 7,2026-09-28
+1707401,Ryan Ellis,D,CHI,Back,IR. Expected to be out until at least Jul 1,2026-07-01
+2992841,Logan O'Connor,RW,COL,Lower Body,IR. Expected to be out until at least Oct 7,2026-10-03
+26799321,Zachary L'Heureux,LW,COL,Lower Body,IR. Expected to be out until at least Oct 7,2026-10-03
+3140797,Trent Miner,G,COL,Undisclosed,IR. Expected to be out until at least Oct 10,2026-09-29
+29237428,Georgii Merkulov,C,COL,Undisclosed,IR. Expected to be out until at least Oct 7,2026-09-28
+28973342,Mikael Pyyhtia,LW,CBJ,Lower Body,IR. Expected to be out until at least Oct 18,2026-10-03
+2940987,Isac Lundestrom,C,CBJ,Achilles,IR. Expected to be out until at least Dec 3,2026-10-01
+2178634,Ivan Provorov,D,CBJ,Lower Body,IR. Expected to be out until at least Oct 9,2026-10-01
+2093865,Damon Severson,D,CBJ,Shoulder,IR. Expected to be out until at least Oct 9,2026-09-28
+2245479,Dante Fabbro,D,CBJ,Upper Body,IR. Expected to be out until at least Nov 3,2026-09-27
+1685404,Matt Duchene,C,DAL,Lower Body,IR. Expected to be out until at least Oct 25,2026-10-01
+50028669,Harrison Scott,C,DAL,Undisclosed,IR. Expected to be out until at least Oct 8,2026-09-29
+29167157,Tristan Bertucci,D,DAL,Undisclosed,IR. Expected to be out until at least Oct 5,2026-09-29
+2921272,Cameron Hughes,C,DAL,Upper Body,IR. Expected to be out until at least Oct 5,2026-09-29
+26798877,Chase Stillman,RW,DET,Undisclosed,IR. Expected to be out until at least Oct 9,2026-10-04
+28895750,Marco Kasper,C,DET,Upper Body,Expected to be out until at least Oct 6,2026-10-03
+2147354,Dylan Larkin,C,DET,Upper Body,IR. Expected to be out until at least Oct 6,2026-10-02
+50001091,Carter Bear,LW,DET,Upper Body,IR. Expected to be out until at least Oct 6,2026-09-28
+2940994,Jacob Bernard-Docker,D,DET,Upper Body,IR. Expected to be out until at least Oct 9,2026-09-28
+28895759,Matthew Savoie,C,EDM,Lower Body,IR. Expected to be out until at least Nov 24,2026-10-01
+2992271,Alec Regula,D,EDM,Undisclosed,IR. Expected to be out until at least Oct 24,2026-10-01
+1770929,Zach Hyman,LW,EDM,Undisclosed,Expected to be out until at least Oct 17,2026-10-01
+1899125,Ryan Nugent-Hopkins,C,EDM,Lower Body,IR. Expected to be out until at least Oct 13,2026-10-01
+29518577,James Stefan,RW,EDM,Undisclosed,IR. Expected to be out until at least Oct 10,2026-09-29
+2076017,Jason Dickinson,C,EDM,Foot,IR. Expected to be out until at least Oct 10,2026-09-29
+2197831,Mattias Janmark,C,EDM,Undisclosed,IR. Expected to be out until at least Oct 15,2026-09-29
+2039464,Frederik Andersen,G,EDM,Knee,IR. Expected to be out until at least Dec 30,2026-09-29
+2147283,Aaron Ekblad,D,FLA,Personal,Day-to-Day,2026-10-05
+2076014,Aleksander Barkov,C,FLA,Knee,IR. Expected to be out until at least Oct 27,2026-10-03
+2858572,Jonah Gadjovich,LW,FLA,Upper Body,IR. Expected to be out until at least Oct 17,2026-09-29
+2879664,MacKenzie Entwistle,RW,FLA,Undisclosed,IR. Expected to be out until at least Oct 10,2026-09-29
+2146557,Kevin Fiala,LW,LAK,Lower Leg,IR. Expected to be out until at least Oct 17,2026-10-03
+29167190,Jakub Dvorak,D,LAK,Upper Body,IR. Expected to be out until at least Oct 6,2026-09-24
+29101182,Brock Faber,D,MIN,Skull,IR. Expected to be out until at least Oct 15,2026-09-29
+2245486,Filip Gustavsson,G,MIN,Hip,IR. Expected to be out until at least Nov 1,2026-09-28
+26802481,Oliver Kapanen,C,MTL,Lower Body,Day-to-Day,2026-10-04
+2269432,Alexandre Carrier,D,MTL,Undisclosed,Day-to-Day,2026-10-03
+50001179,Bryce Pickford,D,MTL,Undisclosed,IR. Expected to be out until at least Oct 17,2026-09-29
+29102361,Lucas Condotta,C,MTL,Undisclosed,IR. Expected to be out until at least Oct 10,2026-09-29
+26560471,Kaiden Guhle,D,MTL,Groin,IR. Expected to be out until at least Oct 23,2026-09-28
+3166641,Justus Annunen,G,NSH,Undisclosed,Day-to-Day,2026-10-04
+2094544,Connor Brown,RW,NJD,Lower Body,Day-to-Day,2026-10-04
+28899547,Seamus Casey,D,NJD,Knee,IR. Expected to be out until at least Nov 21,2026-10-02
+2054009,Nick Bjugstad,C,NJD,Pectoral,IR. Expected to be out until at least Jan 19,2026-09-28
+3103731,Johnathan Kovacevic,D,NJD,Knee,IR. Expected to be out until at least Oct 6,2026-09-28
+2198286,Mathew Barzal,C,NYI,Knee,IR. Expected to be out until at least Oct 10,2026-10-03
+2940989,Joseph Veleno,C,NYR,Lower Body,Expected to be out until at least Oct 6,2026-10-04
+2197838,Joonas Korpisalo,G,NYR,Lower Body,IR. Expected to be out until at least Oct 9,2026-10-01
+28899632,Aidan Thompson,C,NYR,Undisclosed,IR. Expected to be out until at least Oct 11,2026-10-01
+28899587,Adam Sykora,LW,NYR,Lower Body,IR. Expected to be out until at least Jan 25,2026-09-28
+2076015,Andre Burakovsky,LW,OTT,Upper Body,Day-to-Day,2026-10-04
+26603210,Jake Sanderson,D,OTT,Lower Body,Day-to-Day,2026-10-03
+2147206,Kurtis MacDermid,LW,OTT,Upper Body,IR. Expected to be out until at least Oct 31,2026-09-28
+2831960,Artem Zub,D,OTT,Knee,IR. Expected to be out until at least Oct 10,2026-09-28
+28902928,Nikita Grebenkin,RW,PHI,Upper Body,Day-to-Day,2026-10-04
+29167152,Denver Barkey,C,PHI,Lower Body,IR. Expected to be out until at least Oct 10,2026-10-04
+2076038,Rasmus Ristolainen,D,PHI,Undisclosed,Day-to-Day,2026-10-03
+26799648,Helge Grans,D,PHI,Lower Body,IR. Expected to be out until at least Oct 5,2026-09-28
+2147507,Bryan Rust,RW,PIT,Upper Body,IR. Expected to be out until at least Oct 5,2026-09-28
+2094574,Ryan Graves,D,PIT,Knee,IR. Expected to be out until at least Oct 24,2026-09-27
+2921134,Justin Brazeau,RW,PIT,Lower Body,IR. Expected to be out until at least Oct 7,2026-09-27
+2879654,Alex Barre-Boulet,C,SJS,Undisclosed,IR. Expected to be out until at least Oct 5,2026-09-29
+2921715,Adam Gaudette,C,SJS,Upper Body,IR. Expected to be out until at least Oct 10,2026-09-29
+29167287,Quentin Musty,LW,SJS,Upper Body,IR. Expected to be out until at least Dec 1,2026-09-28
+2879747,Kyle Keyser,G,SJS,Upper Body,IR. Expected to be out until at least Dec 1,2026-09-28
+28899562,Cameron Lund,C,SJS,Upper Body,IR. Expected to be out until at least Oct 19,2026-09-28
+1282170,Logan Couture,C,SJS,Groin,IR. Expected to be out until at least Jul 1,2026-07-11
+26799195,Jacob Melanson,RW,SEA,Upper Body,IR. Expected to be out until at least Oct 17,2026-10-03
+50001174,Jake O'Brien,C,SEA,Lower Body,IR. Expected to be out until at least Oct 6,2026-09-30
+2879988,Alexei Toropchenko,RW,STL,Upper Body,Expected to be out until at least Nov 14,2026-10-04
+2987952,Tyler Tucker,D,STL,Knee,IR. Expected to be out until at least Nov 12,2026-09-30
+1960399,Torey Krug,D,STL,Ankle,IR. Expected to be out until at least Jul 1,2026-09-29
+26802507,Logan Mailloux,D,STL,Hand,IR. Expected to be out until at least Nov 25,2026-09-28
+29407705,Adam Jecho,C,STL,Personal,IR. Expected to be out until at least Nov 3,2026-09-11
+26802514,Emil Martinsen Lilleberg,D,TBL,Undisclosed,Day-to-Day,2026-10-03
+2147340,Yanni Gourde,C,TBL,Hip,IR. Expected to be out until at least Dec 2,2026-09-28
+28899704,Dominic James,C,TBL,Hand,IR. Expected to be out until at least Oct 13,2026-09-28
+3130097,Dakota Joshua,C,TOR,Abdomen,IR. Expected to be out until at least Oct 24,2026-09-30
+2076018,Max Domi,C,TOR,Back,IR. Expected to be out until at least Nov 21,2026-09-30
+26799690,William Villeneuve,D,TOR,Knee,IR. Expected to be out until at least Oct 31,2026-09-29
+29373582,Cade Webber,D,TOR,Elbow,IR. Expected to be out until at least Oct 31,2026-09-29
+3107125,Elvis Merzlikins,G,TOR,Shoulder,IR. Expected to be out until at least Mar 30,2026-09-29
+28895787,Maveric Lamoureux,D,UTA,Shoulder,IR. Expected to be out until at least Feb 12,2026-09-28
+2198224,Jake DeBrusk,LW,VAN,Illness,Expected to be out until at least Oct 8,2026-10-04
+26799114,Jack Thompson,D,VAN,Undisclosed,IR. Expected to be out until at least Oct 11,2026-09-29
+2267064,MacKenzie MacEachern,LW,VAN,Undisclosed,IR. Expected to be out until at least Oct 10,2026-09-29
+2992289,Akil Thomas,C,VAN,Undisclosed,IR. Expected to be out until at least Oct 11,2026-09-29
+2271608,Thatcher Demko,G,VAN,Hip,IR. Expected to be out until at least Dec 21,2026-09-28
+2845320,Filip Chytil,C,VAN,Shoulder,IR. Expected to be out until at least Oct 8,2026-09-25
+3140726,Raphael Lavoie,C,VGK,Undisclosed,Expected to be out until at least Oct 6,2026-10-04
+26600484,Lukas Cormier,D,VGK,Undisclosed,IR. Expected to be out until at least Oct 6,2026-09-29
+28899702,Ben Hemmerling,RW,VGK,Undisclosed,IR. Expected to be out until at least Oct 6,2026-09-29
+50043134,Kai Uchacz,C,VGK,Undisclosed,IR. Expected to be out until at least Oct 6,2026-09-29
+1639463,Alex Pietrangelo,D,VGK,Hip,IR. Expected to be out until at least Jul 1,2026-07-11
+2880258,Matt Roy,D,WSH,Lower Body,Day-to-Day,2026-10-03
+2940996,Rasmus Sandin,D,WSH,Knee,IR. Expected to be out until at least Dec 26,2026-09-28
+2147344,Connor Hellebuyck,G,WPG,Suspension,Expected to be out until at least Oct 17,2026-10-02
+28899568,Elias Salomonsson,D,WPG,Shoulder,IR. Expected to be out until at least Oct 15,2026-09-29
+26799378,Walker Duehr,RW,WPG,Lower Body,IR. Expected to be out until at least Oct 17,2026-09-29
