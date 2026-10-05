@@ -338,3 +338,16 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-05T01:02:08Z,2026-10-04,fbc1641aebeeb001,2198224,Jake DeBrusk,VAN,status_changed,Day-to-Day -> Expected to be out until at least Oct 8
 2026-10-05T07:10:28Z,2026-10-05,272eb7809460df67,2147283,Aaron Ekblad,FLA,opened,Personal - Day-to-Day
 2026-10-05T07:10:28Z,2026-10-05,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 6
+2026-10-05T16:09:10Z,2026-10-05,7f3a2ec7363f19cb,2921272,Cameron Hughes,DAL,status_changed,IR. Expected to be out until at least Oct 5 -> IR. Expected to be out until at least Oct 10
+2026-10-05T16:09:10Z,2026-10-05,7953368b29fceaa2,28895750,Marco Kasper,DET,status_changed,Expected to be out until at least Oct 6 -> Day-to-Day
+2026-10-05T16:09:10Z,2026-10-05,66275bf29a5bafd6,2940989,Joseph Veleno,NYR,status_changed,Expected to be out until at least Oct 6 -> Day-to-Day
+2026-10-05T16:09:10Z,2026-10-05,c9ed65c087c19ec9,2076015,Andre Burakovsky,OTT,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 6
+2026-10-05T16:09:10Z,2026-10-05,2d6c8f9eceb0a5f5,2147507,Bryan Rust,PIT,status_changed,IR. Expected to be out until at least Oct 5 -> IR. Expected to be out until at least Oct 7
+2026-10-05T16:09:10Z,2026-10-05,de4e1cd3d776e571,2879654,Alex Barre-Boulet,SJS,status_changed,IR. Expected to be out until at least Oct 5 -> IR. Expected to be out until at least Oct 8
+2026-10-05T16:09:10Z,2026-10-05,ddb9c4c1abdf2365,26802514,Emil Martinsen Lilleberg,TBL,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
+2026-10-05T16:09:10Z,2026-10-05,9ef5a5f2d7d87c19,28899704,Dominic James,TBL,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 8
+2026-10-05T16:09:10Z,2026-10-05,fbc1641aebeeb001,2198224,Jake DeBrusk,VAN,status_changed,Expected to be out until at least Oct 8 -> Day-to-Day
+2026-10-05T16:09:10Z,2026-10-05,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Expected to be out until at least Oct 6 -> Day-to-Day
+2026-10-05T16:09:10Z,2026-10-05,01ef3056164884f9,2265487,Gustav Forsling,FLA,closed,off the report since 2026-10-04
+2026-10-05T16:09:10Z,2026-10-05,4476ac08ae85dc3d,28974592,Patrick Giles,SJS,closed,off the report since 2026-10-04
+2026-10-05T16:09:10Z,2026-10-05,6676502ec7be53d2,1133425,Brad Marchand,FLA,closed,off the report since 2026-10-04
