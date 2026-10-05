@@ -351,3 +351,16 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-05T16:09:10Z,2026-10-05,01ef3056164884f9,2265487,Gustav Forsling,FLA,closed,off the report since 2026-10-04
 2026-10-05T16:09:10Z,2026-10-05,4476ac08ae85dc3d,28974592,Patrick Giles,SJS,closed,off the report since 2026-10-04
 2026-10-05T16:09:10Z,2026-10-05,6676502ec7be53d2,1133425,Brad Marchand,FLA,closed,off the report since 2026-10-04
+2026-10-05T22:44:25Z,2026-10-05,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 10
+2026-10-05T22:44:25Z,2026-10-05,65abb156a4dcf87f,2147212,Andrew Mangiapane,CHI,status_changed,Day-to-Day -> Expected to be out until at least Oct 25
+2026-10-05T22:44:25Z,2026-10-05,b7e0d48db9cd147c,2076017,Jason Dickinson,EDM,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 7
+2026-10-05T22:44:25Z,2026-10-05,3f14aafe7789f06d,28895794,Danila Yurov,MIN,opened,Upper Body - Day-to-Day
+2026-10-05T22:44:25Z,2026-10-05,534efa9a9913635e,26560471,Kaiden Guhle,MTL,status_changed,IR. Expected to be out until at least Oct 23 -> IR. Expected to be out until at least Oct 20
+2026-10-05T22:44:25Z,2026-10-05,ed484807a8f7891a,2094544,Connor Brown,NJD,status_changed,Day-to-Day -> Expected to be out until at least Oct 12
+2026-10-05T22:44:25Z,2026-10-05,66275bf29a5bafd6,2940989,Joseph Veleno,NYR,status_changed,Day-to-Day -> Expected to be out until at least Oct 9
+2026-10-05T22:44:25Z,2026-10-05,c9ed65c087c19ec9,2076015,Andre Burakovsky,OTT,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 10
+2026-10-05T22:44:25Z,2026-10-05,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,status_changed,Day-to-Day -> Expected to be out until at least Oct 8
+2026-10-05T22:44:25Z,2026-10-05,3a27130e3753d9ff,26799648,Helge Grans,PHI,status_changed,IR. Expected to be out until at least Oct 5 -> IR. Expected to be out until at least Oct 8
+2026-10-05T22:44:25Z,2026-10-05,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 8
+2026-10-05T22:44:25Z,2026-10-05,3f6f91c38861a41b,2879988,Alexei Toropchenko,STL,status_changed,Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 14
+2026-10-05T22:44:25Z,2026-10-05,dde0d7ed6c9be5be,28901928,Garrett Brown,WPG,opened,Lower Body - IR. Expected to be out until at least Oct 9

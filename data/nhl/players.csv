@@ -92,6 +92,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28895759,Matthew Savoie,EDM,8483512,2004-01-01,C,roster (nickname),2026-09-24
 28895785,Jiri Kulich,BUF,8483468,2004-04-14,C,roster,2026-09-24
 28895787,Maveric Lamoureux,UTA,8483472,2004-01-13,D,roster,2026-09-28
+28895794,Danila Yurov,MIN,8483525,2003-12-22,R,roster,2026-10-05
 28899547,Seamus Casey,NJD,8483429,2004-01-08,D,roster,2026-09-24
 28899562,Cameron Lund,SJS,,,,unmatched,2026-09-29
 28899567,Matthew Poitras,BOS,8483505,2004-03-10,C,roster,2026-09-24
@@ -100,6 +101,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28899632,Aidan Thompson,NYR,8483685,2002-02-18,C,search,2026-09-29
 28899702,Ben Hemmerling,VGK,8483748,2004-04-21,R,search,2026-09-30
 28899704,Dominic James,TBL,8483752,2002-07-03,C,roster,2026-09-24
+28901928,Garrett Brown,WPG,,,,unmatched,2026-10-05
 28902928,Nikita Grebenkin,PHI,8483733,2003-05-02,R,roster,2026-09-29
 28973342,Mikael Pyyhtia,CBJ,8482451,2001-12-17,L,search,2026-09-27
 28974592,Patrick Giles,SJS,8480825,2000-01-03,R,roster,2026-09-28
