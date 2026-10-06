@@ -48,6 +48,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2267064,MacKenzie MacEachern,VAN,8476907,1994-03-09,L,search,2026-09-29
 2269101,Alex Lyon,BUF,8479312,1992-12-09,G,roster,2026-09-24
 2269432,Alexandre Carrier,MTL,8478851,1996-10-08,D,roster,2026-10-04
+2269434,J.T. Compher,DET,8477456,1995-04-08,L,roster,2026-10-06
 2269437,Andreas Englund,DET,8477971,1996-01-21,D,search,2026-09-30
 2271605,Michael Carcone,UTA,8479619,1996-05-19,L,roster,2026-09-24
 2271608,Thatcher Demko,VAN,8477967,1995-12-08,G,roster,2026-09-24
@@ -86,6 +87,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2879654,Alex Barre-Boulet,SJS,8479718,1997-05-21,C,roster,2026-10-01
 2879664,MacKenzie Entwistle,FLA,8480025,1999-07-14,R,search,2026-09-29
 2879747,Kyle Keyser,SJS,8480356,1999-03-08,G,roster,2026-09-28
+2879768,Mason Appleton,DET,8478891,1996-01-15,C,roster,2026-10-06
 2879988,Alexei Toropchenko,STL,8480281,1999-06-25,R,roster (nickname),2026-10-03
 2880258,Matt Roy,WSH,8478911,1995-03-01,D,roster,2026-10-04
 28895750,Marco Kasper,DET,8483464,2004-04-08,C,roster,2026-10-03
