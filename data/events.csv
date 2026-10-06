@@ -386,3 +386,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-06T17:16:27Z,2026-10-06,63f8f675f1136dec,26600484,Lukas Cormier,VGK,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 22
 2026-10-06T17:16:27Z,2026-10-06,873cd728a8c27b6e,3130083,Bowen Byram,CHI,closed,off the report since 2026-10-05
 2026-10-06T17:16:27Z,2026-10-06,6918958d881680cb,29167152,Denver Barkey,PHI,closed,off the report since 2026-10-05
+2026-10-06T21:41:55Z,2026-10-06,c8407262ef28e764,29237428,Georgii Merkulov,COL,status_changed,IR. Expected to be out until at least Oct 7 -> IR. Expected to be out until at least Oct 16
+2026-10-06T21:41:55Z,2026-10-06,ab33bb9bb347c0bf,2076014,Aleksander Barkov,FLA,type_changed,Knee -> Lower Body
+2026-10-06T21:41:55Z,2026-10-06,ab33bb9bb347c0bf,2076014,Aleksander Barkov,FLA,status_changed,IR. Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Nov 27
+2026-10-06T21:41:55Z,2026-10-06,272eb7809460df67,2147283,Aaron Ekblad,FLA,status_changed,Day-to-Day -> Expected to be out until at least Oct 10
+2026-10-06T21:41:55Z,2026-10-06,ad85c6eb4cbf5095,3103731,Johnathan Kovacevic,NJD,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 10
