@@ -409,3 +409,17 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-07T08:49:19Z,2026-10-07,943f17411b53515c,2269432,Alexandre Carrier,MTL,closed,off the report since 2026-10-06
 2026-10-07T08:49:19Z,2026-10-07,fbc1641aebeeb001,2198224,Jake DeBrusk,VAN,closed,off the report since 2026-10-06
 2026-10-07T08:49:19Z,2026-10-07,ffd667ab10de0292,2147354,Dylan Larkin,DET,closed,off the report since 2026-10-06
+2026-10-07T16:37:24Z,2026-10-07,e7e5a6ca0590c102,29023281,Drew Helleson,ANA,status_changed,IR. Expected to be out until at least Oct 7 -> IR. Expected to be out until at least Oct 9
+2026-10-07T16:37:24Z,2026-10-07,65abb156a4dcf87f,2147212,Andrew Mangiapane,CHI,status_changed,Expected to be out until at least Oct 25 -> IR. Expected to be out until at least Oct 25
+2026-10-07T16:37:24Z,2026-10-07,f299aaea0ddb7df2,50066964,Riley Bezeau,CBJ,opened,Undisclosed - IR. Expected to be out until at least Oct 31
+2026-10-07T16:37:24Z,2026-10-07,ca9f84f86c5244c6,2269434,J.T. Compher,DET,status_changed,Expected to be out until at least Oct 9 -> Day-to-Day
+2026-10-07T16:37:24Z,2026-10-07,272eb7809460df67,2147283,Aaron Ekblad,FLA,status_changed,Expected to be out until at least Oct 10 -> Day-to-Day
+2026-10-07T16:37:24Z,2026-10-07,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,status_changed,Expected to be out until at least Oct 8 -> Day-to-Day
+2026-10-07T16:37:24Z,2026-10-07,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,status_changed,Expected to be out until at least Oct 8 -> Day-to-Day
+2026-10-07T16:37:24Z,2026-10-07,cf5faab0b95222ba,2197885,Linus Ullmark,OTT,status_changed,Expected to be out until at least Oct 8 -> Day-to-Day
+2026-10-07T16:37:24Z,2026-10-07,c87f8057e36653ef,2921134,Justin Brazeau,PIT,status_changed,IR. Expected to be out until at least Oct 7 -> IR. Expected to be out until at least Oct 10
+2026-10-07T16:37:24Z,2026-10-07,a15f12a117338bb1,2850816,Andrei Kuzmenko,PIT,opened,Personal - IR. Expected to be out until at least Oct 10
+2026-10-07T16:37:24Z,2026-10-07,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Expected to be out until at least Oct 8 -> Day-to-Day
+2026-10-07T16:37:24Z,2026-10-07,d379e9c2db37e742,2880258,Matt Roy,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 9
+2026-10-07T16:37:24Z,2026-10-07,3f14aafe7789f06d,28895794,Danila Yurov,MIN,closed,off the report since 2026-10-06
+2026-10-07T16:37:24Z,2026-10-07,3ecddffb2a98ffb7,28973342,Mikael Pyyhtia,CBJ,closed,off the report since 2026-10-06
