@@ -395,3 +395,17 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-07T01:38:12Z,2026-10-06,eb80e6dc19513fe1,1133703,Nick Foligno,MIN,opened,Upper Body - Day-to-Day
 2026-10-07T01:38:12Z,2026-10-06,04845ee72eb799f6,29404908,Ivan Demidov,MTL,status_changed,Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Oct 31
 2026-10-07T01:38:12Z,2026-10-06,cf5faab0b95222ba,2197885,Linus Ullmark,OTT,status_changed,Day-to-Day -> Expected to be out until at least Oct 8
+2026-10-07T08:49:19Z,2026-10-07,ec0e1b7f0f6d5728,26802451,Josh Doan,BUF,opened,Lower Body - Day-to-Day
+2026-10-07T08:49:19Z,2026-10-07,bb1dd3796992dbc0,2000678,Teuvo Teravainen,CHI,opened,Undisclosed - Expected to be out until at least Oct 10
+2026-10-07T08:49:19Z,2026-10-07,6676502ec7be53d2,1133425,Brad Marchand,FLA,reopened,was marked returned 2026-10-04
+2026-10-07T08:49:19Z,2026-10-07,6676502ec7be53d2,1133425,Brad Marchand,FLA,type_changed,Lower Body -> Leg
+2026-10-07T08:49:19Z,2026-10-07,6676502ec7be53d2,1133425,Brad Marchand,FLA,status_changed,IR. Expected to be out until at least Oct 25 -> Day-to-Day
+2026-10-07T08:49:19Z,2026-10-07,a0152dba1342a8a3,2198485,Jonas Siegenthaler,NJD,opened,Undisclosed - Day-to-Day
+2026-10-07T08:49:19Z,2026-10-07,8d76c8b026626521,3166632,Alexander Romanov,NYI,opened,Undisclosed - Day-to-Day
+2026-10-07T08:49:19Z,2026-10-07,3db5511bc70414be,2245504,Ryan Lindgren,SEA,opened,Upper Body - Day-to-Day
+2026-10-07T08:49:19Z,2026-10-07,24a85075fd4a7393,2245515,Mikhail Sergachev,UTA,opened,Upper Body - Day-to-Day
+2026-10-07T08:49:19Z,2026-10-07,9853c89370fe55a8,2923811,Victor Olofsson,VGK,opened,Undisclosed - Day-to-Day
+2026-10-07T08:49:19Z,2026-10-07,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 8
+2026-10-07T08:49:19Z,2026-10-07,943f17411b53515c,2269432,Alexandre Carrier,MTL,closed,off the report since 2026-10-06
+2026-10-07T08:49:19Z,2026-10-07,fbc1641aebeeb001,2198224,Jake DeBrusk,VAN,closed,off the report since 2026-10-06
+2026-10-07T08:49:19Z,2026-10-07,ffd667ab10de0292,2147354,Dylan Larkin,DET,closed,off the report since 2026-10-06
