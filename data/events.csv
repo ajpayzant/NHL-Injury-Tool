@@ -423,3 +423,12 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-07T16:37:24Z,2026-10-07,d379e9c2db37e742,2880258,Matt Roy,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 9
 2026-10-07T16:37:24Z,2026-10-07,3f14aafe7789f06d,28895794,Danila Yurov,MIN,closed,off the report since 2026-10-06
 2026-10-07T16:37:24Z,2026-10-07,3ecddffb2a98ffb7,28973342,Mikael Pyyhtia,CBJ,closed,off the report since 2026-10-06
+2026-10-07T22:03:58Z,2026-10-07,e7e5a6ca0590c102,29023281,Drew Helleson,ANA,status_changed,IR. Expected to be out until at least Oct 9 -> IR. Expected to be out until at least Oct 10
+2026-10-07T22:03:58Z,2026-10-07,10cbe7b42fca877e,2245507,Charlie McAvoy,BOS,opened,Suspension - Expected to be out until at least Oct 13
+2026-10-07T22:03:58Z,2026-10-07,9f2af962c00f5684,2992841,Logan O'Connor,COL,status_changed,IR. Expected to be out until at least Oct 7 -> IR. Expected to be out until at least Oct 8
+2026-10-07T22:03:58Z,2026-10-07,4891dfdeaff08667,3117362,Joel Kiviranta,DAL,opened,Lower Body - Expected to be out until at least Oct 13
+2026-10-07T22:03:58Z,2026-10-07,e71e17e699c1bec4,26798994,Colton Dach,EDM,opened,Undisclosed - IR. Expected to be out until at least Oct 13
+2026-10-07T22:03:58Z,2026-10-07,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,opened,Undisclosed - Day-to-Day
+2026-10-07T22:03:58Z,2026-10-07,8d76c8b026626521,3166632,Alexander Romanov,NYI,type_changed,Undisclosed -> Knee
+2026-10-07T22:03:58Z,2026-10-07,8d76c8b026626521,3166632,Alexander Romanov,NYI,status_changed,Day-to-Day -> Expected to be out until at least Apr 8
+2026-10-07T22:03:58Z,2026-10-07,ab4d3ad68c76b8f0,2845320,Filip Chytil,VAN,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 10

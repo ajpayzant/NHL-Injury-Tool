@@ -59,6 +59,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2271608,Thatcher Demko,VAN,8477967,1995-12-08,G,roster,2026-09-24
 2271612,A.J. Greer,ANA,8478421,1996-12-14,L,roster,2026-09-24
 2271620,Dan Vladar,PHI,8478435,1997-08-20,G,roster,2026-09-24
+2275417,Sam Montembeault,MTL,8478470,1996-10-30,G,roster (nickname),2026-10-07
 26560471,Kaiden Guhle,MTL,8482087,2002-01-18,D,roster,2026-09-24
 26597475,Seth Jarvis,CAR,8482093,2002-02-01,R,roster,2026-09-24
 26599848,Ridly Greig,OTT,8482092,2002-08-08,C,roster,2026-09-24
@@ -66,6 +67,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26603210,Jake Sanderson,OTT,8482105,2002-07-08,D,roster,2026-09-24
 26648515,Shane Pinto,OTT,8481596,2000-11-12,C,roster,2026-09-24
 26798877,Chase Stillman,DET,8482714,2003-03-19,R,search,2026-10-03
+26798994,Colton Dach,EDM,8482703,2003-01-04,C,roster,2026-10-07
 26799114,Jack Thompson,VAN,8482144,2002-03-19,D,search,2026-09-29
 26799195,Jacob Melanson,SEA,8482874,2003-04-22,R,roster,2026-10-03
 26799321,Zachary L'Heureux,COL,8482742,2003-05-15,L,roster,2026-09-28
@@ -149,6 +151,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3103731,Johnathan Kovacevic,NJD,8480192,1997-07-12,D,roster,2026-09-24
 3107125,Elvis Merzlikins,CBJ,8478007,1994-04-13,G,roster,2026-09-24
 3111074,Blake Lizotte,PIT,8481481,1997-12-13,C,roster,2026-09-24
+3117362,Joel Kiviranta,DAL,8481641,1996-03-23,L,roster,2026-10-07
 3130083,Bowen Byram,CHI,8481524,2001-06-13,D,roster,2026-10-03
 3130097,Dakota Joshua,TOR,8478057,1996-05-15,C,roster,2026-09-24
 3140726,Raphael Lavoie,VGK,8481534,2000-09-25,C,roster,2026-09-29
