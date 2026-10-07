@@ -391,3 +391,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-06T21:41:55Z,2026-10-06,ab33bb9bb347c0bf,2076014,Aleksander Barkov,FLA,status_changed,IR. Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Nov 27
 2026-10-06T21:41:55Z,2026-10-06,272eb7809460df67,2147283,Aaron Ekblad,FLA,status_changed,Day-to-Day -> Expected to be out until at least Oct 10
 2026-10-06T21:41:55Z,2026-10-06,ad85c6eb4cbf5095,3103731,Johnathan Kovacevic,NJD,status_changed,IR. Expected to be out until at least Oct 6 -> IR. Expected to be out until at least Oct 10
+2026-10-07T01:38:12Z,2026-10-06,8ce5e076b5adbbce,2879768,Mason Appleton,DET,status_changed,Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 13
+2026-10-07T01:38:12Z,2026-10-06,eb80e6dc19513fe1,1133703,Nick Foligno,MIN,opened,Upper Body - Day-to-Day
+2026-10-07T01:38:12Z,2026-10-06,04845ee72eb799f6,29404908,Ivan Demidov,MTL,status_changed,Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Oct 31
+2026-10-07T01:38:12Z,2026-10-06,cf5faab0b95222ba,2197885,Linus Ullmark,OTT,status_changed,Day-to-Day -> Expected to be out until at least Oct 8
