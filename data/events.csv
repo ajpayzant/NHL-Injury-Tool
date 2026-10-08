@@ -470,3 +470,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-08T16:36:06Z,2026-10-08,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-10-07
 2026-10-08T16:36:06Z,2026-10-08,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-10-07
 2026-10-08T16:36:06Z,2026-10-08,caebf3f145fd6c6d,2940996,Rasmus Sandin,WSH,closed,off the report since 2026-10-07
+2026-10-08T22:10:17Z,2026-10-08,ca9f84f86c5244c6,2269434,J.T. Compher,DET,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 13
+2026-10-08T22:10:17Z,2026-10-08,eb80e6dc19513fe1,1133703,Nick Foligno,MIN,status_changed,Day-to-Day -> Expected to be out until at least Oct 12
+2026-10-08T22:10:17Z,2026-10-08,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 10
+2026-10-08T22:10:17Z,2026-10-08,3db5511bc70414be,2245504,Ryan Lindgren,SEA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 19
+2026-10-08T22:10:17Z,2026-10-08,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 15
