@@ -434,3 +434,39 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-07T22:03:58Z,2026-10-07,ab4d3ad68c76b8f0,2845320,Filip Chytil,VAN,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 10
 2026-10-08T09:07:02Z,2026-10-08,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,opened,Upper Body - Day-to-Day
 2026-10-08T09:07:02Z,2026-10-08,07492e3a1b324934,26799321,Zachary L'Heureux,COL,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,7e9435e30a4fca07,50028669,Harrison Scott,DAL,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 25
+2026-10-08T16:36:06Z,2026-10-08,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,Day-to-Day -> Expected to be out until at least Oct 10
+2026-10-08T16:36:06Z,2026-10-08,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,status_changed,Day-to-Day -> Expected to be out until at least Oct 10
+2026-10-08T16:36:06Z,2026-10-08,de4e1cd3d776e571,2879654,Alex Barre-Boulet,SJS,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 13
+2026-10-08T16:36:06Z,2026-10-08,9ef5a5f2d7d87c19,28899704,Dominic James,TBL,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 10
+2026-10-08T16:36:06Z,2026-10-08,d379e9c2db37e742,2880258,Matt Roy,WSH,status_changed,Expected to be out until at least Oct 9 -> Day-to-Day
+2026-10-08T16:36:06Z,2026-10-08,f299aaea0ddb7df2,50066964,Riley Bezeau,CBJ,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,a15f12a117338bb1,2850816,Andrei Kuzmenko,PIT,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,ba377abbd60fc67f,28899702,Ben Hemmerling,VGK,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,511c26badeacbc52,29518577,James Stefan,EDM,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,2027da398971cfc6,2879664,MacKenzie Entwistle,FLA,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,aa8a60c666296470,50001179,Bryce Pickford,MTL,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,3aaa178bbbbc1232,28899562,Cameron Lund,SJS,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,c7db43d44a79272c,29167287,Quentin Musty,SJS,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,7f4cb5291ee66844,29373582,Cade Webber,TOR,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,5ffabd583e44135a,26799690,William Villeneuve,TOR,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,ccc47320946951e3,26799114,Jack Thompson,VAN,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,869efb56ac588422,50043134,Kai Uchacz,VGK,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,63f8f675f1136dec,26600484,Lukas Cormier,VGK,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,b3580756ef5c1598,28899568,Elias Salomonsson,WPG,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,c944171159d0fba9,26799378,Walker Duehr,WPG,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,e48d4b322a03a9f0,3166853,Jack Rathbone,BUF,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,3a27130e3753d9ff,26799648,Helge Grans,PHI,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,2d6c8f9eceb0a5f5,2147507,Bryan Rust,PIT,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,745f8e86c42e4971,50001174,Jake O'Brien,SEA,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,b7e0d48db9cd147c,2076017,Jason Dickinson,EDM,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,09b3e1a54819dbca,1960880,Jason Zucker,BUF,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-10-07
+2026-10-08T16:36:06Z,2026-10-08,caebf3f145fd6c6d,2940996,Rasmus Sandin,WSH,closed,off the report since 2026-10-07
