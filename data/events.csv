@@ -432,3 +432,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-07T22:03:58Z,2026-10-07,8d76c8b026626521,3166632,Alexander Romanov,NYI,type_changed,Undisclosed -> Knee
 2026-10-07T22:03:58Z,2026-10-07,8d76c8b026626521,3166632,Alexander Romanov,NYI,status_changed,Day-to-Day -> Expected to be out until at least Apr 8
 2026-10-07T22:03:58Z,2026-10-07,ab4d3ad68c76b8f0,2845320,Filip Chytil,VAN,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 10
+2026-10-08T09:07:02Z,2026-10-08,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,opened,Upper Body - Day-to-Day
+2026-10-08T09:07:02Z,2026-10-08,07492e3a1b324934,26799321,Zachary L'Heureux,COL,closed,off the report since 2026-10-07
