@@ -475,3 +475,30 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-08T22:10:17Z,2026-10-08,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 10
 2026-10-08T22:10:17Z,2026-10-08,3db5511bc70414be,2245504,Ryan Lindgren,SEA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 19
 2026-10-08T22:10:17Z,2026-10-08,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 15
+2026-10-09T02:16:29Z,2026-10-08,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,9f2af962c00f5684,2992841,Logan O'Connor,COL,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 10
+2026-10-09T02:16:29Z,2026-10-08,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,874700fe628523f3,2000666,Olli Maatta,MIN,opened,Lower Body - Expected to be out until at least Oct 10
+2026-10-09T02:16:29Z,2026-10-08,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,status_changed,Day-to-Day -> Expected to be out until at least Oct 10
+2026-10-09T02:16:29Z,2026-10-08,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,aa8a60c666296470,50001179,Bryce Pickford,MTL,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,5f520a816e5303c5,26603173,Mavrik Bourque,NSH,opened,Upper Body - Day-to-Day
+2026-10-09T02:16:29Z,2026-10-08,2759479ab8d3f04e,26802563,William Trudeau,NSH,opened,Upper Body - Day-to-Day
+2026-10-09T02:16:29Z,2026-10-08,c5ab83aeaa5d8d1e,3166638,Cam Crotty,OTT,opened,Illness - Expected to be out until at least Oct 10
+2026-10-09T02:16:29Z,2026-10-08,ec98bf6d9cecf4ee,26798940,William Eklund,OTT,opened,Lower Body - Day-to-Day
+2026-10-09T02:16:29Z,2026-10-08,3a27130e3753d9ff,26799648,Helge Grans,PHI,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,3a27130e3753d9ff,26799648,Helge Grans,PHI,status_changed,IR. Expected to be out until at least Oct 8 -> IR. Expected to be out until at least Oct 11
+2026-10-09T02:16:29Z,2026-10-08,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,status_changed,Day-to-Day -> Expected to be out until at least Oct 10
+2026-10-09T02:16:29Z,2026-10-08,a15f12a117338bb1,2850816,Andrei Kuzmenko,PIT,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,caba3f665a8c81c8,29404907,Macklin Celebrini,SJS,status_changed,Day-to-Day -> Expected to be out until at least Oct 10
+2026-10-09T02:16:29Z,2026-10-08,c7db43d44a79272c,29167287,Quentin Musty,SJS,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,3aaa178bbbbc1232,28899562,Cameron Lund,SJS,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,620048a7bd273eb4,1282170,Logan Couture,SJS,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,745f8e86c42e4971,50001174,Jake O'Brien,SEA,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,fa2b82f6d606389e,29407705,Adam Jecho,STL,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,7f4cb5291ee66844,29373582,Cade Webber,TOR,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,caebf3f145fd6c6d,2940996,Rasmus Sandin,WSH,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,c944171159d0fba9,26799378,Walker Duehr,WPG,reopened,was marked returned 2026-10-07
+2026-10-09T02:16:29Z,2026-10-08,b3580756ef5c1598,28899568,Elias Salomonsson,WPG,reopened,was marked returned 2026-10-07

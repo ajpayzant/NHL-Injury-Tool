@@ -13,6 +13,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1899125,Ryan Nugent-Hopkins,EDM,8476454,1993-04-12,C,roster,2026-09-29
 1960399,Torey Krug,STL,8476792,1991-04-12,D,search,2026-09-24
 1960880,Jason Zucker,BUF,8475722,1992-01-16,L,roster,2026-09-24
+2000666,Olli Maatta,MIN,8476874,1994-08-22,D,roster,2026-10-08
 2000678,Teuvo Teravainen,CHI,8476882,1994-09-11,C,roster,2026-10-07
 2000679,Jacob Trouba,SJS,8476885,1994-02-26,D,roster,2026-10-03
 2039464,Frederik Andersen,EDM,8475883,1989-10-02,G,roster,2026-09-24
@@ -65,9 +66,11 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26597475,Seth Jarvis,CAR,8482093,2002-02-01,R,roster,2026-09-24
 26599848,Ridly Greig,OTT,8482092,2002-08-08,C,roster,2026-09-24
 26600484,Lukas Cormier,VGK,8482141,2002-03-27,D,search,2026-09-29
+26603173,Mavrik Bourque,NSH,8482145,2002-01-08,C,roster,2026-10-08
 26603210,Jake Sanderson,OTT,8482105,2002-07-08,D,roster,2026-09-24
 26648515,Shane Pinto,OTT,8481596,2000-11-12,C,roster,2026-09-24
 26798877,Chase Stillman,DET,8482714,2003-03-19,R,search,2026-10-03
+26798940,William Eklund,OTT,8482667,2002-10-12,L,roster,2026-10-08
 26798994,Colton Dach,EDM,8482703,2003-01-04,C,roster,2026-10-07
 26799114,Jack Thompson,VAN,8482144,2002-03-19,D,search,2026-09-29
 26799195,Jacob Melanson,SEA,8482874,2003-04-22,R,roster,2026-10-03
@@ -85,6 +88,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26802509,Taylor Makar,COL,8482953,2001-03-13,L,search,2026-09-29
 26802514,Emil Martinsen Lilleberg,TBL,8482929,2001-02-02,D,roster (nickname),2026-10-04
 26802550,Mackie Samoskevich,SEA,8482713,2002-11-15,R,roster,2026-09-27
+26802563,William Trudeau,NSH,8482806,2002-10-11,D,roster,2026-10-08
 2831960,Artem Zub,OTT,8482245,1995-10-03,D,roster,2026-09-24
 2845129,Cale Makar,COL,8480069,1998-10-30,D,roster,2026-09-24
 2845320,Filip Chytil,VAN,8480078,1999-09-05,C,roster,2026-09-24
@@ -160,6 +164,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3140820,Jordan Spence,OTT,8481606,2001-02-24,D,roster,2026-09-24
 3158655,Mattias Samuelsson,BUF,8480807,2000-03-14,D,roster,2026-09-24
 3166632,Alexander Romanov,NYI,8481014,2000-01-06,D,roster,2026-10-07
+3166638,Cam Crotty,OTT,8480075,1999-05-05,D,roster (nickname),2026-10-08
 3166641,Justus Annunen,NSH,8481020,2000-03-11,G,roster,2026-10-03
 3166853,Jack Rathbone,BUF,8480056,1999-05-20,D,roster,2026-09-28
 433603,Corey Perry,LAK,8470621,1985-05-16,R,roster,2026-09-24
