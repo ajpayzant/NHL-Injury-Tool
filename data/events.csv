@@ -505,3 +505,30 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-09T09:13:37Z,2026-10-09,b7fd89739a035232,2076022,Bo Horvat,NYI,opened,Upper Body - Day-to-Day
 2026-10-09T09:13:37Z,2026-10-09,a765f85ea01b02b0,1765197,Oliver Ekman-Larsson,TOR,opened,Undisclosed - Day-to-Day
 2026-10-09T09:13:37Z,2026-10-09,cf5faab0b95222ba,2197885,Linus Ullmark,OTT,closed,off the report since 2026-10-08
+2026-10-09T16:18:45Z,2026-10-09,e48d4b322a03a9f0,3166853,Jack Rathbone,BUF,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,09b3e1a54819dbca,1960880,Jason Zucker,BUF,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,bb1dd3796992dbc0,2000678,Teuvo Teravainen,CHI,status_changed,Expected to be out until at least Oct 10 -> Day-to-Day
+2026-10-09T16:18:45Z,2026-10-09,6343c20501a6449f,2178634,Ivan Provorov,CBJ,status_changed,IR. Expected to be out until at least Oct 9 -> IR. Expected to be out until at least Oct 13
+2026-10-09T16:18:45Z,2026-10-09,f299aaea0ddb7df2,50066964,Riley Bezeau,CBJ,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,511c26badeacbc52,29518577,James Stefan,EDM,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,874700fe628523f3,2000666,Olli Maatta,MIN,status_changed,Expected to be out until at least Oct 10 -> Day-to-Day
+2026-10-09T16:18:45Z,2026-10-09,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,status_changed,Expected to be out until at least Oct 10 -> Day-to-Day
+2026-10-09T16:18:45Z,2026-10-09,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,Expected to be out until at least Oct 10 -> Day-to-Day
+2026-10-09T16:18:45Z,2026-10-09,47a74cc1b3d94220,2197838,Joonas Korpisalo,NYR,status_changed,IR. Expected to be out until at least Oct 9 -> IR. Expected to be out until at least Oct 19
+2026-10-09T16:18:45Z,2026-10-09,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,c5ab83aeaa5d8d1e,3166638,Cam Crotty,OTT,status_changed,Expected to be out until at least Oct 10 -> Day-to-Day
+2026-10-09T16:18:45Z,2026-10-09,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,status_changed,Expected to be out until at least Oct 10 -> Day-to-Day
+2026-10-09T16:18:45Z,2026-10-09,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,status_changed,Expected to be out until at least Oct 10 -> Day-to-Day
+2026-10-09T16:18:45Z,2026-10-09,caba3f665a8c81c8,29404907,Macklin Celebrini,SJS,status_changed,Expected to be out until at least Oct 10 -> Day-to-Day
+2026-10-09T16:18:45Z,2026-10-09,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,ccc47320946951e3,26799114,Jack Thompson,VAN,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,63f8f675f1136dec,26600484,Lukas Cormier,VGK,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,ba377abbd60fc67f,28899702,Ben Hemmerling,VGK,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-10-07
+2026-10-09T16:18:45Z,2026-10-09,d379e9c2db37e742,2880258,Matt Roy,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 11
+2026-10-09T16:18:45Z,2026-10-09,dde0d7ed6c9be5be,28901928,Garrett Brown,WPG,status_changed,IR. Expected to be out until at least Oct 9 -> IR. Expected to be out until at least Oct 17
+2026-10-09T16:18:45Z,2026-10-09,ec0e1b7f0f6d5728,26802451,Josh Doan,BUF,closed,off the report since 2026-10-08
+2026-10-09T16:18:45Z,2026-10-09,24a85075fd4a7393,2245515,Mikhail Sergachev,UTA,closed,off the report since 2026-10-08
+2026-10-09T16:18:45Z,2026-10-09,c0fb921001f64ff9,26798877,Chase Stillman,DET,closed,off the report since 2026-10-08
+2026-10-09T16:18:45Z,2026-10-09,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,closed,off the report since 2026-10-08
+2026-10-09T16:18:45Z,2026-10-09,4e1d5b3ffcc3d5a4,2940994,Jacob Bernard-Docker,DET,closed,off the report since 2026-10-08
