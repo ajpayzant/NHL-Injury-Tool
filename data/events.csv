@@ -532,3 +532,14 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-09T16:18:45Z,2026-10-09,c0fb921001f64ff9,26798877,Chase Stillman,DET,closed,off the report since 2026-10-08
 2026-10-09T16:18:45Z,2026-10-09,b940735b6eaf0227,3140726,Raphael Lavoie,VGK,closed,off the report since 2026-10-08
 2026-10-09T16:18:45Z,2026-10-09,4e1d5b3ffcc3d5a4,2940994,Jacob Bernard-Docker,DET,closed,off the report since 2026-10-08
+2026-10-09T20:59:46Z,2026-10-09,6676502ec7be53d2,1133425,Brad Marchand,FLA,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
+2026-10-09T20:59:46Z,2026-10-09,7ecd6cb492581233,1771018,Mats Zuccarello,LAK,opened,Undisclosed - Expected to be out until at least Oct 13
+2026-10-09T20:59:46Z,2026-10-09,eb80e6dc19513fe1,1133703,Nick Foligno,MIN,status_changed,Expected to be out until at least Oct 12 -> IR. Expected to be out until at least Oct 15
+2026-10-09T20:59:46Z,2026-10-09,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,type_changed,Undisclosed -> Lower Body
+2026-10-09T20:59:46Z,2026-10-09,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,Day-to-Day -> Expected to be out until at least Oct 20
+2026-10-09T20:59:46Z,2026-10-09,2759479ab8d3f04e,26802563,William Trudeau,NSH,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 22
+2026-10-09T20:59:46Z,2026-10-09,ec98bf6d9cecf4ee,26798940,William Eklund,OTT,type_changed,Lower Body -> Ankle
+2026-10-09T20:59:46Z,2026-10-09,ec98bf6d9cecf4ee,26798940,William Eklund,OTT,status_changed,Day-to-Day -> Expected to be out until at least Jan 2
+2026-10-09T20:59:46Z,2026-10-09,c1fbe66076bb8c9b,2245477,Dillon Dube,STL,opened,Neck - Expected to be out until at least Oct 13
+2026-10-09T20:59:46Z,2026-10-09,b0cbe0732a45a8b7,1685406,John Tavares,TOR,opened,Personal - Day-to-Day
+2026-10-09T20:59:46Z,2026-10-09,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,Day-to-Day -> Expected to be out until at least Oct 13

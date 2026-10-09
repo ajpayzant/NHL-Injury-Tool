@@ -4,6 +4,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1282170,Logan Couture,SJS,8474053,1989-03-28,C,search,2026-09-27
 1639463,Alex Pietrangelo,VGK,8474565,1990-01-18,D,search,2026-09-24
 1685404,Matt Duchene,DAL,8475168,1991-01-16,C,roster,2026-09-24
+1685406,John Tavares,TOR,8475166,1990-09-20,C,roster,2026-10-09
 1707401,Ryan Ellis,CHI,8475176,1991-01-03,D,search,2026-09-27
 1765197,Oliver Ekman-Larsson,TOR,8475171,1991-07-17,D,roster,2026-10-09
 1770929,Zach Hyman,EDM,8475786,1992-06-09,L,roster,2026-10-01
@@ -48,6 +49,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2198286,Mathew Barzal,NYI,8478445,1997-05-26,C,roster,2026-09-24
 2198485,Jonas Siegenthaler,NJD,8478399,1997-05-06,D,roster,2026-10-07
 2245466,Jake Bean,CGY,8479402,1998-06-09,D,search,2026-09-24
+2245477,Dillon Dube,STL,8479346,1998-07-20,C,roster,2026-10-09
 2245479,Dante Fabbro,CBJ,8479371,1998-06-20,D,roster,2026-09-24
 2245486,Filip Gustavsson,MIN,8479406,1998-06-07,G,roster,2026-09-24
 2245504,Ryan Lindgren,SEA,8479324,1998-02-11,D,roster,2026-10-07
