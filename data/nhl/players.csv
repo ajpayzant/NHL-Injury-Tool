@@ -136,6 +136,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29167287,Quentin Musty,SJS,8484200,2005-07-06,L,search,2026-09-29
 2921134,Justin Brazeau,PIT,8479638,1998-02-02,R,roster,2026-09-24
 2921272,Cameron Hughes,DAL,8478888,1996-10-09,C,search,2026-09-29
+2921433,Kiefer Sherwood,SJS,8480748,1995-03-31,L,roster,2026-10-09
 2921715,Adam Gaudette,SJS,8478874,1996-10-03,R,roster,2026-09-24
 2921773,Troy Terry,ANA,8478873,1997-09-10,R,roster,2026-09-24
 29237428,Georgii Merkulov,COL,8483567,2000-10-10,C,search,2026-09-29
@@ -166,6 +167,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3140726,Raphael Lavoie,VGK,8481534,2000-09-25,C,roster,2026-09-29
 3140797,Trent Miner,COL,8481529,2001-02-05,G,search,2026-09-29
 3140820,Jordan Spence,OTT,8481606,2001-02-24,D,roster,2026-09-24
+3149263,Alex Turcotte,LAK,8481532,2001-02-26,C,roster,2026-10-09
 3158655,Mattias Samuelsson,BUF,8480807,2000-03-14,D,roster,2026-09-24
 3166632,Alexander Romanov,NYI,8481014,2000-01-06,D,roster,2026-10-07
 3166638,Cam Crotty,OTT,8480075,1999-05-05,D,roster (nickname),2026-10-08

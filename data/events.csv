@@ -543,3 +543,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-09T20:59:46Z,2026-10-09,c1fbe66076bb8c9b,2245477,Dillon Dube,STL,opened,Neck - Expected to be out until at least Oct 13
 2026-10-09T20:59:46Z,2026-10-09,b0cbe0732a45a8b7,1685406,John Tavares,TOR,opened,Personal - Day-to-Day
 2026-10-09T20:59:46Z,2026-10-09,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
+2026-10-10T00:58:05Z,2026-10-09,401989ba6238288a,3149263,Alex Turcotte,LAK,opened,Undisclosed - Day-to-Day
+2026-10-10T00:58:05Z,2026-10-09,7ecd6cb492581233,1771018,Mats Zuccarello,LAK,status_changed,Expected to be out until at least Oct 13 -> Expected to be out until at least Oct 17
+2026-10-10T00:58:05Z,2026-10-09,2a61288d1f7fe644,2921433,Kiefer Sherwood,SJS,opened,Upper Body - Day-to-Day
+2026-10-10T00:58:05Z,2026-10-09,b0cbe0732a45a8b7,1685406,John Tavares,TOR,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
+2026-10-10T00:58:05Z,2026-10-09,a60254bbd220c623,2271605,Michael Carcone,UTA,opened,Undisclosed - Day-to-Day
