@@ -637,3 +637,11 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-10T18:41:42Z,2026-10-10,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,Expected to be out until at least Oct 13 -> Day-to-Day
 2026-10-10T18:41:42Z,2026-10-10,c944171159d0fba9,26799378,Walker Duehr,WPG,reopened,was marked returned 2026-10-09
 2026-10-10T18:41:42Z,2026-10-10,b3580756ef5c1598,28899568,Elias Salomonsson,WPG,reopened,was marked returned 2026-10-09
+2026-10-10T22:38:57Z,2026-10-10,e7e5a6ca0590c102,29023281,Drew Helleson,ANA,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 13
+2026-10-10T22:38:57Z,2026-10-10,65c137f688d0fe0b,2879989,Jake Walman,EDM,opened,Upper Body - Expected to be out until at least Oct 13
+2026-10-10T22:38:57Z,2026-10-10,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Oct 20
+2026-10-10T22:38:57Z,2026-10-10,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 13
+2026-10-10T22:38:57Z,2026-10-10,c3ad620a65a56e6e,2831871,Igor Shesterkin,NYR,status_changed,Expected to be out until at least Sep 15 -> IR. Expected to be out until at least Sep 15
+2026-10-10T22:38:57Z,2026-10-10,596c1477467a08ac,26799195,Jacob Melanson,SEA,type_changed,Upper Body -> Chest
+2026-10-10T22:38:57Z,2026-10-10,596c1477467a08ac,26799195,Jacob Melanson,SEA,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Dec 1
+2026-10-10T22:38:57Z,2026-10-10,c1fbe66076bb8c9b,2245477,Dillon Dube,STL,status_changed,Expected to be out until at least Dec 4 -> IR. Expected to be out until at least Dec 4
