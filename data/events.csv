@@ -581,3 +581,59 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-10T13:49:40Z,2026-10-10,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-10-09
 2026-10-10T13:49:40Z,2026-10-10,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-10-09
 2026-10-10T13:49:40Z,2026-10-10,caebf3f145fd6c6d,2940996,Rasmus Sandin,WSH,closed,off the report since 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 24
+2026-10-10T18:41:42Z,2026-10-10,e48d4b322a03a9f0,3166853,Jack Rathbone,BUF,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,09b3e1a54819dbca,1960880,Jason Zucker,BUF,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,5894a0a65553e688,29167224,Samuel Honzek,CGY,opened,Undisclosed - Expected to be out until at least Oct 13
+2026-10-10T18:41:42Z,2026-10-10,79a82f82d265e157,1897686,Jonathan Huberdeau,CGY,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Nov 2
+2026-10-10T18:41:42Z,2026-10-10,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,9f2af962c00f5684,2992841,Logan O'Connor,COL,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 13
+2026-10-10T18:41:42Z,2026-10-10,f299aaea0ddb7df2,50066964,Riley Bezeau,CBJ,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,7f3a2ec7363f19cb,2921272,Cameron Hughes,DAL,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 25
+2026-10-10T18:41:42Z,2026-10-10,511c26badeacbc52,29518577,James Stefan,EDM,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,511c26badeacbc52,29518577,James Stefan,EDM,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 17
+2026-10-10T18:41:42Z,2026-10-10,401989ba6238288a,3149263,Alex Turcotte,LAK,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 17
+2026-10-10T18:41:42Z,2026-10-10,7ecd6cb492581233,1771018,Mats Zuccarello,LAK,status_changed,Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 20
+2026-10-10T18:41:42Z,2026-10-10,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,1734ebf985c065f8,29167369,Florian Xhekaj,MTL,opened,Undisclosed - Expected to be out until at least Oct 13
+2026-10-10T18:41:42Z,2026-10-10,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 31
+2026-10-10T18:41:42Z,2026-10-10,aa8a60c666296470,50001179,Bryce Pickford,MTL,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,26ed50f4409fe962,2198286,Mathew Barzal,NYI,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 17
+2026-10-10T18:41:42Z,2026-10-10,47a74cc1b3d94220,2197838,Joonas Korpisalo,NYR,status_changed,IR. Expected to be out until at least Oct 19 -> IR. Expected to be out until at least Nov 9
+2026-10-10T18:41:42Z,2026-10-10,c3ad620a65a56e6e,2831871,Igor Shesterkin,NYR,status_changed,Day-to-Day -> Expected to be out until at least Sep 15
+2026-10-10T18:41:42Z,2026-10-10,66275bf29a5bafd6,2940989,Joseph Veleno,NYR,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Jan 3
+2026-10-10T18:41:42Z,2026-10-10,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,ec98bf6d9cecf4ee,26798940,William Eklund,OTT,status_changed,Expected to be out until at least Jan 2 -> IR. Expected to be out until at least Jan 2
+2026-10-10T18:41:42Z,2026-10-10,a6cc2f6b99dd8bff,2831960,Artem Zub,OTT,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 12
+2026-10-10T18:41:42Z,2026-10-10,e5b075967e00a4dc,2179103,Travis Konecny,PHI,opened,Lower Body - Expected to be out until at least Oct 11
+2026-10-10T18:41:42Z,2026-10-10,cae17ace2b72715d,26657143,Cam York,PHI,opened,Upper Body - Expected to be out until at least Oct 11
+2026-10-10T18:41:42Z,2026-10-10,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,type_changed,Undisclosed -> Upper Body
+2026-10-10T18:41:42Z,2026-10-10,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 11
+2026-10-10T18:41:42Z,2026-10-10,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,type_changed,Upper Body -> Back
+2026-10-10T18:41:42Z,2026-10-10,666be57eb83289cf,28902928,Nikita Grebenkin,PHI,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Feb 13
+2026-10-10T18:41:42Z,2026-10-10,c87f8057e36653ef,2921134,Justin Brazeau,PIT,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 22
+2026-10-10T18:41:42Z,2026-10-10,a15f12a117338bb1,2850816,Andrei Kuzmenko,PIT,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,a15f12a117338bb1,2850816,Andrei Kuzmenko,PIT,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 16
+2026-10-10T18:41:42Z,2026-10-10,c7db43d44a79272c,29167287,Quentin Musty,SJS,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,3aaa178bbbbc1232,28899562,Cameron Lund,SJS,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,620048a7bd273eb4,1282170,Logan Couture,SJS,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,745f8e86c42e4971,50001174,Jake O'Brien,SEA,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,c1fbe66076bb8c9b,2245477,Dillon Dube,STL,status_changed,Expected to be out until at least Oct 13 -> Expected to be out until at least Dec 4
+2026-10-10T18:41:42Z,2026-10-10,fa2b82f6d606389e,29407705,Adam Jecho,STL,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,7f4cb5291ee66844,29373582,Cade Webber,TOR,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 25
+2026-10-10T18:41:42Z,2026-10-10,ab4d3ad68c76b8f0,2845320,Filip Chytil,VAN,status_changed,IR. Expected to be out until at least Oct 10 -> IR. Expected to be out until at least Oct 29
+2026-10-10T18:41:42Z,2026-10-10,ccc47320946951e3,26799114,Jack Thompson,VAN,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,ba377abbd60fc67f,28899702,Ben Hemmerling,VGK,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,63f8f675f1136dec,26600484,Lukas Cormier,VGK,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,d379e9c2db37e742,2880258,Matt Roy,WSH,status_changed,Expected to be out until at least Oct 11 -> Day-to-Day
+2026-10-10T18:41:42Z,2026-10-10,95a733bb4507f78f,2245478,Pierre-Luc Dubois,WSH,opened,Illness - Day-to-Day
+2026-10-10T18:41:42Z,2026-10-10,caebf3f145fd6c6d,2940996,Rasmus Sandin,WSH,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,Expected to be out until at least Oct 13 -> Day-to-Day
+2026-10-10T18:41:42Z,2026-10-10,c944171159d0fba9,26799378,Walker Duehr,WPG,reopened,was marked returned 2026-10-09
+2026-10-10T18:41:42Z,2026-10-10,b3580756ef5c1598,28899568,Elias Salomonsson,WPG,reopened,was marked returned 2026-10-09

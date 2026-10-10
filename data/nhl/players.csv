@@ -42,6 +42,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147521,Conor Sheary,BUF,8477839,1992-06-08,L,roster,2026-09-28
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
 2178634,Ivan Provorov,CBJ,8478500,1997-01-13,D,roster,2026-09-30
+2179103,Travis Konecny,PHI,8478439,1997-03-11,R,roster,2026-10-10
 2197831,Mattias Janmark,EDM,8477406,1992-12-08,C,roster,2026-09-24
 2197838,Joonas Korpisalo,NYR,8476914,1994-04-28,G,roster,2026-10-01
 2197885,Linus Ullmark,OTT,8476999,1993-07-31,G,roster,2026-10-06
@@ -50,6 +51,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2198485,Jonas Siegenthaler,NJD,8478399,1997-05-06,D,roster,2026-10-07
 2245466,Jake Bean,CGY,8479402,1998-06-09,D,search,2026-09-24
 2245477,Dillon Dube,STL,8479346,1998-07-20,C,roster,2026-10-09
+2245478,Pierre-Luc Dubois,WSH,8479400,1998-06-24,C,roster,2026-10-10
 2245479,Dante Fabbro,CBJ,8479371,1998-06-20,D,roster,2026-09-24
 2245486,Filip Gustavsson,MIN,8479406,1998-06-07,G,roster,2026-09-24
 2245504,Ryan Lindgren,SEA,8479324,1998-02-11,D,roster,2026-10-07
@@ -73,6 +75,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26603173,Mavrik Bourque,NSH,8482145,2002-01-08,C,roster,2026-10-08
 26603210,Jake Sanderson,OTT,8482105,2002-07-08,D,roster,2026-09-24
 26648515,Shane Pinto,OTT,8481596,2000-11-12,C,roster,2026-09-24
+26657143,Cam York,PHI,8481546,2001-01-05,D,roster,2026-10-10
 26798877,Chase Stillman,DET,8482714,2003-03-19,R,search,2026-10-03
 26798940,William Eklund,OTT,8482667,2002-10-12,L,roster,2026-10-08
 26798994,Colton Dach,EDM,8482703,2003-01-04,C,roster,2026-10-07
@@ -135,7 +138,9 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29167155,Connor Bedard,CHI,8484144,2005-07-17,C,roster,2026-09-24
 29167157,Tristan Bertucci,DAL,8484146,2005-07-12,D,search,2026-09-29
 29167190,Jakub Dvorak,LAK,8484163,2005-05-25,D,search,2026-09-27
+29167224,Samuel Honzek,CGY,8484180,2004-11-12,L,roster,2026-10-10
 29167287,Quentin Musty,SJS,8484200,2005-07-06,L,search,2026-09-29
+29167369,Florian Xhekaj,MTL,8484403,2004-06-27,L,roster,2026-10-10
 2921134,Justin Brazeau,PIT,8479638,1998-02-02,R,roster,2026-09-24
 2921272,Cameron Hughes,DAL,8478888,1996-10-09,C,search,2026-09-29
 2921433,Kiefer Sherwood,SJS,8480748,1995-03-31,L,roster,2026-10-09
