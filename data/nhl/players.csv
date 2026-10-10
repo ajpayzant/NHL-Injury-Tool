@@ -93,6 +93,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26802514,Emil Martinsen Lilleberg,TBL,8482929,2001-02-02,D,roster (nickname),2026-10-04
 26802550,Mackie Samoskevich,SEA,8482713,2002-11-15,R,roster,2026-09-27
 26802563,William Trudeau,NSH,8482806,2002-10-11,D,roster,2026-10-08
+2831871,Igor Shesterkin,NYR,8478048,1995-12-30,G,roster,2026-10-10
 2831960,Artem Zub,OTT,8482245,1995-10-03,D,roster,2026-09-24
 2845129,Cale Makar,COL,8480069,1998-10-30,D,roster,2026-09-24
 2845320,Filip Chytil,VAN,8480078,1999-09-05,C,roster,2026-09-24
@@ -109,6 +110,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2880258,Matt Roy,WSH,8478911,1995-03-01,D,roster,2026-10-04
 28895750,Marco Kasper,DET,8483464,2004-04-08,C,roster,2026-10-03
 28895757,Pavel Mintyukov,ANA,8483490,2003-11-25,D,roster,2026-09-27
+28895758,Frank Nazar,CHI,8483493,2004-01-14,C,roster,2026-10-10
 28895759,Matthew Savoie,EDM,8483512,2004-01-01,C,roster (nickname),2026-09-24
 28895785,Jiri Kulich,BUF,8483468,2004-04-14,C,roster,2026-09-24
 28895787,Maveric Lamoureux,UTA,8483472,2004-01-13,D,roster,2026-09-28
