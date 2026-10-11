@@ -657,3 +657,14 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-11T01:58:45Z,2026-10-10,4d52349218f4b6ea,1771089,Christopher Tanev,TOR,opened,Upper Body - Day-to-Day
 2026-10-11T01:58:45Z,2026-10-10,a60254bbd220c623,2271605,Michael Carcone,UTA,type_changed,Undisclosed -> Upper Body
 2026-10-11T01:58:45Z,2026-10-10,a60254bbd220c623,2271605,Michael Carcone,UTA,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-11T09:01:19Z,2026-10-11,9e7ac91d7b81dbec,2845355,Ryan Poehling,ANA,opened,Lower Body - Day-to-Day
+2026-10-11T09:01:19Z,2026-10-11,d55397bf0e6333d1,28895738,Cutter Gauthier,ANA,opened,Upper Body - Day-to-Day
+2026-10-11T09:01:19Z,2026-10-11,1db9b99487d9945e,28895758,Frank Nazar,CHI,closed,off the report since 2026-10-10
+2026-10-11T09:01:19Z,2026-10-11,b7fd89739a035232,2076022,Bo Horvat,NYI,closed,off the report since 2026-10-10
+2026-10-11T09:01:19Z,2026-10-11,bb1dd3796992dbc0,2000678,Teuvo Teravainen,CHI,closed,off the report since 2026-10-10
+2026-10-11T09:01:19Z,2026-10-11,a0152dba1342a8a3,2198485,Jonas Siegenthaler,NJD,closed,off the report since 2026-10-10
+2026-10-11T09:01:19Z,2026-10-11,12ab1a8270078c97,3140797,Trent Miner,COL,closed,off the report since 2026-10-10
+2026-10-11T09:01:19Z,2026-10-11,c9ed65c087c19ec9,2076015,Andre Burakovsky,OTT,closed,off the report since 2026-10-10
+2026-10-11T09:01:19Z,2026-10-11,1d1289d52934db06,2921715,Adam Gaudette,SJS,closed,off the report since 2026-10-10
+2026-10-11T09:01:19Z,2026-10-11,ad85c6eb4cbf5095,3103731,Johnathan Kovacevic,NJD,closed,off the report since 2026-10-10
+2026-10-11T09:01:19Z,2026-10-11,534efa9a9913635e,26560471,Kaiden Guhle,MTL,closed,off the report since 2026-10-10

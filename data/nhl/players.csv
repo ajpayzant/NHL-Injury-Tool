@@ -106,6 +106,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2845129,Cale Makar,COL,8480069,1998-10-30,D,roster,2026-09-24
 2845320,Filip Chytil,VAN,8480078,1999-09-05,C,roster,2026-09-24
 2845354,Jake Oettinger,DAL,8479979,1998-12-18,G,roster,2026-09-24
+2845355,Ryan Poehling,ANA,8480068,1999-01-03,C,roster,2026-10-11
 2850816,Andrei Kuzmenko,PIT,8483808,1996-02-04,L,roster,2026-09-24
 2858551,Ukko-Pekka Luukkonen,BUF,8480045,1999-03-09,G,roster,2026-09-27
 2858557,Eetu Luostarinen,FLA,8480185,1998-09-02,C,roster,2026-10-10
@@ -118,6 +119,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2879988,Alexei Toropchenko,STL,8480281,1999-06-25,R,roster (nickname),2026-10-03
 2879989,Jake Walman,EDM,8478013,1996-02-20,D,roster,2026-10-10
 2880258,Matt Roy,WSH,8478911,1995-03-01,D,roster,2026-10-04
+28895738,Cutter Gauthier,ANA,8483445,2004-01-19,L,roster,2026-10-11
 28895750,Marco Kasper,DET,8483464,2004-04-08,C,roster,2026-10-03
 28895757,Pavel Mintyukov,ANA,8483490,2003-11-25,D,roster,2026-09-27
 28895758,Frank Nazar,CHI,8483493,2004-01-14,C,roster,2026-10-10
