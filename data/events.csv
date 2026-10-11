@@ -694,3 +694,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-11T20:22:20Z,2026-10-11,e5b075967e00a4dc,2179103,Travis Konecny,PHI,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 17
 2026-10-11T20:22:20Z,2026-10-11,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,Expected to be out until at least Oct 15 -> IR. Expected to be out until at least Oct 20
 2026-10-11T20:22:20Z,2026-10-11,d379e9c2db37e742,2880258,Matt Roy,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
+2026-10-11T23:45:52Z,2026-10-11,d8c758d92f6dab44,1133726,Jordan Staal,CAR,opened,Lower Body - Expected to be out until at least Oct 13
+2026-10-11T23:45:52Z,2026-10-11,c3ad620a65a56e6e,2831871,Igor Shesterkin,NYR,type_changed,Lower Body -> Knee
+2026-10-11T23:45:52Z,2026-10-11,cae17ace2b72715d,26657143,Cam York,PHI,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
+2026-10-11T23:45:52Z,2026-10-11,4d52349218f4b6ea,1771089,Christopher Tanev,TOR,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 19
+2026-10-11T23:45:52Z,2026-10-11,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,IR. Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Nov 2
+2026-10-11T23:45:52Z,2026-10-11,95a733bb4507f78f,2245478,Pierre-Luc Dubois,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
