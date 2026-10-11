@@ -645,3 +645,15 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-10T22:38:57Z,2026-10-10,596c1477467a08ac,26799195,Jacob Melanson,SEA,type_changed,Upper Body -> Chest
 2026-10-10T22:38:57Z,2026-10-10,596c1477467a08ac,26799195,Jacob Melanson,SEA,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Dec 1
 2026-10-10T22:38:57Z,2026-10-10,c1fbe66076bb8c9b,2245477,Dillon Dube,STL,status_changed,Expected to be out until at least Dec 4 -> IR. Expected to be out until at least Dec 4
+2026-10-11T01:58:45Z,2026-10-10,28ec12d43b215f49,2000655,Radek Faksa,DAL,opened,Lower Body - Day-to-Day
+2026-10-11T01:58:45Z,2026-10-10,9d1f2ed96039f5d5,1770929,Zach Hyman,EDM,status_changed,Expected to be out until at least Oct 17 -> Expected to be out until at least Oct 13
+2026-10-11T01:58:45Z,2026-10-10,771b05709a34ca99,2858557,Eetu Luostarinen,FLA,opened,Undisclosed - Day-to-Day
+2026-10-11T01:58:45Z,2026-10-10,f04936bb34f7d412,1707405,Marcus Foligno,MIN,opened,Lower Body - Expected to be out until at least Oct 12
+2026-10-11T01:58:45Z,2026-10-10,fc177471b722de22,1628804,Zach Bogosian,MIN,opened,Lower Body - Expected to be out until at least Oct 12
+2026-10-11T01:58:45Z,2026-10-10,5f520a816e5303c5,26603173,Mavrik Bourque,NSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
+2026-10-11T01:58:45Z,2026-10-10,c5ab83aeaa5d8d1e,3166638,Cam Crotty,OTT,status_changed,Day-to-Day -> Expected to be out until at least Oct 12
+2026-10-11T01:58:45Z,2026-10-10,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,status_changed,Day-to-Day -> Expected to be out until at least Oct 12
+2026-10-11T01:58:45Z,2026-10-10,3a7d5d0fd7b6767a,2147580,Trevor van Riemsdyk,PIT,opened,Lower Body - Expected to be out until at least Oct 13
+2026-10-11T01:58:45Z,2026-10-10,4d52349218f4b6ea,1771089,Christopher Tanev,TOR,opened,Upper Body - Day-to-Day
+2026-10-11T01:58:45Z,2026-10-10,a60254bbd220c623,2271605,Michael Carcone,UTA,type_changed,Undisclosed -> Upper Body
+2026-10-11T01:58:45Z,2026-10-10,a60254bbd220c623,2271605,Michael Carcone,UTA,status_changed,Day-to-Day -> Expected to be out until at least Oct 24

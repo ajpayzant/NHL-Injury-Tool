@@ -2,19 +2,23 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1133425,Brad Marchand,FLA,8473419,1988-05-11,L,roster,2026-09-24
 1133703,Nick Foligno,MIN,8473422,1987-10-31,L,roster,2026-10-06
 1282170,Logan Couture,SJS,8474053,1989-03-28,C,search,2026-09-27
+1628804,Zach Bogosian,MIN,8474567,1990-07-15,D,roster,2026-10-10
 1639463,Alex Pietrangelo,VGK,8474565,1990-01-18,D,search,2026-09-24
 1685404,Matt Duchene,DAL,8475168,1991-01-16,C,roster,2026-09-24
 1685406,John Tavares,TOR,8475166,1990-09-20,C,roster,2026-10-09
 1707401,Ryan Ellis,CHI,8475176,1991-01-03,D,search,2026-09-27
+1707405,Marcus Foligno,MIN,8475220,1991-08-10,L,roster,2026-10-10
 1765197,Oliver Ekman-Larsson,TOR,8475171,1991-07-17,D,roster,2026-10-09
 1770929,Zach Hyman,EDM,8475786,1992-06-09,L,roster,2026-10-01
 1771018,Mats Zuccarello,LAK,8475692,1987-09-01,R,roster,2026-09-24
+1771089,Christopher Tanev,TOR,8475690,1989-12-20,D,roster (nickname),2026-10-10
 1897650,Joel Edmundson,LAK,8476441,1993-06-28,D,roster,2026-09-27
 1897686,Jonathan Huberdeau,CGY,8476456,1993-06-04,L,roster,2026-09-24
 1899089,Derek Forbort,VAN,8475762,1992-03-04,D,search,2026-09-24
 1899125,Ryan Nugent-Hopkins,EDM,8476454,1993-04-12,C,roster,2026-09-29
 1960399,Torey Krug,STL,8476792,1991-04-12,D,search,2026-09-24
 1960880,Jason Zucker,BUF,8475722,1992-01-16,L,roster,2026-09-24
+2000655,Radek Faksa,DAL,8476889,1994-01-09,C,roster,2026-10-10
 2000666,Olli Maatta,MIN,8476874,1994-08-22,D,roster,2026-10-08
 2000678,Teuvo Teravainen,CHI,8476882,1994-09-11,C,roster,2026-10-07
 2000679,Jacob Trouba,SJS,8476885,1994-02-26,D,roster,2026-10-03
@@ -40,6 +44,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147476,Nick Paul,TOR,8477426,1995-03-20,L,roster,2026-09-24
 2147507,Bryan Rust,PIT,8475810,1992-05-11,R,roster,2026-09-27
 2147521,Conor Sheary,BUF,8477839,1992-06-08,L,roster,2026-09-28
+2147580,Trevor van Riemsdyk,PIT,8477845,1991-07-24,D,roster,2026-10-10
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
 2178634,Ivan Provorov,CBJ,8478500,1997-01-13,D,roster,2026-09-30
 2179103,Travis Konecny,PHI,8478439,1997-03-11,R,roster,2026-10-10
@@ -103,6 +108,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2845354,Jake Oettinger,DAL,8479979,1998-12-18,G,roster,2026-09-24
 2850816,Andrei Kuzmenko,PIT,8483808,1996-02-04,L,roster,2026-09-24
 2858551,Ukko-Pekka Luukkonen,BUF,8480045,1999-03-09,G,roster,2026-09-27
+2858557,Eetu Luostarinen,FLA,8480185,1998-09-02,C,roster,2026-10-10
 2858568,Conor Timmins,BUF,8479982,1998-09-18,D,roster,2026-09-28
 2858572,Jonah Gadjovich,FLA,8479981,1998-10-12,L,roster,2026-09-24
 2879654,Alex Barre-Boulet,SJS,8479718,1997-05-21,C,roster,2026-10-01
