@@ -690,3 +690,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-11T15:47:36Z,2026-10-11,a765f85ea01b02b0,1765197,Oliver Ekman-Larsson,TOR,closed,off the report since 2026-10-10
 2026-10-11T15:47:36Z,2026-10-11,874700fe628523f3,2000666,Olli Maatta,MIN,closed,off the report since 2026-10-10
 2026-10-11T15:47:36Z,2026-10-11,caba3f665a8c81c8,29404907,Macklin Celebrini,SJS,closed,off the report since 2026-10-10
+2026-10-11T20:22:20Z,2026-10-11,c5ab83aeaa5d8d1e,3166638,Cam Crotty,OTT,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 15
+2026-10-11T20:22:20Z,2026-10-11,e5b075967e00a4dc,2179103,Travis Konecny,PHI,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 17
+2026-10-11T20:22:20Z,2026-10-11,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,Expected to be out until at least Oct 15 -> IR. Expected to be out until at least Oct 20
+2026-10-11T20:22:20Z,2026-10-11,d379e9c2db37e742,2880258,Matt Roy,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
