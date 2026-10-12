@@ -708,3 +708,20 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-12T15:40:44Z,2026-10-12,d379e9c2db37e742,2880258,Matt Roy,WSH,status_changed,Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 17
 2026-10-12T15:40:44Z,2026-10-12,95a733bb4507f78f,2245478,Pierre-Luc Dubois,WSH,status_changed,Expected to be out until at least Oct 13 -> Day-to-Day
 2026-10-12T15:40:44Z,2026-10-12,771b05709a34ca99,2858557,Eetu Luostarinen,FLA,closed,off the report since 2026-10-11
+2026-10-12T23:03:23Z,2026-10-12,3db37fb3a95c19fb,2940900,Rasmus Dahlin,BUF,opened,Upper Body - Expected to be out until at least Oct 15
+2026-10-12T23:03:23Z,2026-10-12,5894a0a65553e688,29167224,Samuel Honzek,CGY,type_changed,Undisclosed -> Lower Body
+2026-10-12T23:03:23Z,2026-10-12,5894a0a65553e688,29167224,Samuel Honzek,CGY,status_changed,Day-to-Day -> Expected to be out until at least Oct 22
+2026-10-12T23:03:23Z,2026-10-12,3a7abef0121fd9d6,29167155,Connor Bedard,CHI,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Oct 13
+2026-10-12T23:03:23Z,2026-10-12,88cfec4a0c3148c9,1685404,Matt Duchene,DAL,type_changed,Lower Body -> Abdomen
+2026-10-12T23:03:23Z,2026-10-12,88cfec4a0c3148c9,1685404,Matt Duchene,DAL,status_changed,IR. Expected to be out until at least Oct 25 -> IR. Expected to be out until at least Jan 12
+2026-10-12T23:03:23Z,2026-10-12,8ce5e076b5adbbce,2879768,Mason Appleton,DET,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 26
+2026-10-12T23:03:23Z,2026-10-12,6676502ec7be53d2,1133425,Brad Marchand,FLA,status_changed,Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 21
+2026-10-12T23:03:23Z,2026-10-12,eb80e6dc19513fe1,1133703,Nick Foligno,MIN,status_changed,IR. Expected to be out until at least Oct 15 -> IR. Expected to be out until at least Oct 18
+2026-10-12T23:03:23Z,2026-10-12,f04936bb34f7d412,1707405,Marcus Foligno,MIN,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 15
+2026-10-12T23:03:23Z,2026-10-12,26ed50f4409fe962,2198286,Mathew Barzal,NYI,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 20
+2026-10-12T23:03:23Z,2026-10-12,a6cc2f6b99dd8bff,2831960,Artem Zub,OTT,status_changed,IR. Expected to be out until at least Oct 12 -> IR. Expected to be out until at least Oct 13
+2026-10-12T23:03:23Z,2026-10-12,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
+2026-10-12T23:03:23Z,2026-10-12,3a7d5d0fd7b6767a,2147580,Trevor van Riemsdyk,PIT,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 19
+2026-10-12T23:03:23Z,2026-10-12,a15f12a117338bb1,2850816,Andrei Kuzmenko,PIT,status_changed,IR. Expected to be out until at least Oct 16 -> IR. Expected to be out until at least Oct 13
+2026-10-12T23:03:23Z,2026-10-12,ef52ca0b546cb6bf,2147156,Barclay Goodrow,SJS,opened,Illness - Day-to-Day
+2026-10-12T23:03:23Z,2026-10-12,95a733bb4507f78f,2245478,Pierre-Luc Dubois,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 14
