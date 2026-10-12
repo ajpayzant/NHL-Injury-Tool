@@ -700,3 +700,4 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-11T23:45:52Z,2026-10-11,4d52349218f4b6ea,1771089,Christopher Tanev,TOR,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 19
 2026-10-11T23:45:52Z,2026-10-11,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,IR. Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Nov 2
 2026-10-11T23:45:52Z,2026-10-11,95a733bb4507f78f,2245478,Pierre-Luc Dubois,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 13
+2026-10-12T06:08:47Z,2026-10-12,10cbe7b42fca877e,2245507,Charlie McAvoy,BOS,closed,off the report since 2026-10-11
