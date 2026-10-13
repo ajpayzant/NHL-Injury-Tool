@@ -725,3 +725,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-12T23:03:23Z,2026-10-12,a15f12a117338bb1,2850816,Andrei Kuzmenko,PIT,status_changed,IR. Expected to be out until at least Oct 16 -> IR. Expected to be out until at least Oct 13
 2026-10-12T23:03:23Z,2026-10-12,ef52ca0b546cb6bf,2147156,Barclay Goodrow,SJS,opened,Illness - Day-to-Day
 2026-10-12T23:03:23Z,2026-10-12,95a733bb4507f78f,2245478,Pierre-Luc Dubois,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 14
+2026-10-13T03:37:30Z,2026-10-12,26cfac57d15fb29f,3110649,Nico Sturm,MIN,opened,Upper Body - Expected to be out until at least Oct 13
+2026-10-13T03:37:30Z,2026-10-12,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,status_changed,Expected to be out until at least Oct 13 -> Expected to be out until at least Oct 15
+2026-10-13T03:37:30Z,2026-10-12,a6cc2f6b99dd8bff,2831960,Artem Zub,OTT,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 15
+2026-10-13T03:37:30Z,2026-10-12,268d5c48891127e3,29222765,Nikolas Matinpalo,OTT,opened,Upper Body - Expected to be out until at least Oct 13
+2026-10-13T03:37:30Z,2026-10-12,e30ad2d1c5970877,2269122,Parker Wotherspoon,VGK,opened,Upper Body - Expected to be out until at least Oct 20

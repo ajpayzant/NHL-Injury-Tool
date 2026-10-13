@@ -67,6 +67,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2265487,Gustav Forsling,FLA,8478055,1996-06-12,D,roster,2026-10-02
 2267064,MacKenzie MacEachern,VAN,8476907,1994-03-09,L,search,2026-09-29
 2269101,Alex Lyon,BUF,8479312,1992-12-09,G,roster,2026-09-24
+2269122,Parker Wotherspoon,VGK,8478450,1997-08-24,D,roster,2026-10-12
 2269432,Alexandre Carrier,MTL,8478851,1996-10-08,D,roster,2026-10-04
 2269434,J.T. Compher,DET,8477456,1995-04-08,L,roster,2026-10-06
 2269437,Andreas Englund,DET,8477971,1996-01-21,D,search,2026-09-30
@@ -157,6 +158,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2921433,Kiefer Sherwood,SJS,8480748,1995-03-31,L,roster,2026-10-09
 2921715,Adam Gaudette,SJS,8478874,1996-10-03,R,roster,2026-09-24
 2921773,Troy Terry,ANA,8478873,1997-09-10,R,roster,2026-09-24
+29222765,Nikolas Matinpalo,OTT,8484321,1998-10-05,D,roster,2026-10-12
 29237428,Georgii Merkulov,COL,8483567,2000-10-10,C,search,2026-09-29
 2923811,Victor Olofsson,VGK,8478109,1995-07-18,L,roster,2026-10-07
 29373582,Cade Webber,TOR,8481570,2001-01-05,D,search,2026-09-29
@@ -179,6 +181,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2992841,Logan O'Connor,COL,8481186,1996-08-14,R,roster,2026-09-28
 3103731,Johnathan Kovacevic,NJD,8480192,1997-07-12,D,roster,2026-09-24
 3107125,Elvis Merzlikins,CBJ,8478007,1994-04-13,G,roster,2026-09-24
+3110649,Nico Sturm,MIN,8481477,1995-05-03,C,roster,2026-10-12
 3111074,Blake Lizotte,PIT,8481481,1997-12-13,C,roster,2026-09-24
 3117362,Joel Kiviranta,DAL,8481641,1996-03-23,L,roster,2026-10-07
 3130083,Bowen Byram,CHI,8481524,2001-06-13,D,roster,2026-10-03
