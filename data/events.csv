@@ -736,3 +736,11 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-13T11:54:17Z,2026-10-13,f299aaea0ddb7df2,50066964,Riley Bezeau,CBJ,closed,off the report since 2026-10-12
 2026-10-13T11:54:17Z,2026-10-13,4891dfdeaff08667,3117362,Joel Kiviranta,DAL,closed,off the report since 2026-10-12
 2026-10-13T11:54:17Z,2026-10-13,ba377abbd60fc67f,28899702,Ben Hemmerling,VGK,closed,off the report since 2026-10-12
+2026-10-13T15:18:31Z,2026-10-13,6343c20501a6449f,2178634,Ivan Provorov,CBJ,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 18
+2026-10-13T15:18:31Z,2026-10-13,d79b4a39f6627deb,2269089,Conor Garland,CBJ,opened,Illness - Day-to-Day
+2026-10-13T15:18:31Z,2026-10-13,ca9f84f86c5244c6,2269434,J.T. Compher,DET,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 15
+2026-10-13T15:18:31Z,2026-10-13,8ba349f67c6f3c7b,1899125,Ryan Nugent-Hopkins,EDM,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 24
+2026-10-13T15:18:31Z,2026-10-13,26cfac57d15fb29f,3110649,Nico Sturm,MIN,status_changed,Expected to be out until at least Oct 13 -> Day-to-Day
+2026-10-13T15:18:31Z,2026-10-13,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 14
+2026-10-13T15:18:31Z,2026-10-13,7c9eef55bb2ca8eb,2000667,Mike Matheson,MTL,opened,Lower Body - Expected to be out until at least Oct 14
+2026-10-13T15:18:31Z,2026-10-13,268d5c48891127e3,29222765,Nikolas Matinpalo,OTT,status_changed,Expected to be out until at least Oct 13 -> Day-to-Day

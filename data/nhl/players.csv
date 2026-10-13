@@ -21,6 +21,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1960880,Jason Zucker,BUF,8475722,1992-01-16,L,roster,2026-09-24
 2000655,Radek Faksa,DAL,8476889,1994-01-09,C,roster,2026-10-10
 2000666,Olli Maatta,MIN,8476874,1994-08-22,D,roster,2026-10-08
+2000667,Mike Matheson,MTL,8476875,1994-02-27,D,roster,2026-10-13
 2000678,Teuvo Teravainen,CHI,8476882,1994-09-11,C,roster,2026-10-07
 2000679,Jacob Trouba,SJS,8476885,1994-02-26,D,roster,2026-10-03
 2039464,Frederik Andersen,EDM,8475883,1989-10-02,G,roster,2026-09-24
@@ -66,6 +67,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2245515,Mikhail Sergachev,UTA,8479410,1998-06-25,D,roster,2026-10-07
 2265487,Gustav Forsling,FLA,8478055,1996-06-12,D,roster,2026-10-02
 2267064,MacKenzie MacEachern,VAN,8476907,1994-03-09,L,search,2026-09-29
+2269089,Conor Garland,CBJ,8478856,1996-03-11,R,roster,2026-10-13
 2269101,Alex Lyon,BUF,8479312,1992-12-09,G,roster,2026-09-24
 2269122,Parker Wotherspoon,VGK,8478450,1997-08-24,D,roster,2026-10-12
 2269432,Alexandre Carrier,MTL,8478851,1996-10-08,D,roster,2026-10-04
