@@ -76,6 +76,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2271605,Michael Carcone,UTA,8479619,1996-05-19,L,roster,2026-09-24
 2271608,Thatcher Demko,VAN,8477967,1995-12-08,G,roster,2026-09-24
 2271612,A.J. Greer,ANA,8478421,1996-12-14,L,roster,2026-09-24
+2271613,Matt Grzelcyk,BUF,8476891,1994-01-05,D,roster,2026-10-13
 2271620,Dan Vladar,PHI,8478435,1997-08-20,G,roster,2026-09-24
 2275417,Sam Montembeault,MTL,8478470,1996-10-30,G,roster (nickname),2026-10-07
 26560471,Kaiden Guhle,MTL,8482087,2002-01-18,D,roster,2026-09-24
@@ -141,6 +142,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28899702,Ben Hemmerling,VGK,8483748,2004-04-21,R,search,2026-09-30
 28899704,Dominic James,TBL,8483752,2002-07-03,C,roster,2026-09-24
 28901928,Garrett Brown,WPG,,,,unmatched,2026-10-13
+28901948,Dennis Hildeby,TBL,8483710,2001-08-19,G,roster,2026-10-13
 28902928,Nikita Grebenkin,PHI,8483733,2003-05-02,R,roster,2026-09-29
 28973342,Mikael Pyyhtia,CBJ,8482451,2001-12-17,L,search,2026-09-27
 28974592,Patrick Giles,SJS,8480825,2000-01-03,R,roster,2026-09-28

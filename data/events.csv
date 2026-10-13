@@ -744,3 +744,21 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-13T15:18:31Z,2026-10-13,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 14
 2026-10-13T15:18:31Z,2026-10-13,7c9eef55bb2ca8eb,2000667,Mike Matheson,MTL,opened,Lower Body - Expected to be out until at least Oct 14
 2026-10-13T15:18:31Z,2026-10-13,268d5c48891127e3,29222765,Nikolas Matinpalo,OTT,status_changed,Expected to be out until at least Oct 13 -> Day-to-Day
+2026-10-13T19:21:14Z,2026-10-13,d55397bf0e6333d1,28895738,Cutter Gauthier,ANA,status_changed,Day-to-Day -> Expected to be out until at least Oct 16
+2026-10-13T19:21:14Z,2026-10-13,9e7ac91d7b81dbec,2845355,Ryan Poehling,ANA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 25
+2026-10-13T19:21:14Z,2026-10-13,2664ad8f11ad2a47,2271613,Matt Grzelcyk,BUF,opened,Undisclosed - IR. Expected to be out until at least Oct 21
+2026-10-13T19:21:14Z,2026-10-13,d8c758d92f6dab44,1133726,Jordan Staal,CAR,type_changed,Lower Body -> Calf
+2026-10-13T19:21:14Z,2026-10-13,d8c758d92f6dab44,1133726,Jordan Staal,CAR,status_changed,Day-to-Day -> Expected to be out until at least Dec 3
+2026-10-13T19:21:14Z,2026-10-13,9f2af962c00f5684,2992841,Logan O'Connor,COL,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 16
+2026-10-13T19:21:14Z,2026-10-13,31dd2a2c2729ce82,2845129,Cale Makar,COL,opened,Personal - Expected to be out until at least Oct 14
+2026-10-13T19:21:14Z,2026-10-13,4891dfdeaff08667,3117362,Joel Kiviranta,DAL,reopened,was marked returned 2026-10-12
+2026-10-13T19:21:14Z,2026-10-13,4891dfdeaff08667,3117362,Joel Kiviranta,DAL,status_changed,Expected to be out until at least Oct 13 -> Expected to be out until at least Oct 14
+2026-10-13T19:21:14Z,2026-10-13,65c137f688d0fe0b,2879989,Jake Walman,EDM,status_changed,Day-to-Day -> Expected to be out until at least Oct 15
+2026-10-13T19:21:14Z,2026-10-13,e71e17e699c1bec4,26798994,Colton Dach,EDM,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 24
+2026-10-13T19:21:14Z,2026-10-13,9d1f2ed96039f5d5,1770929,Zach Hyman,EDM,status_changed,Day-to-Day -> Expected to be out until at least Oct 15
+2026-10-13T19:21:14Z,2026-10-13,26cfac57d15fb29f,3110649,Nico Sturm,MIN,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 20
+2026-10-13T19:21:14Z,2026-10-13,de4e1cd3d776e571,2879654,Alex Barre-Boulet,SJS,status_changed,IR. Expected to be out until at least Oct 13 -> IR. Expected to be out until at least Oct 24
+2026-10-13T19:21:14Z,2026-10-13,96b4540e1ac10ce0,28901948,Dennis Hildeby,TBL,opened,Undisclosed - Day-to-Day
+2026-10-13T19:21:14Z,2026-10-13,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,type_changed,Upper Body -> Wrist
+2026-10-13T19:21:14Z,2026-10-13,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,Day-to-Day -> Expected to be out until at least Oct 15
+2026-10-13T19:21:14Z,2026-10-13,a15f12a117338bb1,2850816,Andrei Kuzmenko,PIT,closed,off the report since 2026-10-12
