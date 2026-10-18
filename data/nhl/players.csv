@@ -17,6 +17,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1770929,Zach Hyman,EDM,8475786,1992-06-09,L,roster,2026-10-01
 1771018,Mats Zuccarello,LAK,8475692,1987-09-01,R,roster,2026-09-24
 1771089,Christopher Tanev,TOR,8475690,1989-12-20,D,roster (nickname),2026-10-10
+1897634,Sean Couturier,PHI,8476461,1992-12-07,C,roster,2026-10-18
 1897650,Joel Edmundson,LAK,8476441,1993-06-28,D,roster,2026-09-27
 1897686,Jonathan Huberdeau,CGY,8476456,1993-06-04,L,roster,2026-09-24
 1897737,Vladislav Namestnikov,WPG,8476480,1992-11-22,C,roster,2026-10-18
@@ -92,6 +93,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2271613,Matt Grzelcyk,BUF,8476891,1994-01-05,D,roster,2026-10-13
 2271620,Dan Vladar,PHI,8478435,1997-08-20,G,roster,2026-09-24
 2275417,Sam Montembeault,MTL,8478470,1996-10-30,G,roster (nickname),2026-10-07
+26560462,Tyson Foerster,PHI,8482159,2002-01-18,R,roster,2026-10-18
 26560471,Kaiden Guhle,MTL,8482087,2002-01-18,D,roster,2026-09-24
 26561120,Marco Rossi,VAN,8482079,2001-09-23,C,roster,2026-10-18
 26597475,Seth Jarvis,CAR,8482093,2002-02-01,R,roster,2026-09-24
