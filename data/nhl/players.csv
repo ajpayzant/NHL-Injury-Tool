@@ -3,18 +3,23 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1133703,Nick Foligno,MIN,8473422,1987-10-31,L,roster,2026-10-06
 1133726,Jordan Staal,CAR,8473533,1988-09-10,C,roster,2026-10-11
 1282170,Logan Couture,SJS,8474053,1989-03-28,C,search,2026-09-27
+1282181,David Perron,DAL,8474102,1988-05-28,L,roster,2026-10-18
 1628804,Zach Bogosian,MIN,8474567,1990-07-15,D,roster,2026-10-10
 1639463,Alex Pietrangelo,VGK,8474565,1990-01-18,D,search,2026-09-24
+1639484,Jared Spurgeon,MIN,8474716,1989-11-29,D,roster,2026-10-18
 1685404,Matt Duchene,DAL,8475168,1991-01-16,C,roster,2026-09-24
 1685406,John Tavares,TOR,8475166,1990-09-20,C,roster,2026-10-09
 1707401,Ryan Ellis,CHI,8475176,1991-01-03,D,search,2026-09-27
 1707405,Marcus Foligno,MIN,8475220,1991-08-10,L,roster,2026-10-10
+1757713,Taylor Hall,CAR,8475791,1991-11-14,L,roster,2026-10-18
 1765197,Oliver Ekman-Larsson,TOR,8475171,1991-07-17,D,roster,2026-10-09
+1770919,Radko Gudas,FLA,8475462,1990-06-05,D,roster,2026-10-18
 1770929,Zach Hyman,EDM,8475786,1992-06-09,L,roster,2026-10-01
 1771018,Mats Zuccarello,LAK,8475692,1987-09-01,R,roster,2026-09-24
 1771089,Christopher Tanev,TOR,8475690,1989-12-20,D,roster (nickname),2026-10-10
 1897650,Joel Edmundson,LAK,8476441,1993-06-28,D,roster,2026-09-27
 1897686,Jonathan Huberdeau,CGY,8476456,1993-06-04,L,roster,2026-09-24
+1897737,Vladislav Namestnikov,WPG,8476480,1992-11-22,C,roster,2026-10-18
 1899089,Derek Forbort,VAN,8475762,1992-03-04,D,search,2026-09-24
 1899125,Ryan Nugent-Hopkins,EDM,8476454,1993-04-12,C,roster,2026-09-29
 1960399,Torey Krug,STL,8476792,1991-04-12,D,search,2026-09-24
@@ -24,6 +29,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2000667,Mike Matheson,MTL,8476875,1994-02-27,D,roster,2026-10-13
 2000678,Teuvo Teravainen,CHI,8476882,1994-09-11,C,roster,2026-10-07
 2000679,Jacob Trouba,SJS,8476885,1994-02-26,D,roster,2026-10-03
+2036205,Mikael Granlund,ANA,8475798,1992-02-26,C,roster,2026-10-18
 2039464,Frederik Andersen,EDM,8475883,1989-10-02,G,roster,2026-09-24
 2054009,Nick Bjugstad,NJD,8475760,1992-07-17,C,roster,2026-09-24
 2076014,Aleksander Barkov,FLA,8477493,1995-09-02,C,roster,2026-10-02
@@ -43,6 +49,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147283,Aaron Ekblad,FLA,8477932,1996-02-07,D,roster,2026-10-05
 2147340,Yanni Gourde,TBL,8476826,1991-12-15,C,roster,2026-09-24
 2147344,Connor Hellebuyck,WPG,8476945,1993-05-19,G,roster,2026-10-02
+2147348,Ross Johnston,STL,8477527,1994-02-18,L,roster,2026-10-18
 2147354,Dylan Larkin,DET,8477946,1996-07-30,C,roster,2026-09-24
 2147476,Nick Paul,TOR,8477426,1995-03-20,L,roster,2026-09-24
 2147507,Bryan Rust,PIT,8475810,1992-05-11,R,roster,2026-09-27
@@ -53,14 +60,19 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2179103,Travis Konecny,PHI,8478439,1997-03-11,R,roster,2026-10-10
 2197831,Mattias Janmark,EDM,8477406,1992-12-08,C,roster,2026-09-24
 2197838,Joonas Korpisalo,NYR,8476914,1994-04-28,G,roster,2026-10-01
+2197852,Brandon Montour,SEA,8477986,1994-04-11,D,roster,2026-10-18
 2197885,Linus Ullmark,OTT,8476999,1993-07-31,G,roster,2026-10-06
 2198224,Jake DeBrusk,VAN,8478498,1996-10-17,L,roster,2026-09-28
+2198231,Pavel Zacha,BOS,8478401,1997-04-06,C,roster,2026-10-18
 2198286,Mathew Barzal,NYI,8478445,1997-05-26,C,roster,2026-09-24
+2198288,Thomas Chabot,OTT,8478469,1997-01-30,D,roster,2026-10-18
 2198485,Jonas Siegenthaler,NJD,8478399,1997-05-06,D,roster,2026-10-07
+2233024,Miles Wood,TOR,8477425,1995-09-13,L,roster,2026-10-18
 2245466,Jake Bean,CGY,8479402,1998-06-09,D,search,2026-09-24
 2245477,Dillon Dube,STL,8479346,1998-07-20,C,roster,2026-10-09
 2245478,Pierre-Luc Dubois,WSH,8479400,1998-06-24,C,roster,2026-10-10
 2245479,Dante Fabbro,CBJ,8479371,1998-06-20,D,roster,2026-09-24
+2245484,Samuel Girard,PIT,8479398,1998-05-12,D,roster,2026-10-18
 2245486,Filip Gustavsson,MIN,8479406,1998-06-07,G,roster,2026-09-24
 2245504,Ryan Lindgren,SEA,8479324,1998-02-11,D,roster,2026-10-07
 2245507,Charlie McAvoy,BOS,8479325,1997-12-21,D,roster,2026-09-24
@@ -69,6 +81,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2267064,MacKenzie MacEachern,VAN,8476907,1994-03-09,L,search,2026-09-29
 2269089,Conor Garland,CBJ,8478856,1996-03-11,R,roster,2026-10-13
 2269101,Alex Lyon,BUF,8479312,1992-12-09,G,roster,2026-09-24
+2269107,Nicolas Roy,COL,8478462,1997-02-05,C,roster,2026-10-18
 2269122,Parker Wotherspoon,VGK,8478450,1997-08-24,D,roster,2026-10-12
 2269432,Alexandre Carrier,MTL,8478851,1996-10-08,D,roster,2026-10-04
 2269434,J.T. Compher,DET,8477456,1995-04-08,L,roster,2026-10-06
@@ -80,9 +93,11 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2271620,Dan Vladar,PHI,8478435,1997-08-20,G,roster,2026-09-24
 2275417,Sam Montembeault,MTL,8478470,1996-10-30,G,roster (nickname),2026-10-07
 26560471,Kaiden Guhle,MTL,8482087,2002-01-18,D,roster,2026-09-24
+26561120,Marco Rossi,VAN,8482079,2001-09-23,C,roster,2026-10-18
 26597475,Seth Jarvis,CAR,8482093,2002-02-01,R,roster,2026-09-24
 26599848,Ridly Greig,OTT,8482092,2002-08-08,C,roster,2026-09-24
 26600484,Lukas Cormier,VGK,8482141,2002-03-27,D,search,2026-09-29
+26603168,Egor Chinakhov,PIT,8482475,2001-02-01,R,roster,2026-10-18
 26603173,Mavrik Bourque,NSH,8482145,2002-01-08,C,roster,2026-10-08
 26603210,Jake Sanderson,OTT,8482105,2002-07-08,D,roster,2026-09-24
 26648515,Shane Pinto,OTT,8481596,2000-11-12,C,roster,2026-09-24
@@ -91,11 +106,14 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26798940,William Eklund,OTT,8482667,2002-10-12,L,roster,2026-10-08
 26798994,Colton Dach,EDM,8482703,2003-01-04,C,roster,2026-10-07
 26799114,Jack Thompson,VAN,8482144,2002-03-19,D,search,2026-09-29
+26799123,Justin Sourdif,WSH,8482088,2002-03-24,C,roster,2026-10-18
 26799195,Jacob Melanson,SEA,8482874,2003-04-22,R,roster,2026-10-03
+26799264,Oskar Back,DAL,8480840,2000-03-12,C,roster,2026-10-18
 26799321,Zachary L'Heureux,COL,8482742,2003-05-15,L,roster,2026-09-28
 26799378,Walker Duehr,WPG,8482652,1997-11-23,R,search,2026-09-29
 26799426,Olen Zellweger,BUF,8482803,2003-09-10,D,roster,2026-09-24
 26799432,Vincent Iorio,NYR,8482861,2002-11-14,D,roster,2026-09-24
+26799462,Luke Evangelista,NJD,8482146,2002-02-21,R,roster,2026-10-18
 26799648,Helge Grans,PHI,8482169,2002-05-10,D,roster,2026-09-28
 26799690,William Villeneuve,TOR,8482174,2002-03-20,D,search,2026-09-29
 26802435,Tristan Broz,PIT,8482698,2002-10-10,C,search,2026-09-28
@@ -109,6 +127,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26802563,William Trudeau,NSH,8482806,2002-10-11,D,roster,2026-10-08
 2831871,Igor Shesterkin,NYR,8478048,1995-12-30,G,roster,2026-10-10
 2831960,Artem Zub,OTT,8482245,1995-10-03,D,roster,2026-09-24
+2845125,Owen Tippett,PHI,8480015,1999-02-16,R,roster,2026-10-18
 2845129,Cale Makar,COL,8480069,1998-10-30,D,roster,2026-09-24
 2845320,Filip Chytil,VAN,8480078,1999-09-05,C,roster,2026-09-24
 2845354,Jake Oettinger,DAL,8479979,1998-12-18,G,roster,2026-09-24
@@ -122,6 +141,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2879664,MacKenzie Entwistle,FLA,8480025,1999-07-14,R,search,2026-09-29
 2879747,Kyle Keyser,SJS,8480356,1999-03-08,G,roster,2026-09-28
 2879768,Mason Appleton,DET,8478891,1996-01-15,C,roster,2026-10-06
+2879948,Roope Hintz,DAL,8478449,1996-11-17,C,roster,2026-10-18
 2879988,Alexei Toropchenko,STL,8480281,1999-06-25,R,roster (nickname),2026-10-03
 2879989,Jake Walman,EDM,8478013,1996-02-20,D,roster,2026-10-10
 2880258,Matt Roy,WSH,8478911,1995-03-01,D,roster,2026-10-04
@@ -134,7 +154,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28895787,Maveric Lamoureux,UTA,8483472,2004-01-13,D,roster,2026-09-28
 28895794,Danila Yurov,MIN,8483525,2003-12-22,R,roster,2026-10-05
 28899547,Seamus Casey,NJD,8483429,2004-01-08,D,roster,2026-09-24
-28899562,Cameron Lund,SJS,,,,unmatched,2026-10-07
+28899562,Cameron Lund,SJS,,,,unmatched,2026-10-18
 28899567,Matthew Poitras,BOS,8483505,2004-03-10,C,roster,2026-09-24
 28899568,Elias Salomonsson,WPG,8483510,2004-08-31,D,search,2026-09-29
 28899587,Adam Sykora,NYR,8483669,2004-09-07,L,roster,2026-09-24
@@ -156,6 +176,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29167190,Jakub Dvorak,LAK,8484163,2005-05-25,D,search,2026-09-27
 29167224,Samuel Honzek,CGY,8484180,2004-11-12,L,roster,2026-10-10
 29167287,Quentin Musty,SJS,8484200,2005-07-06,L,search,2026-09-29
+29167322,Calum Ritchie,NYI,8484221,2005-01-21,C,roster,2026-10-18
 29167369,Florian Xhekaj,MTL,8484403,2004-06-27,L,roster,2026-10-10
 2921134,Justin Brazeau,PIT,8479638,1998-02-02,R,roster,2026-09-24
 2921272,Cameron Hughes,DAL,8478888,1996-10-09,C,search,2026-09-29
@@ -195,6 +216,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3140820,Jordan Spence,OTT,8481606,2001-02-24,D,roster,2026-09-24
 3149263,Alex Turcotte,LAK,8481532,2001-02-26,C,roster,2026-10-09
 3158655,Mattias Samuelsson,BUF,8480807,2000-03-14,D,roster,2026-09-24
+3166626,Matias Maccelli,NYI,8481711,2000-10-14,L,roster,2026-10-18
 3166632,Alexander Romanov,NYI,8481014,2000-01-06,D,roster,2026-10-07
 3166638,Cam Crotty,OTT,8480075,1999-05-05,D,roster (nickname),2026-10-08
 3166641,Justus Annunen,NSH,8481020,2000-03-11,G,roster,2026-10-03
@@ -220,7 +242,7 @@ dfo:2727,Alex Nedeljkovic,SJS,8477968,1996-01-07,G,roster,2026-09-30
 dfo:28990,Logan Thompson,WSH,8480313,1997-02-25,G,roster,2026-09-29
 dfo:29143,Lukas Dostal,ANA,8480843,2000-06-22,G,roster,2026-09-29
 dfo:30486,Pyotr Kochetkov,CAR,8481611,1999-06-25,G,roster,2026-09-29
-dfo:33773,Cameron Lund,SJS,,,,unmatched,2026-10-07
+dfo:33773,Cameron Lund,SJS,,,,unmatched,2026-10-18
 dfo:34603,Arvid Soderblom,CHI,8482821,1999-08-19,G,roster,2026-09-29
 dfo:35165,Gabriel Perreault,NYR,8484210,2005-05-07,R,roster (nickname),2026-09-29
 dfo:36542,Berkly Catton,SEA,8484800,2006-01-14,C,roster,2026-09-29
@@ -228,9 +250,9 @@ dfo:36942,Cole Beaudoin,NYR,8484786,2006-04-24,C,search,2026-09-29
 dfo:3792,Mackenzie Blackwood,COL,8478406,1996-12-09,G,roster,2026-09-29
 dfo:38089,Landon Slaggert,CHI,8482172,2002-06-25,L,roster,2026-09-29
 dfo:38130,Damian Clara,ANA,8484391,2005-01-13,G,search,2026-09-29
-dfo:38455,Tom Willander,VAN,,,,unmatched,2026-10-07
-dfo:38474,Matthew Schaefer,NYI,,,,unmatched,2026-10-07
-dfo:38739,Andrea Glauser,,,,,unmatched,2026-10-07
+dfo:38455,Tom Willander,VAN,,,,unmatched,2026-10-18
+dfo:38474,Matthew Schaefer,NYI,,,,unmatched,2026-10-18
+dfo:38739,Andrea Glauser,,,,,unmatched,2026-10-18
 dfo:3874,Carter Hart,VGK,8479394,1998-08-13,G,roster,2026-09-29
 dfo:38893,Viking Gustafsson Nyberg,MIN,8486166,2003-09-21,D,roster,2026-09-29
 dfo:4741,Stuart Skinner,WPG,8479973,1998-11-01,G,roster,2026-09-29

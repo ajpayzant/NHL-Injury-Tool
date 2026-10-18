@@ -762,3 +762,68 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-13T19:21:14Z,2026-10-13,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,type_changed,Upper Body -> Wrist
 2026-10-13T19:21:14Z,2026-10-13,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,Day-to-Day -> Expected to be out until at least Oct 15
 2026-10-13T19:21:14Z,2026-10-13,a15f12a117338bb1,2850816,Andrei Kuzmenko,PIT,closed,off the report since 2026-10-12
+2026-10-18T16:23:11Z,2026-10-18,fa67ee97c2fd4148,2036205,Mikael Granlund,ANA,opened,Upper Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,c85174a743eef3d9,29700624,Ian Moore,ANA,status_changed,IR. Expected to be out until at least Oct 16 -> IR. Expected to be out until at least Nov 8
+2026-10-18T16:23:11Z,2026-10-18,10cfda5fe3796a19,2198231,Pavel Zacha,BOS,opened,Upper Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,3db37fb3a95c19fb,2940900,Rasmus Dahlin,BUF,status_changed,Expected to be out until at least Oct 15 -> Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,f6754b3b329df5de,2858568,Conor Timmins,BUF,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 24
+2026-10-18T16:23:11Z,2026-10-18,2664ad8f11ad2a47,2271613,Matt Grzelcyk,BUF,type_changed,Undisclosed -> Lower Body
+2026-10-18T16:23:11Z,2026-10-18,06b39fc7db91f1fe,1757713,Taylor Hall,CAR,opened,Upper Body - Expected to be out until at least Nov 7
+2026-10-18T16:23:11Z,2026-10-18,eb2d7adfefa0562d,26597475,Seth Jarvis,CAR,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 20
+2026-10-18T16:23:11Z,2026-10-18,d8c758d92f6dab44,1133726,Jordan Staal,CAR,status_changed,Expected to be out until at least Dec 3 -> IR. Expected to be out until at least Dec 3
+2026-10-18T16:23:11Z,2026-10-18,d0f48e86438fb930,3130083,Bowen Byram,CHI,opened,Upper Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,21718b4838f704d9,2269107,Nicolas Roy,COL,opened,Lower Body - Expected to be out until at least Oct 23
+2026-10-18T16:23:11Z,2026-10-18,52f2791bb83415a5,26799321,Zachary L'Heureux,COL,opened,Upper Body - Expected to be out until at least Oct 23
+2026-10-18T16:23:11Z,2026-10-18,c8407262ef28e764,29237428,Georgii Merkulov,COL,status_changed,IR. Expected to be out until at least Oct 16 -> IR. Expected to be out until at least Oct 28
+2026-10-18T16:23:11Z,2026-10-18,9f2af962c00f5684,2992841,Logan O'Connor,COL,status_changed,IR. Expected to be out until at least Oct 16 -> IR. Expected to be out until at least Oct 25
+2026-10-18T16:23:11Z,2026-10-18,6343c20501a6449f,2178634,Ivan Provorov,CBJ,status_changed,IR. Expected to be out until at least Oct 18 -> IR. Expected to be out until at least Oct 24
+2026-10-18T16:23:11Z,2026-10-18,a94b6c04af02456b,2879948,Roope Hintz,DAL,opened,Undisclosed - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,f6a21598aeb48cca,1282181,David Perron,DAL,opened,Not Injury Related - Expected to be out until at least Oct 20
+2026-10-18T16:23:11Z,2026-10-18,9cfd3ff1e20579ae,26799264,Oskar Back,DAL,opened,Finger - IR. Expected to be out until at least Nov 14
+2026-10-18T16:23:11Z,2026-10-18,ca9f84f86c5244c6,2269434,J.T. Compher,DET,status_changed,IR. Expected to be out until at least Oct 15 -> IR. Expected to be out until at least Oct 22
+2026-10-18T16:23:11Z,2026-10-18,662845e3f8213e37,2076017,Jason Dickinson,EDM,opened,Undisclosed - Expected to be out until at least Oct 28
+2026-10-18T16:23:11Z,2026-10-18,8ba349f67c6f3c7b,1899125,Ryan Nugent-Hopkins,EDM,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 22
+2026-10-18T16:23:11Z,2026-10-18,7b3d974cb60e4f05,2197831,Mattias Janmark,EDM,status_changed,IR. Expected to be out until at least Oct 15 -> IR. Expected to be out until at least Oct 26
+2026-10-18T16:23:11Z,2026-10-18,903eb527d613056e,1770919,Radko Gudas,FLA,opened,Undisclosed - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,f7a7254d9b7c1764,2858572,Jonah Gadjovich,FLA,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Nov 28
+2026-10-18T16:23:11Z,2026-10-18,401989ba6238288a,3149263,Alex Turcotte,LAK,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 22
+2026-10-18T16:23:11Z,2026-10-18,d611c0a8978aff78,2146557,Kevin Fiala,LAK,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 24
+2026-10-18T16:23:11Z,2026-10-18,eb80e6dc19513fe1,1133703,Nick Foligno,MIN,status_changed,IR. Expected to be out until at least Oct 18 -> IR. Expected to be out until at least Oct 22
+2026-10-18T16:23:11Z,2026-10-18,b60cf33c455d5a29,2000666,Olli Maatta,MIN,opened,Upper Body - Expected to be out until at least Oct 20
+2026-10-18T16:23:11Z,2026-10-18,dac5c152f6f068ae,29101182,Brock Faber,MIN,status_changed,IR. Expected to be out until at least Oct 15 -> IR. Expected to be out until at least Nov 3
+2026-10-18T16:23:11Z,2026-10-18,26cfac57d15fb29f,3110649,Nico Sturm,MIN,type_changed,Upper Body -> Concussion
+2026-10-18T16:23:11Z,2026-10-18,f04936bb34f7d412,1707405,Marcus Foligno,MIN,status_changed,IR. Expected to be out until at least Oct 15 -> IR. Expected to be out until at least Oct 20
+2026-10-18T16:23:11Z,2026-10-18,d1136e5f883994e8,1639484,Jared Spurgeon,MIN,opened,Upper Body - Expected to be out until at least Oct 22
+2026-10-18T16:23:11Z,2026-10-18,7c9eef55bb2ca8eb,2000667,Mike Matheson,MTL,status_changed,Expected to be out until at least Oct 14 -> Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,1734ebf985c065f8,29167369,Florian Xhekaj,MTL,type_changed,Undisclosed -> Lower Body
+2026-10-18T16:23:11Z,2026-10-18,1734ebf985c065f8,29167369,Florian Xhekaj,MTL,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 31
+2026-10-18T16:23:11Z,2026-10-18,a67fc5df6616a3ac,26799462,Luke Evangelista,NJD,opened,Illness - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,ed484807a8f7891a,2094544,Connor Brown,NJD,status_changed,IR. Expected to be out until at least Oct 15 -> IR. Expected to be out until at least Oct 20
+2026-10-18T16:23:11Z,2026-10-18,1e7e9850d1d50ac8,3166626,Matias Maccelli,NYI,opened,Lower Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,ede5e687224306cc,29167322,Calum Ritchie,NYI,opened,Lower Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,status_changed,Expected to be out until at least Oct 15 -> Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,73f5e54f386a1af5,2198288,Thomas Chabot,OTT,opened,Upper Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,ec98bf6d9cecf4ee,26798940,William Eklund,OTT,status_changed,IR. Expected to be out until at least Jan 2 -> IR. Expected to be out until at least Jan 5
+2026-10-18T16:23:11Z,2026-10-18,e74967ac97ef3ccb,2845125,Owen Tippett,PHI,opened,Upper Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,e5b075967e00a4dc,2179103,Travis Konecny,PHI,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 19
+2026-10-18T16:23:11Z,2026-10-18,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,status_changed,IR. Expected to be out until at least Oct 15 -> IR. Expected to be out until at least Oct 19
+2026-10-18T16:23:11Z,2026-10-18,4855b9e6629d06f4,2245484,Samuel Girard,PIT,opened,Undisclosed - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,c813146b44512a72,26603168,Egor Chinakhov,PIT,opened,Lower Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,1ccf090db77e4a1b,2197852,Brandon Montour,SEA,opened,Lower Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,a9353331fca3dac5,2147348,Ross Johnston,STL,opened,Lower Body - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,e2a119256b5ef0cf,1685406,John Tavares,TOR,opened,Lower Body - IR. Expected to be out until at least Nov 27
+2026-10-18T16:23:11Z,2026-10-18,fd626d5fe3ebd49f,2233024,Miles Wood,TOR,opened,Undisclosed - IR. Expected to be out until at least Oct 22
+2026-10-18T16:23:11Z,2026-10-18,4d52349218f4b6ea,1771089,Christopher Tanev,TOR,status_changed,IR. Expected to be out until at least Oct 19 -> IR. Expected to be out until at least Oct 22
+2026-10-18T16:23:11Z,2026-10-18,a60254bbd220c623,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Oct 24 -> Expected to be out until at least Nov 1
+2026-10-18T16:23:11Z,2026-10-18,10c9f807e27db4f3,26561120,Marco Rossi,VAN,opened,Illness - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,e30ad2d1c5970877,2269122,Parker Wotherspoon,VGK,status_changed,Expected to be out until at least Oct 20 -> Expected to be out until at least Nov 8
+2026-10-18T16:23:11Z,2026-10-18,7674adfce6bcd00a,26799123,Justin Sourdif,WSH,opened,Illness - Day-to-Day
+2026-10-18T16:23:11Z,2026-10-18,d379e9c2db37e742,2880258,Matt Roy,WSH,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 20
+2026-10-18T16:23:11Z,2026-10-18,95a733bb4507f78f,2245478,Pierre-Luc Dubois,WSH,status_changed,Expected to be out until at least Oct 14 -> IR. Expected to be out until at least Oct 20
+2026-10-18T16:23:11Z,2026-10-18,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,Expected to be out until at least Oct 15 -> Expected to be out until at least Nov 1
+2026-10-18T16:23:11Z,2026-10-18,6939c60becc59f03,2147344,Connor Hellebuyck,WPG,status_changed,Expected to be out until at least Oct 17 -> Expected to be out until at least Oct 25
+2026-10-18T16:23:11Z,2026-10-18,0815be4a3c4107a2,1897737,Vladislav Namestnikov,WPG,opened,Undisclosed - Expected to be out until at least Oct 30
+2026-10-18T16:23:11Z,2026-10-18,dde0d7ed6c9be5be,28901928,Garrett Brown,WPG,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 30
+2026-10-18T16:23:11Z,2026-10-18,ddb9c4c1abdf2365,26802514,Emil Martinsen Lilleberg,TBL,closed,off the report since 2026-10-13
+2026-10-18T16:23:11Z,2026-10-18,7e9435e30a4fca07,50028669,Harrison Scott,DAL,closed,off the report since 2026-10-13
+2026-10-18T16:23:11Z,2026-10-18,3a7abef0121fd9d6,29167155,Connor Bedard,CHI,closed,off the report since 2026-10-13
