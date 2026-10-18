@@ -836,3 +836,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-18T18:11:43Z,2026-10-18,f80065c57efb7e67,1897634,Sean Couturier,PHI,opened,Undisclosed - Day-to-Day
 2026-10-18T18:11:43Z,2026-10-18,ccc47320946951e3,26799114,Jack Thompson,VAN,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 31
 2026-10-18T18:11:43Z,2026-10-18,c944171159d0fba9,26799378,Walker Duehr,WPG,status_changed,IR. Expected to be out until at least Oct 17 -> IR. Expected to be out until at least Oct 29
+2026-10-18T20:52:32Z,2026-10-18,2cd04f19121b5054,2245479,Dante Fabbro,CBJ,type_changed,Upper Body -> Hand
+2026-10-18T20:52:32Z,2026-10-18,e5c6d19504025360,2245486,Filip Gustavsson,MIN,status_changed,IR. Expected to be out until at least Nov 1 -> IR. Expected to be out until at least Nov 14
+2026-10-18T20:52:32Z,2026-10-18,d1136e5f883994e8,1639484,Jared Spurgeon,MIN,status_changed,Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 22
+2026-10-18T20:52:32Z,2026-10-18,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,status_changed,IR. Expected to be out until at least Oct 19 -> IR. Expected to be out until at least Oct 24
+2026-10-18T20:52:32Z,2026-10-18,cae17ace2b72715d,26657143,Cam York,PHI,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 24
