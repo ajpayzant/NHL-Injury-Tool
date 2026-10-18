@@ -58,7 +58,9 @@ def test_player_profile_and_filters():
     at.switch_page("views/search.py").run()
     at.text_input[0].input("Makar").run()
     assert not at.exception
-    assert at.metric[0].value in ("1", "2", "3")
+    # Compare against the live data, which grows with every scrape.
+    makar = sum("makar" in r["player"].lower() for r in rows)
+    assert makar and at.metric[0].value == str(makar)
 
     at.switch_page("views/news.py").run()
     for window in ("Last 2 days", "Last 14 days"):
