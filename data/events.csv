@@ -843,3 +843,26 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-18T20:52:32Z,2026-10-18,cae17ace2b72715d,26657143,Cam York,PHI,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 24
 2026-10-18T23:21:03Z,2026-10-18,e5c6d19504025360,2245486,Filip Gustavsson,MIN,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 19
 2026-10-19T01:23:37Z,2026-10-18,34fdad872e1ce11f,2000662,Mark Jankowski,CAR,opened,Lower Body - Expected to be out until at least Oct 20
+2026-10-19T06:20:40Z,2026-10-19,34fdad872e1ce11f,2000662,Mark Jankowski,CAR,status_changed,Expected to be out until at least Oct 20 -> Expected to be out until at least Oct 27
+2026-10-19T06:20:40Z,2026-10-19,b60cf33c455d5a29,2000666,Olli Maatta,MIN,status_changed,Expected to be out until at least Oct 20 -> Expected to be out until at least Oct 22
+2026-10-19T06:20:40Z,2026-10-19,f04936bb34f7d412,1707405,Marcus Foligno,MIN,status_changed,IR. Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Oct 24
+2026-10-19T06:20:40Z,2026-10-19,a9353331fca3dac5,2147348,Ross Johnston,STL,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 24
+2026-10-19T06:20:40Z,2026-10-19,d79b4a39f6627deb,2269089,Conor Garland,CBJ,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,31dd2a2c2729ce82,2845129,Cale Makar,COL,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,96b4540e1ac10ce0,28901948,Dennis Hildeby,TBL,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,268d5c48891127e3,29222765,Nikolas Matinpalo,OTT,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,ef52ca0b546cb6bf,2147156,Barclay Goodrow,SJS,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,d55397bf0e6333d1,28895738,Cutter Gauthier,ANA,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,65c137f688d0fe0b,2879989,Jake Walman,EDM,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,c5ab83aeaa5d8d1e,3166638,Cam Crotty,OTT,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,4891dfdeaff08667,3117362,Joel Kiviranta,DAL,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,e71e17e699c1bec4,26798994,Colton Dach,EDM,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,733615f46cb56884,3166641,Justus Annunen,NSH,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,9d1f2ed96039f5d5,1770929,Zach Hyman,EDM,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,de4e1cd3d776e571,2879654,Alex Barre-Boulet,SJS,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,3aaa178bbbbc1232,28899562,Cameron Lund,SJS,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,b3580756ef5c1598,28899568,Elias Salomonsson,WPG,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,b5da50e4063151f2,26802481,Oliver Kapanen,MTL,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,ab4d3ad68c76b8f0,2845320,Filip Chytil,VAN,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,e7e5a6ca0590c102,29023281,Drew Helleson,ANA,closed,off the report since 2026-10-18
+2026-10-19T06:20:40Z,2026-10-19,a6cc2f6b99dd8bff,2831960,Artem Zub,OTT,closed,off the report since 2026-10-18
