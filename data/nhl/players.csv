@@ -39,6 +39,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2076017,Jason Dickinson,EDM,8477450,1995-07-04,C,roster,2026-09-25
 2076018,Max Domi,TOR,8477503,1995-03-02,C,roster,2026-09-24
 2076022,Bo Horvat,NYI,8477500,1995-04-05,C,roster,2026-10-09
+2076028,Anthony Mantha,NJD,8477511,1994-09-16,R,roster,2026-10-19
 2076032,Josh Morrissey,WPG,8477504,1995-03-28,D,roster,2026-10-08
 2076038,Rasmus Ristolainen,PHI,8477499,1994-10-27,D,roster,2026-10-04
 2093865,Damon Severson,CBJ,8476923,1994-08-07,D,roster,2026-09-24
@@ -53,6 +54,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147344,Connor Hellebuyck,WPG,8476945,1993-05-19,G,roster,2026-10-02
 2147348,Ross Johnston,STL,8477527,1994-02-18,L,roster,2026-10-18
 2147354,Dylan Larkin,DET,8477946,1996-07-30,C,roster,2026-09-24
+2147463,William Nylander,TOR,8477939,1996-05-01,R,roster,2026-10-19
 2147476,Nick Paul,TOR,8477426,1995-03-20,L,roster,2026-09-24
 2147507,Bryan Rust,PIT,8475810,1992-05-11,R,roster,2026-09-27
 2147521,Conor Sheary,BUF,8477839,1992-06-08,L,roster,2026-09-28
@@ -106,6 +108,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26648515,Shane Pinto,OTT,8481596,2000-11-12,C,roster,2026-09-24
 26657143,Cam York,PHI,8481546,2001-01-05,D,roster,2026-10-10
 26798877,Chase Stillman,DET,8482714,2003-03-19,R,search,2026-10-03
+26798892,Justin Danforth,BUF,8479941,1993-03-15,R,roster,2026-10-19
 26798940,William Eklund,OTT,8482667,2002-10-12,L,roster,2026-10-08
 26798994,Colton Dach,EDM,8482703,2003-01-04,C,roster,2026-10-07
 26799114,Jack Thompson,VAN,8482144,2002-03-19,D,search,2026-09-29
