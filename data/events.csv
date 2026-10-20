@@ -955,3 +955,10 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-20T15:10:30Z,2026-10-20,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,Expected to be out until at least Oct 22 -> Day-to-Day
 2026-10-20T15:10:30Z,2026-10-20,044658824baa01e8,2147463,William Nylander,TOR,closed,off the report since 2026-10-19
 2026-10-20T15:10:30Z,2026-10-20,f80065c57efb7e67,1897634,Sean Couturier,PHI,closed,off the report since 2026-10-19
+2026-10-20T19:21:48Z,2026-10-20,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 31
+2026-10-20T19:21:48Z,2026-10-20,f9e85c435b97d87e,1770884,Sam Carrick,BUF,opened,Upper Body - Day-to-Day
+2026-10-20T19:21:48Z,2026-10-20,6343c20501a6449f,2178634,Ivan Provorov,CBJ,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 31
+2026-10-20T19:21:48Z,2026-10-20,9b2605503d5ed24b,2147200,Esa Lindell,DAL,opened,Lower Body - Expected to be out until at least Oct 27
+2026-10-20T19:21:48Z,2026-10-20,7953368b29fceaa2,28895750,Marco Kasper,DET,status_changed,IR. Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Oct 24
+2026-10-20T19:21:48Z,2026-10-20,1ebd33ee090e0020,1770948,Jacob Markstrom,FLA,opened,Upper Body - Expected to be out until at least Nov 4
+2026-10-20T19:21:48Z,2026-10-20,c813146b44512a72,26603168,Egor Chinakhov,PIT,closed,off the report since 2026-10-20

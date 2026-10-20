@@ -14,8 +14,10 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1707405,Marcus Foligno,MIN,8475220,1991-08-10,L,roster,2026-10-10
 1757713,Taylor Hall,CAR,8475791,1991-11-14,L,roster,2026-10-18
 1765197,Oliver Ekman-Larsson,TOR,8475171,1991-07-17,D,roster,2026-10-09
+1770884,Sam Carrick,BUF,8475842,1992-02-04,C,roster,2026-10-20
 1770919,Radko Gudas,FLA,8475462,1990-06-05,D,roster,2026-10-18
 1770929,Zach Hyman,EDM,8475786,1992-06-09,L,roster,2026-10-01
+1770948,Jacob Markstrom,FLA,8474593,1990-01-31,G,roster,2026-10-20
 1771018,Mats Zuccarello,LAK,8475692,1987-09-01,R,roster,2026-09-24
 1771089,Christopher Tanev,TOR,8475690,1989-12-20,D,roster (nickname),2026-10-10
 1897634,Sean Couturier,PHI,8476461,1992-12-07,C,roster,2026-10-18
@@ -49,6 +51,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2094574,Ryan Graves,PIT,8477435,1995-05-21,D,roster,2026-09-26
 2146557,Kevin Fiala,LAK,8477942,1996-07-22,L,roster,2026-09-24
 2147156,Barclay Goodrow,SJS,8476624,1993-02-26,C,roster,2026-10-12
+2147200,Esa Lindell,DAL,8476902,1994-05-23,D,roster,2026-10-20
 2147206,Kurtis MacDermid,OTT,8477073,1994-03-25,L,roster,2026-09-24
 2147212,Andrew Mangiapane,CHI,8478233,1996-04-04,L,roster,2026-09-30
 2147283,Aaron Ekblad,FLA,8477932,1996-02-07,D,roster,2026-10-05
