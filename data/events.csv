@@ -936,3 +936,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-19T23:47:10Z,2026-10-19,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-10-18
 2026-10-19T23:47:10Z,2026-10-19,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-10-18
 2026-10-19T23:47:10Z,2026-10-19,63f8f675f1136dec,26600484,Lukas Cormier,VGK,reopened,was marked returned 2026-10-18
+2026-10-20T04:59:45Z,2026-10-20,3b4b25d0e3dc3a20,1280555,Mikael Backlund,CGY,opened,Undisclosed - Day-to-Day
+2026-10-20T04:59:45Z,2026-10-20,5894a0a65553e688,29167224,Samuel Honzek,CGY,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 28
+2026-10-20T04:59:45Z,2026-10-20,4855b9e6629d06f4,2245484,Samuel Girard,PIT,status_changed,Day-to-Day -> Expected to be out until at least Oct 22
+2026-10-20T04:59:45Z,2026-10-20,4db95ef986ba2365,2147507,Bryan Rust,PIT,opened,Lower Body - Expected to be out until at least Oct 22
+2026-10-20T04:59:45Z,2026-10-20,25a366dec050ebf1,2076042,Alex Wennberg,SJS,opened,Upper Body - Day-to-Day
+2026-10-20T04:59:45Z,2026-10-20,82e168ef90f561e6,3140308,John Marino,UTA,opened,Upper Body - Expected to be out until at least Oct 22

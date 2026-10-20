@@ -2,6 +2,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1133425,Brad Marchand,FLA,8473419,1988-05-11,L,roster,2026-09-24
 1133703,Nick Foligno,MIN,8473422,1987-10-31,L,roster,2026-10-06
 1133726,Jordan Staal,CAR,8473533,1988-09-10,C,roster,2026-10-11
+1280555,Mikael Backlund,CGY,8474150,1989-03-17,C,roster,2026-10-20
 1282170,Logan Couture,SJS,8474053,1989-03-28,C,search,2026-09-27
 1282181,David Perron,DAL,8474102,1988-05-28,L,roster,2026-10-18
 1628804,Zach Bogosian,MIN,8474567,1990-07-15,D,roster,2026-10-10
@@ -42,6 +43,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2076028,Anthony Mantha,NJD,8477511,1994-09-16,R,roster,2026-10-19
 2076032,Josh Morrissey,WPG,8477504,1995-03-28,D,roster,2026-10-08
 2076038,Rasmus Ristolainen,PHI,8477499,1994-10-27,D,roster,2026-10-04
+2076042,Alex Wennberg,SJS,8477505,1994-09-22,C,roster (nickname),2026-10-20
 2093865,Damon Severson,CBJ,8476923,1994-08-07,D,roster,2026-09-24
 2094544,Connor Brown,NJD,8477015,1994-01-14,R,roster,2026-09-30
 2094574,Ryan Graves,PIT,8477435,1995-05-21,D,roster,2026-09-26
@@ -217,6 +219,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3117362,Joel Kiviranta,DAL,8481641,1996-03-23,L,roster,2026-10-07
 3130083,Bowen Byram,CHI,8481524,2001-06-13,D,roster,2026-10-03
 3130097,Dakota Joshua,TOR,8478057,1996-05-15,C,roster,2026-09-24
+3140308,John Marino,UTA,8478507,1997-05-21,D,roster,2026-10-20
 3140726,Raphael Lavoie,VGK,8481534,2000-09-25,C,roster,2026-09-29
 3140797,Trent Miner,COL,8481529,2001-02-05,G,search,2026-09-29
 3140820,Jordan Spence,OTT,8481606,2001-02-24,D,roster,2026-09-24
