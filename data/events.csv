@@ -947,3 +947,11 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-20T10:09:27Z,2026-10-20,a94b6c04af02456b,2879948,Roope Hintz,DAL,closed,off the report since 2026-10-19
 2026-10-20T10:09:27Z,2026-10-20,a67fc5df6616a3ac,26799462,Luke Evangelista,NJD,closed,off the report since 2026-10-19
 2026-10-20T10:09:27Z,2026-10-20,3b04bb1d25446de7,26603210,Jake Sanderson,OTT,closed,off the report since 2026-10-19
+2026-10-20T15:10:30Z,2026-10-20,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,IR. Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Oct 25
+2026-10-20T15:10:30Z,2026-10-20,ed484807a8f7891a,2094544,Connor Brown,NJD,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 20
+2026-10-20T15:10:30Z,2026-10-20,2c6c20b3b9c72d04,26560462,Tyson Foerster,PHI,status_changed,Expected to be out until at least Oct 21 -> Day-to-Day
+2026-10-20T15:10:30Z,2026-10-20,4db95ef986ba2365,2147507,Bryan Rust,PIT,status_changed,Expected to be out until at least Oct 22 -> Day-to-Day
+2026-10-20T15:10:30Z,2026-10-20,4855b9e6629d06f4,2245484,Samuel Girard,PIT,status_changed,Expected to be out until at least Oct 22 -> Day-to-Day
+2026-10-20T15:10:30Z,2026-10-20,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,Expected to be out until at least Oct 22 -> Day-to-Day
+2026-10-20T15:10:30Z,2026-10-20,044658824baa01e8,2147463,William Nylander,TOR,closed,off the report since 2026-10-19
+2026-10-20T15:10:30Z,2026-10-20,f80065c57efb7e67,1897634,Sean Couturier,PHI,closed,off the report since 2026-10-19
