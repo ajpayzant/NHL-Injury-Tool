@@ -962,3 +962,12 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-20T19:21:48Z,2026-10-20,7953368b29fceaa2,28895750,Marco Kasper,DET,status_changed,IR. Expected to be out until at least Oct 20 -> IR. Expected to be out until at least Oct 24
 2026-10-20T19:21:48Z,2026-10-20,1ebd33ee090e0020,1770948,Jacob Markstrom,FLA,opened,Upper Body - Expected to be out until at least Nov 4
 2026-10-20T19:21:48Z,2026-10-20,c813146b44512a72,26603168,Egor Chinakhov,PIT,closed,off the report since 2026-10-20
+2026-10-20T22:25:21Z,2026-10-20,3b4b25d0e3dc3a20,1280555,Mikael Backlund,CGY,type_changed,Undisclosed -> Upper Body
+2026-10-20T22:25:21Z,2026-10-20,7953368b29fceaa2,28895750,Marco Kasper,DET,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 29
+2026-10-20T22:25:21Z,2026-10-20,8ce5e076b5adbbce,2879768,Mason Appleton,DET,status_changed,IR. Expected to be out until at least Oct 26 -> IR. Expected to be out until at least Oct 29
+2026-10-20T22:25:21Z,2026-10-20,1ebd33ee090e0020,1770948,Jacob Markstrom,FLA,status_changed,Expected to be out until at least Nov 4 -> IR. Expected to be out until at least Nov 4
+2026-10-20T22:25:21Z,2026-10-20,7c9eef55bb2ca8eb,2000667,Mike Matheson,MTL,status_changed,Day-to-Day -> Expected to be out until at least Oct 23
+2026-10-20T22:25:21Z,2026-10-20,1ef1fca87cabf16c,50001142,Benjamin Kindel,PIT,opened,Undisclosed - Expected to be out until at least Oct 29
+2026-10-20T22:25:21Z,2026-10-20,25a366dec050ebf1,2076042,Alex Wennberg,SJS,status_changed,Day-to-Day -> Expected to be out until at least Oct 22
+2026-10-20T22:25:21Z,2026-10-20,a60254bbd220c623,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Nov 1 -> IR. Expected to be out until at least Nov 1
+2026-10-20T22:25:21Z,2026-10-20,10c9f807e27db4f3,26561120,Marco Rossi,VAN,status_changed,Day-to-Day -> Expected to be out until at least Oct 22
