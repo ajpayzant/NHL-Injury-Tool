@@ -101,6 +101,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2271613,Matt Grzelcyk,BUF,8476891,1994-01-05,D,roster,2026-10-13
 2271620,Dan Vladar,PHI,8478435,1997-08-20,G,roster,2026-09-24
 2275417,Sam Montembeault,MTL,8478470,1996-10-30,G,roster (nickname),2026-10-07
+26536165,Quinton Byfield,LAK,8482124,2002-08-19,R,roster,2026-10-20
 26560462,Tyson Foerster,PHI,8482159,2002-01-18,R,roster,2026-10-18
 26560471,Kaiden Guhle,MTL,8482087,2002-01-18,D,roster,2026-09-24
 26561120,Marco Rossi,VAN,8482079,2001-09-23,C,roster,2026-10-18
@@ -195,6 +196,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2921715,Adam Gaudette,SJS,8478874,1996-10-03,R,roster,2026-09-24
 2921773,Troy Terry,ANA,8478873,1997-09-10,R,roster,2026-09-24
 29222765,Nikolas Matinpalo,OTT,8484321,1998-10-05,D,roster,2026-10-12
+29222800,Judd Caulfield,ANA,8481538,2001-03-19,R,roster,2026-10-20
 29237428,Georgii Merkulov,COL,8483567,2000-10-10,C,search,2026-09-29
 2923811,Victor Olofsson,VGK,8478109,1995-07-18,L,roster,2026-10-07
 29373582,Cade Webber,TOR,8481570,2001-01-05,D,search,2026-09-29

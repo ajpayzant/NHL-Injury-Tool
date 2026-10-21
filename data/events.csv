@@ -971,3 +971,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-20T22:25:21Z,2026-10-20,25a366dec050ebf1,2076042,Alex Wennberg,SJS,status_changed,Day-to-Day -> Expected to be out until at least Oct 22
 2026-10-20T22:25:21Z,2026-10-20,a60254bbd220c623,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Nov 1 -> IR. Expected to be out until at least Nov 1
 2026-10-20T22:25:21Z,2026-10-20,10c9f807e27db4f3,26561120,Marco Rossi,VAN,status_changed,Day-to-Day -> Expected to be out until at least Oct 22
+2026-10-21T01:41:25Z,2026-10-20,07eca3b279e7c029,29222800,Judd Caulfield,ANA,opened,Personal - Expected to be out until at least Oct 22
+2026-10-21T01:41:25Z,2026-10-20,5a6629bac2f63e05,26536165,Quinton Byfield,LAK,opened,Upper Body - Day-to-Day
