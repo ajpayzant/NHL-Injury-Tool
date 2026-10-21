@@ -1002,3 +1002,30 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-21T13:55:07Z,2026-10-21,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-10-20
 2026-10-21T13:55:07Z,2026-10-21,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-10-20
 2026-10-21T13:55:07Z,2026-10-21,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,f9e85c435b97d87e,1770884,Sam Carrick,BUF,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-21T18:44:24Z,2026-10-21,43063d64184692ed,26798892,Justin Danforth,BUF,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-21T18:44:24Z,2026-10-21,e48d4b322a03a9f0,3166853,Jack Rathbone,BUF,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,094b2a1d375beb3d,29700070,Alexander Nikishin,CAR,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,21718b4838f704d9,2269107,Nicolas Roy,COL,status_changed,Expected to be out until at least Oct 23 -> Day-to-Day
+2026-10-21T18:44:24Z,2026-10-21,2cd04f19121b5054,2245479,Dante Fabbro,CBJ,status_changed,IR. Expected to be out until at least Nov 3 -> IR. Expected to be out until at least Oct 24
+2026-10-21T18:44:24Z,2026-10-21,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,7c9eef55bb2ca8eb,2000667,Mike Matheson,MTL,status_changed,Expected to be out until at least Oct 23 -> Day-to-Day
+2026-10-21T18:44:24Z,2026-10-21,aa8a60c666296470,50001179,Bryce Pickford,MTL,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,25a366dec050ebf1,2076042,Alex Wennberg,SJS,status_changed,Expected to be out until at least Oct 22 -> Day-to-Day
+2026-10-21T18:44:24Z,2026-10-21,c7db43d44a79272c,29167287,Quentin Musty,SJS,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,620048a7bd273eb4,1282170,Logan Couture,SJS,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,745f8e86c42e4971,50001174,Jake O'Brien,SEA,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,fa2b82f6d606389e,29407705,Adam Jecho,STL,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,7f4cb5291ee66844,29373582,Cade Webber,TOR,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,10c9f807e27db4f3,26561120,Marco Rossi,VAN,status_changed,Expected to be out until at least Oct 22 -> Day-to-Day
+2026-10-21T18:44:24Z,2026-10-21,ccc47320946951e3,26799114,Jack Thompson,VAN,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-10-20
+2026-10-21T18:44:24Z,2026-10-21,7674adfce6bcd00a,26799123,Justin Sourdif,WSH,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-21T18:44:24Z,2026-10-21,a6d2b679065009be,2880064,Logan Thompson,WSH,opened,Lower Body - Day-to-Day
