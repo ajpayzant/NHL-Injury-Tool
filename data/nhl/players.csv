@@ -35,6 +35,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2000678,Teuvo Teravainen,CHI,8476882,1994-09-11,C,roster,2026-10-07
 2000679,Jacob Trouba,SJS,8476885,1994-02-26,D,roster,2026-10-03
 2036205,Mikael Granlund,ANA,8475798,1992-02-26,C,roster,2026-10-18
+2038918,Jake McCabe,TOR,8476931,1993-10-12,D,roster,2026-10-21
 2039464,Frederik Andersen,EDM,8475883,1989-10-02,G,roster,2026-09-24
 2054009,Nick Bjugstad,NJD,8475760,1992-07-17,C,roster,2026-09-24
 2076014,Aleksander Barkov,FLA,8477493,1995-09-02,C,roster,2026-10-02
@@ -93,6 +94,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2269107,Nicolas Roy,COL,8478462,1997-02-05,C,roster,2026-10-18
 2269122,Parker Wotherspoon,VGK,8478450,1997-08-24,D,roster,2026-10-12
 2269432,Alexandre Carrier,MTL,8478851,1996-10-08,D,roster,2026-10-04
+2269433,Anthony Cirelli,TBL,8478519,1997-07-15,C,roster,2026-10-21
 2269434,J.T. Compher,DET,8477456,1995-04-08,L,roster,2026-10-06
 2269437,Andreas Englund,DET,8477971,1996-01-21,D,search,2026-09-30
 2271605,Michael Carcone,UTA,8479619,1996-05-19,L,roster,2026-09-24
@@ -173,7 +175,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28899632,Aidan Thompson,NYR,8483685,2002-02-18,C,search,2026-09-29
 28899702,Ben Hemmerling,VGK,8483748,2004-04-21,R,search,2026-09-30
 28899704,Dominic James,TBL,8483752,2002-07-03,C,roster,2026-09-24
-28901928,Garrett Brown,WPG,,,,unmatched,2026-10-13
+28901928,Garrett Brown,WPG,,,,unmatched,2026-10-21
 28901948,Dennis Hildeby,TBL,8483710,2001-08-19,G,roster,2026-10-13
 28902928,Nikita Grebenkin,PHI,8483733,2003-05-02,R,roster,2026-09-29
 28973342,Mikael Pyyhtia,CBJ,8482451,2001-12-17,L,search,2026-09-27
