@@ -1041,3 +1041,17 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-22T13:53:11Z,2026-10-22,2c6c20b3b9c72d04,26560462,Tyson Foerster,PHI,closed,off the report since 2026-10-21
 2026-10-22T13:53:11Z,2026-10-22,63f8f675f1136dec,26600484,Lukas Cormier,VGK,closed,off the report since 2026-10-21
 2026-10-22T13:53:11Z,2026-10-22,eb2d7adfefa0562d,26597475,Seth Jarvis,CAR,closed,off the report since 2026-10-21
+2026-10-22T18:37:08Z,2026-10-22,3b4b25d0e3dc3a20,1280555,Mikael Backlund,CGY,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-22T18:37:08Z,2026-10-22,9f2af962c00f5684,2992841,Logan O'Connor,COL,status_changed,IR. Expected to be out until at least Oct 25 -> IR. Expected to be out until at least Oct 23
+2026-10-22T18:37:08Z,2026-10-22,401989ba6238288a,3149263,Alex Turcotte,LAK,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 26
+2026-10-22T18:37:08Z,2026-10-22,4e8ca40f4c654530,2845132,Nick Suzuki,MTL,opened,Upper Body - Expected to be out until at least Nov 18
+2026-10-22T18:37:08Z,2026-10-22,2759479ab8d3f04e,26802563,William Trudeau,NSH,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 27
+2026-10-22T18:37:08Z,2026-10-22,8045c22b7b6d3e8d,2197885,Linus Ullmark,OTT,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 29
+2026-10-22T18:37:08Z,2026-10-22,4855b9e6629d06f4,2245484,Samuel Girard,PIT,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-22T18:37:08Z,2026-10-22,3a7d5d0fd7b6767a,2147580,Trevor van Riemsdyk,PIT,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 29
+2026-10-22T18:37:08Z,2026-10-22,4db95ef986ba2365,2147507,Bryan Rust,PIT,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 5
+2026-10-22T18:37:08Z,2026-10-22,1ef1fca87cabf16c,50001142,Benjamin Kindel,PIT,status_changed,Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Oct 29
+2026-10-22T18:37:08Z,2026-10-22,25a366dec050ebf1,2076042,Alex Wennberg,SJS,status_changed,Day-to-Day -> Expected to be out until at least Oct 27
+2026-10-22T18:37:08Z,2026-10-22,fd626d5fe3ebd49f,2233024,Miles Wood,TOR,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 26
+2026-10-22T18:37:08Z,2026-10-22,ca5be578d0498fea,28968763,Marshall Rifai,TOR,opened,Undisclosed - Day-to-Day
+2026-10-22T18:37:08Z,2026-10-22,4d52349218f4b6ea,1771089,Christopher Tanev,TOR,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 31

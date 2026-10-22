@@ -143,6 +143,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2831960,Artem Zub,OTT,8482245,1995-10-03,D,roster,2026-09-24
 2845125,Owen Tippett,PHI,8480015,1999-02-16,R,roster,2026-10-18
 2845129,Cale Makar,COL,8480069,1998-10-30,D,roster,2026-09-24
+2845132,Nick Suzuki,MTL,8480018,1999-08-10,C,roster,2026-10-22
 2845320,Filip Chytil,VAN,8480078,1999-09-05,C,roster,2026-09-24
 2845354,Jake Oettinger,DAL,8479979,1998-12-18,G,roster,2026-09-24
 2845355,Ryan Poehling,ANA,8480068,1999-01-03,C,roster,2026-10-11
@@ -179,6 +180,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28901928,Garrett Brown,WPG,,,,unmatched,2026-10-21
 28901948,Dennis Hildeby,TBL,8483710,2001-08-19,G,roster,2026-10-13
 28902928,Nikita Grebenkin,PHI,8483733,2003-05-02,R,roster,2026-09-29
+28968763,Marshall Rifai,TOR,8483546,1998-03-16,D,roster,2026-10-22
 28973342,Mikael Pyyhtia,CBJ,8482451,2001-12-17,L,search,2026-09-27
 28974592,Patrick Giles,SJS,8480825,2000-01-03,R,roster,2026-09-28
 29023281,Drew Helleson,ANA,8481563,2001-03-26,D,roster,2026-09-24
