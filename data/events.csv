@@ -1035,3 +1035,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-21T22:26:42Z,2026-10-21,1ccf090db77e4a1b,2197852,Brandon Montour,SEA,closed,off the report since 2026-10-21
 2026-10-22T07:42:46Z,2026-10-22,8045c22b7b6d3e8d,2197885,Linus Ullmark,OTT,opened,Lower Body - Day-to-Day
 2026-10-22T07:42:46Z,2026-10-22,3db37fb3a95c19fb,2940900,Rasmus Dahlin,BUF,closed,off the report since 2026-10-21
+2026-10-22T13:53:11Z,2026-10-22,43063d64184692ed,26798892,Justin Danforth,BUF,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-22T13:53:11Z,2026-10-22,c87f8057e36653ef,2921134,Justin Brazeau,PIT,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 29
+2026-10-22T13:53:11Z,2026-10-22,c3beb49d88c12316,2992289,Akil Thomas,VAN,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Nov 9
+2026-10-22T13:53:11Z,2026-10-22,2c6c20b3b9c72d04,26560462,Tyson Foerster,PHI,closed,off the report since 2026-10-21
+2026-10-22T13:53:11Z,2026-10-22,63f8f675f1136dec,26600484,Lukas Cormier,VGK,closed,off the report since 2026-10-21
+2026-10-22T13:53:11Z,2026-10-22,eb2d7adfefa0562d,26597475,Seth Jarvis,CAR,closed,off the report since 2026-10-21
