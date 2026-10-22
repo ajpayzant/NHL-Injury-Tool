@@ -1055,3 +1055,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-22T18:37:08Z,2026-10-22,fd626d5fe3ebd49f,2233024,Miles Wood,TOR,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 26
 2026-10-22T18:37:08Z,2026-10-22,ca5be578d0498fea,28968763,Marshall Rifai,TOR,opened,Undisclosed - Day-to-Day
 2026-10-22T18:37:08Z,2026-10-22,4d52349218f4b6ea,1771089,Christopher Tanev,TOR,status_changed,IR. Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 31
+2026-10-22T22:26:16Z,2026-10-22,eb2d7adfefa0562d,26597475,Seth Jarvis,CAR,reopened,was marked returned 2026-10-21
+2026-10-22T22:26:16Z,2026-10-22,eb2d7adfefa0562d,26597475,Seth Jarvis,CAR,status_changed,IR. Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-22T22:26:16Z,2026-10-22,65abb156a4dcf87f,2147212,Andrew Mangiapane,CHI,status_changed,IR. Expected to be out until at least Oct 25 -> IR. Expected to be out until at least Oct 23
+2026-10-22T22:26:16Z,2026-10-22,21718b4838f704d9,2269107,Nicolas Roy,COL,status_changed,Day-to-Day -> Expected to be out until at least Oct 25
+2026-10-22T22:26:16Z,2026-10-22,2272efa985372c5a,2095289,Daniil Tarasov,DET,opened,Undisclosed - Expected to be out until at least Oct 24
