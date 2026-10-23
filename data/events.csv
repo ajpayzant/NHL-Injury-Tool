@@ -1090,3 +1090,26 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-23T13:33:49Z,2026-10-23,b60cf33c455d5a29,2000666,Olli Maatta,MIN,closed,off the report since 2026-10-22
 2026-10-23T13:33:49Z,2026-10-23,ca9f84f86c5244c6,2269434,J.T. Compher,DET,closed,off the report since 2026-10-22
 2026-10-23T13:33:49Z,2026-10-23,9f2af962c00f5684,2992841,Logan O'Connor,COL,closed,off the report since 2026-10-22
+2026-10-23T18:27:29Z,2026-10-23,880dc0dd6780c4cd,26802510,Jeff Malott,ANA,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,df745d07bc9b9153,28895785,Jiri Kulich,BUF,opened,Face - Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,3b4b25d0e3dc3a20,1280555,Mikael Backlund,CGY,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,34fdad872e1ce11f,2000662,Mark Jankowski,CAR,status_changed,Expected to be out until at least Oct 27 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,2cd04f19121b5054,2245479,Dante Fabbro,CBJ,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 27
+2026-10-23T18:27:29Z,2026-10-23,2272efa985372c5a,2095289,Daniil Tarasov,DET,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,5a6629bac2f63e05,26536165,Quinton Byfield,LAK,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,b03899ebb6e79189,50001324,Maxim Shabanov,MIN,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,84bd3934df9ce3f1,2054009,Nick Bjugstad,NJD,status_changed,IR. Expected to be out until at least Jan 19 -> IR. Expected to be out until at least Mar 11
+2026-10-23T18:27:29Z,2026-10-23,a6b36fec2b60ab10,2845695,Eeli Tolvanen,NYR,opened,Personal - Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,e5b075967e00a4dc,2179103,Travis Konecny,PHI,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 27
+2026-10-23T18:27:29Z,2026-10-23,e74967ac97ef3ccb,2845125,Owen Tippett,PHI,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 27
+2026-10-23T18:27:29Z,2026-10-23,d03b9138265f7295,1128973,Evgeni Malkin,PIT,opened,Illness - Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,4855b9e6629d06f4,2245484,Samuel Girard,PIT,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,c813146b44512a72,26603168,Egor Chinakhov,PIT,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,8d28c92a95e8b55a,28851236,Nick Blankenburg,TOR,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 31
+2026-10-23T18:27:29Z,2026-10-23,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,102dbd9d835d8dae,2184557,Mitchell Marner,VGK,status_changed,Expected to be out until at least Oct 24 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,51bf574a5c5cab42,3140738,Vincent Desharnais,WSH,opened,Abdomen - Expected to be out until at least Dec 5
+2026-10-23T18:27:29Z,2026-10-23,6939c60becc59f03,2147344,Connor Hellebuyck,WPG,type_changed,Suspension -> Not Injury Related
+2026-10-23T18:27:29Z,2026-10-23,6939c60becc59f03,2147344,Connor Hellebuyck,WPG,status_changed,Expected to be out until at least Oct 27 -> Day-to-Day
+2026-10-23T18:27:29Z,2026-10-23,5f520a816e5303c5,26603173,Mavrik Bourque,NSH,closed,off the report since 2026-10-22
+2026-10-23T18:27:29Z,2026-10-23,eb2d7adfefa0562d,26597475,Seth Jarvis,CAR,closed,off the report since 2026-10-22

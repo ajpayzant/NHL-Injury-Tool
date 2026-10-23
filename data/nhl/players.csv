@@ -1,4 +1,5 @@
 key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
+1128973,Evgeni Malkin,PIT,8471215,1986-07-31,C,roster,2026-10-23
 1133425,Brad Marchand,FLA,8473419,1988-05-11,L,roster,2026-09-24
 1133703,Nick Foligno,MIN,8473422,1987-10-31,L,roster,2026-10-06
 1133726,Jordan Staal,CAR,8473533,1988-09-10,C,roster,2026-10-11
@@ -153,6 +154,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2845320,Filip Chytil,VAN,8480078,1999-09-05,C,roster,2026-09-24
 2845354,Jake Oettinger,DAL,8479979,1998-12-18,G,roster,2026-09-24
 2845355,Ryan Poehling,ANA,8480068,1999-01-03,C,roster,2026-10-11
+2845695,Eeli Tolvanen,NYR,8480009,1999-04-22,R,roster,2026-10-23
 2850816,Andrei Kuzmenko,PIT,8483808,1996-02-04,L,roster,2026-09-24
 2858551,Ukko-Pekka Luukkonen,BUF,8480045,1999-03-09,G,roster,2026-09-27
 2858557,Eetu Luostarinen,FLA,8480185,1998-09-02,C,roster,2026-10-10
@@ -239,6 +241,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3130097,Dakota Joshua,TOR,8478057,1996-05-15,C,roster,2026-09-24
 3140308,John Marino,UTA,8478507,1997-05-21,D,roster,2026-10-20
 3140726,Raphael Lavoie,VGK,8481534,2000-09-25,C,roster,2026-09-29
+3140738,Vincent Desharnais,WSH,8479576,1996-05-29,D,roster,2026-10-23
 3140797,Trent Miner,COL,8481529,2001-02-05,G,search,2026-09-29
 3140820,Jordan Spence,OTT,8481606,2001-02-24,D,roster,2026-09-24
 3149263,Alex Turcotte,LAK,8481532,2001-02-26,C,roster,2026-10-09
