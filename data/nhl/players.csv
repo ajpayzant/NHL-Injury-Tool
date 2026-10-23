@@ -69,6 +69,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
 2178634,Ivan Provorov,CBJ,8478500,1997-01-13,D,roster,2026-09-30
 2179103,Travis Konecny,PHI,8478439,1997-03-11,R,roster,2026-10-10
+2184557,Mitchell Marner,VGK,8478483,1997-05-05,R,roster (nickname),2026-10-22
 2197831,Mattias Janmark,EDM,8477406,1992-12-08,C,roster,2026-09-24
 2197838,Joonas Korpisalo,NYR,8476914,1994-04-28,G,roster,2026-10-01
 2197852,Brandon Montour,SEA,8477986,1994-04-11,D,roster,2026-10-18
@@ -137,6 +138,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26802481,Oliver Kapanen,MTL,8482775,2003-07-29,C,roster,2026-09-28
 26802507,Logan Mailloux,STL,8482733,2003-04-15,D,roster,2026-09-27
 26802509,Taylor Makar,COL,8482953,2001-03-13,L,search,2026-09-29
+26802510,Jeff Malott,ANA,8482408,1996-08-07,L,roster,2026-10-22
 26802514,Emil Martinsen Lilleberg,TBL,8482929,2001-02-02,D,roster (nickname),2026-10-04
 26802550,Mackie Samoskevich,SEA,8482713,2002-11-15,R,roster,2026-09-27
 26802563,William Trudeau,NSH,8482806,2002-10-11,D,roster,2026-10-08
@@ -208,6 +210,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29373582,Cade Webber,TOR,8481570,2001-01-05,D,search,2026-09-29
 29404907,Macklin Celebrini,SJS,8484801,2006-06-13,C,roster,2026-10-05
 29404908,Ivan Demidov,MTL,8484984,2005-12-10,R,roster,2026-09-24
+29406961,Igor Chernyshov,SJS,8484994,2005-11-30,L,roster,2026-10-22
 29407705,Adam Jecho,STL,8484792,2006-03-24,C,search,2026-09-27
 2940900,Rasmus Dahlin,BUF,8480839,2000-04-13,D,roster,2026-10-12
 2940938,Brady Tkachuk,FLA,8480801,1999-09-16,L,roster,2026-09-24
@@ -247,6 +250,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 50001142,Benjamin Kindel,PIT,8485414,2007-04-19,C,roster (nickname),2026-09-24
 50001174,Jake O'Brien,SEA,8485383,2007-06-16,C,search,2026-09-27
 50001179,Bryce Pickford,MTL,8485218,2006-04-02,D,search,2026-09-29
+50001324,Maxim Shabanov,MIN,8485702,2000-10-07,R,roster,2026-10-22
 50028669,Harrison Scott,DAL,8485485,2000-09-27,C,search,2026-09-29
 50043134,Kai Uchacz,VGK,8485251,2003-06-24,C,roster,2026-09-29
 50066964,Riley Bezeau,CBJ,8483804,2002-05-04,R,search,2026-10-07

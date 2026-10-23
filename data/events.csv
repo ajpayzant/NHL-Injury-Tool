@@ -1060,3 +1060,16 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-22T22:26:16Z,2026-10-22,65abb156a4dcf87f,2147212,Andrew Mangiapane,CHI,status_changed,IR. Expected to be out until at least Oct 25 -> IR. Expected to be out until at least Oct 23
 2026-10-22T22:26:16Z,2026-10-22,21718b4838f704d9,2269107,Nicolas Roy,COL,status_changed,Day-to-Day -> Expected to be out until at least Oct 25
 2026-10-22T22:26:16Z,2026-10-22,2272efa985372c5a,2095289,Daniil Tarasov,DET,opened,Undisclosed - Expected to be out until at least Oct 24
+2026-10-23T01:36:57Z,2026-10-22,7299a6e7070fb146,28895757,Pavel Mintyukov,ANA,opened,Lower Body - Expected to be out until at least Oct 27
+2026-10-23T01:36:57Z,2026-10-22,07eca3b279e7c029,29222800,Judd Caulfield,ANA,reopened,was marked returned 2026-10-21
+2026-10-23T01:36:57Z,2026-10-22,07eca3b279e7c029,29222800,Judd Caulfield,ANA,status_changed,Expected to be out until at least Oct 22 -> IR. Expected to be out until at least Oct 24
+2026-10-23T01:36:57Z,2026-10-22,880dc0dd6780c4cd,26802510,Jeff Malott,ANA,opened,Illness - Expected to be out until at least Oct 24
+2026-10-23T01:36:57Z,2026-10-22,662845e3f8213e37,2076017,Jason Dickinson,EDM,status_changed,Expected to be out until at least Oct 28 -> IR. Expected to be out until at least Oct 28
+2026-10-23T01:36:57Z,2026-10-22,5a6629bac2f63e05,26536165,Quinton Byfield,LAK,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-23T01:36:57Z,2026-10-22,b03899ebb6e79189,50001324,Maxim Shabanov,MIN,opened,Upper Body - Expected to be out until at least Oct 24
+2026-10-23T01:36:57Z,2026-10-22,c813146b44512a72,26603168,Egor Chinakhov,PIT,reopened,was marked returned 2026-10-20
+2026-10-23T01:36:57Z,2026-10-22,c813146b44512a72,26603168,Egor Chinakhov,PIT,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-23T01:36:57Z,2026-10-22,7f5118a176605346,29406961,Igor Chernyshov,SJS,opened,Upper Body - Day-to-Day
+2026-10-23T01:36:57Z,2026-10-22,25a366dec050ebf1,2076042,Alex Wennberg,SJS,status_changed,Expected to be out until at least Oct 27 -> Expected to be out until at least Nov 9
+2026-10-23T01:36:57Z,2026-10-22,ca5be578d0498fea,28968763,Marshall Rifai,TOR,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-23T01:36:57Z,2026-10-22,102dbd9d835d8dae,2184557,Mitchell Marner,VGK,opened,Personal - Expected to be out until at least Oct 24
