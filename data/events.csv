@@ -1073,3 +1073,16 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-23T01:36:57Z,2026-10-22,25a366dec050ebf1,2076042,Alex Wennberg,SJS,status_changed,Expected to be out until at least Oct 27 -> Expected to be out until at least Nov 9
 2026-10-23T01:36:57Z,2026-10-22,ca5be578d0498fea,28968763,Marshall Rifai,TOR,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
 2026-10-23T01:36:57Z,2026-10-22,102dbd9d835d8dae,2184557,Mitchell Marner,VGK,opened,Personal - Expected to be out until at least Oct 24
+2026-10-23T07:40:21Z,2026-10-23,6e8b8544546486b4,2000655,Radek Faksa,DAL,opened,Undisclosed - Day-to-Day
+2026-10-23T07:40:21Z,2026-10-23,4782d8862f1cc2ad,1899095,John Gibson,DET,opened,Upper Body - Day-to-Day
+2026-10-23T07:40:21Z,2026-10-23,5903bf288becac97,1897652,Mattias Ekholm,EDM,opened,Undisclosed - Expected to be out until at least Oct 31
+2026-10-23T07:40:21Z,2026-10-23,59c3a15632db508d,2265487,Gustav Forsling,FLA,opened,Upper Body - Day-to-Day
+2026-10-23T07:40:21Z,2026-10-23,7f5118a176605346,29406961,Igor Chernyshov,SJS,status_changed,Day-to-Day -> Expected to be out until at least Oct 27
+2026-10-23T07:40:21Z,2026-10-23,8d28c92a95e8b55a,28851236,Nick Blankenburg,TOR,opened,Undisclosed - Day-to-Day
+2026-10-23T07:40:21Z,2026-10-23,ca5be578d0498fea,28968763,Marshall Rifai,TOR,type_changed,Undisclosed -> Lower Body
+2026-10-23T07:40:21Z,2026-10-23,ca5be578d0498fea,28968763,Marshall Rifai,TOR,status_changed,Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Oct 31
+2026-10-23T07:40:21Z,2026-10-23,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-23T07:40:21Z,2026-10-23,6939c60becc59f03,2147344,Connor Hellebuyck,WPG,status_changed,Expected to be out until at least Oct 25 -> Expected to be out until at least Oct 27
+2026-10-23T07:40:21Z,2026-10-23,5977a271d0182392,1765199,Nino Niederreiter,WPG,opened,Upper Body - Day-to-Day
+2026-10-23T07:40:21Z,2026-10-23,072a20c7622988b3,2038918,Jake McCabe,TOR,closed,off the report since 2026-10-22
+2026-10-23T07:40:21Z,2026-10-23,8ba349f67c6f3c7b,1899125,Ryan Nugent-Hopkins,EDM,closed,off the report since 2026-10-22

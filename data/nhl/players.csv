@@ -14,6 +14,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1707405,Marcus Foligno,MIN,8475220,1991-08-10,L,roster,2026-10-10
 1757713,Taylor Hall,CAR,8475791,1991-11-14,L,roster,2026-10-18
 1765197,Oliver Ekman-Larsson,TOR,8475171,1991-07-17,D,roster,2026-10-09
+1765199,Nino Niederreiter,WPG,8475799,1992-09-08,R,roster,2026-10-23
 1770884,Sam Carrick,BUF,8475842,1992-02-04,C,roster,2026-10-20
 1770919,Radko Gudas,FLA,8475462,1990-06-05,D,roster,2026-10-18
 1770929,Zach Hyman,EDM,8475786,1992-06-09,L,roster,2026-10-01
@@ -22,9 +23,11 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1771089,Christopher Tanev,TOR,8475690,1989-12-20,D,roster (nickname),2026-10-10
 1897634,Sean Couturier,PHI,8476461,1992-12-07,C,roster,2026-10-18
 1897650,Joel Edmundson,LAK,8476441,1993-06-28,D,roster,2026-09-27
+1897652,Mattias Ekholm,EDM,8475218,1990-05-24,D,roster,2026-10-23
 1897686,Jonathan Huberdeau,CGY,8476456,1993-06-04,L,roster,2026-09-24
 1897737,Vladislav Namestnikov,WPG,8476480,1992-11-22,C,roster,2026-10-18
 1899089,Derek Forbort,VAN,8475762,1992-03-04,D,search,2026-09-24
+1899095,John Gibson,DET,8476434,1993-07-14,G,roster,2026-10-23
 1899125,Ryan Nugent-Hopkins,EDM,8476454,1993-04-12,C,roster,2026-09-29
 1960399,Torey Krug,STL,8476792,1991-04-12,D,search,2026-09-24
 1960880,Jason Zucker,BUF,8475722,1992-01-16,L,roster,2026-09-24
@@ -164,6 +167,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2879989,Jake Walman,EDM,8478013,1996-02-20,D,roster,2026-10-10
 2880064,Logan Thompson,WSH,8480313,1997-02-25,G,roster,2026-10-21
 2880258,Matt Roy,WSH,8478911,1995-03-01,D,roster,2026-10-04
+28851236,Nick Blankenburg,TOR,8483565,1998-05-12,D,roster,2026-10-23
 28895738,Cutter Gauthier,ANA,8483445,2004-01-19,L,roster,2026-10-11
 28895750,Marco Kasper,DET,8483464,2004-04-08,C,roster,2026-10-03
 28895757,Pavel Mintyukov,ANA,8483490,2003-11-25,D,roster,2026-09-27
