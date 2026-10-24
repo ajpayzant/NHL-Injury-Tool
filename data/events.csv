@@ -1143,3 +1143,4 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-24T14:38:28Z,2026-10-24,8d28c92a95e8b55a,28851236,Nick Blankenburg,TOR,status_changed,IR. Expected to be out until at least Oct 31 -> IR. Expected to be out until at least Nov 12
 2026-10-24T14:38:28Z,2026-10-24,869efb56ac588422,50043134,Kai Uchacz,VGK,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Nov 15
 2026-10-24T14:38:28Z,2026-10-24,65abb156a4dcf87f,2147212,Andrew Mangiapane,CHI,closed,off the report since 2026-10-23
+2026-10-24T15:33:30Z,2026-10-24,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,type_changed,Upper Body -> Hand
