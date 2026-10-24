@@ -1144,3 +1144,12 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-24T14:38:28Z,2026-10-24,869efb56ac588422,50043134,Kai Uchacz,VGK,status_changed,IR. Expected to be out until at least Oct 24 -> IR. Expected to be out until at least Nov 15
 2026-10-24T14:38:28Z,2026-10-24,65abb156a4dcf87f,2147212,Andrew Mangiapane,CHI,closed,off the report since 2026-10-23
 2026-10-24T15:33:30Z,2026-10-24,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,type_changed,Upper Body -> Hand
+2026-10-24T18:13:32Z,2026-10-24,df745d07bc9b9153,28895785,Jiri Kulich,BUF,status_changed,Day-to-Day -> Expected to be out until at least Oct 31
+2026-10-24T18:13:32Z,2026-10-24,5903bf288becac97,1897652,Mattias Ekholm,EDM,type_changed,Undisclosed -> Upper Body
+2026-10-24T18:13:32Z,2026-10-24,6939c60becc59f03,2147344,Connor Hellebuyck,NJD,status_changed,Day-to-Day -> Expected to be out until at least Oct 27
+2026-10-24T18:13:32Z,2026-10-24,d03b9138265f7295,1128973,Evgeni Malkin,PIT,status_changed,Day-to-Day -> Expected to be out until at least Oct 29
+2026-10-24T18:13:32Z,2026-10-24,c813146b44512a72,26603168,Egor Chinakhov,PIT,status_changed,Day-to-Day -> Expected to be out until at least Oct 29
+2026-10-24T18:13:32Z,2026-10-24,7f5118a176605346,29406961,Igor Chernyshov,SJS,status_changed,Expected to be out until at least Oct 27 -> Expected to be out until at least Nov 14
+2026-10-24T18:13:32Z,2026-10-24,102dbd9d835d8dae,2184557,Mitchell Marner,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 27
+2026-10-24T18:13:32Z,2026-10-24,a6d2b679065009be,2880064,Logan Thompson,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
+2026-10-24T18:13:32Z,2026-10-24,84bd3934df9ce3f1,2054009,Nick Bjugstad,NJD,team_changed,NJD -> WPG
