@@ -1122,3 +1122,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-24T00:47:42Z,2026-10-23,52f2791bb83415a5,26799321,Zachary L'Heureux,COL,status_changed,Expected to be out until at least Oct 28 -> IR. Expected to be out until at least Nov 7
 2026-10-24T00:47:42Z,2026-10-23,334a763c6b7eac50,29089631,Devon Levi,EDM,status_changed,Expected to be out until at least Oct 26 -> IR. Expected to be out until at least Oct 31
 2026-10-24T00:47:42Z,2026-10-23,8d28c92a95e8b55a,28851236,Nick Blankenburg,TOR,type_changed,Undisclosed -> Upper Body
+2026-10-24T05:59:30Z,2026-10-24,6939c60becc59f03,2147344,Connor Hellebuyck,WPG,team_changed,WPG -> NJD
+2026-10-24T05:59:30Z,2026-10-24,bbd7ae9d20de6c7d,1685405,Victor Hedman,TBL,opened,Undisclosed - Day-to-Day
