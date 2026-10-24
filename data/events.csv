@@ -1153,3 +1153,13 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-24T18:13:32Z,2026-10-24,102dbd9d835d8dae,2184557,Mitchell Marner,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 27
 2026-10-24T18:13:32Z,2026-10-24,a6d2b679065009be,2880064,Logan Thompson,WSH,status_changed,Day-to-Day -> Expected to be out until at least Oct 24
 2026-10-24T18:13:32Z,2026-10-24,84bd3934df9ce3f1,2054009,Nick Bjugstad,NJD,team_changed,NJD -> WPG
+2026-10-24T20:57:20Z,2026-10-24,3b4b25d0e3dc3a20,1280555,Mikael Backlund,CGY,status_changed,Day-to-Day -> Expected to be out until at least Oct 26
+2026-10-24T20:57:20Z,2026-10-24,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,Day-to-Day -> Expected to be out until at least Oct 27
+2026-10-24T20:57:20Z,2026-10-24,21718b4838f704d9,2269107,Nicolas Roy,COL,status_changed,Day-to-Day -> Expected to be out until at least Oct 28
+2026-10-24T20:57:20Z,2026-10-24,2837fca76ab72bab,2245518,Sam Steel,DAL,opened,Undisclosed - Expected to be out until at least Oct 27
+2026-10-24T20:57:20Z,2026-10-24,9b2605503d5ed24b,2147200,Esa Lindell,DAL,status_changed,Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Oct 27
+2026-10-24T20:57:20Z,2026-10-24,334a763c6b7eac50,29089631,Devon Levi,EDM,status_changed,IR. Expected to be out until at least Oct 31 -> IR. Expected to be out until at least Nov 9
+2026-10-24T20:57:20Z,2026-10-24,5a6629bac2f63e05,26536165,Quinton Byfield,LAK,status_changed,Day-to-Day -> Expected to be out until at least Oct 26
+2026-10-24T20:57:20Z,2026-10-24,5068b20138bb4bfe,2198317,Jared McCann,SEA,opened,Lower Body - Expected to be out until at least Oct 28
+2026-10-24T20:57:20Z,2026-10-24,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 1
+2026-10-24T20:57:20Z,2026-10-24,a6d2b679065009be,2880064,Logan Thompson,WSH,status_changed,Expected to be out until at least Oct 24 -> Expected to be out until at least Oct 28

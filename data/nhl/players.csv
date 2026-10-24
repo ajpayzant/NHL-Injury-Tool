@@ -83,6 +83,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2198231,Pavel Zacha,BOS,8478401,1997-04-06,C,roster,2026-10-18
 2198286,Mathew Barzal,NYI,8478445,1997-05-26,C,roster,2026-09-24
 2198288,Thomas Chabot,OTT,8478469,1997-01-30,D,roster,2026-10-18
+2198317,Jared McCann,SEA,8477955,1996-05-31,L,roster,2026-10-24
 2198485,Jonas Siegenthaler,NJD,8478399,1997-05-06,D,roster,2026-10-07
 2233024,Miles Wood,TOR,8477425,1995-09-13,L,roster,2026-10-18
 2245466,Jake Bean,CGY,8479402,1998-06-09,D,search,2026-09-24
@@ -94,6 +95,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2245504,Ryan Lindgren,SEA,8479324,1998-02-11,D,roster,2026-10-07
 2245507,Charlie McAvoy,BOS,8479325,1997-12-21,D,roster,2026-09-24
 2245515,Mikhail Sergachev,UTA,8479410,1998-06-25,D,roster,2026-10-07
+2245518,Sam Steel,DAL,8479351,1998-02-03,C,roster,2026-10-24
 2265487,Gustav Forsling,FLA,8478055,1996-06-12,D,roster,2026-10-02
 2267064,MacKenzie MacEachern,VAN,8476907,1994-03-09,L,search,2026-09-29
 2269089,Conor Garland,CBJ,8478856,1996-03-11,R,roster,2026-10-13
