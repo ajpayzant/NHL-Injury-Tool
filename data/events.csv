@@ -1124,3 +1124,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-24T00:47:42Z,2026-10-23,8d28c92a95e8b55a,28851236,Nick Blankenburg,TOR,type_changed,Undisclosed -> Upper Body
 2026-10-24T05:59:30Z,2026-10-24,6939c60becc59f03,2147344,Connor Hellebuyck,WPG,team_changed,WPG -> NJD
 2026-10-24T05:59:30Z,2026-10-24,bbd7ae9d20de6c7d,1685405,Victor Hedman,TBL,opened,Undisclosed - Day-to-Day
+2026-10-24T11:13:52Z,2026-10-24,053c770bce706805,2269433,Anthony Cirelli,TBL,closed,off the report since 2026-10-23
+2026-10-24T11:13:52Z,2026-10-24,7c9eef55bb2ca8eb,2000667,Mike Matheson,MTL,closed,off the report since 2026-10-23
