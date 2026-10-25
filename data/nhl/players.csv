@@ -34,6 +34,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1960399,Torey Krug,STL,8476792,1991-04-12,D,search,2026-09-24
 1960880,Jason Zucker,BUF,8475722,1992-01-16,L,roster,2026-09-24
 2000655,Radek Faksa,DAL,8476889,1994-01-09,C,roster,2026-10-10
+2000659,Zemgus Girgensons,TBL,8476878,1994-01-05,C,roster,2026-10-25
 2000662,Mark Jankowski,CAR,8476873,1994-09-13,L,roster,2026-10-18
 2000666,Olli Maatta,MIN,8476874,1994-08-22,D,roster,2026-10-08
 2000667,Mike Matheson,MTL,8476875,1994-02-27,D,roster,2026-10-13
