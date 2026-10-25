@@ -1180,3 +1180,16 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-25T11:43:40Z,2026-10-25,4782d8862f1cc2ad,1899095,John Gibson,DET,closed,off the report since 2026-10-24
 2026-10-25T11:43:40Z,2026-10-25,c8407262ef28e764,29237428,Georgii Merkulov,COL,closed,off the report since 2026-10-24
 2026-10-25T11:43:40Z,2026-10-25,e728b82ea91c68c0,2147206,Kurtis MacDermid,OTT,closed,off the report since 2026-10-24
+2026-10-25T16:32:25Z,2026-10-25,43063d64184692ed,26798892,Justin Danforth,BUF,status_changed,Expected to be out until at least Oct 27 -> Day-to-Day
+2026-10-25T16:32:25Z,2026-10-25,3b4b25d0e3dc3a20,1280555,Mikael Backlund,CGY,status_changed,Expected to be out until at least Oct 26 -> Day-to-Day
+2026-10-25T16:32:25Z,2026-10-25,34fdad872e1ce11f,2000662,Mark Jankowski,CAR,status_changed,Expected to be out until at least Oct 27 -> Day-to-Day
+2026-10-25T16:32:25Z,2026-10-25,6e8b8544546486b4,2000655,Radek Faksa,DAL,type_changed,Undisclosed -> Lower Body
+2026-10-25T16:32:25Z,2026-10-25,7f3a2ec7363f19cb,2921272,Cameron Hughes,DAL,status_changed,IR. Expected to be out until at least Oct 25 -> IR. Expected to be out until at least Nov 7
+2026-10-25T16:32:25Z,2026-10-25,2272efa985372c5a,2095289,Daniil Tarasov,DET,status_changed,Expected to be out until at least Oct 26 -> Day-to-Day
+2026-10-25T16:32:25Z,2026-10-25,5a6629bac2f63e05,26536165,Quinton Byfield,LAK,status_changed,Expected to be out until at least Oct 26 -> Day-to-Day
+2026-10-25T16:32:25Z,2026-10-25,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,IR. Expected to be out until at least Oct 25 -> IR. Expected to be out until at least Oct 31
+2026-10-25T16:32:25Z,2026-10-25,6939c60becc59f03,2147344,Connor Hellebuyck,NJD,status_changed,Expected to be out until at least Oct 27 -> Expected to be out until at least Oct 30
+2026-10-25T16:32:25Z,2026-10-25,d03b9138265f7295,1128973,Evgeni Malkin,PIT,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-25T16:32:25Z,2026-10-25,c813146b44512a72,26603168,Egor Chinakhov,PIT,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-25T16:32:25Z,2026-10-25,bbd7ae9d20de6c7d,1685405,Victor Hedman,TBL,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-25T16:32:25Z,2026-10-25,102dbd9d835d8dae,2184557,Mitchell Marner,VGK,status_changed,Expected to be out until at least Oct 27 -> Day-to-Day
