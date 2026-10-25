@@ -1193,3 +1193,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-25T16:32:25Z,2026-10-25,c813146b44512a72,26603168,Egor Chinakhov,PIT,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
 2026-10-25T16:32:25Z,2026-10-25,bbd7ae9d20de6c7d,1685405,Victor Hedman,TBL,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
 2026-10-25T16:32:25Z,2026-10-25,102dbd9d835d8dae,2184557,Mitchell Marner,VGK,status_changed,Expected to be out until at least Oct 27 -> Day-to-Day
+2026-10-25T19:44:04Z,2026-10-25,5068b20138bb4bfe,2198317,Jared McCann,SEA,status_changed,IR. Expected to be out until at least Oct 30 -> IR. Expected to be out until at least Jan 2
+2026-10-25T19:44:04Z,2026-10-25,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,status_changed,IR. Expected to be out until at least Oct 25 -> IR. Expected to be out until at least Nov 7
+2026-10-25T19:44:04Z,2026-10-25,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,IR. Expected to be out until at least Nov 1 -> IR. Expected to be out until at least Nov 5
+2026-10-25T19:44:04Z,2026-10-25,0815be4a3c4107a2,1897737,Vladislav Namestnikov,WPG,status_changed,IR. Expected to be out until at least Oct 30 -> IR. Expected to be out until at least Nov 3
+2026-10-25T19:44:04Z,2026-10-25,b03899ebb6e79189,50001324,Maxim Shabanov,MIN,closed,off the report since 2026-10-25
