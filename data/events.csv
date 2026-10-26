@@ -1200,3 +1200,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-25T19:44:04Z,2026-10-25,b03899ebb6e79189,50001324,Maxim Shabanov,MIN,closed,off the report since 2026-10-25
 2026-10-25T22:38:29Z,2026-10-25,6e8b8544546486b4,2000655,Radek Faksa,DAL,status_changed,Day-to-Day -> Expected to be out until at least Oct 27
 2026-10-25T22:38:29Z,2026-10-25,47a74cc1b3d94220,2197838,Joonas Korpisalo,NYR,type_changed,Lower Body -> Foot
+2026-10-26T01:17:26Z,2026-10-25,8045c22b7b6d3e8d,2197885,Linus Ullmark,OTT,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Nov 7
+2026-10-26T01:17:26Z,2026-10-25,ccc47320946951e3,26799114,Jack Thompson,VAN,closed,off the report since 2026-10-25
