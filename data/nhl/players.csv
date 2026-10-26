@@ -183,7 +183,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28895787,Maveric Lamoureux,UTA,8483472,2004-01-13,D,roster,2026-09-28
 28895794,Danila Yurov,MIN,8483525,2003-12-22,R,roster,2026-10-05
 28899547,Seamus Casey,NJD,8483429,2004-01-08,D,roster,2026-09-24
-28899562,Cameron Lund,SJS,,,,unmatched,2026-10-18
+28899562,Cameron Lund,SJS,,,,unmatched,2026-10-26
 28899567,Matthew Poitras,BOS,8483505,2004-03-10,C,roster,2026-09-24
 28899568,Elias Salomonsson,WPG,8483510,2004-08-31,D,search,2026-09-29
 28899587,Adam Sykora,NYR,8483669,2004-09-07,L,roster,2026-09-24
@@ -278,7 +278,7 @@ dfo:2727,Alex Nedeljkovic,SJS,8477968,1996-01-07,G,roster,2026-09-30
 dfo:28990,Logan Thompson,WSH,8480313,1997-02-25,G,roster,2026-09-29
 dfo:29143,Lukas Dostal,ANA,8480843,2000-06-22,G,roster,2026-09-29
 dfo:30486,Pyotr Kochetkov,CAR,8481611,1999-06-25,G,roster,2026-09-29
-dfo:33773,Cameron Lund,SJS,,,,unmatched,2026-10-18
+dfo:33773,Cameron Lund,SJS,,,,unmatched,2026-10-26
 dfo:34603,Arvid Soderblom,CHI,8482821,1999-08-19,G,roster,2026-09-29
 dfo:35165,Gabriel Perreault,NYR,8484210,2005-05-07,R,roster (nickname),2026-09-29
 dfo:36542,Berkly Catton,SEA,8484800,2006-01-14,C,roster,2026-09-29
@@ -286,9 +286,9 @@ dfo:36942,Cole Beaudoin,NYR,8484786,2006-04-24,C,search,2026-09-29
 dfo:3792,Mackenzie Blackwood,COL,8478406,1996-12-09,G,roster,2026-09-29
 dfo:38089,Landon Slaggert,CHI,8482172,2002-06-25,L,roster,2026-09-29
 dfo:38130,Damian Clara,ANA,8484391,2005-01-13,G,search,2026-09-29
-dfo:38455,Tom Willander,VAN,,,,unmatched,2026-10-18
-dfo:38474,Matthew Schaefer,NYI,,,,unmatched,2026-10-18
-dfo:38739,Andrea Glauser,,,,,unmatched,2026-10-18
+dfo:38455,Tom Willander,VAN,,,,unmatched,2026-10-26
+dfo:38474,Matthew Schaefer,NYI,,,,unmatched,2026-10-26
+dfo:38739,Andrea Glauser,,,,,unmatched,2026-10-26
 dfo:3874,Carter Hart,VGK,8479394,1998-08-13,G,roster,2026-09-29
 dfo:38893,Viking Gustafsson Nyberg,MIN,8486166,2003-09-21,D,roster,2026-09-29
 dfo:4741,Stuart Skinner,WPG,8479973,1998-11-01,G,roster,2026-09-29
