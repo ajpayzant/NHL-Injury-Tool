@@ -1222,3 +1222,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-26T19:24:47Z,2026-10-26,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,reopened,was marked returned 2026-10-24
 2026-10-26T19:24:47Z,2026-10-26,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,status_changed,IR. Expected to be out until at least Oct 24 -> Expected to be out until at least Nov 11
 2026-10-26T19:24:47Z,2026-10-26,fd626d5fe3ebd49f,2233024,Miles Wood,TOR,status_changed,IR. Expected to be out until at least Oct 26 -> IR. Expected to be out until at least Nov 3
+2026-10-26T23:56:26Z,2026-10-26,df745d07bc9b9153,28895785,Jiri Kulich,BUF,type_changed,Face -> Concussion
+2026-10-26T23:56:26Z,2026-10-26,df745d07bc9b9153,28895785,Jiri Kulich,BUF,status_changed,Expected to be out until at least Oct 31 -> Expected to be out until at least Nov 4
+2026-10-26T23:56:26Z,2026-10-26,094b2a1d375beb3d,29700070,Alexander Nikishin,CAR,reopened,was marked returned 2026-10-25
+2026-10-26T23:56:26Z,2026-10-26,094b2a1d375beb3d,29700070,Alexander Nikishin,CAR,type_changed,Contract Dispute -> Not Injury Related
+2026-10-26T23:56:26Z,2026-10-26,094b2a1d375beb3d,29700070,Alexander Nikishin,CAR,status_changed,IR. Expected to be out until at least Nov 1 -> Expected to be out until at least Nov 7
+2026-10-26T23:56:26Z,2026-10-26,ffc4625a91046bc2,1771018,Mats Zuccarello,LAK,status_changed,Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Nov 4
