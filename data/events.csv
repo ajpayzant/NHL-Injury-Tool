@@ -1206,3 +1206,19 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-26T13:20:16Z,2026-10-26,5977a271d0182392,1765199,Nino Niederreiter,WPG,closed,off the report since 2026-10-25
 2026-10-26T13:20:16Z,2026-10-26,094b2a1d375beb3d,29700070,Alexander Nikishin,CAR,closed,off the report since 2026-10-25
 2026-10-26T13:20:16Z,2026-10-26,1734ebf985c065f8,29167369,Florian Xhekaj,MTL,closed,off the report since 2026-10-25
+2026-10-26T19:24:47Z,2026-10-26,34fdad872e1ce11f,2000662,Mark Jankowski,CAR,status_changed,Day-to-Day -> Expected to be out until at least Oct 29
+2026-10-26T19:24:47Z,2026-10-26,06b39fc7db91f1fe,1757713,Taylor Hall,CAR,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Oct 27
+2026-10-26T19:24:47Z,2026-10-26,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,Expected to be out until at least Oct 27 -> Day-to-Day
+2026-10-26T19:24:47Z,2026-10-26,21718b4838f704d9,2269107,Nicolas Roy,COL,status_changed,Expected to be out until at least Oct 28 -> Day-to-Day
+2026-10-26T19:24:47Z,2026-10-26,6343c20501a6449f,2178634,Ivan Provorov,CBJ,type_changed,Lower Body -> Foot
+2026-10-26T19:24:47Z,2026-10-26,2837fca76ab72bab,2245518,Sam Steel,DAL,status_changed,Expected to be out until at least Oct 27 -> Day-to-Day
+2026-10-26T19:24:47Z,2026-10-26,6e8b8544546486b4,2000655,Radek Faksa,DAL,status_changed,Expected to be out until at least Oct 27 -> Day-to-Day
+2026-10-26T19:24:47Z,2026-10-26,7b3d974cb60e4f05,2197831,Mattias Janmark,EDM,status_changed,IR. Expected to be out until at least Oct 26 -> IR. Expected to be out until at least Nov 28
+2026-10-26T19:24:47Z,2026-10-26,ffc4625a91046bc2,1771018,Mats Zuccarello,LAK,opened,Upper Body - Expected to be out until at least Oct 27
+2026-10-26T19:24:47Z,2026-10-26,401989ba6238288a,3149263,Alex Turcotte,LAK,status_changed,IR. Expected to be out until at least Oct 26 -> IR. Expected to be out until at least Oct 29
+2026-10-26T19:24:47Z,2026-10-26,1e7e9850d1d50ac8,3166626,Matias Maccelli,NYI,status_changed,Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 17
+2026-10-26T19:24:47Z,2026-10-26,ede5e687224306cc,29167322,Calum Ritchie,NYI,status_changed,Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Dec 1
+2026-10-26T19:24:47Z,2026-10-26,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,status_changed,IR. Expected to be out until at least Oct 26 -> IR. Expected to be out until at least Nov 13
+2026-10-26T19:24:47Z,2026-10-26,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,reopened,was marked returned 2026-10-24
+2026-10-26T19:24:47Z,2026-10-26,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,status_changed,IR. Expected to be out until at least Oct 24 -> Expected to be out until at least Nov 11
+2026-10-26T19:24:47Z,2026-10-26,fd626d5fe3ebd49f,2233024,Miles Wood,TOR,status_changed,IR. Expected to be out until at least Oct 26 -> IR. Expected to be out until at least Nov 3
