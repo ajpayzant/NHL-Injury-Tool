@@ -1232,3 +1232,15 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-27T05:15:05Z,2026-10-27,9a3777fc241c385d,3166631,Albert Johansson,DET,opened,Undisclosed - Expected to be out until at least Oct 29
 2026-10-27T05:15:05Z,2026-10-27,04277cfa870d8782,2915882,Kirill Marchenko,TOR,opened,Lower Body - Expected to be out until at least Oct 28
 2026-10-27T10:40:48Z,2026-10-27,1bc198432e099029,1770929,Zach Hyman,EDM,opened,Upper Body - Day-to-Day
+2026-10-27T16:43:50Z,2026-10-27,9b2605503d5ed24b,2147200,Esa Lindell,DAL,status_changed,IR. Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Oct 29
+2026-10-27T16:43:50Z,2026-10-27,2272efa985372c5a,2095289,Daniil Tarasov,DET,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-27T16:43:50Z,2026-10-27,9a3777fc241c385d,3166631,Albert Johansson,DET,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-27T16:43:50Z,2026-10-27,2759479ab8d3f04e,26802563,William Trudeau,NSH,status_changed,IR. Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Nov 21
+2026-10-27T16:43:50Z,2026-10-27,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,status_changed,Expected to be out until at least Nov 11 -> IR. Expected to be out until at least Nov 11
+2026-10-27T16:43:50Z,2026-10-27,e5b075967e00a4dc,2179103,Travis Konecny,PHI,status_changed,IR. Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Nov 3
+2026-10-27T16:43:50Z,2026-10-27,e74967ac97ef3ccb,2845125,Owen Tippett,PHI,status_changed,IR. Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Nov 1
+2026-10-27T16:43:50Z,2026-10-27,3802f71216997c70,28978638,Elmer Soderblom,PIT,opened,Upper Body - Day-to-Day
+2026-10-27T16:43:50Z,2026-10-27,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,Expected to be out until at least Oct 28 -> Day-to-Day
+2026-10-27T16:43:50Z,2026-10-27,102dbd9d835d8dae,2184557,Mitchell Marner,VGK,closed,off the report since 2026-10-26
+2026-10-27T16:43:50Z,2026-10-27,5a6629bac2f63e05,26536165,Quinton Byfield,LAK,closed,off the report since 2026-10-26
+2026-10-27T16:43:50Z,2026-10-27,06b39fc7db91f1fe,1757713,Taylor Hall,CAR,closed,off the report since 2026-10-26

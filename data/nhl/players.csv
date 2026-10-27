@@ -196,6 +196,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28968763,Marshall Rifai,TOR,8483546,1998-03-16,D,roster,2026-10-22
 28973342,Mikael Pyyhtia,CBJ,8482451,2001-12-17,L,search,2026-09-27
 28974592,Patrick Giles,SJS,8480825,2000-01-03,R,roster,2026-09-28
+28978638,Elmer Soderblom,PIT,8481725,2001-07-05,L,roster,2026-10-27
 29023281,Drew Helleson,ANA,8481563,2001-03-26,D,roster,2026-09-24
 29089631,Devon Levi,EDM,8482221,2001-12-27,G,roster,2026-10-23
 29101182,Brock Faber,MIN,8482122,2002-08-22,D,roster,2026-09-26
@@ -270,6 +271,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 559829,Alex Ovechkin,WSH,8471214,1985-09-17,L,roster,2026-09-24
 dfo:1059,Cam Talbot,CBJ,8475660,1987-07-05,G,roster,2026-09-29
 dfo:1305,Jake Allen,NJD,8474596,1990-08-07,G,roster,2026-09-29
+dfo:1438,James Reimer,NYR,8473503,1988-03-15,G,roster,2026-10-27
 dfo:1692,Darcy Kuemper,LAK,8475311,1990-05-05,G,roster,2026-09-29
 dfo:1870,John Gibson,DET,8476434,1993-07-14,G,roster,2026-09-29
 dfo:25264,Ilya Sorokin,NYI,8478009,1995-08-04,G,roster,2026-09-29
