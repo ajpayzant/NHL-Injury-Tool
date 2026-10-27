@@ -1244,3 +1244,15 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-27T16:43:50Z,2026-10-27,102dbd9d835d8dae,2184557,Mitchell Marner,VGK,closed,off the report since 2026-10-26
 2026-10-27T16:43:50Z,2026-10-27,5a6629bac2f63e05,26536165,Quinton Byfield,LAK,closed,off the report since 2026-10-26
 2026-10-27T16:43:50Z,2026-10-27,06b39fc7db91f1fe,1757713,Taylor Hall,CAR,closed,off the report since 2026-10-26
+2026-10-27T21:23:12Z,2026-10-27,f9e85c435b97d87e,1770884,Sam Carrick,BUF,status_changed,IR. Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Oct 31
+2026-10-27T21:23:12Z,2026-10-27,2664ad8f11ad2a47,2271613,Matt Grzelcyk,BUF,status_changed,IR. Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Oct 31
+2026-10-27T21:23:12Z,2026-10-27,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,Day-to-Day -> Expected to be out until at least Oct 29
+2026-10-27T21:23:12Z,2026-10-27,2837fca76ab72bab,2245518,Sam Steel,DAL,status_changed,Day-to-Day -> Expected to be out until at least Oct 29
+2026-10-27T21:23:12Z,2026-10-27,6e8b8544546486b4,2000655,Radek Faksa,DAL,status_changed,Day-to-Day -> Expected to be out until at least Nov 3
+2026-10-27T21:23:12Z,2026-10-27,9b2605503d5ed24b,2147200,Esa Lindell,DAL,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Oct 31
+2026-10-27T21:23:12Z,2026-10-27,c08c637dbe32f3c0,1639470,James Reimer,NYR,opened,Upper Body - Day-to-Day
+2026-10-27T21:23:12Z,2026-10-27,3a7d5d0fd7b6767a,2147580,Trevor van Riemsdyk,PIT,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Nov 5
+2026-10-27T21:23:12Z,2026-10-27,c87f8057e36653ef,2921134,Justin Brazeau,PIT,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Nov 3
+2026-10-27T21:23:12Z,2026-10-27,a9353331fca3dac5,2147348,Ross Johnston,STL,status_changed,IR. Expected to be out until at least Oct 27 -> IR. Expected to be out until at least Oct 29
+2026-10-27T21:23:12Z,2026-10-27,b2f3491707955f2d,2245488,Carter Hart,VGK,opened,Undisclosed - Day-to-Day
+2026-10-27T21:23:12Z,2026-10-27,3b4b25d0e3dc3a20,1280555,Mikael Backlund,CGY,closed,off the report since 2026-10-27
