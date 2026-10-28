@@ -1258,3 +1258,13 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-27T21:23:12Z,2026-10-27,3b4b25d0e3dc3a20,1280555,Mikael Backlund,CGY,closed,off the report since 2026-10-27
 2026-10-28T00:34:35Z,2026-10-27,aa053f871b276f0c,1757713,Taylor Hall,CAR,opened,Undisclosed - Expected to be out until at least Oct 29
 2026-10-28T00:34:35Z,2026-10-27,4db50e466597fc6f,1628806,Drew Doughty,LAK,opened,Undisclosed - Expected to be out until at least Oct 29
+2026-10-28T06:54:40Z,2026-10-28,43063d64184692ed,26798892,Justin Danforth,BUF,status_changed,Day-to-Day -> Expected to be out until at least Oct 29
+2026-10-28T06:54:40Z,2026-10-28,aa053f871b276f0c,1757713,Taylor Hall,CAR,status_changed,Expected to be out until at least Oct 29 -> Expected to be out until at least Nov 1
+2026-10-28T06:54:40Z,2026-10-28,91dcb25ededba19e,2269082,Kyle Capobianco,DAL,opened,Leg - Day-to-Day
+2026-10-28T06:54:40Z,2026-10-28,7d4d28d6fa854dd7,433603,Corey Perry,LAK,opened,Undisclosed - Expected to be out until at least Oct 29
+2026-10-28T06:54:40Z,2026-10-28,58100e01b0678ba6,1639484,Jared Spurgeon,MIN,opened,Undisclosed - Day-to-Day
+2026-10-28T06:54:40Z,2026-10-28,f060ae79ad71b6cd,2147651,Warren Foegele,OTT,opened,Knee - Day-to-Day
+2026-10-28T06:54:40Z,2026-10-28,b2f3491707955f2d,2245488,Carter Hart,VGK,status_changed,Day-to-Day -> Expected to be out until at least Oct 30
+2026-10-28T06:54:40Z,2026-10-28,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,IR. Expected to be out until at least Nov 5 -> IR. Expected to be out until at least Nov 3
+2026-10-28T06:54:40Z,2026-10-28,34fdad872e1ce11f,2000662,Mark Jankowski,CAR,closed,off the report since 2026-10-27
+2026-10-28T06:54:40Z,2026-10-28,cae17ace2b72715d,26657143,Cam York,PHI,closed,off the report since 2026-10-27
