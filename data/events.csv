@@ -1272,3 +1272,22 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-28T14:05:47Z,2026-10-28,3f6f91c38861a41b,2879988,Alexei Toropchenko,STL,closed,off the report since 2026-10-27
 2026-10-28T14:05:47Z,2026-10-28,6939c60becc59f03,2147344,Connor Hellebuyck,NJD,closed,off the report since 2026-10-27
 2026-10-28T14:05:47Z,2026-10-28,2cd04f19121b5054,2245479,Dante Fabbro,CBJ,closed,off the report since 2026-10-27
+2026-10-28T19:38:57Z,2026-10-28,43063d64184692ed,26798892,Justin Danforth,BUF,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-28T19:38:57Z,2026-10-28,5894a0a65553e688,29167224,Samuel Honzek,CGY,status_changed,IR. Expected to be out until at least Oct 28 -> IR. Expected to be out until at least Nov 15
+2026-10-28T19:38:57Z,2026-10-28,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-28T19:38:57Z,2026-10-28,2837fca76ab72bab,2245518,Sam Steel,DAL,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-28T19:38:57Z,2026-10-28,91dcb25ededba19e,2269082,Kyle Capobianco,DAL,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
+2026-10-28T19:38:57Z,2026-10-28,7953368b29fceaa2,28895750,Marco Kasper,DET,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Nov 12
+2026-10-28T19:38:57Z,2026-10-28,9a3777fc241c385d,3166631,Albert Johansson,DET,status_changed,Day-to-Day -> Expected to be out until at least Oct 31
+2026-10-28T19:38:57Z,2026-10-28,8ce5e076b5adbbce,2879768,Mason Appleton,DET,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Nov 12
+2026-10-28T19:38:57Z,2026-10-28,1bc198432e099029,1770929,Zach Hyman,EDM,type_changed,Upper Body -> Neck
+2026-10-28T19:38:57Z,2026-10-28,1bc198432e099029,1770929,Zach Hyman,EDM,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 3
+2026-10-28T19:38:57Z,2026-10-28,7d4d28d6fa854dd7,433603,Corey Perry,LAK,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-28T19:38:57Z,2026-10-28,4db50e466597fc6f,1628806,Drew Doughty,LAK,status_changed,Expected to be out until at least Oct 29 -> Day-to-Day
+2026-10-28T19:38:57Z,2026-10-28,25a366dec050ebf1,2076042,Alex Wennberg,SJS,status_changed,Expected to be out until at least Nov 9 -> IR. Expected to be out until at least Nov 9
+2026-10-28T19:38:57Z,2026-10-28,7f5118a176605346,29406961,Igor Chernyshov,SJS,status_changed,Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 14
+2026-10-28T19:38:57Z,2026-10-28,3aef18f359f56fad,2000659,Zemgus Girgensons,TBL,type_changed,Undisclosed -> Lower Body
+2026-10-28T19:38:57Z,2026-10-28,3aef18f359f56fad,2000659,Zemgus Girgensons,TBL,status_changed,Day-to-Day -> Expected to be out until at least Oct 31
+2026-10-28T19:38:57Z,2026-10-28,328f871f14c64210,2879806,Brandon Hagel,TBL,opened,Undisclosed - Day-to-Day
+2026-10-28T19:38:57Z,2026-10-28,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 7
+2026-10-28T19:38:57Z,2026-10-28,b2f3491707955f2d,2245488,Carter Hart,VGK,status_changed,Expected to be out until at least Oct 30 -> Day-to-Day
