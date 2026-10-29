@@ -1291,3 +1291,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-28T19:38:57Z,2026-10-28,328f871f14c64210,2879806,Brandon Hagel,TBL,opened,Undisclosed - Day-to-Day
 2026-10-28T19:38:57Z,2026-10-28,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 7
 2026-10-28T19:38:57Z,2026-10-28,b2f3491707955f2d,2245488,Carter Hart,VGK,status_changed,Expected to be out until at least Oct 30 -> Day-to-Day
+2026-10-29T00:03:45Z,2026-10-28,c87f8057e36653ef,2921134,Justin Brazeau,PIT,status_changed,IR. Expected to be out until at least Nov 3 -> Expected to be out until at least Nov 3
+2026-10-29T00:03:45Z,2026-10-28,3802f71216997c70,28978638,Elmer Soderblom,PIT,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 7
