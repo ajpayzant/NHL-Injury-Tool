@@ -1317,3 +1317,29 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-29T13:15:55Z,2026-10-29,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-10-28
 2026-10-29T13:15:55Z,2026-10-29,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-10-28
 2026-10-29T13:15:55Z,2026-10-29,9cbf636f8f10bb48,3130097,Dakota Joshua,TOR,closed,off the report since 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,e48d4b322a03a9f0,3166853,Jack Rathbone,BUF,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,aa053f871b276f0c,1757713,Taylor Hall,CAR,type_changed,Undisclosed -> Upper Body
+2026-10-29T18:59:49Z,2026-10-29,aa053f871b276f0c,1757713,Taylor Hall,CAR,status_changed,Expected to be out until at least Nov 1 -> Expected to be out until at least Nov 3
+2026-10-29T18:59:49Z,2026-10-29,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,Day-to-Day -> Expected to be out until at least Oct 31
+2026-10-29T18:59:49Z,2026-10-29,e7f1c1cf0a48582e,28838042,Alex Vlasic,CHI,opened,Illness - Day-to-Day
+2026-10-29T18:59:49Z,2026-10-29,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,91dcb25ededba19e,2269082,Kyle Capobianco,DAL,status_changed,Expected to be out until at least Nov 5 -> Expected to be out until at least Nov 27
+2026-10-29T18:59:49Z,2026-10-29,611541f26e3d130a,2147354,Dylan Larkin,DET,opened,Not Injury Related - Expected to be out until at least Oct 31
+2026-10-29T18:59:49Z,2026-10-29,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,401989ba6238288a,3149263,Alex Turcotte,LAK,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Oct 31
+2026-10-29T18:59:49Z,2026-10-29,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,58100e01b0678ba6,1639484,Jared Spurgeon,MIN,status_changed,Day-to-Day -> Expected to be out until at least Nov 6
+2026-10-29T18:59:49Z,2026-10-29,aa8a60c666296470,50001179,Bryce Pickford,MTL,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,73f5e54f386a1af5,2198288,Thomas Chabot,OTT,status_changed,Expected to be out until at least Oct 31 -> Day-to-Day
+2026-10-29T18:59:49Z,2026-10-29,c7db43d44a79272c,29167287,Quentin Musty,SJS,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,620048a7bd273eb4,1282170,Logan Couture,SJS,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,745f8e86c42e4971,50001174,Jake O'Brien,SEA,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,fa2b82f6d606389e,29407705,Adam Jecho,STL,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 7
+2026-10-29T18:59:49Z,2026-10-29,7f4cb5291ee66844,29373582,Cade Webber,TOR,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-10-28
+2026-10-29T18:59:49Z,2026-10-29,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-10-28
