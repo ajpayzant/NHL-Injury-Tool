@@ -1343,3 +1343,12 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-29T18:59:49Z,2026-10-29,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-10-28
 2026-10-29T18:59:49Z,2026-10-29,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-10-28
 2026-10-29T18:59:49Z,2026-10-29,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-10-28
+2026-10-29T23:22:12Z,2026-10-29,7299a6e7070fb146,28895757,Pavel Mintyukov,ANA,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Nov 1
+2026-10-29T23:22:12Z,2026-10-29,0db0590a7634a0ae,29404928,Konsta Helenius,BUF,opened,Upper Body - Expected to be out until at least Nov 4
+2026-10-29T23:22:12Z,2026-10-29,43063d64184692ed,26798892,Justin Danforth,BUF,status_changed,Day-to-Day -> IR. Expected to be out until at least Oct 31
+2026-10-29T23:22:12Z,2026-10-29,611541f26e3d130a,2147354,Dylan Larkin,DET,type_changed,Not Injury Related -> Suspension
+2026-10-29T23:22:12Z,2026-10-29,611541f26e3d130a,2147354,Dylan Larkin,DET,status_changed,Expected to be out until at least Oct 31 -> Expected to be out until at least Nov 14
+2026-10-29T23:22:12Z,2026-10-29,d611c0a8978aff78,2146557,Kevin Fiala,LAK,status_changed,IR. Expected to be out until at least Oct 31 -> IR. Expected to be out until at least Nov 7
+2026-10-29T23:22:12Z,2026-10-29,ffc4625a91046bc2,1771018,Mats Zuccarello,LAK,status_changed,IR. Expected to be out until at least Nov 4 -> IR. Expected to be out until at least Nov 10
+2026-10-29T23:22:12Z,2026-10-29,f060ae79ad71b6cd,2147651,Warren Foegele,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 7
+2026-10-29T23:22:12Z,2026-10-29,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 17
