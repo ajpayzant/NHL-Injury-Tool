@@ -1293,3 +1293,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-28T19:38:57Z,2026-10-28,b2f3491707955f2d,2245488,Carter Hart,VGK,status_changed,Expected to be out until at least Oct 30 -> Day-to-Day
 2026-10-29T00:03:45Z,2026-10-28,c87f8057e36653ef,2921134,Justin Brazeau,PIT,status_changed,IR. Expected to be out until at least Nov 3 -> Expected to be out until at least Nov 3
 2026-10-29T00:03:45Z,2026-10-28,3802f71216997c70,28978638,Elmer Soderblom,PIT,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 7
+2026-10-29T05:57:42Z,2026-10-29,e1c8e1a6b6414f17,26799324,Brennan Othmann,CGY,opened,Upper Body - Day-to-Day
+2026-10-29T05:57:42Z,2026-10-29,cd29f5be610e4a2c,26635172,Devin Cooley,CGY,opened,Lower Body - Day-to-Day
+2026-10-29T05:57:42Z,2026-10-29,3290e49577382bf0,2147300,Josh Manson,COL,opened,Lower Body - Expected to be out until at least Nov 5
+2026-10-29T05:57:42Z,2026-10-29,fd626d5fe3ebd49f,2233024,Miles Wood,TOR,status_changed,IR. Expected to be out until at least Nov 3 -> IR. Expected to be out until at least Nov 7

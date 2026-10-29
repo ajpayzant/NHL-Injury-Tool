@@ -65,6 +65,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147206,Kurtis MacDermid,OTT,8477073,1994-03-25,L,roster,2026-09-24
 2147212,Andrew Mangiapane,CHI,8478233,1996-04-04,L,roster,2026-09-30
 2147283,Aaron Ekblad,FLA,8477932,1996-02-07,D,roster,2026-10-05
+2147300,Josh Manson,COL,8476312,1991-10-07,D,roster,2026-10-29
 2147340,Yanni Gourde,TBL,8476826,1991-12-15,C,roster,2026-09-24
 2147344,Connor Hellebuyck,WPG,8476945,1993-05-19,G,roster,2026-10-02
 2147348,Ross Johnston,STL,8477527,1994-02-18,L,roster,2026-10-18
@@ -127,6 +128,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26603168,Egor Chinakhov,PIT,8482475,2001-02-01,R,roster,2026-10-18
 26603173,Mavrik Bourque,NSH,8482145,2002-01-08,C,roster,2026-10-08
 26603210,Jake Sanderson,OTT,8482105,2002-07-08,D,roster,2026-09-24
+26635172,Devin Cooley,CGY,8482445,1997-05-25,G,roster,2026-10-29
 26648515,Shane Pinto,OTT,8481596,2000-11-12,C,roster,2026-09-24
 26657143,Cam York,PHI,8481546,2001-01-05,D,roster,2026-10-10
 26798877,Chase Stillman,DET,8482714,2003-03-19,R,search,2026-10-03
@@ -138,6 +140,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26799195,Jacob Melanson,SEA,8482874,2003-04-22,R,roster,2026-10-03
 26799264,Oskar Back,DAL,8480840,2000-03-12,C,roster,2026-10-18
 26799321,Zachary L'Heureux,COL,8482742,2003-05-15,L,roster,2026-09-28
+26799324,Brennan Othmann,CGY,8482747,2003-01-05,L,roster,2026-10-29
 26799378,Walker Duehr,WPG,8482652,1997-11-23,R,search,2026-09-29
 26799426,Olen Zellweger,BUF,8482803,2003-09-10,D,roster,2026-09-24
 26799432,Vincent Iorio,NYR,8482861,2002-11-14,D,roster,2026-09-24
@@ -195,7 +198,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28899632,Aidan Thompson,NYR,8483685,2002-02-18,C,search,2026-09-29
 28899702,Ben Hemmerling,VGK,8483748,2004-04-21,R,search,2026-09-30
 28899704,Dominic James,TBL,8483752,2002-07-03,C,roster,2026-09-24
-28901928,Garrett Brown,WPG,,,,unmatched,2026-10-21
+28901928,Garrett Brown,WPG,,,,unmatched,2026-10-29
 28901948,Dennis Hildeby,TBL,8483710,2001-08-19,G,roster,2026-10-13
 28902928,Nikita Grebenkin,PHI,8483733,2003-05-02,R,roster,2026-09-29
 28968763,Marshall Rifai,TOR,8483546,1998-03-16,D,roster,2026-10-22
