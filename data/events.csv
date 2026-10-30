@@ -1383,3 +1383,14 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-30T16:43:50Z,2026-10-30,f9e85c435b97d87e,1770884,Sam Carrick,BUF,closed,off the report since 2026-10-29
 2026-10-30T16:43:50Z,2026-10-30,73f5e54f386a1af5,2198288,Thomas Chabot,OTT,closed,off the report since 2026-10-29
 2026-10-30T16:43:50Z,2026-10-30,4855b9e6629d06f4,2245484,Samuel Girard,PIT,closed,off the report since 2026-10-29
+2026-10-30T21:33:59Z,2026-10-30,e1c8e1a6b6414f17,26799324,Brennan Othmann,CGY,status_changed,Day-to-Day -> Expected to be out until at least Oct 31
+2026-10-30T21:33:59Z,2026-10-30,cd29f5be610e4a2c,26635172,Devin Cooley,CGY,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 6
+2026-10-30T21:33:59Z,2026-10-30,5198243810d2bed0,2992841,Logan O'Connor,COL,opened,Personal - Day-to-Day
+2026-10-30T21:33:59Z,2026-10-30,3290e49577382bf0,2147300,Josh Manson,COL,type_changed,Lower Body -> Ankle
+2026-10-30T21:33:59Z,2026-10-30,3290e49577382bf0,2147300,Josh Manson,COL,status_changed,Expected to be out until at least Nov 5 -> Expected to be out until at least Dec 27
+2026-10-30T21:33:59Z,2026-10-30,9a3777fc241c385d,3166631,Albert Johansson,DET,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
+2026-10-30T21:33:59Z,2026-10-30,7953368b29fceaa2,28895750,Marco Kasper,DET,status_changed,IR. Expected to be out until at least Nov 12 -> IR. Expected to be out until at least Nov 10
+2026-10-30T21:33:59Z,2026-10-30,8ce5e076b5adbbce,2879768,Mason Appleton,DET,status_changed,IR. Expected to be out until at least Nov 12 -> IR. Expected to be out until at least Nov 10
+2026-10-30T21:33:59Z,2026-10-30,afd112e0d970be91,2178854,Joel Eriksson Ek,MIN,opened,Undisclosed - Day-to-Day
+2026-10-30T21:33:59Z,2026-10-30,d97917c81d3f531a,2197860,Colton Parayko,STL,opened,Upper Body - Day-to-Day
+2026-10-30T21:33:59Z,2026-10-30,93a3a8467dd83e2c,2845320,Filip Chytil,VAN,opened,Upper Body - Expected to be out until at least Nov 3
