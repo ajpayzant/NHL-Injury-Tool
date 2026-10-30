@@ -1352,3 +1352,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-29T23:22:12Z,2026-10-29,ffc4625a91046bc2,1771018,Mats Zuccarello,LAK,status_changed,IR. Expected to be out until at least Nov 4 -> IR. Expected to be out until at least Nov 10
 2026-10-29T23:22:12Z,2026-10-29,f060ae79ad71b6cd,2147651,Warren Foegele,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 7
 2026-10-29T23:22:12Z,2026-10-29,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 17
+2026-10-30T02:42:11Z,2026-10-29,eb80e6dc19513fe1,1133703,Nick Foligno,MIN,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Nov 3
+2026-10-30T02:42:11Z,2026-10-29,f04936bb34f7d412,1707405,Marcus Foligno,MIN,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Nov 3
+2026-10-30T02:42:11Z,2026-10-29,58100e01b0678ba6,1639484,Jared Spurgeon,MIN,status_changed,Expected to be out until at least Nov 6 -> IR. Expected to be out until at least Nov 6
+2026-10-30T02:42:11Z,2026-10-29,cd56068a174ac6c9,2000667,Mike Matheson,MTL,opened,Lower Body - Expected to be out until at least Oct 31
+2026-10-30T02:42:11Z,2026-10-29,85f130151241c880,2076037,Ryan Pulock,NYI,opened,Upper Body - Day-to-Day
+2026-10-30T02:42:11Z,2026-10-29,a9353331fca3dac5,2147348,Ross Johnston,STL,status_changed,IR. Expected to be out until at least Oct 29 -> IR. Expected to be out until at least Oct 31
