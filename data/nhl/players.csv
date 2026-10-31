@@ -79,10 +79,12 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147580,Trevor van Riemsdyk,PIT,8477845,1991-07-24,D,roster,2026-10-10
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
 2178634,Ivan Provorov,CBJ,8478500,1997-01-13,D,roster,2026-09-30
+2178853,Erik Cernak,TBL,8478416,1997-05-28,D,roster,2026-10-31
 2178854,Joel Eriksson Ek,MIN,8478493,1997-01-29,C,roster,2026-10-30
 2179103,Travis Konecny,PHI,8478439,1997-03-11,R,roster,2026-10-10
 2184557,Mitchell Marner,VGK,8478483,1997-05-05,R,roster (nickname),2026-10-22
 2197831,Mattias Janmark,EDM,8477406,1992-12-08,C,roster,2026-09-24
+2197836,Adrian Kempe,LAK,8477960,1996-09-13,R,roster,2026-10-31
 2197838,Joonas Korpisalo,NYR,8476914,1994-04-28,G,roster,2026-10-01
 2197852,Brandon Montour,SEA,8477986,1994-04-11,D,roster,2026-10-18
 2197860,Colton Parayko,STL,8476892,1993-05-12,D,roster,2026-10-30
@@ -131,6 +133,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26600484,Lukas Cormier,VGK,8482141,2002-03-27,D,search,2026-09-29
 26603168,Egor Chinakhov,PIT,8482475,2001-02-01,R,roster,2026-10-18
 26603173,Mavrik Bourque,NSH,8482145,2002-01-08,C,roster,2026-10-08
+26603205,Braden Schneider,NYR,8482073,2001-09-20,D,roster,2026-10-31
 26603210,Jake Sanderson,OTT,8482105,2002-07-08,D,roster,2026-09-24
 26635172,Devin Cooley,CGY,8482445,1997-05-25,G,roster,2026-10-29
 26648515,Shane Pinto,OTT,8481596,2000-11-12,C,roster,2026-09-24
@@ -193,6 +196,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28895757,Pavel Mintyukov,ANA,8483490,2003-11-25,D,roster,2026-09-27
 28895758,Frank Nazar,CHI,8483493,2004-01-14,C,roster,2026-10-10
 28895759,Matthew Savoie,EDM,8483512,2004-01-01,C,roster (nickname),2026-09-24
+28895781,Isaac Howard,EDM,8483455,2004-03-30,L,roster,2026-10-31
 28895785,Jiri Kulich,BUF,8483468,2004-04-14,C,roster,2026-09-24
 28895787,Maveric Lamoureux,UTA,8483472,2004-01-13,D,roster,2026-09-28
 28895794,Danila Yurov,MIN,8483525,2003-12-22,R,roster,2026-10-05
@@ -252,6 +256,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2992045,Colin Blackwell,DAL,8476278,1993-03-28,C,roster,2026-09-24
 2992271,Alec Regula,EDM,8480831,2000-08-06,D,roster,2026-09-27
 2992289,Akil Thomas,VAN,8480851,2000-01-02,C,search,2026-09-29
+2992322,Sean Durzi,NYR,8480434,1998-10-21,D,roster,2026-10-31
 2992841,Logan O'Connor,COL,8481186,1996-08-14,R,roster,2026-09-28
 3103731,Johnathan Kovacevic,NJD,8480192,1997-07-12,D,roster,2026-09-24
 3107125,Elvis Merzlikins,CBJ,8478007,1994-04-13,G,roster,2026-09-24

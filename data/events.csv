@@ -1417,3 +1417,20 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-31T15:23:52Z,2026-10-31,ca5be578d0498fea,28968763,Marshall Rifai,TOR,status_changed,IR. Expected to be out until at least Oct 31 -> IR. Expected to be out until at least Nov 8
 2026-10-31T15:23:52Z,2026-10-31,7f4cb5291ee66844,29373582,Cade Webber,TOR,status_changed,IR. Expected to be out until at least Oct 31 -> IR. Expected to be out until at least Nov 27
 2026-10-31T15:23:52Z,2026-10-31,b2f3491707955f2d,2245488,Carter Hart,VGK,closed,off the report since 2026-10-30
+2026-10-31T20:02:42Z,2026-10-31,e1c8e1a6b6414f17,26799324,Brennan Othmann,CGY,status_changed,Day-to-Day -> Expected to be out until at least Nov 2
+2026-10-31T20:02:42Z,2026-10-31,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,Day-to-Day -> Expected to be out until at least Nov 2
+2026-10-31T20:02:42Z,2026-10-31,5198243810d2bed0,2992841,Logan O'Connor,COL,status_changed,Day-to-Day -> Expected to be out until at least Nov 2
+2026-10-31T20:02:42Z,2026-10-31,91dcb25ededba19e,2269082,Kyle Capobianco,DAL,status_changed,Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 27
+2026-10-31T20:02:42Z,2026-10-31,9cb5472b30b7945a,28895781,Isaac Howard,EDM,opened,Lower Body - Day-to-Day
+2026-10-31T20:02:42Z,2026-10-31,efc3845a9c03f6b1,2197836,Adrian Kempe,LAK,opened,Undisclosed - Expected to be out until at least Nov 4
+2026-10-31T20:02:42Z,2026-10-31,cd56068a174ac6c9,2000667,Mike Matheson,MTL,status_changed,Day-to-Day -> Expected to be out until at least Nov 14
+2026-10-31T20:02:42Z,2026-10-31,85f130151241c880,2076037,Ryan Pulock,NYI,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
+2026-10-31T20:02:42Z,2026-10-31,0ef212a57b30adb0,2992322,Sean Durzi,NYR,opened,Undisclosed - Day-to-Day
+2026-10-31T20:02:42Z,2026-10-31,9dc591b3c8f8c64d,26603205,Braden Schneider,NYR,opened,Illness - Day-to-Day
+2026-10-31T20:02:42Z,2026-10-31,4eadf282d2669cb9,2076015,Andre Burakovsky,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
+2026-10-31T20:02:42Z,2026-10-31,f060ae79ad71b6cd,2147651,Warren Foegele,OTT,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 25
+2026-10-31T20:02:42Z,2026-10-31,a9353331fca3dac5,2147348,Ross Johnston,STL,status_changed,IR. Expected to be out until at least Oct 31 -> IR. Expected to be out until at least Nov 3
+2026-10-31T20:02:42Z,2026-10-31,d97917c81d3f531a,2197860,Colton Parayko,STL,status_changed,Day-to-Day -> Expected to be out until at least Nov 3
+2026-10-31T20:02:42Z,2026-10-31,cc0b5c783ed15b1c,2178853,Erik Cernak,TBL,opened,Undisclosed - Expected to be out until at least Nov 3
+2026-10-31T20:02:42Z,2026-10-31,3aef18f359f56fad,2000659,Zemgus Girgensons,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 3
+2026-10-31T20:02:42Z,2026-10-31,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,IR. Expected to be out until at least Nov 2 -> IR. Expected to be out until at least Nov 5
