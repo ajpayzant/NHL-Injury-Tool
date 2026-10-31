@@ -1394,3 +1394,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-30T21:33:59Z,2026-10-30,afd112e0d970be91,2178854,Joel Eriksson Ek,MIN,opened,Undisclosed - Day-to-Day
 2026-10-30T21:33:59Z,2026-10-30,d97917c81d3f531a,2197860,Colton Parayko,STL,opened,Upper Body - Day-to-Day
 2026-10-30T21:33:59Z,2026-10-30,93a3a8467dd83e2c,2845320,Filip Chytil,VAN,opened,Upper Body - Expected to be out until at least Nov 3
+2026-10-31T01:39:01Z,2026-10-30,cd29f5be610e4a2c,26635172,Devin Cooley,CGY,status_changed,IR. Expected to be out until at least Nov 6 -> IR. Expected to be out until at least Nov 14
+2026-10-31T01:39:01Z,2026-10-30,7953368b29fceaa2,28895750,Marco Kasper,DET,status_changed,IR. Expected to be out until at least Nov 10 -> IR. Expected to be out until at least Nov 14
+2026-10-31T01:39:01Z,2026-10-30,f060ae79ad71b6cd,2147651,Warren Foegele,OTT,status_changed,Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 14
+2026-10-31T01:39:01Z,2026-10-30,93a3a8467dd83e2c,2845320,Filip Chytil,VAN,status_changed,Expected to be out until at least Nov 3 -> IR. Expected to be out until at least Nov 7
