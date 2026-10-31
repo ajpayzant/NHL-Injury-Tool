@@ -1434,3 +1434,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-31T20:02:42Z,2026-10-31,cc0b5c783ed15b1c,2178853,Erik Cernak,TBL,opened,Undisclosed - Expected to be out until at least Nov 3
 2026-10-31T20:02:42Z,2026-10-31,3aef18f359f56fad,2000659,Zemgus Girgensons,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 3
 2026-10-31T20:02:42Z,2026-10-31,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,IR. Expected to be out until at least Nov 2 -> IR. Expected to be out until at least Nov 5
+2026-10-31T23:27:24Z,2026-10-31,817294bc9fe4e33f,2921773,Troy Terry,ANA,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 6
+2026-10-31T23:27:24Z,2026-10-31,9cb5472b30b7945a,28895781,Isaac Howard,EDM,type_changed,Lower Body -> Knee
+2026-10-31T23:27:24Z,2026-10-31,9cb5472b30b7945a,28895781,Isaac Howard,EDM,status_changed,Day-to-Day -> Expected to be out until at least Nov 3
+2026-10-31T23:27:24Z,2026-10-31,58100e01b0678ba6,1639484,Jared Spurgeon,MIN,type_changed,Undisclosed -> Lower Body
+2026-10-31T23:27:24Z,2026-10-31,4eadf282d2669cb9,2076015,Andre Burakovsky,OTT,status_changed,Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 21
