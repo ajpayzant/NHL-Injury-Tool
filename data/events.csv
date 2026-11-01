@@ -1481,3 +1481,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-01T18:59:11Z,2026-11-01,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-11-01
 2026-11-01T18:59:11Z,2026-11-01,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-01
 2026-11-01T18:59:11Z,2026-11-01,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-11-01
+2026-11-01T22:54:33Z,2026-11-01,daa8f2bb8219e51e,2076018,Max Domi,TOR,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Jan 30
+2026-11-01T22:54:33Z,2026-11-01,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,Expected to be out until at least Nov 5 -> IR. Expected to be out until at least Nov 5
+2026-11-01T22:54:33Z,2026-11-01,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,opened,Upper Body - Expected to be out until at least Nov 3
+2026-11-01T22:54:33Z,2026-11-01,c4bb1abb15faeb20,26799444,Cole Koepke,WPG,opened,Undisclosed - Expected to be out until at least Nov 3

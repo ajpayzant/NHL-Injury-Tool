@@ -151,6 +151,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26799378,Walker Duehr,WPG,8482652,1997-11-23,R,search,2026-09-29
 26799426,Olen Zellweger,BUF,8482803,2003-09-10,D,roster,2026-09-24
 26799432,Vincent Iorio,NYR,8482861,2002-11-14,D,roster,2026-09-24
+26799444,Cole Koepke,WPG,8481043,1998-05-17,L,roster,2026-11-01
 26799462,Luke Evangelista,NJD,8482146,2002-02-21,R,roster,2026-10-18
 26799489,Brandt Clarke,LAK,8482730,2003-02-09,D,roster,2026-10-30
 26799648,Helge Grans,PHI,8482169,2002-05-10,D,roster,2026-09-28
@@ -173,6 +174,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2845320,Filip Chytil,VAN,8480078,1999-09-05,C,roster,2026-09-24
 2845354,Jake Oettinger,DAL,8479979,1998-12-18,G,roster,2026-09-24
 2845355,Ryan Poehling,ANA,8480068,1999-01-03,C,roster,2026-10-11
+2845690,Kailer Yamamoto,UTA,8479977,1998-09-29,R,roster,2026-11-01
 2845695,Eeli Tolvanen,NYR,8480009,1999-04-22,R,roster,2026-10-23
 2850816,Andrei Kuzmenko,PIT,8483808,1996-02-04,L,roster,2026-09-24
 2858551,Ukko-Pekka Luukkonen,BUF,8480045,1999-03-09,G,roster,2026-09-27
