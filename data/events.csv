@@ -1439,3 +1439,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-10-31T23:27:24Z,2026-10-31,9cb5472b30b7945a,28895781,Isaac Howard,EDM,status_changed,Day-to-Day -> Expected to be out until at least Nov 3
 2026-10-31T23:27:24Z,2026-10-31,58100e01b0678ba6,1639484,Jared Spurgeon,MIN,type_changed,Undisclosed -> Lower Body
 2026-10-31T23:27:24Z,2026-10-31,4eadf282d2669cb9,2076015,Andre Burakovsky,OTT,status_changed,Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 21
+2026-11-01T06:21:08Z,2026-11-01,81e973628bf86b9c,3130089,Kirby Dach,MTL,opened,Illness - Expected to be out until at least Nov 3
+2026-11-01T06:21:08Z,2026-11-01,f16ffce932e8c56d,2147172,Hayden Hodgson,OTT,closed,off the report since 2026-10-31
