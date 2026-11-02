@@ -1492,3 +1492,24 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-02T11:24:29Z,2026-11-02,e74967ac97ef3ccb,2845125,Owen Tippett,PHI,closed,off the report since 2026-11-01
 2026-11-02T11:24:29Z,2026-11-02,e5b075967e00a4dc,2179103,Travis Konecny,PHI,closed,off the report since 2026-11-01
 2026-11-02T11:24:29Z,2026-11-02,a60254bbd220c623,2271605,Michael Carcone,UTA,closed,off the report since 2026-11-01
+2026-11-02T21:46:33Z,2026-11-02,9e5628f507db51c6,2271612,A.J. Greer,ANA,opened,Upper Body - IR. Expected to be out until at least Nov 11
+2026-11-02T21:46:33Z,2026-11-02,a783d98465de4812,29167156,Zach Benson,BUF,opened,Undisclosed - Day-to-Day
+2026-11-02T21:46:33Z,2026-11-02,0db0590a7634a0ae,29404928,Konsta Helenius,BUF,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-02T21:46:33Z,2026-11-02,79a82f82d265e157,1897686,Jonathan Huberdeau,CGY,status_changed,IR. Expected to be out until at least Nov 2 -> IR. Expected to be out until at least Nov 28
+2026-11-02T21:46:33Z,2026-11-02,aa053f871b276f0c,1757713,Taylor Hall,CAR,status_changed,Expected to be out until at least Nov 3 -> Day-to-Day
+2026-11-02T21:46:33Z,2026-11-02,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,Day-to-Day -> Expected to be out until at least Nov 4
+2026-11-02T21:46:33Z,2026-11-02,9a3777fc241c385d,3166631,Albert Johansson,DET,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
+2026-11-02T21:46:33Z,2026-11-02,9cb5472b30b7945a,28895781,Isaac Howard,EDM,status_changed,Expected to be out until at least Nov 3 -> Day-to-Day
+2026-11-02T21:46:33Z,2026-11-02,ab33bb9bb347c0bf,2076014,Aleksander Barkov,FLA,type_changed,Lower Body -> Knee
+2026-11-02T21:46:33Z,2026-11-02,6676502ec7be53d2,1133425,Brad Marchand,FLA,type_changed,Leg -> Knee
+2026-11-02T21:46:33Z,2026-11-02,8aff9e16f90fa321,2197870,Evan Rodrigues,NJD,opened,Illness - Day-to-Day
+2026-11-02T21:46:33Z,2026-11-02,0ef212a57b30adb0,2992322,Sean Durzi,NYR,status_changed,Expected to be out until at least Nov 3 -> Day-to-Day
+2026-11-02T21:46:33Z,2026-11-02,4eadf282d2669cb9,2076015,Andre Burakovsky,OTT,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 27
+2026-11-02T21:46:33Z,2026-11-02,a8ed6b9bc827279f,1128973,Evgeni Malkin,PIT,opened,Lower Body - Day-to-Day
+2026-11-02T21:46:33Z,2026-11-02,3802f71216997c70,28978638,Elmer Soderblom,PIT,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 14
+2026-11-02T21:46:33Z,2026-11-02,a5d62c2180e1f6cb,3140762,Kaedan Korczak,PIT,opened,Lower Body - Day-to-Day
+2026-11-02T21:46:33Z,2026-11-02,3aef18f359f56fad,2000659,Zemgus Girgensons,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
+2026-11-02T21:46:33Z,2026-11-02,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,status_changed,Expected to be out until at least Nov 3 -> Day-to-Day
+2026-11-02T21:46:33Z,2026-11-02,3fcd2ca4448716df,26596707,Dawson Mercer,WPG,opened,Upper Body - Day-to-Day
+2026-11-02T21:46:33Z,2026-11-02,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,IR. Expected to be out until at least Nov 3 -> IR. Expected to be out until at least Nov 8
+2026-11-02T21:46:33Z,2026-11-02,9dc591b3c8f8c64d,26603205,Braden Schneider,NYR,closed,off the report since 2026-11-01

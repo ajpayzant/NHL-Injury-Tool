@@ -88,6 +88,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2197838,Joonas Korpisalo,NYR,8476914,1994-04-28,G,roster,2026-10-01
 2197852,Brandon Montour,SEA,8477986,1994-04-11,D,roster,2026-10-18
 2197860,Colton Parayko,STL,8476892,1993-05-12,D,roster,2026-10-30
+2197870,Evan Rodrigues,NJD,8478542,1993-07-28,C,roster,2026-11-02
 2197885,Linus Ullmark,OTT,8476999,1993-07-31,G,roster,2026-10-06
 2198224,Jake DeBrusk,VAN,8478498,1996-10-17,L,roster,2026-09-28
 2198231,Pavel Zacha,BOS,8478401,1997-04-06,C,roster,2026-10-18
@@ -128,6 +129,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26560462,Tyson Foerster,PHI,8482159,2002-01-18,R,roster,2026-10-18
 26560471,Kaiden Guhle,MTL,8482087,2002-01-18,D,roster,2026-09-24
 26561120,Marco Rossi,VAN,8482079,2001-09-23,C,roster,2026-10-18
+26596707,Dawson Mercer,WPG,8482110,2001-10-27,C,roster,2026-11-02
 26597475,Seth Jarvis,CAR,8482093,2002-02-01,R,roster,2026-09-24
 26599848,Ridly Greig,OTT,8482092,2002-08-08,C,roster,2026-09-24
 26600484,Lukas Cormier,VGK,8482141,2002-03-27,D,search,2026-09-29
@@ -224,6 +226,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2915882,Kirill Marchenko,CBJ,8480893,2000-07-21,R,roster,2026-09-29
 29167152,Denver Barkey,PHI,8484142,2005-04-27,C,roster,2026-09-24
 29167155,Connor Bedard,CHI,8484144,2005-07-17,C,roster,2026-09-24
+29167156,Zach Benson,BUF,8484145,2005-05-12,L,roster,2026-11-02
 29167157,Tristan Bertucci,DAL,8484146,2005-07-12,D,search,2026-09-29
 29167190,Jakub Dvorak,LAK,8484163,2005-05-25,D,search,2026-09-27
 29167224,Samuel Honzek,CGY,8484180,2004-11-12,L,roster,2026-10-10
@@ -271,6 +274,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3140308,John Marino,UTA,8478507,1997-05-21,D,roster,2026-10-20
 3140726,Raphael Lavoie,VGK,8481534,2000-09-25,C,roster,2026-09-29
 3140738,Vincent Desharnais,WSH,8479576,1996-05-29,D,roster,2026-10-23
+3140762,Kaedan Korczak,PIT,8481527,2001-01-29,D,roster,2026-11-02
 3140797,Trent Miner,COL,8481529,2001-02-05,G,search,2026-09-29
 3140820,Jordan Spence,OTT,8481606,2001-02-24,D,roster,2026-09-24
 3149263,Alex Turcotte,LAK,8481532,2001-02-26,C,roster,2026-10-09
