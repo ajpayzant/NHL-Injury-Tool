@@ -1486,3 +1486,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-01T22:54:33Z,2026-11-01,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,opened,Upper Body - Expected to be out until at least Nov 3
 2026-11-01T22:54:33Z,2026-11-01,c4bb1abb15faeb20,26799444,Cole Koepke,WPG,opened,Undisclosed - Expected to be out until at least Nov 3
 2026-11-02T02:35:30Z,2026-11-01,0ef212a57b30adb0,2992322,Sean Durzi,NYR,status_changed,Day-to-Day -> Expected to be out until at least Nov 3
+2026-11-02T11:24:29Z,2026-11-02,f16ffce932e8c56d,2147172,Hayden Hodgson,OTT,reopened,was marked returned 2026-10-31
+2026-11-02T11:24:29Z,2026-11-02,a595715a418348f4,2845695,Eeli Tolvanen,NYR,closed,off the report since 2026-11-01
+2026-11-02T11:24:29Z,2026-11-02,7299a6e7070fb146,28895757,Pavel Mintyukov,ANA,closed,off the report since 2026-11-01
+2026-11-02T11:24:29Z,2026-11-02,e74967ac97ef3ccb,2845125,Owen Tippett,PHI,closed,off the report since 2026-11-01
+2026-11-02T11:24:29Z,2026-11-02,e5b075967e00a4dc,2179103,Travis Konecny,PHI,closed,off the report since 2026-11-01
+2026-11-02T11:24:29Z,2026-11-02,a60254bbd220c623,2271605,Michael Carcone,UTA,closed,off the report since 2026-11-01
