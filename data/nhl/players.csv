@@ -26,6 +26,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1770948,Jacob Markstrom,FLA,8474593,1990-01-31,G,roster,2026-10-20
 1771018,Mats Zuccarello,LAK,8475692,1987-09-01,R,roster,2026-09-24
 1771089,Christopher Tanev,TOR,8475690,1989-12-20,D,roster (nickname),2026-10-10
+1897598,Jonathan Marchessault,NSH,8476539,1990-12-27,C,roster,2026-11-03
 1897634,Sean Couturier,PHI,8476461,1992-12-07,C,roster,2026-10-18
 1897650,Joel Edmundson,LAK,8476441,1993-06-28,D,roster,2026-09-27
 1897652,Mattias Ekholm,EDM,8475218,1990-05-24,D,roster,2026-10-23
@@ -259,6 +260,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29700070,Alexander Nikishin,CAR,8482100,2001-10-02,D,roster,2026-09-24
 29700624,Ian Moore,ANA,8482178,2002-01-04,D,roster,2026-09-24
 2987952,Tyler Tucker,STL,8481006,2000-03-01,D,roster,2026-09-24
+2988384,Curtis Douglas,SEA,8480876,2000-03-06,C,roster,2026-11-03
 2992045,Colin Blackwell,DAL,8476278,1993-03-28,C,roster,2026-09-24
 2992271,Alec Regula,EDM,8480831,2000-08-06,D,roster,2026-09-27
 2992289,Akil Thomas,VAN,8480851,2000-01-02,C,search,2026-09-29

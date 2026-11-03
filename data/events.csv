@@ -1523,3 +1523,17 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-03T12:01:36Z,2026-11-03,6e8b8544546486b4,2000655,Radek Faksa,DAL,closed,off the report since 2026-11-02
 2026-11-03T12:01:36Z,2026-11-03,1ebd33ee090e0020,1770948,Jacob Markstrom,FLA,closed,off the report since 2026-11-02
 2026-11-03T12:01:36Z,2026-11-03,c87f8057e36653ef,2921134,Justin Brazeau,PIT,closed,off the report since 2026-11-02
+2026-11-03T19:35:03Z,2026-11-03,df745d07bc9b9153,28895785,Jiri Kulich,BUF,reopened,was marked returned 2026-11-02
+2026-11-03T19:35:03Z,2026-11-03,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,Expected to be out until at least Nov 4 -> IR. Expected to be out until at least Nov 7
+2026-11-03T19:35:03Z,2026-11-03,1bc198432e099029,1770929,Zach Hyman,EDM,status_changed,IR. Expected to be out until at least Nov 3 -> IR. Expected to be out until at least Nov 7
+2026-11-03T19:35:03Z,2026-11-03,dac5c152f6f068ae,29101182,Brock Faber,MIN,status_changed,IR. Expected to be out until at least Nov 3 -> IR. Expected to be out until at least Nov 23
+2026-11-03T19:35:03Z,2026-11-03,f04936bb34f7d412,1707405,Marcus Foligno,MIN,status_changed,IR. Expected to be out until at least Nov 3 -> IR. Expected to be out until at least Nov 21
+2026-11-03T19:35:03Z,2026-11-03,eb80e6dc19513fe1,1133703,Nick Foligno,MIN,status_changed,IR. Expected to be out until at least Nov 3 -> IR. Expected to be out until at least Nov 21
+2026-11-03T19:35:03Z,2026-11-03,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,opened,Undisclosed - Day-to-Day
+2026-11-03T19:35:03Z,2026-11-03,0ef212a57b30adb0,2992322,Sean Durzi,NYR,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
+2026-11-03T19:35:03Z,2026-11-03,a8ed6b9bc827279f,1128973,Evgeni Malkin,PIT,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
+2026-11-03T19:35:03Z,2026-11-03,e11998991d6e87d5,2988384,Curtis Douglas,SEA,opened,Upper Body - Day-to-Day
+2026-11-03T19:35:03Z,2026-11-03,d97917c81d3f531a,2197860,Colton Parayko,STL,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
+2026-11-03T19:35:03Z,2026-11-03,e2a119256b5ef0cf,1685406,John Tavares,TOR,status_changed,IR. Expected to be out until at least Nov 27 -> Expected to be out until at least Nov 7
+2026-11-03T19:35:03Z,2026-11-03,93a3a8467dd83e2c,2845320,Filip Chytil,VAN,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 9
+2026-11-03T19:35:03Z,2026-11-03,0815be4a3c4107a2,1897737,Vladislav Namestnikov,WPG,status_changed,IR. Expected to be out until at least Nov 3 -> IR. Expected to be out until at least Nov 28
