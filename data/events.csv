@@ -1568,3 +1568,22 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-04T07:33:47Z,2026-11-04,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,type_changed,Undisclosed -> Lower Body
 2026-11-04T07:33:47Z,2026-11-04,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
 2026-11-04T07:33:47Z,2026-11-04,e145991b4fdc432e,29167365,Tom Willander,VAN,opened,Lower Body - Expected to be out until at least Nov 5
+2026-11-04T16:24:29Z,2026-11-04,e1c8e1a6b6414f17,26799324,Brennan Othmann,CGY,status_changed,Expected to be out until at least Nov 4 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,aa053f871b276f0c,1757713,Taylor Hall,CAR,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,9a3777fc241c385d,3166631,Albert Johansson,DET,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,81e973628bf86b9c,3130089,Kirby Dach,MTL,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,0ef212a57b30adb0,2992322,Sean Durzi,NYR,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,a8ed6b9bc827279f,1128973,Evgeni Malkin,PIT,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,d97917c81d3f531a,2197860,Colton Parayko,STL,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,3aef18f359f56fad,2000659,Zemgus Girgensons,TBL,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,e2a119256b5ef0cf,1685406,John Tavares,TOR,status_changed,Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 7
+2026-11-04T16:24:29Z,2026-11-04,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,e145991b4fdc432e,29167365,Tom Willander,VAN,status_changed,Expected to be out until at least Nov 5 -> Day-to-Day
+2026-11-04T16:24:29Z,2026-11-04,a783d98465de4812,29167156,Zach Benson,BUF,closed,off the report since 2026-11-03
+2026-11-04T16:24:29Z,2026-11-04,8aff9e16f90fa321,2197870,Evan Rodrigues,NJD,closed,off the report since 2026-11-03
+2026-11-04T16:24:29Z,2026-11-04,a5d62c2180e1f6cb,3140762,Kaedan Korczak,PIT,closed,off the report since 2026-11-03
+2026-11-04T16:24:29Z,2026-11-04,3fcd2ca4448716df,26596707,Dawson Mercer,WPG,closed,off the report since 2026-11-03
+2026-11-04T16:24:29Z,2026-11-04,97d42d5600714d87,2076028,Anthony Mantha,NJD,closed,off the report since 2026-11-03
+2026-11-04T16:24:29Z,2026-11-04,cc0b5c783ed15b1c,2178853,Erik Cernak,TBL,closed,off the report since 2026-11-03
+2026-11-04T16:24:29Z,2026-11-04,a9353331fca3dac5,2147348,Ross Johnston,STL,closed,off the report since 2026-11-03
