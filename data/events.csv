@@ -1563,3 +1563,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-04T00:40:36Z,2026-11-03,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-11-01
 2026-11-04T00:40:36Z,2026-11-03,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,IR. Expected to be out until at least Nov 5 -> IR. Expected to be out until at least Nov 8
 2026-11-04T00:40:36Z,2026-11-03,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-11-01
+2026-11-04T07:33:47Z,2026-11-04,5b4caea805726acb,2845123,Miro Heiskanen,DAL,opened,Upper Body - Day-to-Day
+2026-11-04T07:33:47Z,2026-11-04,e405d56a3f887cd6,1899095,John Gibson,DET,opened,Lower Body - Day-to-Day
+2026-11-04T07:33:47Z,2026-11-04,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,type_changed,Undisclosed -> Lower Body
+2026-11-04T07:33:47Z,2026-11-04,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Day-to-Day -> Expected to be out until at least Nov 5
+2026-11-04T07:33:47Z,2026-11-04,e145991b4fdc432e,29167365,Tom Willander,VAN,opened,Lower Body - Expected to be out until at least Nov 5
