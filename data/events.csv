@@ -1587,3 +1587,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-04T16:24:29Z,2026-11-04,97d42d5600714d87,2076028,Anthony Mantha,NJD,closed,off the report since 2026-11-03
 2026-11-04T16:24:29Z,2026-11-04,cc0b5c783ed15b1c,2178853,Erik Cernak,TBL,closed,off the report since 2026-11-03
 2026-11-04T16:24:29Z,2026-11-04,a9353331fca3dac5,2147348,Ross Johnston,STL,closed,off the report since 2026-11-03
+2026-11-04T22:40:27Z,2026-11-04,9784bdbe71dd91ba,2940987,Isac Lundestrom,CBJ,status_changed,IR. Expected to be out until at least Dec 3 -> IR. Expected to be out until at least Nov 10
+2026-11-04T22:40:27Z,2026-11-04,4e8ca40f4c654530,2845132,Nick Suzuki,MTL,status_changed,Expected to be out until at least Nov 18 -> Day-to-Day
+2026-11-04T22:40:27Z,2026-11-04,04845ee72eb799f6,29404908,Ivan Demidov,MTL,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 14
+2026-11-04T22:40:27Z,2026-11-04,4303710afd275313,29095963,Tyler Kleven,OTT,opened,Illness - Expected to be out until at least Nov 7
+2026-11-04T22:40:27Z,2026-11-04,75d3e7eb8ada4743,2147340,Yanni Gourde,TBL,status_changed,IR. Expected to be out until at least Dec 2 -> IR. Expected to be out until at least Nov 7
+2026-11-04T22:40:27Z,2026-11-04,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 5
