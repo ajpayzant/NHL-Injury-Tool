@@ -1593,3 +1593,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-04T22:40:27Z,2026-11-04,4303710afd275313,29095963,Tyler Kleven,OTT,opened,Illness - Expected to be out until at least Nov 7
 2026-11-04T22:40:27Z,2026-11-04,75d3e7eb8ada4743,2147340,Yanni Gourde,TBL,status_changed,IR. Expected to be out until at least Dec 2 -> IR. Expected to be out until at least Nov 7
 2026-11-04T22:40:27Z,2026-11-04,9853c89370fe55a8,2923811,Victor Olofsson,VGK,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 5
+2026-11-05T03:32:41Z,2026-11-04,e1c8e1a6b6414f17,26799324,Brennan Othmann,CGY,status_changed,Day-to-Day -> Expected to be out until at least Nov 6
+2026-11-05T03:32:41Z,2026-11-04,9a3777fc241c385d,3166631,Albert Johansson,DET,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 10
+2026-11-05T03:32:41Z,2026-11-04,401989ba6238288a,3149263,Alex Turcotte,LAK,status_changed,IR. Expected to be out until at least Nov 4 -> IR. Expected to be out until at least Nov 7
+2026-11-05T03:32:41Z,2026-11-04,04845ee72eb799f6,29404908,Ivan Demidov,MTL,type_changed,Foot -> Ankle
+2026-11-05T03:32:41Z,2026-11-04,b477f23980b1a241,26599848,Ridly Greig,OTT,opened,Undisclosed - Expected to be out until at least Nov 7
+2026-11-05T03:32:41Z,2026-11-04,e11998991d6e87d5,2988384,Curtis Douglas,SEA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 12
