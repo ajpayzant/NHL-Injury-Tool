@@ -1599,3 +1599,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-05T03:32:41Z,2026-11-04,04845ee72eb799f6,29404908,Ivan Demidov,MTL,type_changed,Foot -> Ankle
 2026-11-05T03:32:41Z,2026-11-04,b477f23980b1a241,26599848,Ridly Greig,OTT,opened,Undisclosed - Expected to be out until at least Nov 7
 2026-11-05T03:32:41Z,2026-11-04,e11998991d6e87d5,2988384,Curtis Douglas,SEA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 12
+2026-11-05T12:29:24Z,2026-11-05,b477f23980b1a241,26599848,Ridly Greig,OTT,type_changed,Undisclosed -> Lower Body
+2026-11-05T12:29:24Z,2026-11-05,b477f23980b1a241,26599848,Ridly Greig,OTT,status_changed,Expected to be out until at least Nov 7 -> Day-to-Day
+2026-11-05T12:29:24Z,2026-11-05,df745d07bc9b9153,28895785,Jiri Kulich,BUF,closed,off the report since 2026-11-04
+2026-11-05T12:29:24Z,2026-11-05,dde0d7ed6c9be5be,28901928,Garrett Brown,WPG,closed,off the report since 2026-11-04
+2026-11-05T12:29:24Z,2026-11-05,f6754b3b329df5de,2858568,Conor Timmins,BUF,closed,off the report since 2026-11-04
