@@ -1637,3 +1637,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-05T20:42:32Z,2026-11-05,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-11-04
 2026-11-05T20:42:32Z,2026-11-05,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-04
 2026-11-05T20:42:32Z,2026-11-05,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-11-04
+2026-11-06T01:36:59Z,2026-11-05,a70fd20a665e9102,28899567,Matthew Poitras,BOS,status_changed,Day-to-Day -> Expected to be out until at least Nov 8
+2026-11-06T01:36:59Z,2026-11-05,8085e0609051a7a8,2094585,Tristan Jarry,EDM,opened,Illness - Expected to be out until at least Nov 7
+2026-11-06T01:36:59Z,2026-11-05,9cb5472b30b7945a,28895781,Isaac Howard,EDM,status_changed,Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 17
+2026-11-06T01:36:59Z,2026-11-05,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 7
+2026-11-06T01:36:59Z,2026-11-05,e145991b4fdc432e,29167365,Tom Willander,VAN,status_changed,Day-to-Day -> Expected to be out until at least Nov 7
+2026-11-06T01:36:59Z,2026-11-05,efc3845a9c03f6b1,2197836,Adrian Kempe,LAK,closed,off the report since 2026-11-05
