@@ -1643,3 +1643,13 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-06T01:36:59Z,2026-11-05,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 7
 2026-11-06T01:36:59Z,2026-11-05,e145991b4fdc432e,29167365,Tom Willander,VAN,status_changed,Day-to-Day -> Expected to be out until at least Nov 7
 2026-11-06T01:36:59Z,2026-11-05,efc3845a9c03f6b1,2197836,Adrian Kempe,LAK,closed,off the report since 2026-11-05
+2026-11-06T09:29:45Z,2026-11-06,d54d5b4feb41172a,50001127,James Hagens,BOS,opened,Back - Day-to-Day
+2026-11-06T09:29:45Z,2026-11-06,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Day-to-Day -> Expected to be out until at least Nov 7
+2026-11-06T09:29:45Z,2026-11-06,67f9a01303a7ba91,2094805,Nate Schmidt,UTA,opened,Upper Body - Day-to-Day
+2026-11-06T09:29:45Z,2026-11-06,5fd0b393d3739c1f,2147148,Haydn Fleury,WPG,opened,Hand - Day-to-Day
+2026-11-06T09:29:45Z,2026-11-06,a8ed6b9bc827279f,1128973,Evgeni Malkin,PIT,closed,off the report since 2026-11-05
+2026-11-06T09:29:45Z,2026-11-06,81e973628bf86b9c,3130089,Kirby Dach,MTL,closed,off the report since 2026-11-05
+2026-11-06T09:29:45Z,2026-11-06,d97917c81d3f531a,2197860,Colton Parayko,STL,closed,off the report since 2026-11-05
+2026-11-06T09:29:45Z,2026-11-06,cd29f5be610e4a2c,26635172,Devin Cooley,CGY,closed,off the report since 2026-11-05
+2026-11-06T09:29:45Z,2026-11-06,4e8ca40f4c654530,2845132,Nick Suzuki,MTL,closed,off the report since 2026-11-05
+2026-11-06T09:29:45Z,2026-11-06,9853c89370fe55a8,2923811,Victor Olofsson,VGK,closed,off the report since 2026-11-05

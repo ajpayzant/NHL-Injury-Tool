@@ -62,8 +62,10 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2094544,Connor Brown,NJD,8477015,1994-01-14,R,roster,2026-09-30
 2094574,Ryan Graves,PIT,8477435,1995-05-21,D,roster,2026-09-26
 2094585,Tristan Jarry,EDM,8477465,1995-04-29,G,roster,2026-11-05
+2094805,Nate Schmidt,UTA,8477220,1991-07-16,D,roster,2026-11-06
 2095289,Daniil Tarasov,DET,8480193,1999-03-27,G,roster,2026-10-22
 2146557,Kevin Fiala,LAK,8477942,1996-07-22,L,roster,2026-09-24
+2147148,Haydn Fleury,WPG,8477938,1996-07-08,D,roster,2026-11-06
 2147156,Barclay Goodrow,SJS,8476624,1993-02-26,C,roster,2026-10-12
 2147172,Hayden Hodgson,OTT,8478173,1996-03-02,R,roster,2026-10-31
 2147200,Esa Lindell,DAL,8476902,1994-05-23,D,roster,2026-10-20
@@ -216,7 +218,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28899632,Aidan Thompson,NYR,8483685,2002-02-18,C,search,2026-09-29
 28899702,Ben Hemmerling,VGK,8483748,2004-04-21,R,search,2026-09-30
 28899704,Dominic James,TBL,8483752,2002-07-03,C,roster,2026-09-24
-28901928,Garrett Brown,WPG,,,,unmatched,2026-10-29
+28901928,Garrett Brown,WPG,,,,unmatched,2026-11-06
 28901948,Dennis Hildeby,TBL,8483710,2001-08-19,G,roster,2026-10-13
 28902928,Nikita Grebenkin,PHI,8483733,2003-05-02,R,roster,2026-09-29
 28968763,Marshall Rifai,TOR,8483546,1998-03-16,D,roster,2026-10-22
@@ -295,6 +297,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 433603,Corey Perry,LAK,8470621,1985-05-16,R,roster,2026-09-24
 50001091,Carter Bear,DET,8485362,2006-11-04,L,search,2026-09-28
 50001108,Gabriel D'Aigle,PIT,8485569,2006-11-21,G,search,2026-09-27
+50001127,James Hagens,BOS,8485395,2006-11-03,C,roster,2026-11-06
 50001142,Benjamin Kindel,PIT,8485414,2007-04-19,C,roster (nickname),2026-09-24
 50001174,Jake O'Brien,SEA,8485383,2007-06-16,C,search,2026-09-27
 50001179,Bryce Pickford,MTL,8485218,2006-04-02,D,search,2026-09-29
