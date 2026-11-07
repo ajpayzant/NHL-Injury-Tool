@@ -60,6 +60,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2076037,Ryan Pulock,NYI,8477506,1994-10-06,D,roster,2026-10-29
 2076038,Rasmus Ristolainen,PHI,8477499,1994-10-27,D,roster,2026-10-04
 2076042,Alex Wennberg,SJS,8477505,1994-09-22,C,roster (nickname),2026-10-20
+2093842,Josh Anderson,MTL,8476981,1994-05-07,R,roster,2026-11-07
 2093865,Damon Severson,CBJ,8476923,1994-08-07,D,roster,2026-09-24
 2094544,Connor Brown,NJD,8477015,1994-01-14,R,roster,2026-09-30
 2094574,Ryan Graves,PIT,8477435,1995-05-21,D,roster,2026-09-26
@@ -224,6 +225,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28901928,Garrett Brown,WPG,,,,unmatched,2026-11-06
 28901948,Dennis Hildeby,TBL,8483710,2001-08-19,G,roster,2026-10-13
 28902928,Nikita Grebenkin,PHI,8483733,2003-05-02,R,roster,2026-09-29
+28902979,Sandis Vilmanis,FLA,8483771,2004-01-23,L,roster,2026-11-07
 28968763,Marshall Rifai,TOR,8483546,1998-03-16,D,roster,2026-10-22
 28973342,Mikael Pyyhtia,CBJ,8482451,2001-12-17,L,search,2026-09-27
 28974592,Patrick Giles,SJS,8480825,2000-01-03,R,roster,2026-09-28

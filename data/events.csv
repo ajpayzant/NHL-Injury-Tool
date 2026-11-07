@@ -1705,3 +1705,16 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-07T16:53:55Z,2026-11-07,fd626d5fe3ebd49f,2233024,Miles Wood,TOR,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 30
 2026-11-07T16:53:55Z,2026-11-07,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 11
 2026-11-07T16:53:55Z,2026-11-07,47a74cc1b3d94220,2197838,Joonas Korpisalo,NYR,closed,off the report since 2026-11-06
+2026-11-07T20:57:35Z,2026-11-07,d54d5b4feb41172a,50001127,James Hagens,BOS,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 21
+2026-11-07T20:57:35Z,2026-11-07,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,type_changed,Upper Body -> Shoulder
+2026-11-07T20:57:35Z,2026-11-07,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 14
+2026-11-07T20:57:35Z,2026-11-07,c59699c1d56be374,28902979,Sandis Vilmanis,FLA,opened,Undisclosed - Expected to be out until at least Nov 8
+2026-11-07T20:57:35Z,2026-11-07,d611c0a8978aff78,2146557,Kevin Fiala,LAK,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 14
+2026-11-07T20:57:35Z,2026-11-07,fdb4ed11fd071e27,2093842,Josh Anderson,MTL,opened,Personal - Expected to be out until at least Nov 10
+2026-11-07T20:57:35Z,2026-11-07,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 10
+2026-11-07T20:57:35Z,2026-11-07,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Day-to-Day -> Expected to be out until at least Nov 10
+2026-11-07T20:57:35Z,2026-11-07,0ef212a57b30adb0,2992322,Sean Durzi,NYR,type_changed,Undisclosed -> Lower Body
+2026-11-07T20:57:35Z,2026-11-07,54c69dc3825c2180,26802507,Logan Mailloux,STL,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 10
+2026-11-07T20:57:35Z,2026-11-07,75d3e7eb8ada4743,2147340,Yanni Gourde,TBL,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 12
+2026-11-07T20:57:35Z,2026-11-07,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 29
+2026-11-07T20:57:35Z,2026-11-07,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,opened,Illness - Expected to be out until at least Nov 30
