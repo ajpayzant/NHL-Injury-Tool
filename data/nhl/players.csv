@@ -54,6 +54,8 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2076018,Max Domi,TOR,8477503,1995-03-02,C,roster,2026-09-24
 2076022,Bo Horvat,NYI,8477500,1995-04-05,C,roster,2026-10-09
 2076028,Anthony Mantha,NJD,8477511,1994-09-16,R,roster,2026-10-19
+2076029,Michael McCarron,MIN,8477446,1995-03-07,C,roster,2026-11-07
+2076030,Sean Monahan,CBJ,8477497,1994-10-12,C,roster,2026-11-07
 2076032,Josh Morrissey,WPG,8477504,1995-03-28,D,roster,2026-10-08
 2076037,Ryan Pulock,NYI,8477506,1994-10-06,D,roster,2026-10-29
 2076038,Rasmus Ristolainen,PHI,8477499,1994-10-27,D,roster,2026-10-04
@@ -246,6 +248,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2921433,Kiefer Sherwood,SJS,8480748,1995-03-31,L,roster,2026-10-09
 2921715,Adam Gaudette,SJS,8478874,1996-10-03,R,roster,2026-09-24
 2921773,Troy Terry,ANA,8478873,1997-09-10,R,roster,2026-09-24
+29222757,Dmitri Voronkov,CBJ,8481716,2000-09-10,L,roster,2026-11-07
 29222765,Nikolas Matinpalo,OTT,8484321,1998-10-05,D,roster,2026-10-12
 29222800,Judd Caulfield,ANA,8481538,2001-03-19,R,roster,2026-10-20
 29237428,Georgii Merkulov,COL,8483567,2000-10-10,C,search,2026-09-29
