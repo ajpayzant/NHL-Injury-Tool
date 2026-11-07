@@ -1695,3 +1695,13 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-07T10:25:05Z,2026-11-07,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-11-04
 2026-11-07T10:25:05Z,2026-11-07,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-11-04
 2026-11-07T10:25:05Z,2026-11-07,4303710afd275313,29095963,Tyler Kleven,OTT,closed,off the report since 2026-11-06
+2026-11-07T16:53:55Z,2026-11-07,d54d5b4feb41172a,50001127,James Hagens,BOS,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 14
+2026-11-07T16:53:55Z,2026-11-07,094b2a1d375beb3d,29700070,Alexander Nikishin,CAR,status_changed,Day-to-Day -> Expected to be out until at least Nov 22
+2026-11-07T16:53:55Z,2026-11-07,7953368b29fceaa2,28895750,Marco Kasper,DET,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 14
+2026-11-07T16:53:55Z,2026-11-07,8ce5e076b5adbbce,2879768,Mason Appleton,DET,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 14
+2026-11-07T16:53:55Z,2026-11-07,af20d5ef0e331607,26603189,Anton Lundell,FLA,opened,Undisclosed - Expected to be out until at least Nov 8
+2026-11-07T16:53:55Z,2026-11-07,26ed50f4409fe962,2198286,Mathew Barzal,NYI,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 14
+2026-11-07T16:53:55Z,2026-11-07,25a366dec050ebf1,2076042,Alex Wennberg,SJS,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 9
+2026-11-07T16:53:55Z,2026-11-07,fd626d5fe3ebd49f,2233024,Miles Wood,TOR,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 30
+2026-11-07T16:53:55Z,2026-11-07,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 11
+2026-11-07T16:53:55Z,2026-11-07,47a74cc1b3d94220,2197838,Joonas Korpisalo,NYR,closed,off the report since 2026-11-06
