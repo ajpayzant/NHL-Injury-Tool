@@ -1783,3 +1783,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-08T19:46:43Z,2026-11-08,1e7e9850d1d50ac8,3166626,Matias Maccelli,NYI,status_changed,IR. Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 14
 2026-11-08T19:46:43Z,2026-11-08,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 10
 2026-11-08T19:46:43Z,2026-11-08,af1026ecc62139b3,28899577,Niklas Kokko,SEA,closed,off the report since 2026-11-08
+2026-11-08T23:47:11Z,2026-11-08,0faa99f913888d10,2076028,Anthony Mantha,NJD,opened,Neck - Expected to be out until at least Nov 12
+2026-11-08T23:47:11Z,2026-11-08,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 10
