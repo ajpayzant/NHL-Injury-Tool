@@ -218,6 +218,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28899562,Cameron Lund,SJS,,,,unmatched,2026-11-03
 28899567,Matthew Poitras,BOS,8483505,2004-03-10,C,roster,2026-09-24
 28899568,Elias Salomonsson,WPG,8483510,2004-08-31,D,search,2026-09-29
+28899577,Niklas Kokko,SEA,,,,unmatched,2026-11-07
 28899587,Adam Sykora,NYR,8483669,2004-09-07,L,roster,2026-09-24
 28899632,Aidan Thompson,NYR,8483685,2002-02-18,C,search,2026-09-29
 28899702,Ben Hemmerling,VGK,8483748,2004-04-21,R,search,2026-09-30
@@ -311,6 +312,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 50001324,Maxim Shabanov,MIN,8485702,2000-10-07,R,roster,2026-10-22
 50028669,Harrison Scott,DAL,8485485,2000-09-27,C,search,2026-09-29
 50043134,Kai Uchacz,VGK,8485251,2003-06-24,C,roster,2026-09-29
+50066703,Alberts Smits,NYR,8485957,2007-12-02,D,roster,2026-11-07
 50066964,Riley Bezeau,CBJ,8483804,2002-05-04,R,search,2026-10-07
 559829,Alex Ovechkin,WSH,8471214,1985-09-17,L,roster,2026-09-24
 dfo:1059,Cam Talbot,CBJ,8475660,1987-07-05,G,roster,2026-09-29

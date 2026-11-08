@@ -1718,3 +1718,10 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-07T20:57:35Z,2026-11-07,75d3e7eb8ada4743,2147340,Yanni Gourde,TBL,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 12
 2026-11-07T20:57:35Z,2026-11-07,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,status_changed,IR. Expected to be out until at least Nov 7 -> IR. Expected to be out until at least Nov 29
 2026-11-07T20:57:35Z,2026-11-07,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,opened,Illness - Expected to be out until at least Nov 30
+2026-11-08T00:45:11Z,2026-11-07,79a82f82d265e157,1897686,Jonathan Huberdeau,CGY,status_changed,IR. Expected to be out until at least Nov 11 -> IR. Expected to be out until at least Nov 21
+2026-11-08T00:45:11Z,2026-11-07,f7a7254d9b7c1764,2858572,Jonah Gadjovich,FLA,type_changed,Upper Body -> Neck
+2026-11-08T00:45:11Z,2026-11-07,c59699c1d56be374,28902979,Sandis Vilmanis,FLA,status_changed,Expected to be out until at least Nov 8 -> Expected to be out until at least Nov 12
+2026-11-08T00:45:11Z,2026-11-07,06e5d035a0cc136c,2076029,Michael McCarron,MIN,status_changed,Day-to-Day -> Expected to be out until at least Nov 10
+2026-11-08T00:45:11Z,2026-11-07,9247f0be64d35780,50066703,Alberts Smits,NYR,opened,Upper Body - Expected to be out until at least Nov 9
+2026-11-08T00:45:11Z,2026-11-07,af1026ecc62139b3,28899577,Niklas Kokko,SEA,opened,Not Injury Related - IR. Expected to be out until at least Nov 14
+2026-11-08T00:45:11Z,2026-11-07,67f9a01303a7ba91,2094805,Nate Schmidt,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 11
