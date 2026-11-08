@@ -1773,3 +1773,13 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-08T15:20:56Z,2026-11-08,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-11-07
 2026-11-08T15:20:56Z,2026-11-08,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-07
 2026-11-08T15:20:56Z,2026-11-08,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-11-07
+2026-11-08T19:46:43Z,2026-11-08,817294bc9fe4e33f,2921773,Troy Terry,ANA,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 14
+2026-11-08T19:46:43Z,2026-11-08,c85174a743eef3d9,29700624,Ian Moore,ANA,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 15
+2026-11-08T19:46:43Z,2026-11-08,2115d5939307bcfd,2991366,Kevin Bahl,CGY,type_changed,Lower Body -> Achilles
+2026-11-08T19:46:43Z,2026-11-08,2115d5939307bcfd,2991366,Kevin Bahl,CGY,status_changed,Day-to-Day -> IR. Expected to be out until at least Sep 15
+2026-11-08T19:46:43Z,2026-11-08,e1c8e1a6b6414f17,26799324,Brennan Othmann,CGY,status_changed,Day-to-Day -> Expected to be out until at least Nov 11
+2026-11-08T19:46:43Z,2026-11-08,8ce5e076b5adbbce,2879768,Mason Appleton,DET,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 10
+2026-11-08T19:46:43Z,2026-11-08,c1b8539b3f2c1c40,26798994,Colton Dach,EDM,opened,Illness - Day-to-Day
+2026-11-08T19:46:43Z,2026-11-08,1e7e9850d1d50ac8,3166626,Matias Maccelli,NYI,status_changed,IR. Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 14
+2026-11-08T19:46:43Z,2026-11-08,94bddd3cca6370cb,2076032,Josh Morrissey,WPG,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 10
+2026-11-08T19:46:43Z,2026-11-08,af1026ecc62139b3,28899577,Niklas Kokko,SEA,closed,off the report since 2026-11-08
