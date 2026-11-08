@@ -1733,3 +1733,43 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-08T07:28:31Z,2026-11-08,e145991b4fdc432e,29167365,Tom Willander,VAN,status_changed,Day-to-Day -> Expected to be out until at least Nov 9
 2026-11-08T07:28:31Z,2026-11-08,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,type_changed,Illness -> Personal
 2026-11-08T07:28:31Z,2026-11-08,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,status_changed,Expected to be out until at least Nov 30 -> IR. Expected to be out until at least Nov 30
+2026-11-08T15:20:56Z,2026-11-08,43063d64184692ed,26798892,Justin Danforth,BUF,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 22
+2026-11-08T15:20:56Z,2026-11-08,2664ad8f11ad2a47,2271613,Matt Grzelcyk,BUF,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 14
+2026-11-08T15:20:56Z,2026-11-08,5b4caea805726acb,2845123,Miro Heiskanen,DAL,status_changed,Expected to be out until at least Nov 12 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,e405d56a3f887cd6,1899095,John Gibson,DET,status_changed,Expected to be out until at least Nov 10 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,af20d5ef0e331607,26603189,Anton Lundell,FLA,status_changed,Expected to be out until at least Nov 8 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,06e5d035a0cc136c,2076029,Michael McCarron,MIN,status_changed,Expected to be out until at least Nov 10 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,fdb4ed11fd071e27,2093842,Josh Anderson,MTL,status_changed,Expected to be out until at least Nov 10 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Expected to be out until at least Nov 10 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,9247f0be64d35780,50066703,Alberts Smits,NYR,status_changed,Expected to be out until at least Nov 9 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,b477f23980b1a241,26599848,Ridly Greig,OTT,status_changed,Expected to be out until at least Nov 10 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,3a7d5d0fd7b6767a,2147580,Trevor van Riemsdyk,PIT,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 11
+2026-11-08T15:20:56Z,2026-11-08,ca5be578d0498fea,28968763,Marshall Rifai,TOR,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 14
+2026-11-08T15:20:56Z,2026-11-08,67f9a01303a7ba91,2094805,Nate Schmidt,UTA,status_changed,Expected to be out until at least Nov 11 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,e145991b4fdc432e,29167365,Tom Willander,VAN,status_changed,Expected to be out until at least Nov 9 -> Day-to-Day
+2026-11-08T15:20:56Z,2026-11-08,e30ad2d1c5970877,2269122,Parker Wotherspoon,VGK,status_changed,IR. Expected to be out until at least Nov 8 -> IR. Expected to be out until at least Nov 28
+2026-11-08T15:20:56Z,2026-11-08,d54d5b4feb41172a,50001127,James Hagens,BOS,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,46fcad4812eb82db,2245518,Sam Steel,DAL,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,8085e0609051a7a8,2094585,Tristan Jarry,EDM,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,1bc198432e099029,1770929,Zach Hyman,EDM,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,334a763c6b7eac50,29089631,Devon Levi,EDM,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,094b2a1d375beb3d,29700070,Alexander Nikishin,CAR,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,e2a119256b5ef0cf,1685406,John Tavares,TOR,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,f04936bb34f7d412,1707405,Marcus Foligno,MIN,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,401989ba6238288a,3149263,Alex Turcotte,LAK,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,eb80e6dc19513fe1,1133703,Nick Foligno,MIN,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,aa8a60c666296470,50001179,Bryce Pickford,MTL,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,c7db43d44a79272c,29167287,Quentin Musty,SJS,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,7f4cb5291ee66844,29373582,Cade Webber,TOR,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,5ffabd583e44135a,26799690,William Villeneuve,TOR,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,869efb56ac588422,50043134,Kai Uchacz,VGK,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,745f8e86c42e4971,50001174,Jake O'Brien,SEA,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-07
+2026-11-08T15:20:56Z,2026-11-08,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-11-07
