@@ -1725,3 +1725,11 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-08T00:45:11Z,2026-11-07,9247f0be64d35780,50066703,Alberts Smits,NYR,opened,Upper Body - Expected to be out until at least Nov 9
 2026-11-08T00:45:11Z,2026-11-07,af1026ecc62139b3,28899577,Niklas Kokko,SEA,opened,Not Injury Related - IR. Expected to be out until at least Nov 14
 2026-11-08T00:45:11Z,2026-11-07,67f9a01303a7ba91,2094805,Nate Schmidt,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 11
+2026-11-08T07:28:31Z,2026-11-08,ac64fbd4cdf81c68,2094547,William Carrier,CAR,opened,Knee - Day-to-Day
+2026-11-08T07:28:31Z,2026-11-08,e405d56a3f887cd6,1899095,John Gibson,DET,status_changed,Day-to-Day -> Expected to be out until at least Nov 10
+2026-11-08T07:28:31Z,2026-11-08,9372a6173d18ef19,1899125,Ryan Nugent-Hopkins,EDM,opened,Head - Day-to-Day
+2026-11-08T07:28:31Z,2026-11-08,06e5d035a0cc136c,2076029,Michael McCarron,MIN,type_changed,Undisclosed -> Upper Body
+2026-11-08T07:28:31Z,2026-11-08,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,opened,Lower Body - Day-to-Day
+2026-11-08T07:28:31Z,2026-11-08,e145991b4fdc432e,29167365,Tom Willander,VAN,status_changed,Day-to-Day -> Expected to be out until at least Nov 9
+2026-11-08T07:28:31Z,2026-11-08,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,type_changed,Illness -> Personal
+2026-11-08T07:28:31Z,2026-11-08,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,status_changed,Expected to be out until at least Nov 30 -> IR. Expected to be out until at least Nov 30
