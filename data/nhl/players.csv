@@ -63,6 +63,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2076042,Alex Wennberg,SJS,8477505,1994-09-22,C,roster (nickname),2026-10-20
 2093842,Josh Anderson,MTL,8476981,1994-05-07,R,roster,2026-11-07
 2093865,Damon Severson,CBJ,8476923,1994-08-07,D,roster,2026-09-24
+2093866,Colton Sissons,TOR,8476925,1993-11-05,C,roster,2026-11-09
 2094544,Connor Brown,NJD,8477015,1994-01-14,R,roster,2026-09-30
 2094547,William Carrier,CAR,8477478,1994-12-20,L,roster,2026-11-08
 2094574,Ryan Graves,PIT,8477435,1995-05-21,D,roster,2026-09-26
@@ -98,6 +99,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2197838,Joonas Korpisalo,NYR,8476914,1994-04-28,G,roster,2026-10-01
 2197852,Brandon Montour,SEA,8477986,1994-04-11,D,roster,2026-10-18
 2197860,Colton Parayko,STL,8476892,1993-05-12,D,roster,2026-10-30
+2197866,Brayden Point,TBL,8478010,1996-03-13,C,roster,2026-11-09
 2197870,Evan Rodrigues,NJD,8478542,1993-07-28,C,roster,2026-11-02
 2197885,Linus Ullmark,OTT,8476999,1993-07-31,G,roster,2026-10-06
 2198224,Jake DeBrusk,VAN,8478498,1996-10-17,L,roster,2026-09-28
@@ -129,6 +131,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2269433,Anthony Cirelli,TBL,8478519,1997-07-15,C,roster,2026-10-21
 2269434,J.T. Compher,DET,8477456,1995-04-08,L,roster,2026-10-06
 2269437,Andreas Englund,DET,8477971,1996-01-21,D,search,2026-09-30
+2269473,Jack Roslovic,TOR,8478458,1997-01-29,C,roster,2026-11-09
 2271605,Michael Carcone,UTA,8479619,1996-05-19,L,roster,2026-09-24
 2271608,Thatcher Demko,VAN,8477967,1995-12-08,G,roster,2026-09-24
 2271612,A.J. Greer,ANA,8478421,1996-12-14,L,roster,2026-09-24
@@ -165,6 +168,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26799426,Olen Zellweger,BUF,8482803,2003-09-10,D,roster,2026-09-24
 26799432,Vincent Iorio,NYR,8482861,2002-11-14,D,roster,2026-09-24
 26799444,Cole Koepke,WPG,8481043,1998-05-17,L,roster,2026-11-01
+26799447,Ville Koivunen,PIT,8482758,2003-06-13,R,roster,2026-11-09
 26799462,Luke Evangelista,NJD,8482146,2002-02-21,R,roster,2026-10-18
 26799489,Brandt Clarke,LAK,8482730,2003-02-09,D,roster,2026-10-30
 26799648,Helge Grans,PHI,8482169,2002-05-10,D,roster,2026-09-28
