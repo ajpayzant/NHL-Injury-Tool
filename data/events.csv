@@ -1790,3 +1790,39 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-09T06:48:51Z,2026-11-09,47ea485275ec584f,2197866,Brayden Point,TBL,opened,Undisclosed - Day-to-Day
 2026-11-09T06:48:51Z,2026-11-09,61b4046698ebf4b2,2269473,Jack Roslovic,TOR,opened,Lower Body - Expected to be out until at least Nov 10
 2026-11-09T06:48:51Z,2026-11-09,86d6dc424fed0b5a,2093866,Colton Sissons,TOR,opened,Lower Body - Expected to be out until at least Nov 10
+2026-11-09T17:37:40Z,2026-11-09,d54d5b4feb41172a,50001127,James Hagens,BOS,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,e1c8e1a6b6414f17,26799324,Brennan Othmann,CGY,status_changed,Expected to be out until at least Nov 11 -> Day-to-Day
+2026-11-09T17:37:40Z,2026-11-09,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,302fa3a374037282,2269089,Conor Garland,CBJ,opened,Upper Body - Day-to-Day
+2026-11-09T17:37:40Z,2026-11-09,9784bdbe71dd91ba,2940987,Isac Lundestrom,CBJ,status_changed,IR. Expected to be out until at least Nov 10 -> IR. Expected to be out until at least Nov 23
+2026-11-09T17:37:40Z,2026-11-09,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,dac5c152f6f068ae,29101182,Brock Faber,MIN,status_changed,IR. Expected to be out until at least Nov 10 -> IR. Expected to be out until at least Nov 14
+2026-11-09T17:37:40Z,2026-11-09,58100e01b0678ba6,1639484,Jared Spurgeon,MIN,status_changed,IR. Expected to be out until at least Nov 10 -> IR. Expected to be out until at least Nov 14
+2026-11-09T17:37:40Z,2026-11-09,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,aa8a60c666296470,50001179,Bryce Pickford,MTL,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,9247f0be64d35780,50066703,Alberts Smits,NYR,status_changed,Day-to-Day -> Expected to be out until at least Nov 22
+2026-11-09T17:37:40Z,2026-11-09,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,6cd52d7244bc0597,26799447,Ville Koivunen,PIT,status_changed,Expected to be out until at least Nov 11 -> Day-to-Day
+2026-11-09T17:37:40Z,2026-11-09,c7db43d44a79272c,29167287,Quentin Musty,SJS,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,620048a7bd273eb4,1282170,Logan Couture,SJS,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,af1026ecc62139b3,28899577,Niklas Kokko,SEA,reopened,was marked returned 2026-11-08
+2026-11-09T17:37:40Z,2026-11-09,745f8e86c42e4971,50001174,Jake O'Brien,SEA,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,fa2b82f6d606389e,29407705,Adam Jecho,STL,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,86d6dc424fed0b5a,2093866,Colton Sissons,TOR,status_changed,Expected to be out until at least Nov 10 -> Day-to-Day
+2026-11-09T17:37:40Z,2026-11-09,61b4046698ebf4b2,2269473,Jack Roslovic,TOR,status_changed,Expected to be out until at least Nov 10 -> Day-to-Day
+2026-11-09T17:37:40Z,2026-11-09,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,status_changed,Expected to be out until at least Nov 10 -> Day-to-Day
+2026-11-09T17:37:40Z,2026-11-09,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,7f4cb5291ee66844,29373582,Cade Webber,TOR,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,93a3a8467dd83e2c,2845320,Filip Chytil,VAN,status_changed,IR. Expected to be out until at least Nov 9 -> IR. Expected to be out until at least Nov 13
+2026-11-09T17:37:40Z,2026-11-09,c3beb49d88c12316,2992289,Akil Thomas,VAN,status_changed,IR. Expected to be out until at least Nov 9 -> IR. Expected to be out until at least Nov 29
+2026-11-09T17:37:40Z,2026-11-09,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-11-07
+2026-11-09T17:37:40Z,2026-11-09,41407faef8551814,29222757,Dmitri Voronkov,CBJ,closed,off the report since 2026-11-08
+2026-11-09T17:37:40Z,2026-11-09,e8bd9399fbc48405,2076030,Sean Monahan,CBJ,closed,off the report since 2026-11-08
+2026-11-09T17:37:40Z,2026-11-09,af20d5ef0e331607,26603189,Anton Lundell,FLA,closed,off the report since 2026-11-08
+2026-11-09T17:37:40Z,2026-11-09,5fd0b393d3739c1f,2147148,Haydn Fleury,WPG,closed,off the report since 2026-11-08
+2026-11-09T17:37:40Z,2026-11-09,a70fd20a665e9102,28899567,Matthew Poitras,BOS,closed,off the report since 2026-11-08
+2026-11-09T17:37:40Z,2026-11-09,8045c22b7b6d3e8d,2197885,Linus Ullmark,OTT,closed,off the report since 2026-11-08
+2026-11-09T17:37:40Z,2026-11-09,75d3e7eb8ada4743,2147340,Yanni Gourde,TBL,closed,off the report since 2026-11-08
