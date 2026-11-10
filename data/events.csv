@@ -1826,3 +1826,14 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-09T17:37:40Z,2026-11-09,a70fd20a665e9102,28899567,Matthew Poitras,BOS,closed,off the report since 2026-11-08
 2026-11-09T17:37:40Z,2026-11-09,8045c22b7b6d3e8d,2197885,Linus Ullmark,OTT,closed,off the report since 2026-11-08
 2026-11-09T17:37:40Z,2026-11-09,75d3e7eb8ada4743,2147340,Yanni Gourde,TBL,closed,off the report since 2026-11-08
+2026-11-10T01:37:56Z,2026-11-09,3290e49577382bf0,2147300,Josh Manson,COL,status_changed,Expected to be out until at least Dec 27 -> IR. Expected to be out until at least Dec 27
+2026-11-10T01:37:56Z,2026-11-09,302fa3a374037282,2269089,Conor Garland,CBJ,status_changed,Day-to-Day -> Expected to be out until at least Nov 30
+2026-11-10T01:37:56Z,2026-11-09,c1b8539b3f2c1c40,26798994,Colton Dach,EDM,status_changed,Day-to-Day -> Expected to be out until at least Nov 11
+2026-11-10T01:37:56Z,2026-11-09,57a03d1fa52a0fc2,2197823,Erik Gustafsson,LAK,opened,Undisclosed - Day-to-Day
+2026-11-10T01:37:56Z,2026-11-09,b2b9e51018176aec,2922483,Jake Evans,MTL,opened,Hand - Day-to-Day
+2026-11-10T01:37:56Z,2026-11-09,0ef212a57b30adb0,2992322,Sean Durzi,NYR,status_changed,IR. Expected to be out until at least Nov 9 -> IR. Expected to be out until at least Nov 16
+2026-11-10T01:37:56Z,2026-11-09,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 21
+2026-11-10T01:37:56Z,2026-11-09,67f9a01303a7ba91,2094805,Nate Schmidt,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 14
+2026-11-10T01:37:56Z,2026-11-09,e145991b4fdc432e,29167365,Tom Willander,VAN,status_changed,Day-to-Day -> Expected to be out until at least Nov 13
+2026-11-10T01:37:56Z,2026-11-09,93a3a8467dd83e2c,2845320,Filip Chytil,VAN,type_changed,Upper Body -> Shoulder
+2026-11-10T01:37:56Z,2026-11-09,caebf3f145fd6c6d,2940996,Rasmus Sandin,WSH,status_changed,IR. Expected to be out until at least Dec 26 -> IR. Expected to be out until at least Nov 25

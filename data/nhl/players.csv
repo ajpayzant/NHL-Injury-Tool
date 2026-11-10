@@ -94,6 +94,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2178854,Joel Eriksson Ek,MIN,8478493,1997-01-29,C,roster,2026-10-30
 2179103,Travis Konecny,PHI,8478439,1997-03-11,R,roster,2026-10-10
 2184557,Mitchell Marner,VGK,8478483,1997-05-05,R,roster (nickname),2026-10-22
+2197823,Erik Gustafsson,LAK,8476979,1992-03-14,D,roster,2026-11-09
 2197831,Mattias Janmark,EDM,8477406,1992-12-08,C,roster,2026-09-24
 2197836,Adrian Kempe,LAK,8477960,1996-09-13,R,roster,2026-10-31
 2197838,Joonas Korpisalo,NYR,8476914,1994-04-28,G,roster,2026-10-01
@@ -261,6 +262,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29222757,Dmitri Voronkov,CBJ,8481716,2000-09-10,L,roster,2026-11-07
 29222765,Nikolas Matinpalo,OTT,8484321,1998-10-05,D,roster,2026-10-12
 29222800,Judd Caulfield,ANA,8481538,2001-03-19,R,roster,2026-10-20
+2922483,Jake Evans,MTL,8478133,1996-06-02,C,roster,2026-11-09
 29237428,Georgii Merkulov,COL,8483567,2000-10-10,C,search,2026-09-29
 2923811,Victor Olofsson,VGK,8478109,1995-07-18,L,roster,2026-10-07
 29373582,Cade Webber,TOR,8481570,2001-01-05,D,search,2026-09-29
