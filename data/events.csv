@@ -1837,3 +1837,19 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-10T01:37:56Z,2026-11-09,e145991b4fdc432e,29167365,Tom Willander,VAN,status_changed,Day-to-Day -> Expected to be out until at least Nov 13
 2026-11-10T01:37:56Z,2026-11-09,93a3a8467dd83e2c,2845320,Filip Chytil,VAN,type_changed,Upper Body -> Shoulder
 2026-11-10T01:37:56Z,2026-11-09,caebf3f145fd6c6d,2940996,Rasmus Sandin,WSH,status_changed,IR. Expected to be out until at least Dec 26 -> IR. Expected to be out until at least Nov 25
+2026-11-10T17:56:33Z,2026-11-10,c1b8539b3f2c1c40,26798994,Colton Dach,EDM,status_changed,Expected to be out until at least Nov 11 -> Day-to-Day
+2026-11-10T17:56:33Z,2026-11-10,ffc4625a91046bc2,1771018,Mats Zuccarello,LAK,status_changed,IR. Expected to be out until at least Nov 10 -> IR. Expected to be out until at least Nov 28
+2026-11-10T17:56:33Z,2026-11-10,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,IR. Expected to be out until at least Nov 10 -> IR. Expected to be out until at least Nov 12
+2026-11-10T17:56:33Z,2026-11-10,8045c22b7b6d3e8d,2197885,Linus Ullmark,OTT,reopened,was marked returned 2026-11-08
+2026-11-10T17:56:33Z,2026-11-10,8045c22b7b6d3e8d,2197885,Linus Ullmark,OTT,status_changed,IR. Expected to be out until at least Nov 10 -> Expected to be out until at least Nov 12
+2026-11-10T17:56:33Z,2026-11-10,47ea485275ec584f,2197866,Brayden Point,TBL,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 2
+2026-11-10T17:56:33Z,2026-11-10,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,IR. Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 23
+2026-11-10T17:56:33Z,2026-11-10,86d6dc424fed0b5a,2093866,Colton Sissons,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-10T17:56:33Z,2026-11-10,ca5be578d0498fea,28968763,Marshall Rifai,TOR,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 23
+2026-11-10T17:56:33Z,2026-11-10,8d28c92a95e8b55a,28851236,Nick Blankenburg,TOR,status_changed,IR. Expected to be out until at least Nov 12 -> IR. Expected to be out until at least Nov 23
+2026-11-10T17:56:33Z,2026-11-10,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 12
+2026-11-10T17:56:33Z,2026-11-10,e145991b4fdc432e,29167365,Tom Willander,VAN,status_changed,Expected to be out until at least Nov 13 -> Day-to-Day
+2026-11-10T17:56:33Z,2026-11-10,9372a6173d18ef19,1899125,Ryan Nugent-Hopkins,EDM,closed,off the report since 2026-11-09
+2026-11-10T17:56:33Z,2026-11-10,b477f23980b1a241,26599848,Ridly Greig,OTT,closed,off the report since 2026-11-09
+2026-11-10T17:56:33Z,2026-11-10,25a366dec050ebf1,2076042,Alex Wennberg,SJS,closed,off the report since 2026-11-09
+2026-11-10T17:56:33Z,2026-11-10,54c69dc3825c2180,26802507,Logan Mailloux,STL,closed,off the report since 2026-11-09
