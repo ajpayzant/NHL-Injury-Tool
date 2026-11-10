@@ -90,6 +90,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147580,Trevor van Riemsdyk,PIT,8477845,1991-07-24,D,roster,2026-10-10
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
 2178634,Ivan Provorov,CBJ,8478500,1997-01-13,D,roster,2026-09-30
+2178823,Noah Hanifin,VGK,8478396,1997-01-25,D,roster,2026-11-10
 2178853,Erik Cernak,TBL,8478416,1997-05-28,D,roster,2026-10-31
 2178854,Joel Eriksson Ek,MIN,8478493,1997-01-29,C,roster,2026-10-30
 2179103,Travis Konecny,PHI,8478439,1997-03-11,R,roster,2026-10-10
@@ -158,6 +159,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26798877,Chase Stillman,DET,8482714,2003-03-19,R,search,2026-10-03
 26798892,Justin Danforth,BUF,8479941,1993-03-15,R,roster,2026-10-19
 26798940,William Eklund,OTT,8482667,2002-10-12,L,roster,2026-10-08
+26798991,Dylan Guenther,UTA,8482699,2003-04-10,R,roster,2026-11-10
 26798994,Colton Dach,EDM,8482703,2003-01-04,C,roster,2026-10-07
 26799114,Jack Thompson,VAN,8482144,2002-03-19,D,search,2026-09-29
 26799123,Justin Sourdif,WSH,8482088,2002-03-24,C,roster,2026-10-18

@@ -1853,3 +1853,12 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-10T17:56:33Z,2026-11-10,b477f23980b1a241,26599848,Ridly Greig,OTT,closed,off the report since 2026-11-09
 2026-11-10T17:56:33Z,2026-11-10,25a366dec050ebf1,2076042,Alex Wennberg,SJS,closed,off the report since 2026-11-09
 2026-11-10T17:56:33Z,2026-11-10,54c69dc3825c2180,26802507,Logan Mailloux,STL,closed,off the report since 2026-11-09
+2026-11-10T23:29:31Z,2026-11-10,9e5628f507db51c6,2271612,A.J. Greer,ANA,status_changed,IR. Expected to be out until at least Nov 11 -> IR. Expected to be out until at least Nov 15
+2026-11-10T23:29:31Z,2026-11-10,817294bc9fe4e33f,2921773,Troy Terry,ANA,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 11
+2026-11-10T23:29:31Z,2026-11-10,c85174a743eef3d9,29700624,Ian Moore,ANA,status_changed,IR. Expected to be out until at least Nov 15 -> IR. Expected to be out until at least Nov 14
+2026-11-10T23:29:31Z,2026-11-10,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Nov 14
+2026-11-10T23:29:31Z,2026-11-10,57a03d1fa52a0fc2,2197823,Erik Gustafsson,LAK,status_changed,Day-to-Day -> Expected to be out until at least Nov 12
+2026-11-10T23:29:31Z,2026-11-10,9247f0be64d35780,50066703,Alberts Smits,NYR,status_changed,Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Nov 22
+2026-11-10T23:29:31Z,2026-11-10,cd13aa112943b0b7,26798991,Dylan Guenther,UTA,opened,Undisclosed - Day-to-Day
+2026-11-10T23:29:31Z,2026-11-10,be0cd4f608b70046,2178823,Noah Hanifin,VGK,opened,Undisclosed - Expected to be out until at least Nov 24
+2026-11-10T23:29:31Z,2026-11-10,e30ad2d1c5970877,2269122,Parker Wotherspoon,VGK,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 11
