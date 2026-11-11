@@ -1903,3 +1903,12 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-11T15:22:46Z,2026-11-11,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-11-10
 2026-11-11T15:22:46Z,2026-11-11,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-10
 2026-11-11T15:22:46Z,2026-11-11,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-11-10
+2026-11-11T22:04:17Z,2026-11-11,dc1df935a1789d8a,1240390,Patrick Kane,CHI,status_changed,IR. Expected to be out until at least Nov 12 -> IR. Expected to be out until at least Nov 14
+2026-11-11T22:04:17Z,2026-11-11,5b4caea805726acb,2845123,Miro Heiskanen,DAL,status_changed,Day-to-Day -> Expected to be out until at least Nov 14
+2026-11-11T22:04:17Z,2026-11-11,9cfd3ff1e20579ae,26799264,Oskar Back,DAL,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 17
+2026-11-11T22:04:17Z,2026-11-11,303d864276c67df6,1628806,Drew Doughty,LAK,opened,Lower Body - Day-to-Day
+2026-11-11T22:04:17Z,2026-11-11,cd56068a174ac6c9,2000667,Mike Matheson,MTL,status_changed,Expected to be out until at least Nov 16 -> Day-to-Day
+2026-11-11T22:04:17Z,2026-11-11,c6c660b37b0bc0f0,1897633,Nick Cousins,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 19
+2026-11-11T22:04:17Z,2026-11-11,3db5511bc70414be,2245504,Ryan Lindgren,SEA,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 14
+2026-11-11T22:04:17Z,2026-11-11,3b7693358124080f,2880090,Zack MacEwen,TOR,opened,Wrist - Day-to-Day
+2026-11-11T22:04:17Z,2026-11-11,b2b9e51018176aec,2922483,Jake Evans,MTL,closed,off the report since 2026-11-11
