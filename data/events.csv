@@ -1912,3 +1912,30 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-11T22:04:17Z,2026-11-11,3db5511bc70414be,2245504,Ryan Lindgren,SEA,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 14
 2026-11-11T22:04:17Z,2026-11-11,3b7693358124080f,2880090,Zack MacEwen,TOR,opened,Wrist - Day-to-Day
 2026-11-11T22:04:17Z,2026-11-11,b2b9e51018176aec,2922483,Jake Evans,MTL,closed,off the report since 2026-11-11
+2026-11-12T03:08:12Z,2026-11-11,9e7ac91d7b81dbec,2845355,Ryan Poehling,ANA,type_changed,Lower Body -> Knee
+2026-11-12T03:08:12Z,2026-11-11,9e7ac91d7b81dbec,2845355,Ryan Poehling,ANA,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Dec 6
+2026-11-12T03:08:12Z,2026-11-11,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,8b161406bdcabd2e,2039464,Frederik Andersen,EDM,status_changed,IR. Expected to be out until at least Dec 30 -> IR. Expected to be out until at least Jan 9
+2026-11-12T03:08:12Z,2026-11-11,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,aa8a60c666296470,50001179,Bryce Pickford,MTL,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Day-to-Day -> Expected to be out until at least Nov 13
+2026-11-12T03:08:12Z,2026-11-11,0faa99f913888d10,2076028,Anthony Mantha,NJD,status_changed,Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Dec 5
+2026-11-12T03:08:12Z,2026-11-11,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,3a7d5d0fd7b6767a,2147580,Trevor van Riemsdyk,PIT,status_changed,IR. Expected to be out until at least Nov 11 -> IR. Expected to be out until at least Nov 14
+2026-11-12T03:08:12Z,2026-11-11,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,c7db43d44a79272c,29167287,Quentin Musty,SJS,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,620048a7bd273eb4,1282170,Logan Couture,SJS,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,af1026ecc62139b3,28899577,Niklas Kokko,SEA,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,745f8e86c42e4971,50001174,Jake O'Brien,SEA,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,fa2b82f6d606389e,29407705,Adam Jecho,STL,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,7f4cb5291ee66844,29373582,Cade Webber,TOR,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,67f9a01303a7ba91,2094805,Nate Schmidt,UTA,status_changed,Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 14
+2026-11-12T03:08:12Z,2026-11-11,cd13aa112943b0b7,26798991,Dylan Guenther,UTA,type_changed,Undisclosed -> Upper Body
+2026-11-12T03:08:12Z,2026-11-11,cd13aa112943b0b7,26798991,Dylan Guenther,UTA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 25
+2026-11-12T03:08:12Z,2026-11-11,6c4b485554350cc4,28895737,Logan Cooley,UTA,opened,Upper Body - Expected to be out until at least Nov 12
+2026-11-12T03:08:12Z,2026-11-11,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,869efb56ac588422,50043134,Kai Uchacz,VGK,reopened,was marked returned 2026-11-10
+2026-11-12T03:08:12Z,2026-11-11,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,reopened,was marked returned 2026-11-10
