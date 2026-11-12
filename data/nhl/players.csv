@@ -87,6 +87,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147463,William Nylander,TOR,8477939,1996-05-01,R,roster,2026-10-19
 2147476,Nick Paul,TOR,8477426,1995-03-20,L,roster,2026-09-24
 2147507,Bryan Rust,PIT,8475810,1992-05-11,R,roster,2026-09-27
+2147516,Nick Schmaltz,UTA,8477951,1996-02-23,C,roster,2026-11-12
 2147521,Conor Sheary,BUF,8477839,1992-06-08,L,roster,2026-09-28
 2147580,Trevor van Riemsdyk,PIT,8477845,1991-07-24,D,roster,2026-10-10
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
@@ -96,6 +97,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2178854,Joel Eriksson Ek,MIN,8478493,1997-01-29,C,roster,2026-10-30
 2179103,Travis Konecny,PHI,8478439,1997-03-11,R,roster,2026-10-10
 2184557,Mitchell Marner,VGK,8478483,1997-05-05,R,roster (nickname),2026-10-22
+2197804,Noel Acciari,PHI,8478569,1991-12-01,C,roster,2026-11-12
 2197823,Erik Gustafsson,LAK,8476979,1992-03-14,D,roster,2026-11-09
 2197831,Mattias Janmark,EDM,8477406,1992-12-08,C,roster,2026-09-24
 2197836,Adrian Kempe,LAK,8477960,1996-09-13,R,roster,2026-10-31
