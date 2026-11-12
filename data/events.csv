@@ -1946,3 +1946,21 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-12T11:27:55Z,2026-11-12,5894a0a65553e688,29167224,Samuel Honzek,CGY,closed,off the report since 2026-11-11
 2026-11-12T11:27:55Z,2026-11-12,225c88638217fdbb,2076038,Rasmus Ristolainen,PHI,closed,off the report since 2026-11-11
 2026-11-12T11:27:55Z,2026-11-12,817294bc9fe4e33f,2921773,Troy Terry,ANA,closed,off the report since 2026-11-11
+2026-11-12T20:04:17Z,2026-11-12,dc1df935a1789d8a,1240390,Patrick Kane,CHI,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 12
+2026-11-12T20:04:17Z,2026-11-12,9a3777fc241c385d,3166631,Albert Johansson,DET,status_changed,IR. Expected to be out until at least Nov 12 -> IR. Expected to be out until at least Nov 14
+2026-11-12T20:04:17Z,2026-11-12,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,IR. Expected to be out until at least Nov 12 -> IR. Expected to be out until at least Nov 14
+2026-11-12T20:04:17Z,2026-11-12,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Expected to be out until at least Nov 13 -> Day-to-Day
+2026-11-12T20:04:17Z,2026-11-12,d8a5b46f1b2bdb77,2147652,Brett Pesce,NJD,opened,Illness - Expected to be out until at least Nov 14
+2026-11-12T20:04:17Z,2026-11-12,2a0dae9c3615fd82,3103731,Johnathan Kovacevic,NJD,status_changed,Day-to-Day -> Expected to be out until at least Nov 18
+2026-11-12T20:04:17Z,2026-11-12,90ea4481b5546241,1897752,Jean-Gabriel Pageau,NYI,opened,Lower Body - Expected to be out until at least Nov 14
+2026-11-12T20:04:17Z,2026-11-12,596c1477467a08ac,26799195,Jacob Melanson,SEA,status_changed,IR. Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Nov 19
+2026-11-12T20:04:17Z,2026-11-12,e11998991d6e87d5,2988384,Curtis Douglas,SEA,status_changed,IR. Expected to be out until at least Nov 12 -> IR. Expected to be out until at least Nov 14
+2026-11-12T20:04:17Z,2026-11-12,745f8e86c42e4971,50001174,Jake O'Brien,SEA,status_changed,IR. Expected to be out until at least Nov 12 -> IR. Expected to be out until at least Nov 28
+2026-11-12T20:04:17Z,2026-11-12,9edb31f502dcddeb,2987952,Tyler Tucker,STL,status_changed,IR. Expected to be out until at least Nov 12 -> IR. Expected to be out until at least Nov 17
+2026-11-12T20:04:17Z,2026-11-12,86d6dc424fed0b5a,2093866,Colton Sissons,TOR,status_changed,Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 19
+2026-11-12T20:04:17Z,2026-11-12,67f9a01303a7ba91,2094805,Nate Schmidt,UTA,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 21
+2026-11-12T20:04:17Z,2026-11-12,6c4b485554350cc4,28895737,Logan Cooley,UTA,status_changed,Expected to be out until at least Nov 12 -> Expected to be out until at least Nov 14
+2026-11-12T20:04:17Z,2026-11-12,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Dec 3
+2026-11-12T20:04:17Z,2026-11-12,6cd52d7244bc0597,26799447,Ville Koivunen,PIT,closed,off the report since 2026-11-11
+2026-11-12T20:04:17Z,2026-11-12,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,closed,off the report since 2026-11-11
+2026-11-12T20:04:17Z,2026-11-12,e30ad2d1c5970877,2269122,Parker Wotherspoon,VGK,closed,off the report since 2026-11-11

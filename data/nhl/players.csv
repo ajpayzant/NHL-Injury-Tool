@@ -33,6 +33,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1897652,Mattias Ekholm,EDM,8475218,1990-05-24,D,roster,2026-10-23
 1897686,Jonathan Huberdeau,CGY,8476456,1993-06-04,L,roster,2026-09-24
 1897737,Vladislav Namestnikov,WPG,8476480,1992-11-22,C,roster,2026-10-18
+1897752,Jean-Gabriel Pageau,NYI,8476419,1992-11-11,C,roster,2026-11-12
 1899089,Derek Forbort,VAN,8475762,1992-03-04,D,search,2026-09-24
 1899095,John Gibson,DET,8476434,1993-07-14,G,roster,2026-10-23
 1899125,Ryan Nugent-Hopkins,EDM,8476454,1993-04-12,C,roster,2026-09-29
@@ -91,6 +92,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147521,Conor Sheary,BUF,8477839,1992-06-08,L,roster,2026-09-28
 2147580,Trevor van Riemsdyk,PIT,8477845,1991-07-24,D,roster,2026-10-10
 2147651,Warren Foegele,OTT,8477998,1996-04-01,L,roster,2026-09-24
+2147652,Brett Pesce,NJD,8477488,1994-11-15,D,roster,2026-11-12
 2178634,Ivan Provorov,CBJ,8478500,1997-01-13,D,roster,2026-09-30
 2178823,Noah Hanifin,VGK,8478396,1997-01-25,D,roster,2026-11-10
 2178853,Erik Cernak,TBL,8478416,1997-05-28,D,roster,2026-10-31
