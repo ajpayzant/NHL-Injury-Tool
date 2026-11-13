@@ -1983,3 +1983,19 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-13T08:07:48Z,2026-11-13,8045c22b7b6d3e8d,2197885,Linus Ullmark,OTT,closed,off the report since 2026-11-12
 2026-11-13T08:07:48Z,2026-11-13,1e7e9850d1d50ac8,3166626,Matias Maccelli,NYI,closed,off the report since 2026-11-12
 2026-11-13T08:07:48Z,2026-11-13,d611c0a8978aff78,2146557,Kevin Fiala,LAK,closed,off the report since 2026-11-12
+2026-11-13T16:31:26Z,2026-11-13,d8c758d92f6dab44,1133726,Jordan Staal,CAR,status_changed,IR. Expected to be out until at least Dec 3 -> IR. Expected to be out until at least Nov 14
+2026-11-13T16:31:26Z,2026-11-13,1c9aaa8e29ad42df,2076030,Sean Monahan,CBJ,opened,Upper Body - Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,5b4caea805726acb,2845123,Miro Heiskanen,DAL,status_changed,Expected to be out until at least Nov 14 -> Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,57a03d1fa52a0fc2,2197823,Erik Gustafsson,LAK,status_changed,Expected to be out until at least Nov 14 -> Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,d8a5b46f1b2bdb77,2147652,Brett Pesce,NJD,status_changed,Expected to be out until at least Nov 14 -> Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,90ea4481b5546241,1897752,Jean-Gabriel Pageau,NYI,status_changed,Expected to be out until at least Nov 14 -> Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,596c1477467a08ac,26799195,Jacob Melanson,SEA,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 14
+2026-11-13T16:31:26Z,2026-11-13,61e1f15dd837cd00,2269433,Anthony Cirelli,TBL,status_changed,Expected to be out until at least Nov 14 -> Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,894c7fb960e7fd04,2178853,Erik Cernak,TBL,status_changed,Expected to be out until at least Nov 14 -> Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,status_changed,Expected to be out until at least Nov 14 -> Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,7e60cc379ba32b1a,2147516,Nick Schmaltz,UTA,status_changed,Expected to be out until at least Nov 14 -> Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,6c4b485554350cc4,28895737,Logan Cooley,UTA,status_changed,Expected to be out until at least Nov 14 -> Day-to-Day
+2026-11-13T16:31:26Z,2026-11-13,303d864276c67df6,1628806,Drew Doughty,LAK,closed,off the report since 2026-11-12
+2026-11-13T16:31:26Z,2026-11-13,3b7693358124080f,2880090,Zack MacEwen,TOR,closed,off the report since 2026-11-12
+2026-11-13T16:31:26Z,2026-11-13,dc1df935a1789d8a,1240390,Patrick Kane,CHI,closed,off the report since 2026-11-12
+2026-11-13T16:31:26Z,2026-11-13,0e6e3b67c33572e5,2269101,Alex Lyon,BUF,closed,off the report since 2026-11-12
