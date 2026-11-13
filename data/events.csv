@@ -1964,3 +1964,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-12T20:04:17Z,2026-11-12,6cd52d7244bc0597,26799447,Ville Koivunen,PIT,closed,off the report since 2026-11-11
 2026-11-12T20:04:17Z,2026-11-12,ac3d0e2609fea006,2845690,Kailer Yamamoto,UTA,closed,off the report since 2026-11-11
 2026-11-12T20:04:17Z,2026-11-12,e30ad2d1c5970877,2269122,Parker Wotherspoon,VGK,closed,off the report since 2026-11-11
+2026-11-13T01:11:44Z,2026-11-12,0db0590a7634a0ae,29404928,Konsta Helenius,BUF,status_changed,Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 19
+2026-11-13T01:11:44Z,2026-11-12,57a03d1fa52a0fc2,2197823,Erik Gustafsson,LAK,status_changed,Day-to-Day -> Expected to be out until at least Nov 14
+2026-11-13T01:11:44Z,2026-11-12,61e1f15dd837cd00,2269433,Anthony Cirelli,TBL,opened,Lower Body - Expected to be out until at least Nov 14
+2026-11-13T01:11:44Z,2026-11-12,894c7fb960e7fd04,2178853,Erik Cernak,TBL,type_changed,Undisclosed -> Upper Body
+2026-11-13T01:11:44Z,2026-11-12,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 14
