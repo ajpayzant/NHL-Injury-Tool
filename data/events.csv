@@ -1969,3 +1969,17 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-13T01:11:44Z,2026-11-12,61e1f15dd837cd00,2269433,Anthony Cirelli,TBL,opened,Lower Body - Expected to be out until at least Nov 14
 2026-11-13T01:11:44Z,2026-11-12,894c7fb960e7fd04,2178853,Erik Cernak,TBL,type_changed,Undisclosed -> Upper Body
 2026-11-13T01:11:44Z,2026-11-12,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 14
+2026-11-13T08:07:48Z,2026-11-13,1c0cabf4bba781b8,2845129,Cale Makar,COL,opened,Lower Body - Day-to-Day
+2026-11-13T08:07:48Z,2026-11-13,d1ac0e36851564d4,2076027,Nathan MacKinnon,COL,opened,Lower Body - Day-to-Day
+2026-11-13T08:07:48Z,2026-11-13,89adcc02fb96dc7b,28895766,Lian Bichsel,DAL,opened,Lower Body - Expected to be out until at least Nov 17
+2026-11-13T08:07:48Z,2026-11-13,0338fffb359f5639,2178854,Joel Eriksson Ek,MIN,opened,Upper Body - Day-to-Day
+2026-11-13T08:07:48Z,2026-11-13,b43f7ec7be3c50fb,1966327,Chris Kreider,MTL,opened,Leg - Day-to-Day
+2026-11-13T08:07:48Z,2026-11-13,7e60cc379ba32b1a,2147516,Nick Schmaltz,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 14
+2026-11-13T08:07:48Z,2026-11-13,a43b995ad29d3440,2094777,Dylan DeMelo,WPG,opened,Lower Body - Expected to be out until at least Nov 19
+2026-11-13T08:07:48Z,2026-11-13,ac64fbd4cdf81c68,2094547,William Carrier,CAR,closed,off the report since 2026-11-12
+2026-11-13T08:07:48Z,2026-11-13,c59699c1d56be374,28902979,Sandis Vilmanis,FLA,closed,off the report since 2026-11-12
+2026-11-13T08:07:48Z,2026-11-13,cd56068a174ac6c9,2000667,Mike Matheson,MTL,closed,off the report since 2026-11-12
+2026-11-13T08:07:48Z,2026-11-13,85f130151241c880,2076037,Ryan Pulock,NYI,closed,off the report since 2026-11-12
+2026-11-13T08:07:48Z,2026-11-13,8045c22b7b6d3e8d,2197885,Linus Ullmark,OTT,closed,off the report since 2026-11-12
+2026-11-13T08:07:48Z,2026-11-13,1e7e9850d1d50ac8,3166626,Matias Maccelli,NYI,closed,off the report since 2026-11-12
+2026-11-13T08:07:48Z,2026-11-13,d611c0a8978aff78,2146557,Kevin Fiala,LAK,closed,off the report since 2026-11-12

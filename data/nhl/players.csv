@@ -39,6 +39,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1899125,Ryan Nugent-Hopkins,EDM,8476454,1993-04-12,C,roster,2026-09-29
 1960399,Torey Krug,STL,8476792,1991-04-12,D,search,2026-09-24
 1960880,Jason Zucker,BUF,8475722,1992-01-16,L,roster,2026-09-24
+1966327,Chris Kreider,MTL,8475184,1991-04-30,L,roster,2026-11-13
 2000655,Radek Faksa,DAL,8476889,1994-01-09,C,roster,2026-10-10
 2000659,Zemgus Girgensons,TBL,8476878,1994-01-05,C,roster,2026-10-25
 2000662,Mark Jankowski,CAR,8476873,1994-09-13,L,roster,2026-10-18
@@ -56,6 +57,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2076017,Jason Dickinson,EDM,8477450,1995-07-04,C,roster,2026-09-25
 2076018,Max Domi,TOR,8477503,1995-03-02,C,roster,2026-09-24
 2076022,Bo Horvat,NYI,8477500,1995-04-05,C,roster,2026-10-09
+2076027,Nathan MacKinnon,COL,8477492,1995-09-01,C,roster,2026-11-13
 2076028,Anthony Mantha,NJD,8477511,1994-09-16,R,roster,2026-10-19
 2076029,Michael McCarron,MIN,8477446,1995-03-07,C,roster,2026-11-07
 2076030,Sean Monahan,CBJ,8477497,1994-10-12,C,roster,2026-11-07
@@ -70,6 +72,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2094547,William Carrier,CAR,8477478,1994-12-20,L,roster,2026-11-08
 2094574,Ryan Graves,PIT,8477435,1995-05-21,D,roster,2026-09-26
 2094585,Tristan Jarry,EDM,8477465,1995-04-29,G,roster,2026-11-05
+2094777,Dylan DeMelo,WPG,8476331,1993-05-01,D,roster,2026-11-13
 2094805,Nate Schmidt,UTA,8477220,1991-07-16,D,roster,2026-11-06
 2095289,Daniil Tarasov,DET,8480193,1999-03-27,G,roster,2026-10-22
 2146557,Kevin Fiala,LAK,8477942,1996-07-22,L,roster,2026-09-24
@@ -226,6 +229,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28895757,Pavel Mintyukov,ANA,8483490,2003-11-25,D,roster,2026-09-27
 28895758,Frank Nazar,CHI,8483493,2004-01-14,C,roster,2026-10-10
 28895759,Matthew Savoie,EDM,8483512,2004-01-01,C,roster (nickname),2026-09-24
+28895766,Lian Bichsel,DAL,8483425,2004-05-18,D,roster,2026-11-13
 28895781,Isaac Howard,EDM,8483455,2004-03-30,L,roster,2026-10-31
 28895785,Jiri Kulich,BUF,8483468,2004-04-14,C,roster,2026-09-24
 28895787,Maveric Lamoureux,UTA,8483472,2004-01-13,D,roster,2026-09-28
