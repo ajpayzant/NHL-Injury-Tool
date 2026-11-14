@@ -108,6 +108,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2197836,Adrian Kempe,LAK,8477960,1996-09-13,R,roster,2026-10-31
 2197838,Joonas Korpisalo,NYR,8476914,1994-04-28,G,roster,2026-10-01
 2197852,Brandon Montour,SEA,8477986,1994-04-11,D,roster,2026-10-18
+2197859,Artemi Panarin,LAK,8478550,1991-10-30,L,roster,2026-11-14
 2197860,Colton Parayko,STL,8476892,1993-05-12,D,roster,2026-10-30
 2197866,Brayden Point,TBL,8478010,1996-03-13,C,roster,2026-11-09
 2197870,Evan Rodrigues,NJD,8478542,1993-07-28,C,roster,2026-11-02
@@ -316,6 +317,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3140738,Vincent Desharnais,WSH,8479576,1996-05-29,D,roster,2026-10-23
 3140762,Kaedan Korczak,PIT,8481527,2001-01-29,D,roster,2026-11-02
 3140797,Trent Miner,COL,8481529,2001-02-05,G,search,2026-09-29
+3140803,Vladislav Kolyachonok,NJD,8481609,2001-05-26,D,search,2026-11-14
 3140820,Jordan Spence,OTT,8481606,2001-02-24,D,roster,2026-09-24
 3149263,Alex Turcotte,LAK,8481532,2001-02-26,C,roster,2026-10-09
 3158655,Mattias Samuelsson,BUF,8480807,2000-03-14,D,roster,2026-09-24

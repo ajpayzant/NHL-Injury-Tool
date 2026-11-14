@@ -2066,3 +2066,17 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-14T17:12:56Z,2026-11-14,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,status_changed,IR. Expected to be out until at least Nov 30 -> IR. Expected to be out until at least Nov 17
 2026-11-14T17:12:56Z,2026-11-14,e145991b4fdc432e,29167365,Tom Willander,VAN,closed,off the report since 2026-11-13
 2026-11-14T17:12:56Z,2026-11-14,93a3a8467dd83e2c,2845320,Filip Chytil,VAN,closed,off the report since 2026-11-13
+2026-11-14T21:33:58Z,2026-11-14,2664ad8f11ad2a47,2271613,Matt Grzelcyk,BUF,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 22
+2026-11-14T21:33:58Z,2026-11-14,d1ac0e36851564d4,2076027,Nathan MacKinnon,COL,status_changed,Day-to-Day -> Expected to be out until at least Dec 12
+2026-11-14T21:33:58Z,2026-11-14,1c0cabf4bba781b8,2845129,Cale Makar,COL,status_changed,Day-to-Day -> Expected to be out until at least Nov 28
+2026-11-14T21:33:58Z,2026-11-14,1c9aaa8e29ad42df,2076030,Sean Monahan,CBJ,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-14T21:33:58Z,2026-11-14,302fa3a374037282,2269089,Conor Garland,CBJ,status_changed,IR. Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Dec 5
+2026-11-14T21:33:58Z,2026-11-14,9a3777fc241c385d,3166631,Albert Johansson,DET,status_changed,IR. Expected to be out until at least Nov 14 -> IR. Expected to be out until at least Nov 18
+2026-11-14T21:33:58Z,2026-11-14,57a03d1fa52a0fc2,2197823,Erik Gustafsson,LAK,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-14T21:33:58Z,2026-11-14,2e75a727d36cd17f,2197859,Artemi Panarin,LAK,opened,Personal - Expected to be out until at least Nov 17
+2026-11-14T21:33:58Z,2026-11-14,cd56068a174ac6c9,2000667,Mike Matheson,MTL,reopened,was marked returned 2026-11-12
+2026-11-14T21:33:58Z,2026-11-14,d8a5b46f1b2bdb77,2147652,Brett Pesce,NJD,status_changed,Day-to-Day -> Expected to be out until at least Nov 18
+2026-11-14T21:33:58Z,2026-11-14,5eeb6813f9735cd7,3140803,Vladislav Kolyachonok,NJD,opened,Illness - Expected to be out until at least Nov 18
+2026-11-14T21:33:58Z,2026-11-14,58fdeaf73668e67a,2076042,Alex Wennberg,SJS,type_changed,Undisclosed -> Upper Body
+2026-11-14T21:33:58Z,2026-11-14,58fdeaf73668e67a,2076042,Alex Wennberg,SJS,status_changed,Day-to-Day -> Expected to be out until at least Nov 15
+2026-11-14T21:33:58Z,2026-11-14,7e60cc379ba32b1a,2147516,Nick Schmaltz,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
