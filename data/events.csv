@@ -2028,3 +2028,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-13T22:42:28Z,2026-11-13,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-11-13
 2026-11-13T22:42:28Z,2026-11-13,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-13
 2026-11-13T22:42:28Z,2026-11-13,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-11-13
+2026-11-14T03:22:58Z,2026-11-13,6c4b485554350cc4,28895737,Logan Cooley,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 16
+2026-11-14T03:22:58Z,2026-11-13,1d458c9d5cac8cea,2279395,Guillaume Brisebois,VAN,opened,Undisclosed - IR. Expected to be out until at least Nov 19
