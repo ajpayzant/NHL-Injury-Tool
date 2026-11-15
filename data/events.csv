@@ -2080,3 +2080,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-14T21:33:58Z,2026-11-14,58fdeaf73668e67a,2076042,Alex Wennberg,SJS,type_changed,Undisclosed -> Upper Body
 2026-11-14T21:33:58Z,2026-11-14,58fdeaf73668e67a,2076042,Alex Wennberg,SJS,status_changed,Day-to-Day -> Expected to be out until at least Nov 15
 2026-11-14T21:33:58Z,2026-11-14,7e60cc379ba32b1a,2147516,Nick Schmaltz,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
+2026-11-15T01:58:50Z,2026-11-14,9e6a846e08db96ef,2094538,Tyler Bertuzzi,CHI,opened,Undisclosed - Day-to-Day
+2026-11-15T01:58:50Z,2026-11-14,cd56068a174ac6c9,2000667,Mike Matheson,MTL,status_changed,Day-to-Day -> Expected to be out until at least Nov 16
+2026-11-15T01:58:50Z,2026-11-14,61e1f15dd837cd00,2269433,Anthony Cirelli,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-15T01:58:50Z,2026-11-14,894c7fb960e7fd04,2178853,Erik Cernak,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-15T01:58:50Z,2026-11-14,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
