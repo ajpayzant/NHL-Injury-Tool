@@ -2115,3 +2115,18 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-15T09:35:32Z,2026-11-15,26ed50f4409fe962,2198286,Mathew Barzal,NYI,closed,off the report since 2026-11-14
 2026-11-15T09:35:32Z,2026-11-15,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-14
 2026-11-15T09:35:32Z,2026-11-15,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-11-14
+2026-11-15T17:15:44Z,2026-11-15,9e5628f507db51c6,2271612,A.J. Greer,ANA,status_changed,IR. Expected to be out until at least Nov 15 -> IR. Expected to be out until at least Nov 28
+2026-11-15T17:15:44Z,2026-11-15,1c9aaa8e29ad42df,2076030,Sean Monahan,CBJ,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,57a03d1fa52a0fc2,2197823,Erik Gustafsson,LAK,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,2e75a727d36cd17f,2197859,Artemi Panarin,LAK,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,cd56068a174ac6c9,2000667,Mike Matheson,MTL,status_changed,Expected to be out until at least Nov 16 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,d8a5b46f1b2bdb77,2147652,Brett Pesce,NJD,status_changed,Expected to be out until at least Nov 18 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,5eeb6813f9735cd7,3140803,Vladislav Kolyachonok,NJD,status_changed,Expected to be out until at least Nov 18 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,90ea4481b5546241,1897752,Jean-Gabriel Pageau,NYI,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,58fdeaf73668e67a,2076042,Alex Wennberg,SJS,status_changed,Expected to be out until at least Nov 15 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,894c7fb960e7fd04,2178853,Erik Cernak,TBL,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,61e1f15dd837cd00,2269433,Anthony Cirelli,TBL,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,6c4b485554350cc4,28895737,Logan Cooley,UTA,status_changed,Expected to be out until at least Nov 16 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,467d4e3f3de288bd,26802547,Isak Rosen,WPG,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-15T17:15:44Z,2026-11-15,3a7d5d0fd7b6767a,2147580,Trevor van Riemsdyk,PIT,closed,off the report since 2026-11-14
