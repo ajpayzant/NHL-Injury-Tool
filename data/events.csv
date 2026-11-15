@@ -2085,3 +2085,33 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-15T01:58:50Z,2026-11-14,61e1f15dd837cd00,2269433,Anthony Cirelli,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
 2026-11-15T01:58:50Z,2026-11-14,894c7fb960e7fd04,2178853,Erik Cernak,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
 2026-11-15T01:58:50Z,2026-11-14,fd2ae623e24570b2,2000673,Morgan Rielly,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-15T09:35:32Z,2026-11-15,8f57e9ad5d0690f5,2245479,Dante Fabbro,CBJ,opened,Chest - Day-to-Day
+2026-11-15T09:35:32Z,2026-11-15,13e4f364cb180d18,2076022,Bo Horvat,NYI,opened,Undisclosed - Day-to-Day
+2026-11-15T09:35:32Z,2026-11-15,04fb538cfc43a22d,2245517,Logan Stanley,NYI,opened,Lower Body - Day-to-Day
+2026-11-15T09:35:32Z,2026-11-15,90ea4481b5546241,1897752,Jean-Gabriel Pageau,NYI,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-15T09:35:32Z,2026-11-15,d5cda721f6be4fc1,2147172,Hayden Hodgson,OTT,opened,Groin - Day-to-Day
+2026-11-15T09:35:32Z,2026-11-15,d5801e123f0a9369,3130086,Philip Broberg,STL,opened,Lower Body - Day-to-Day
+2026-11-15T09:35:32Z,2026-11-15,e1a29e049a32d52e,28899590,Aleksanteri Kaskimaki,STL,opened,Undisclosed - Day-to-Day
+2026-11-15T09:35:32Z,2026-11-15,0338fffb359f5639,2178854,Joel Eriksson Ek,MIN,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,0999dd379b53a088,2197804,Noel Acciari,PHI,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,af1026ecc62139b3,28899577,Niklas Kokko,SEA,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,d8c758d92f6dab44,1133726,Jordan Staal,CAR,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,3db5511bc70414be,2245504,Ryan Lindgren,SEA,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,aa8a60c666296470,50001179,Bryce Pickford,MTL,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,c7db43d44a79272c,29167287,Quentin Musty,SJS,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,7f4cb5291ee66844,29373582,Cade Webber,TOR,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,5ffabd583e44135a,26799690,William Villeneuve,TOR,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,869efb56ac588422,50043134,Kai Uchacz,VGK,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,745f8e86c42e4971,50001174,Jake O'Brien,SEA,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,dac5c152f6f068ae,29101182,Brock Faber,MIN,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,26ed50f4409fe962,2198286,Mathew Barzal,NYI,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-14
+2026-11-15T09:35:32Z,2026-11-15,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-11-14
