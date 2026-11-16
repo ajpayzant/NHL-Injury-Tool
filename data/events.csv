@@ -2135,3 +2135,28 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-15T21:53:07Z,2026-11-15,cd56068a174ac6c9,2000667,Mike Matheson,MTL,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
 2026-11-15T21:53:07Z,2026-11-15,b43f7ec7be3c50fb,1966327,Chris Kreider,MTL,status_changed,Expected to be out until at least Jan 2 -> IR. Expected to be out until at least Jan 2
 2026-11-15T21:53:07Z,2026-11-15,1f86376509a858ae,26560465,Jake Neighbours,STL,opened,Upper Body - Day-to-Day
+2026-11-16T02:14:35Z,2026-11-15,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,0031bb3ec14549fb,1899125,Ryan Nugent-Hopkins,EDM,opened,Undisclosed - Expected to be out until at least Nov 17
+2026-11-16T02:14:35Z,2026-11-15,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,bdd9edca8e83bf25,2093842,Josh Anderson,MTL,type_changed,Undisclosed -> Lower Body
+2026-11-16T02:14:35Z,2026-11-15,bdd9edca8e83bf25,2093842,Josh Anderson,MTL,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Dec 14
+2026-11-16T02:14:35Z,2026-11-15,cd56068a174ac6c9,2000667,Mike Matheson,MTL,status_changed,Expected to be out until at least Nov 21 -> Expected to be out until at least Dec 5
+2026-11-16T02:14:35Z,2026-11-15,aa8a60c666296470,50001179,Bryce Pickford,MTL,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-16T02:14:35Z,2026-11-15,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,5a465d82d4b3888f,29167152,Denver Barkey,PHI,opened,Illness - Expected to be out until at least Nov 17
+2026-11-16T02:14:35Z,2026-11-15,58fdeaf73668e67a,2076042,Alex Wennberg,SJS,status_changed,Day-to-Day -> Expected to be out until at least Nov 17
+2026-11-16T02:14:35Z,2026-11-15,c7db43d44a79272c,29167287,Quentin Musty,SJS,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,c7db43d44a79272c,29167287,Quentin Musty,SJS,status_changed,IR. Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Jan 1
+2026-11-16T02:14:35Z,2026-11-15,7f5118a176605346,29406961,Igor Chernyshov,SJS,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 8
+2026-11-16T02:14:35Z,2026-11-15,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,620048a7bd273eb4,1282170,Logan Couture,SJS,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,af1026ecc62139b3,28899577,Niklas Kokko,SEA,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,745f8e86c42e4971,50001174,Jake O'Brien,SEA,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,fa2b82f6d606389e,29407705,Adam Jecho,STL,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,7f4cb5291ee66844,29373582,Cade Webber,TOR,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-11-14
+2026-11-16T02:14:35Z,2026-11-15,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,reopened,was marked returned 2026-11-14
