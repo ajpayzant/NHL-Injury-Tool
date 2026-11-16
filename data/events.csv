@@ -2162,3 +2162,16 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-16T02:14:35Z,2026-11-15,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,reopened,was marked returned 2026-11-14
 2026-11-16T09:53:03Z,2026-11-16,94b1568a636ab5d2,1639453,Tyler Myers,DAL,opened,Upper Body - Expected to be out until at least Nov 17
 2026-11-16T09:53:03Z,2026-11-16,c3630cb8b169f38f,2921433,Kiefer Sherwood,SJS,opened,Arm - Day-to-Day
+2026-11-16T20:33:24Z,2026-11-16,1c9aaa8e29ad42df,2076030,Sean Monahan,CBJ,status_changed,Day-to-Day -> Expected to be out until at least Nov 25
+2026-11-16T20:33:24Z,2026-11-16,94b1568a636ab5d2,1639453,Tyler Myers,DAL,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-16T20:33:24Z,2026-11-16,5b4caea805726acb,2845123,Miro Heiskanen,DAL,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-16T20:33:24Z,2026-11-16,0031bb3ec14549fb,1899125,Ryan Nugent-Hopkins,EDM,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-16T20:33:24Z,2026-11-16,28d901323e509682,2000666,Olli Maatta,MIN,opened,Upper Body - Expected to be out until at least Nov 25
+2026-11-16T20:33:24Z,2026-11-16,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-16T20:33:24Z,2026-11-16,d5cda721f6be4fc1,2147172,Hayden Hodgson,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 19
+2026-11-16T20:33:24Z,2026-11-16,f060ae79ad71b6cd,2147651,Warren Foegele,OTT,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Dec 3
+2026-11-16T20:33:24Z,2026-11-16,5a465d82d4b3888f,29167152,Denver Barkey,PHI,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-16T20:33:24Z,2026-11-16,58fdeaf73668e67a,2076042,Alex Wennberg,SJS,status_changed,Expected to be out until at least Nov 17 -> Day-to-Day
+2026-11-16T20:33:24Z,2026-11-16,afe4e1fb444936e2,2147348,Ross Johnston,STL,opened,Personal - Day-to-Day
+2026-11-16T20:33:24Z,2026-11-16,669f072e2d55b9b9,28899550,Artem Duda,UTA,opened,Lower Body - Day-to-Day
+2026-11-16T20:33:24Z,2026-11-16,c85174a743eef3d9,29700624,Ian Moore,ANA,closed,off the report since 2026-11-15
