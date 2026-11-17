@@ -15,14 +15,31 @@ for _p in (_APP.parent, _APP):
 
 st.set_page_config(page_title="NHL Injury Database", page_icon=":material/healing:", layout="wide")
 
-from core import last_updated, load  # noqa: E402
+from core import data_version, last_updated, load, updated_ago  # noqa: E402
 
+st.session_state["data_version"] = data_version()  # what this full run loads
 inj, events, runs = load()
+
+# The Action commits new data every few minutes and Streamlit Cloud pulls it onto disk.
+# This checks once a minute and reruns the whole page when it lands, so a tab left open
+# shows new injuries and news without a manual refresh. Filters and selections persist.
+REFRESH_EVERY = "60s"
+
+
+@st.fragment(run_every=REFRESH_EVERY)
+def freshness() -> None:
+    if data_version() != st.session_state.get("data_version"):
+        st.rerun()
+    _, _, r = load()
+    ago = updated_ago(r)
+    st.caption(f"Sources: CBS Sports injury report, Daily Faceoff injury news  \n"
+               f"Updated {last_updated(r)}{f' ({ago})' if ago else ''}  \n"
+               "Checks for new data every minute")
+
 
 with st.sidebar:
     st.markdown("### NHL Injury Database")
-    st.caption(f"Sources: CBS Sports injury report, Daily Faceoff injury news  \n"
-               f"Updated {last_updated(runs)}")
+    freshness()
 
 pages = st.navigation({
     "": [

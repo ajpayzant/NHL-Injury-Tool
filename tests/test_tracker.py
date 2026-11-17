@@ -180,3 +180,14 @@ def test_date_helpers():
     assert status_category("IR. Out for the season") == "Out for season"
     assert status_category("IR. Expected to be out until at least Jul 1") == "Out for season"
     assert status_category("Questionable for start of season") == "Questionable"
+
+
+def test_unchanged_snapshot_is_not_rewritten(tmp_path):
+    from nhl_injuries import store
+    from nhl_injuries.scrape import ReportRow
+    row = ReportRow("1", "A Player", "C", "BOS", "Knee", "Day-to-Day", "2026-11-16")
+    assert store.write_snapshot([row], "2026-11-17T12:00:00Z", tmp_path) is not None
+    assert store.write_snapshot([row], "2026-11-17T12:15:00Z", tmp_path) is None
+    changed = ReportRow("1", "A Player", "C", "BOS", "Knee", "Out", "2026-11-17")
+    assert store.write_snapshot([changed], "2026-11-17T12:30:00Z", tmp_path) is not None
+    assert len(list(tmp_path.glob("*/*Z.csv"))) == 2

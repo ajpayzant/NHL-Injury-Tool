@@ -2,11 +2,12 @@ name: Scrape CBS injury report and Daily Faceoff news
 
 on:
   schedule:
-    # Every run scrapes CBS and Daily Faceoff. GitHub throttles and delays scheduled jobs
-    # heavily (an every-2h cron fired about every 8h), so this asks for hourly to land
-    # every few hours. For a steady cadence, a cron-job.org job also triggers
-    # workflow_dispatch. The tracker's 12-hour close window means frequency doesn't
-    # change when an injury is marked returned.
+    # Every run scrapes CBS and Daily Faceoff (~1 min). GitHub throttles scheduled jobs
+    # heavily (this hourly cron lands every 4-10 hours), so it's only a fallback: a
+    # cron-job.org job triggers workflow_dispatch every 15 minutes for the real cadence.
+    # Streamlit Cloud pulls each data commit within minutes and open app tabs rerun when
+    # it lands. The tracker's 12-hour close window means frequency doesn't change when an
+    # injury is marked returned.
     - cron: "23 * * * *"
   workflow_dispatch:
     inputs:

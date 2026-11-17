@@ -66,6 +66,7 @@ REINJURY_HELP = (f"Hurt again in the same body region within {enrich.REINJURY_DA
 
 
 def _mtimes() -> tuple:
+    """Cache key for every loader: changes whenever the Action's commit lands on disk."""
     return tuple(p.stat().st_mtime if p.exists() else 0
                  for p in (store.INJURIES, store.EVENTS, store.RUNS, store.GAMES, store.NEWS))
 
@@ -224,6 +225,23 @@ def last_updated(runs: pd.DataFrame) -> str:
     t = runs["run_at"].max().tz_convert(ET)
     return t.strftime("%b %-d, %Y at %-I:%M %p ET") if sys.platform != "win32" \
         else t.strftime("%b %#d, %Y at %#I:%M %p ET")
+
+
+def data_version() -> tuple:
+    """Changes when new data arrives, so open sessions can tell they're out of date."""
+    return _mtimes()
+
+
+def updated_ago(runs: pd.DataFrame) -> str:
+    """'4 min ago' / '2 hr ago' since the latest scrape, or '' if there's none."""
+    if runs.empty or runs["run_at"].isna().all():
+        return ""
+    mins = int((pd.Timestamp.now(tz="UTC") - runs["run_at"].max()).total_seconds() // 60)
+    if mins < 1:
+        return "just now"
+    if mins < 60:
+        return f"{mins} min ago"
+    return f"{mins // 60} hr ago" if mins < 48 * 60 else f"{mins // 1440} days ago"
 
 
 def fmt_date(d, year: bool = True) -> str:

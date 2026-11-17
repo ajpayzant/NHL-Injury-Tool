@@ -74,11 +74,17 @@ def append_events(events: list[dict], path: Path = EVENTS) -> None:
         _write(path, read_events(path) + events, EVENT_COLUMNS)
 
 
-def write_snapshot(report: list[ReportRow], run_at: str, root: Path = SNAPSHOTS) -> Path:
-    """Raw copy of each scrape, so the episode log can always be rebuilt from source."""
+def write_snapshot(report: list[ReportRow], run_at: str, root: Path = SNAPSHOTS) -> Path | None:
+    """Raw copy of each scrape that changed the report, so the episode log can always be
+    rebuilt from source. An unchanged report is skipped (returns None): the scrape runs
+    every few minutes, and runs.csv already records that each run happened."""
+    rows = [r.as_dict() for r in report]
+    previous = sorted(root.glob("*/*Z.csv"))
+    if previous and _read(previous[-1]) == [{k: str(v) for k, v in r.items()} for r in rows]:
+        return None
     stamp = run_at.replace(":", "").replace("-", "")[:13]  # 20260924T1600
     path = root / run_at[:4] / f"{stamp}Z.csv"
-    _write(path, [r.as_dict() for r in report], list(ReportRow.__dataclass_fields__))
+    _write(path, rows, list(ReportRow.__dataclass_fields__))
     return path
 
 

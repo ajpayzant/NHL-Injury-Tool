@@ -40,8 +40,9 @@ st.code(f'=IMPORTDATA("{RAW_NEWS_URL}")', language=None)
 st.subheader("How the data is built")
 st.markdown(f"""
 - **Source.** The [CBS Sports NHL injury report](https://www.cbssports.com/nhl/injuries/), scraped
-  around 12 AM and 12 PM Eastern every day by a scheduled GitHub Action. Each raw scrape is saved
-  in `data/snapshots/`, so the whole history can be rebuilt from source.
+  about every 15 minutes by a GitHub Action, and the app picks up each update within a few minutes.
+  Every scrape that changed the report is saved in `data/snapshots/`, so the whole history can be
+  rebuilt from source.
 - **Injury news.** [Daily Faceoff's injury feed](https://www.dailyfaceoff.com/hockey-player-news/injuries)
   is fetched with every scrape into `data/news.csv`, one row per item, with the reporter and a link to
   the source post. Its headline is read for a status (out, game-time decision, returning, IR, ...),
