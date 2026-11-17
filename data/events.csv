@@ -2202,3 +2202,24 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-17T13:35:43Z,2026-11-17,d5801e123f0a9369,3130086,Philip Broberg,STL,closed,off the report since 2026-11-16
 2026-11-17T13:35:43Z,2026-11-17,9e6a846e08db96ef,2094538,Tyler Bertuzzi,CHI,closed,off the report since 2026-11-16
 2026-11-17T13:35:43Z,2026-11-17,9cb5472b30b7945a,28895781,Isaac Howard,EDM,closed,off the report since 2026-11-16
+2026-11-17T22:28:44Z,2026-11-17,79a82f82d265e157,1897686,Jonathan Huberdeau,CGY,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 25
+2026-11-17T22:28:44Z,2026-11-17,3f9379a59c1f58af,26799507,Pyotr Kochetkov,CAR,opened,Illness - Day-to-Day
+2026-11-17T22:28:44Z,2026-11-17,78fb6c360669fa14,1771013,Scott Wedgewood,COL,opened,Illness - Day-to-Day
+2026-11-17T22:28:44Z,2026-11-17,9cfd3ff1e20579ae,26799264,Oskar Back,DAL,status_changed,IR. Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 22
+2026-11-17T22:28:44Z,2026-11-17,94b1568a636ab5d2,1639453,Tyler Myers,DAL,status_changed,Day-to-Day -> Expected to be out until at least Nov 19
+2026-11-17T22:28:44Z,2026-11-17,43caedaeca4e2ca3,29237433,William Wallinder,DET,opened,Upper Body - Day-to-Day
+2026-11-17T22:28:44Z,2026-11-17,0031bb3ec14549fb,1899125,Ryan Nugent-Hopkins,EDM,status_changed,Day-to-Day -> Expected to be out until at least Nov 19
+2026-11-17T22:28:44Z,2026-11-17,0e7405ccca94dc5a,2858553,Alexandre Texier,MTL,opened,Illness - Day-to-Day
+2026-11-17T22:28:44Z,2026-11-17,0faa99f913888d10,2076028,Anthony Mantha,NJD,status_changed,IR. Expected to be out until at least Dec 5 -> IR. Expected to be out until at least Dec 17
+2026-11-17T22:28:44Z,2026-11-17,2a0dae9c3615fd82,3103731,Johnathan Kovacevic,NJD,status_changed,IR. Expected to be out until at least Nov 18 -> IR. Expected to be out until at least Dec 12
+2026-11-17T22:28:44Z,2026-11-17,04fb538cfc43a22d,2245517,Logan Stanley,NYI,status_changed,Day-to-Day -> Expected to be out until at least Nov 19
+2026-11-17T22:28:44Z,2026-11-17,5d1025c90d6f9b82,26640187,Pavel Dorofeyev,NYR,status_changed,Expected to be out until at least Nov 22 -> Day-to-Day
+2026-11-17T22:28:44Z,2026-11-17,c3630cb8b169f38f,2921433,Kiefer Sherwood,SJS,type_changed,Arm -> Upper Body
+2026-11-17T22:28:44Z,2026-11-17,c3630cb8b169f38f,2921433,Kiefer Sherwood,SJS,status_changed,Day-to-Day -> Expected to be out until at least Dec 1
+2026-11-17T22:28:44Z,2026-11-17,9edb31f502dcddeb,2987952,Tyler Tucker,STL,status_changed,IR. Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 28
+2026-11-17T22:28:44Z,2026-11-17,afe4e1fb444936e2,2147348,Ross Johnston,STL,type_changed,Personal -> Upper Body
+2026-11-17T22:28:44Z,2026-11-17,afe4e1fb444936e2,2147348,Ross Johnston,STL,status_changed,Day-to-Day -> Expected to be out until at least Nov 19
+2026-11-17T22:28:44Z,2026-11-17,69cb9fb649b88bde,28895748,Conor Geekie,TBL,opened,Undisclosed - IR. Expected to be out until at least Nov 25
+2026-11-17T22:28:44Z,2026-11-17,669f072e2d55b9b9,28899550,Artem Duda,UTA,status_changed,Expected to be out until at least Nov 18 -> Day-to-Day
+2026-11-17T22:28:44Z,2026-11-17,467d4e3f3de288bd,26802547,Isak Rosen,WPG,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 19
+2026-11-17T22:28:44Z,2026-11-17,6c4b485554350cc4,28895737,Logan Cooley,UTA,closed,off the report since 2026-11-16

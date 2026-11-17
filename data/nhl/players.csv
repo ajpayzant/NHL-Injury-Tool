@@ -25,6 +25,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 1770919,Radko Gudas,FLA,8475462,1990-06-05,D,roster,2026-10-18
 1770929,Zach Hyman,EDM,8475786,1992-06-09,L,roster,2026-10-01
 1770948,Jacob Markstrom,FLA,8474593,1990-01-31,G,roster,2026-10-20
+1771013,Scott Wedgewood,COL,8475809,1992-08-14,G,roster,2026-11-17
 1771018,Mats Zuccarello,LAK,8475692,1987-09-01,R,roster,2026-09-24
 1771089,Christopher Tanev,TOR,8475690,1989-12-20,D,roster (nickname),2026-10-10
 1897598,Jonathan Marchessault,NSH,8476539,1990-12-27,C,roster,2026-11-03
@@ -189,6 +190,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 26799447,Ville Koivunen,PIT,8482758,2003-06-13,R,roster,2026-11-09
 26799462,Luke Evangelista,NJD,8482146,2002-02-21,R,roster,2026-10-18
 26799489,Brandt Clarke,LAK,8482730,2003-02-09,D,roster,2026-10-30
+26799507,Pyotr Kochetkov,CAR,8481611,1999-06-25,G,roster,2026-11-17
 26799648,Helge Grans,PHI,8482169,2002-05-10,D,roster,2026-09-28
 26799690,William Villeneuve,TOR,8482174,2002-03-20,D,search,2026-09-29
 26802435,Tristan Broz,PIT,8482698,2002-10-10,C,search,2026-09-28
@@ -215,6 +217,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2845695,Eeli Tolvanen,NYR,8480009,1999-04-22,R,roster,2026-10-23
 2850816,Andrei Kuzmenko,PIT,8483808,1996-02-04,L,roster,2026-09-24
 2858551,Ukko-Pekka Luukkonen,BUF,8480045,1999-03-09,G,roster,2026-09-27
+2858553,Alexandre Texier,MTL,8480074,1999-09-13,L,roster,2026-11-17
 2858557,Eetu Luostarinen,FLA,8480185,1998-09-02,C,roster,2026-10-10
 2858568,Conor Timmins,BUF,8479982,1998-09-18,D,roster,2026-09-28
 2858572,Jonah Gadjovich,FLA,8479981,1998-10-12,L,roster,2026-09-24
@@ -233,6 +236,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28851236,Nick Blankenburg,TOR,8483565,1998-05-12,D,roster,2026-10-23
 28895737,Logan Cooley,UTA,8483431,2004-05-04,C,roster,2026-11-11
 28895738,Cutter Gauthier,ANA,8483445,2004-01-19,L,roster,2026-10-11
+28895748,Conor Geekie,TBL,8483447,2004-05-05,C,roster,2026-11-17
 28895750,Marco Kasper,DET,8483464,2004-04-08,C,roster,2026-10-03
 28895757,Pavel Mintyukov,ANA,8483490,2003-11-25,D,roster,2026-09-27
 28895758,Frank Nazar,CHI,8483493,2004-01-14,C,roster,2026-10-10
@@ -287,6 +291,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29222800,Judd Caulfield,ANA,8481538,2001-03-19,R,roster,2026-10-20
 2922483,Jake Evans,MTL,8478133,1996-06-02,C,roster,2026-11-09
 29237428,Georgii Merkulov,COL,8483567,2000-10-10,C,search,2026-09-29
+29237433,William Wallinder,DET,8482171,2002-07-28,D,roster,2026-11-17
 2923811,Victor Olofsson,VGK,8478109,1995-07-18,L,roster,2026-10-07
 29373582,Cade Webber,TOR,8481570,2001-01-05,D,search,2026-09-29
 29404907,Macklin Celebrini,SJS,8484801,2006-06-13,C,roster,2026-10-05
