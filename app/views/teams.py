@@ -55,7 +55,7 @@ team_news = news()
 team_news = team_news[(team_news["team_shown"] == team) & (team_news["date"] >= today() - pd.Timedelta(days=13))]
 st.subheader("Injury news, last 14 days")
 if team_news.empty:
-    st.caption(f"No Daily Faceoff injury news about the {name} in the last 14 days.")
+    st.caption(f"No injury news about the {name} in the last 14 days.")
 else:
     out = team_news[["published_at", "player", "news_status", "headline", "source_name", "source_url"]].copy()
     out["published_at"] = [f"{fmt_date(t, year=False)} {news_time(t)}" for t in out["published_at"]]

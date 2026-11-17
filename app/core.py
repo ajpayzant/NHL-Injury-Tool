@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from nhl_injuries import dfo, enrich, store  # noqa: E402
+from nhl_injuries import dfo, enrich, nhlcom, store  # noqa: E402
 from nhl_injuries.reference import CATEGORY_ORDER, ET, POSITION_GROUP, TEAMS  # noqa: E402
 from nhl_injuries.tracker import INJURY_COLUMNS  # noqa: E402
 
@@ -44,7 +44,7 @@ DOWNLOAD = {
     "return_check": "Return Check", "reinjury_match": "Re-injury", "reinjury_of": "Re-injury Of",
     "days_since_prior": "Days Since Prior Injury", "season": "Season",
     "start_is_lower_bound": "Start Is Lower Bound", "return_is_estimated": "Return Estimated",
-    "notes": "Notes", "latest_news": "Latest News (Daily Faceoff)", "latest_news_at": "Latest News Date",
+    "notes": "Notes", "latest_news": "Latest News", "latest_news_at": "Latest News Date",
 }
 NEWS_DOWNLOAD = {
     "news_id": "News ID", "published_at": "Published (ET)", "date": "Date", "player": "Player",
@@ -52,9 +52,9 @@ NEWS_DOWNLOAD = {
     "context": "Background", "news_status": "News Status", "injury": "Injury", "category": "Body Region",
     "surgery": "Surgery", "timeline": "Timeline", "return_earliest": "Timeline Earliest Return",
     "return_latest": "Timeline Latest Return", "injury_id": "CBS Injury ID", "source_name": "Reporter",
-    "source_url": "Source Link",
+    "source_url": "Source Link", "source": "Source",
 }
-# Badge colour per Daily Faceoff news status: bad news, uncertain, good news.
+# Badge colour per news status: bad news, uncertain, good news.
 DATE_COLUMNS = ("first_seen", "last_seen", "return_date", "expected_return", "first_game_back", "latest_news_at")
 RETURN_CHECK_HELP = (
     "Checked against NHL box scores. Played: has dressed for a game since coming off the report. "
@@ -111,7 +111,7 @@ def _load(key: tuple) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     inj["pkey"] = inj["nhl_id"].where(
         inj["nhl_id"] != "", inj["player_id"].where(inj["player_id"] != "", "name:" + inj["player"]))
 
-    # The most recent Daily Faceoff headline about each injury.
+    # The most recent news headline (Daily Faceoff or NHL.com) about each injury.
     n = _read_news()
     latest = (n[n["injury_id"] != ""].sort_values("published_at").groupby("injury_id").tail(1)
               .set_index("injury_id"))
@@ -154,11 +154,13 @@ def _news(key: tuple) -> pd.DataFrame:
     n["team_shown"] = n["team"].where(timely | cbs_team.eq(""), cbs_team)
     n["pkey"] = n["nhl_id"].where(n["nhl_id"] != "", "dfo:" + n["dfo_player_id"])
     n["tone"] = n["news_status"].map(dfo.TONE).fillna("")
+    n["source"] = n["news_id"].str.startswith(nhlcom.ID_PREFIX).map({True: "NHL.com", False: "Daily Faceoff"})
     return n.sort_values("published_at", ascending=False).reset_index(drop=True)
 
 
 def news() -> pd.DataFrame:
-    """Daily Faceoff injury news, newest first, with the player key and team to show."""
+    """Injury news (Daily Faceoff items and NHL.com Status Report notes), newest first,
+    with the player key, team to show and ``source``."""
     return _news(_mtimes())
 
 
@@ -168,7 +170,7 @@ def news_time(ts) -> str:
 
 
 def not_on_report(inj: pd.DataFrame, n: pd.DataFrame, since: pd.Timestamp) -> pd.DataFrame:
-    """Players Daily Faceoff reported hurt since ``since`` who have no open CBS injury:
+    """Players the news reported hurt since ``since`` who have no open CBS injury:
     the latest bad or uncertain item per player."""
     recent = n[(n["date"] >= since) & n["tone"].isin(["bad", "warn"])]
     listed = set(inj.loc[inj["is_open"], "pkey"])

@@ -34,7 +34,7 @@ st.subheader("Live copy in Google Sheets")
 st.markdown("Paste this into cell A1 of any Google Sheet. It pulls the latest data every time "
             "Sheets refreshes (about once an hour), with no script or login needed.")
 st.code(f'=IMPORTDATA("{RAW_CSV_URL}")', language=None)
-st.caption("The Daily Faceoff news log works the same way:")
+st.caption("The injury news log (Daily Faceoff + NHL.com) works the same way:")
 st.code(f'=IMPORTDATA("{RAW_NEWS_URL}")', language=None)
 
 st.subheader("How the data is built")
@@ -52,6 +52,14 @@ st.markdown(f"""
   a few days after he came off). News from before Sept 29, 2026 was backfilled; for those items
   Daily Faceoff only knows the player's current team, so the CBS injury's team is shown instead
   where there is one.
+- **NHL.com Status Report.** NHL.com's daily [Status Report](https://www.nhl.com/news/topic/injuries)
+  (team-by-team injury and lineup notes, usually mid-afternoon or late evening, not every day) is
+  checked with every scrape and re-read whenever NHL.com edits it. Each note becomes one news row
+  per player it's about (players mentioned in passing are left out), with the note's first sentence
+  as the headline, the rest as background and News ID `nhlcom:<article>:<NHL id>`. NHL.com tags
+  every player with his NHL id, so matching is exact. The same status, body-part and timeline
+  tags are read, on the part of the sentence about that player (`subject_text`). Reports from
+  Oct 1, 2026 on were backfilled.
 - **One row per injury.** A row opens the first time a player appears on the report and stays open
   while they remain on it. Players are matched by their CBS player id, so a trade or a refined
   diagnosis (Upper Body → Shoulder) updates the same row rather than starting a new one.
@@ -102,7 +110,7 @@ with st.expander("Column definitions"):
         "Season": "NHL season by first report date (turns over July 1).",
         "Start Is Lower Bound": "Already on the report when tracking began; true start is earlier.",
         "Return Estimated": "Return date inferred at import rather than observed.",
-        "Latest News (Daily Faceoff)": "Most recent Daily Faceoff headline about this injury.",
+        "Latest News": "Most recent Daily Faceoff or NHL.com headline about this injury.",
         "News Status (news file)": "Out, Left game, Game-time decision, Day-to-day, Week-to-week, IR, "
                                    "Returning, Practicing, ... read from the headline.",
         "Timeline Earliest / Latest Return (news file)": "Return window implied by a timeline in the "

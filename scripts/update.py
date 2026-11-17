@@ -4,14 +4,15 @@
     python scripts/update.py --dry-run    # scrape and report, write nothing
     python scripts/update.py --html page.html --now 2026-09-24T16:00:00Z
     python scripts/update.py --nhl-only   # just refresh the NHL.com data (games missed etc.)
-    python scripts/update.py --news-only  # just fetch new Daily Faceoff injury news
+    python scripts/update.py --news-only  # just fetch new injury news (Daily Faceoff + NHL.com)
 
 After the scrape, NHL.com data is synced (player ids, schedule, box scores) and the
 games-missed, return-check and re-injury columns are recomputed. If NHL.com is down
 the scrape is still saved and those columns keep their cached values.
 
-Last, new Daily Faceoff injury news is fetched into data/news.csv and every item is
-re-linked to its player and CBS injury. A Daily Faceoff failure is only a warning.
+Last, new Daily Faceoff injury news and NHL.com Status Report notes are fetched into
+data/news.csv and every item is re-linked to its player and CBS injury. A failure of
+either source is only a warning.
 """
 from __future__ import annotations
 
@@ -22,7 +23,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from nhl_injuries import dfo, enrich, nhl, store  # noqa: E402
+from nhl_injuries import dfo, enrich, nhl, nhlcom, store  # noqa: E402
 from nhl_injuries.scrape import ScrapeError, scrape  # noqa: E402
 from nhl_injuries.tracker import apply_report, et_date, parse_utc  # noqa: E402
 
@@ -51,7 +52,8 @@ def sync_nhl(injuries: list[dict], events: list[dict], today, offline: bool = Fa
 
 
 def sync_news(injuries: list[dict], today, offline: bool = False) -> list[dict]:
-    """Fetch new Daily Faceoff items and recompute every item's derived columns."""
+    """Fetch new Daily Faceoff items and NHL.com Status Reports, then recompute every
+    item's derived columns."""
     news = store.read_news()
     if not offline:
         stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -60,6 +62,12 @@ def sync_news(injuries: list[dict], today, offline: bool = False) -> list[dict]:
             print(f"  Daily Faceoff: {new} new, {edited} edited, {len(news)} stored")
         except dfo.NewsError as e:
             print(f"WARNING: Daily Faceoff fetch failed, keeping stored news ({e})", file=sys.stderr)
+        try:
+            stories = nhlcom.fetch_new(nhlcom.Client(), news, today)
+            news, new, edited = nhlcom.merge(news, stories, stamp, nhlcom.positions_from(news, injuries))
+            print(f"  NHL.com Status Report: {len(stories)} article(s) fetched, {new} new items, {edited} re-read after edits")
+        except dfo.NewsError as e:
+            print(f"WARNING: NHL.com Status Report fetch failed, keeping stored news ({e})", file=sys.stderr)
     players = store.read_players()
     news = dfo.refresh(news, injuries, players, today)
     if not offline and any(r["matched_by"] == "unmatched" for r in news):
@@ -82,7 +90,7 @@ def main() -> int:
     ap.add_argument("--dry-run", action="store_true", help="don't write anything")
     ap.add_argument("--no-nhl", action="store_true", help="skip fetching NHL.com data (use the cache)")
     ap.add_argument("--nhl-only", action="store_true", help="don't scrape CBS; only refresh NHL.com data")
-    ap.add_argument("--news-only", action="store_true", help="don't scrape CBS; only fetch Daily Faceoff news")
+    ap.add_argument("--news-only", action="store_true", help="don't scrape CBS; only fetch injury news (Daily Faceoff, NHL.com)")
     ap.add_argument("--no-news", action="store_true", help="skip fetching Daily Faceoff news")
     args = ap.parse_args()
 

@@ -1,4 +1,4 @@
-name: Scrape CBS injury report and Daily Faceoff news
+name: Scrape CBS injury report, Daily Faceoff and NHL.com news
 
 on:
   schedule:
@@ -16,7 +16,7 @@ on:
         type: boolean
         default: false
       news_only:
-        description: "Only fetch Daily Faceoff injury news"
+        description: "Only fetch injury news (Daily Faceoff + NHL.com Status Report)"
         type: boolean
         default: false
 

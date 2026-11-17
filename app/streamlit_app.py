@@ -32,7 +32,7 @@ def freshness() -> None:
         st.rerun()
     _, _, r = load()
     ago = updated_ago(r)
-    st.caption(f"Sources: CBS Sports injury report, Daily Faceoff injury news  \n"
+    st.caption(f"Sources: CBS Sports injury report, Daily Faceoff and NHL.com injury news  \n"
                f"Updated {last_updated(r)}{f' ({ago})' if ago else ''}  \n"
                "Checks for new data every minute")
 

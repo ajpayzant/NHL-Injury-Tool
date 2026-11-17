@@ -44,7 +44,8 @@ LINK_AFTER_DAYS = 3     # ... and a little after CBS drops him (the "will return
 # Raw fields, as scraped. Derived fields are recomputed every run (see ``refresh``).
 RAW_COLUMNS = ["news_id", "published_at", "updated_at", "date", "player", "dfo_player_id",
                "dfo_nhl_id", "position", "team", "team_is_current", "headline", "context",
-               "source_name", "source_url", "breaking", "scraped_at"]
+               "source_name", "source_url", "breaking", "scraped_at",
+               "subject_text"]  # NHL.com only: the part of the headline about this player
 DERIVED_COLUMNS = ["nhl_id", "matched_by", "injury", "category", "news_status", "surgery",
                    "timeline", "return_earliest", "return_latest", "injury_id"]
 NEWS_COLUMNS = RAW_COLUMNS + DERIVED_COLUMNS
@@ -169,7 +170,7 @@ def merge(stored: list[dict], items: list[dict], scraped_at: str, backfill: bool
 
 def fetch_new(client: Client, stored: list[dict], max_pages: int = MAX_PAGES) -> list[dict]:
     """Items from page 1 back until OVERLAP_HOURS behind the newest stored item."""
-    newest = max((r["published_at"] for r in stored), default="")
+    newest = max((r["published_at"] for r in stored if not str(r.get("news_id", "")).startswith("nhlcom:")), default="")
     stop = ""
     if newest:
         stop = (datetime.fromisoformat(newest.replace("Z", "+00:00"))
@@ -348,7 +349,8 @@ def resolve_ids(news: list[dict], injuries: list[dict], players: list[dict]) -> 
     cached = {p["key"]: p["nhl_id"] for p in players if p["key"].startswith("dfo:") and p["nhl_id"]}
     for r in news:
         if r["dfo_nhl_id"]:
-            r["nhl_id"], r["matched_by"] = r["dfo_nhl_id"], "dfo"
+            r["nhl_id"] = r["dfo_nhl_id"]
+            r["matched_by"] = "nhl.com tag" if r["news_id"].startswith("nhlcom:") else "dfo"
         elif r["dfo_player_id"] in by_dfo:
             r["nhl_id"], r["matched_by"] = by_dfo[r["dfo_player_id"]], "dfo (other item)"
         elif len(names.get(name_key(r["player"]), ())) == 1:
@@ -410,9 +412,15 @@ def link_injuries(news: list[dict], injuries: list[dict], today: date) -> None:
 
 def refresh(news: list[dict], injuries: list[dict], players: list[dict], today: date) -> list[dict]:
     """Recompute every derived column. Cheap, and keeps links right as CBS
-    injuries open and close."""
+    injuries open and close. NHL.com Status Report rows are tagged by ``nhlcom.parse``."""
+    from . import nhlcom  # it imports this module
+    texts = nhlcom.tag_texts(news)
     for r in news:
-        r.update(parse(r["headline"], r["date"]))
+        if r["news_id"] in texts:
+            text, solo = texts[r["news_id"]]
+            r.update(nhlcom.parse(text, r, solo))
+        else:
+            r.update(parse(r["headline"], r["date"]))
     resolve_ids(news, injuries, players)
     link_injuries(news, injuries, today)
     return news

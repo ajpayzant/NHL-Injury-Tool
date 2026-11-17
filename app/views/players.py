@@ -13,7 +13,7 @@ st.title("Players")
 
 latest = inj.sort_values("last_seen").groupby("pkey").tail(1).set_index("pkey")
 labels = latest["player"] + " · " + latest["position"] + " · " + latest["latest_team"]
-# Players Daily Faceoff has written about who have never been on the CBS report.
+# Players the news has written about who have never been on the CBS report.
 news_only = feed[~feed["pkey"].isin(latest.index)].drop_duplicates("pkey").set_index("pkey")
 labels = pd.concat([labels, news_only["player"] + " · " + news_only["position"] + " · "
                     + news_only["team_shown"] + " (news only)"]).sort_values()
@@ -86,15 +86,16 @@ st.markdown(
 
 
 def news_section(items: pd.DataFrame) -> None:
-    st.subheader("Daily Faceoff news")
+    st.subheader("Injury news")
     if items.empty:
-        st.caption("No Daily Faceoff injury news for this player.")
+        st.caption("No injury news for this player.")
         return
-    out = items[["published_at", "news_status", "headline", "context", "timeline", "source_name",
+    out = items[["published_at", "source", "news_status", "headline", "context", "timeline", "source_name",
                  "source_url"]].copy()
     out["published_at"] = [f"{fmt_date(t)} {news_time(t)}" for t in out["published_at"]]
     st.dataframe(
-        out.rename(columns={"published_at": "Published (ET)", "news_status": "Status", "headline": "Headline",
+        out.rename(columns={"published_at": "Published (ET)", "source": "From", "news_status": "Status",
+                            "headline": "Headline",
                             "context": "Background", "timeline": "Timeline", "source_name": "Reporter",
                             "source_url": "Source"}),
         hide_index=True, width="stretch", placeholder="—", height=min(38 + 35 * len(out), 318),
@@ -102,12 +103,13 @@ def news_section(items: pd.DataFrame) -> None:
                        "Background": st.column_config.TextColumn(width="medium"),
                        "Source": st.column_config.LinkColumn(display_text="open")})
     st.caption(f"{len(items)} item{'s' if len(items) != 1 else ''} · from "
-               "[Daily Faceoff](https://www.dailyfaceoff.com/hockey-player-news/injuries)")
+               "[Daily Faceoff](https://www.dailyfaceoff.com/hockey-player-news/injuries) and the "
+               "NHL.com Status Report")
 
 
 if eps.empty:
     latest_item = my_news.iloc[0]
-    st.warning(f"**Not on the CBS injury report.** Latest from Daily Faceoff "
+    st.warning(f"**Not on the CBS injury report.** Latest from {latest_item['source']} "
                f"({fmt_date(latest_item['date'])}): {latest_item['headline']}", icon=":material/campaign:")
     news_section(my_news)
     st.stop()
@@ -125,14 +127,15 @@ if len(open_now):
     back = f" Expected back {fmt_date(o['expected_return'])}." if pd.notna(o["expected_return"]) else ""
     games = f", {int(o['games_missed'])} games" if pd.notna(o["games_missed"]) else ""
     about = my_news[my_news["injury_id"] == o["injury_id"]]
-    latest_news = (f"  \n**Latest news** ({fmt_date(about.iloc[0]['date'])}): {about.iloc[0]['headline']}"
+    latest_news = (f"  \n**Latest news** ({about.iloc[0]['source']}, {fmt_date(about.iloc[0]['date'])}): "
+                   f"{about.iloc[0]['headline']}"
                    if len(about) else "")
     dated = about[about["timeline"] != ""]
     if len(dated):
         t = dated.iloc[0]
         span = fmt_date(t["return_earliest"]) + (f" – {fmt_date(t['return_latest'])}"
                                                  if pd.notna(t["return_latest"]) and t["return_latest"] != t["return_earliest"] else "")
-        latest_news += f"  \n**Daily Faceoff timeline:** {t['timeline']} from {fmt_date(t['date'])} (≈ {span})"
+        latest_news += f"  \n**{t['source']} timeline:** {t['timeline']} from {fmt_date(t['date'])} (≈ {span})"
     st.warning(f"**Currently on the report:** {o['injury_type']} — {o['status']} "
                f"(first reported {fmt_date(o['first_seen'])}, {int(o['duration'])} days{games}).{back}"
                + latest_news, icon=":material/personal_injury:")

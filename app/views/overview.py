@@ -10,8 +10,8 @@ now = today()
 week_ago = now - pd.Timedelta(days=7)
 
 st.title("NHL Injury Report")
-st.caption(f"Every player on the CBS Sports NHL injury report, tracked twice a day, with Daily Faceoff "
-           f"injury news alongside. Last updated {last_updated(runs)}.")
+st.caption(f"Every player on the CBS Sports NHL injury report, updated about every 15 minutes, with Daily "
+           f"Faceoff and NHL.com injury news alongside. Last updated {last_updated(runs)}.")
 
 current = inj[inj["is_open"]]
 new_7 = inj[inj["first_seen"] > week_ago]

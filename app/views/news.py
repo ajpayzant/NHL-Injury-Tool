@@ -1,4 +1,4 @@
-"""What's new: the Daily Faceoff news feed, then the CBS report's view (injuries just
+"""What's new: the injury news feed (Daily Faceoff + NHL.com Status Report), then the CBS report's view (injuries just
 announced, return dates that moved, players just back and players due back)."""
 from html import escape
 
@@ -17,15 +17,21 @@ st.title("Latest Injury News")
 st.caption(f"Updated {last_updated(runs)}.")
 
 WINDOWS = {"Last 2 days": 2, "Last 3 days": 3, "Last 7 days": 7, "Last 14 days": 14}
-c = st.columns([3, 2, 1.5])
+c = st.columns([3, 2, 1.8])
 window = c[0].segmented_control("Show", list(WINDOWS), default="Last 3 days", key="news_window") or "Last 3 days"
 team_f = c[1].multiselect("Team", list(TEAMS), format_func=team_label, placeholder="All teams")
+SOURCES = {"All sources": None, "Daily Faceoff": "Daily Faceoff", "NHL.com": "NHL.com"}
+source_f = c[2].selectbox("Source", list(SOURCES), key="news_source",
+                          help="Daily Faceoff: beat-reporter news, minutes after it breaks. NHL.com: the "
+                               "daily Status Report, team-by-team notes with coach quotes and timelines.")
 since = now - pd.Timedelta(days=WINDOWS[window] - 1)  # today counts as one of the days
 
 all_inj = inj
 if team_f:
     inj = inj[inj["latest_team"].isin(team_f) | inj["team"].isin(team_f)]
     feed = feed[feed["team_shown"].isin(team_f) | feed["team"].isin(team_f)]
+if SOURCES[source_f]:
+    feed = feed[feed["source"] == SOURCES[source_f]]
 recent_news = feed[feed["date"] >= since]
 missing = not_on_report(all_inj, feed, since)
 
@@ -52,7 +58,7 @@ soon["sort"] = soon["expected_return"].fillna(now)
 soon = soon.sort_values(["sort", "latest_team"])
 
 k = st.columns(5)
-k[0].metric("News items", len(recent_news), border=True, help="Daily Faceoff injury news in this window.")
+k[0].metric("News items", len(recent_news), border=True, help="Daily Faceoff items and NHL.com Status Report notes in this window.")
 k = k[1:]
 k[0].metric("Newly reported", len(new), border=True, help="New on the CBS injury report.")
 k[1].metric("Return date changed", moves["injury_id"].nunique(), border=True,
@@ -79,6 +85,7 @@ st.html("""<style>
 .news-badge.warn{border-color:#eda100;background:#fff6dd;color:#6b4a00}
 .news-badge.bad{border-color:#d03b3b;background:#fdecec;color:#8a1f1f}
 .news-day{font-weight:600;color:#52514e;margin:.6rem 0 .1rem}
+.news-badge.src-nhl{border-color:#1f4e9c;background:#e8f0fc;color:#163a78}
 .news-badge.good{border-color:#2e8b57;background:#e9f6ee;color:#1d5c39}
 .news-card .dfo{margin-top:4px;color:#52514e;font-size:.8rem;font-style:italic}
 .feed-item{display:flex;gap:12px;padding:10px 4px;border-bottom:1px solid #eeede9}
@@ -152,13 +159,17 @@ def logo_img(team: str, size: int) -> str:
 
 def feed_item(r: pd.Series, missing_ids: set[str]) -> str:
     team = r["team_shown"]
-    tags = [badge(r["news_status"], r["tone"])] if r["news_status"] != "Other" else []
+    tags = [badge("NHL.com", "src-nhl")] if r["source"] == "NHL.com" else []
+    tags += [badge(r["news_status"], r["tone"])] if r["news_status"] != "Other" else []
     if r["surgery"]:
         tags.append(badge("Surgery", "bad"))
     if r["news_id"] in missing_ids:
         tags.append(badge("Not on CBS report", "warn"))
     src = [f"via <a href='{escape(r['source_url'])}' target='_blank'>{escape(r['source_name'] or 'source')}</a>"
            if r["source_url"] else escape(r["source_name"])]
+    context = r["context"]
+    if r["source"] == "NHL.com" and len(context) > 360:  # the report's paragraphs run long
+        context = context[:context.rfind(" ", 0, 340)] + " …"
     if timeline_text(r):
         src.append(escape(timeline_text(r)))
     if r["injury_id"] in cbs_status.index:
@@ -168,7 +179,7 @@ def feed_item(r: pd.Series, missing_ids: set[str]) -> str:
             f"<div class='nm'><a href='{player_link(r['player'], r['pkey'])}' target='_self'>"
             f"{escape(r['player'])}</a><span class='sub'>{escape(sub)}</span> {''.join(tags)}</div>"
             f"<div class='hl'>{escape(r['headline'])}</div>"
-            + (f"<div class='ctx'>{escape(r['context'])}</div>" if r["context"] else "")
+            + (f"<div class='ctx'>{escape(context)}</div>" if context else "")
             + f"<div class='src'>{' · '.join(x for x in src if x)}</div></div></div>")
 
 
@@ -176,8 +187,9 @@ tab_feed, tab_cbs = st.tabs([f"News feed ({len(recent_news)})", "CBS report chan
 
 with tab_feed:
     st.caption("Injury news from [Daily Faceoff](https://www.dailyfaceoff.com/hockey-player-news/injuries), "
-               "usually minutes after the beat reporter posts it. Status, timeline and surgery tags are "
-               "read from the headline.")
+               "usually minutes after the beat reporter posts it, and the notes in NHL.com's daily "
+               "[Status Report](https://www.nhl.com/news/topic/injuries) (marked NHL.com), which add "
+               "coach quotes and timelines. Status, timeline and surgery tags are read from the headline.")
     if not missing.empty:
         cards = []
         for _, r in missing.iterrows():
@@ -190,7 +202,7 @@ with tab_feed:
                 f"<div class='st'>{escape(r['headline'])}</div><div>{badge(r['news_status'], r['tone'])}</div>"
                 f"</div></div>")
         st.markdown(f"**Not on the CBS report yet ({len(missing)})**", help=(
-            "Reported hurt or uncertain by Daily Faceoff in this window, with no open CBS injury. "
+            "Reported hurt or uncertain by Daily Faceoff or NHL.com in this window, with no open CBS injury. "
             "CBS often catches up by its next scrape."))
         st.html(f"<div class='news-grid'>{''.join(cards)}</div>")
 
@@ -198,7 +210,7 @@ with tab_feed:
     tone = st.segmented_control("News type", list(TONES), default="All", key="news_tone") or "All"
     shown = recent_news if TONES[tone] is None else recent_news[recent_news["tone"].isin(TONES[tone])]
     if shown.empty:
-        st.info("No Daily Faceoff injury news in this window." if tone == "All" else f"No {tone.lower()} in this window.")
+        st.info("No injury news in this window." if tone == "All" else f"No {tone.lower()} in this window.")
     missing_ids = set(missing["news_id"])
     for day, grp in shown.groupby("date", sort=False):
         label = "Today" if day == now else "Yesterday" if day == now - pd.Timedelta(days=1) else ""
