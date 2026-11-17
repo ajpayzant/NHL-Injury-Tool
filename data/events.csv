@@ -2175,3 +2175,24 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-16T20:33:24Z,2026-11-16,afe4e1fb444936e2,2147348,Ross Johnston,STL,opened,Personal - Day-to-Day
 2026-11-16T20:33:24Z,2026-11-16,669f072e2d55b9b9,28899550,Artem Duda,UTA,opened,Lower Body - Day-to-Day
 2026-11-16T20:33:24Z,2026-11-16,c85174a743eef3d9,29700624,Ian Moore,ANA,closed,off the report since 2026-11-15
+2026-11-17T03:58:43Z,2026-11-16,0db0590a7634a0ae,29404928,Konsta Helenius,BUF,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 21
+2026-11-17T03:58:43Z,2026-11-16,2e75a727d36cd17f,2197859,Artemi Panarin,LAK,status_changed,Day-to-Day -> Expected to be out until at least Nov 19
+2026-11-17T03:58:43Z,2026-11-16,28d901323e509682,2000666,Olli Maatta,MIN,status_changed,Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 25
+2026-11-17T03:58:43Z,2026-11-16,5d1025c90d6f9b82,26640187,Pavel Dorofeyev,NYR,opened,Lower Body - Expected to be out until at least Nov 22
+2026-11-17T03:58:43Z,2026-11-16,669f072e2d55b9b9,28899550,Artem Duda,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 18
+2026-11-17T03:58:43Z,2026-11-16,af1026ecc62139b3,28899577,Niklas Kokko,SEA,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,aa8a60c666296470,50001179,Bryce Pickford,MTL,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,c7db43d44a79272c,29167287,Quentin Musty,SJS,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,7f4cb5291ee66844,29373582,Cade Webber,TOR,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,5ffabd583e44135a,26799690,William Villeneuve,TOR,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,745f8e86c42e4971,50001174,Jake O'Brien,SEA,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,fa2b82f6d606389e,29407705,Adam Jecho,STL,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-16
+2026-11-17T03:58:43Z,2026-11-16,620048a7bd273eb4,1282170,Logan Couture,SJS,closed,off the report since 2026-11-16
