@@ -2280,3 +2280,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-18T18:15:48Z,2026-11-18,1c727b97f9d4ce1b,2198485,Jonas Siegenthaler,NJD,opened,Illness - Day-to-Day
 2026-11-18T18:31:06Z,2026-11-18,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,type_changed,Undisclosed -> Upper Body
 2026-11-18T19:00:52Z,2026-11-18,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,type_changed,Upper Body -> Undisclosed
+2026-11-18T19:15:37Z,2026-11-18,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,type_changed,Undisclosed -> Upper Body
+2026-11-18T19:15:37Z,2026-11-18,cd13aa112943b0b7,26798991,Dylan Guenther,UTA,status_changed,IR. Expected to be out until at least Dec 5 -> IR. Expected to be out until at least Nov 27
+2026-11-18T19:15:37Z,2026-11-18,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,IR. Expected to be out until at least Dec 3 -> IR. Expected to be out until at least Nov 21
