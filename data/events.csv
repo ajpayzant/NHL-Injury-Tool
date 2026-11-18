@@ -2284,3 +2284,15 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-18T19:15:37Z,2026-11-18,cd13aa112943b0b7,26798991,Dylan Guenther,UTA,status_changed,IR. Expected to be out until at least Dec 5 -> IR. Expected to be out until at least Nov 27
 2026-11-18T19:15:37Z,2026-11-18,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,IR. Expected to be out until at least Dec 3 -> IR. Expected to be out until at least Nov 21
 2026-11-18T21:00:56Z,2026-11-18,94b1568a636ab5d2,1639453,Tyler Myers,DAL,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
+2026-11-18T22:45:44Z,2026-11-18,d54d5b4feb41172a,50001127,James Hagens,BOS,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 25
+2026-11-18T22:45:44Z,2026-11-18,2664ad8f11ad2a47,2271613,Matt Grzelcyk,BUF,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Dec 1
+2026-11-18T22:45:44Z,2026-11-18,6cd8dc7e1158f3e4,2992271,Alec Regula,EDM,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Dec 1
+2026-11-18T22:45:44Z,2026-11-18,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 23
+2026-11-18T22:45:44Z,2026-11-18,04845ee72eb799f6,29404908,Ivan Demidov,MTL,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 25
+2026-11-18T22:45:44Z,2026-11-18,2759479ab8d3f04e,26802563,William Trudeau,NSH,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 25
+2026-11-18T22:45:44Z,2026-11-18,9247f0be64d35780,50066703,Alberts Smits,NYR,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Dec 3
+2026-11-18T22:45:44Z,2026-11-18,3802f71216997c70,28978638,Elmer Soderblom,PIT,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 25
+2026-11-18T22:45:44Z,2026-11-18,e11998991d6e87d5,2988384,Curtis Douglas,SEA,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 25
+2026-11-18T22:45:44Z,2026-11-18,8d28c92a95e8b55a,28851236,Nick Blankenburg,TOR,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 27
+2026-11-18T22:45:44Z,2026-11-18,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 27
+2026-11-18T22:45:44Z,2026-11-18,ca5be578d0498fea,28968763,Marshall Rifai,TOR,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Dec 3
