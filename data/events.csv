@@ -2279,3 +2279,4 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-18T17:00:56Z,2026-11-18,b1999c4c28607f57,29167155,Connor Bedard,CHI,type_changed,Wrist -> Shoulder
 2026-11-18T18:15:48Z,2026-11-18,1c727b97f9d4ce1b,2198485,Jonas Siegenthaler,NJD,opened,Illness - Day-to-Day
 2026-11-18T18:31:06Z,2026-11-18,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,type_changed,Undisclosed -> Upper Body
+2026-11-18T19:00:52Z,2026-11-18,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,type_changed,Upper Body -> Undisclosed
