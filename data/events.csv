@@ -2264,3 +2264,13 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-18T10:30:47Z,2026-11-18,cdbb81d14eb16dbc,1897598,Jonathan Marchessault,NSH,closed,off the report since 2026-11-17
 2026-11-18T12:30:51Z,2026-11-18,61e1f15dd837cd00,2269433,Anthony Cirelli,TBL,closed,off the report since 2026-11-17
 2026-11-18T12:30:51Z,2026-11-18,894c7fb960e7fd04,2178853,Erik Cernak,TBL,closed,off the report since 2026-11-17
+2026-11-18T15:00:42Z,2026-11-18,02fe93a04d462121,29404915,Beckett Sennecke,ANA,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
+2026-11-18T15:00:42Z,2026-11-18,94b1568a636ab5d2,1639453,Tyler Myers,DAL,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
+2026-11-18T15:00:42Z,2026-11-18,0031bb3ec14549fb,1899125,Ryan Nugent-Hopkins,EDM,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
+2026-11-18T15:00:42Z,2026-11-18,2e75a727d36cd17f,2197859,Artemi Panarin,LAK,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
+2026-11-18T15:00:42Z,2026-11-18,04fb538cfc43a22d,2245517,Logan Stanley,NYI,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
+2026-11-18T15:00:42Z,2026-11-18,90ea4481b5546241,1897752,Jean-Gabriel Pageau,NYI,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
+2026-11-18T15:00:42Z,2026-11-18,d5cda721f6be4fc1,2147172,Hayden Hodgson,OTT,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
+2026-11-18T15:00:42Z,2026-11-18,c6c660b37b0bc0f0,1897633,Nick Cousins,OTT,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
+2026-11-18T15:00:42Z,2026-11-18,afe4e1fb444936e2,2147348,Ross Johnston,STL,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
+2026-11-18T15:00:42Z,2026-11-18,d45e16bdf5309d6e,2879806,Brandon Hagel,TBL,status_changed,Expected to be out until at least Nov 19 -> Day-to-Day
