@@ -2233,3 +2233,21 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-18T02:00:51Z,2026-11-17,d45e16bdf5309d6e,2879806,Brandon Hagel,TBL,type_changed,Lower Body -> Undisclosed
 2026-11-18T02:15:48Z,2026-11-17,d45e16bdf5309d6e,2879806,Brandon Hagel,TBL,type_changed,Undisclosed -> Lower Body
 2026-11-18T03:15:53Z,2026-11-17,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,opened,Undisclosed - Day-to-Day
+2026-11-18T04:00:38Z,2026-11-17,b1999c4c28607f57,29167155,Connor Bedard,CHI,opened,Wrist - Day-to-Day
+2026-11-18T04:00:38Z,2026-11-17,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,aa8a60c666296470,50001179,Bryce Pickford,MTL,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,922197175989c109,2198288,Thomas Chabot,OTT,opened,Undisclosed - Day-to-Day
+2026-11-18T04:00:38Z,2026-11-17,c7db43d44a79272c,29167287,Quentin Musty,SJS,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,620048a7bd273eb4,1282170,Logan Couture,SJS,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,af1026ecc62139b3,28899577,Niklas Kokko,SEA,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,745f8e86c42e4971,50001174,Jake O'Brien,SEA,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,7f4cb5291ee66844,29373582,Cade Webber,TOR,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,reopened,was marked returned 2026-11-16
+2026-11-18T04:00:38Z,2026-11-17,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,status_changed,IR. Expected to be out until at least Nov 17 -> IR. Expected to be out until at least Nov 19
