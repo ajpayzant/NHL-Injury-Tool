@@ -222,3 +222,19 @@ def test_daily_faceoff_fetch_ignores_nhlcom_rows():
     pages = Pages()
     dfo.fetch_new(pages, [nhl_row, dfo_row], max_pages=20)
     assert pages.n > 5  # paged back toward Nov 10, not stopped by the newer NHL.com row
+
+
+def test_first_time_in_a_month_is_history_not_a_timeline():
+    s = story([("Pittsburgh Penguins", f"{ent('Trevor van Riemsdyk', 8477845)} (lower body) could play for the "
+                                       "Penguins for the first time in more than a month on Thursday.")])
+    assert tagged(nhlcom.parse_story(s, STAMP))["Trevor van Riemsdyk"] == ("Game-time decision", "Lower Body", "")
+
+
+def test_republished_report_keeps_first_publish_time():
+    v1 = story([("Dallas Stars", f"{ent('Miro Heiskanen', 8480036)} is out.")],
+               published="2026-11-17T20:42:00Z", updated="2026-11-17T21:13:00Z")
+    rows, _, _ = nhlcom.merge([], [v1], STAMP)
+    v2 = dict(v1, contentDate="2026-11-18T01:44:00Z", lastUpdatedDate="2026-11-18T01:44:07Z")
+    rows, _, _ = nhlcom.merge(rows, [v2], "2026-11-18T01:50:00Z")
+    assert rows[0]["published_at"] == "2026-11-17T20:42:00Z" and rows[0]["date"] == "2026-11-17"
+    assert rows[0]["updated_at"] == "2026-11-18T01:44:07Z"

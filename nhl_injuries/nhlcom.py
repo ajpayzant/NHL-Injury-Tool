@@ -262,8 +262,13 @@ def merge(stored: list[dict], stories: list[dict], scraped_at: str,
             edited += 1
         for nid in old:
             del by_id[nid]
+        # NHL.com sometimes republishes a report hours later (Nov 17's at 8:44 PM);
+        # its items keep the time the report first came out.
+        first = min(old.values(), key=lambda r: r["published_at"], default=None)
         for row in parse_story(story, scraped_at):
             row["position"] = positions.get(row["dfo_nhl_id"], "")
+            if first and first["published_at"] < row["published_at"]:
+                row["published_at"], row["date"] = first["published_at"], first["date"]
             if row["news_id"] in old:
                 row["scraped_at"] = old[row["news_id"]]["scraped_at"] or scraped_at
             else:
@@ -352,6 +357,8 @@ _BACK_AT_PRACTICE = re.compile(r"\b(?:returned|was back) (?:to|at) (?:[\w'’.-]
 # procedure in September", "skated, one week after he was injured".
 _HISTORY = re.compile(r"\b(?:for the first time )?since (?:sustaining|suffering|having|undergoing|being|getting|he)\b[^,;]*|"
                       r"\bafter (?!missing)[^,;]*?\bmissed\b[^,;]*|"  # "practiced after their No. 1 goalie missed a win"
+                      # "could play for the first time in more than a month": history, not a timeline
+                      r"\bfor the first time in (?:more than |over |nearly |almost |about )?[\w-]+ (?:days?|weeks?|months?)\b|"
                       rf"(?:{_RANGE.pattern})\s+(?:after|before|since)\b[^,;]*", re.I)
 # Checked first, whatever Daily Faceoff's rules say.
 _FIRST = [(s, re.compile(p, re.I)) for s, p in [
