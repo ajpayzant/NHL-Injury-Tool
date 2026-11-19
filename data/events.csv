@@ -2305,3 +2305,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-19T11:00:41Z,2026-11-19,9784bdbe71dd91ba,2940987,Isac Lundestrom,CBJ,closed,off the report since 2026-11-18
 2026-11-19T12:45:48Z,2026-11-19,1c727b97f9d4ce1b,2198485,Jonas Siegenthaler,NJD,closed,off the report since 2026-11-18
 2026-11-19T12:45:48Z,2026-11-19,0e7405ccca94dc5a,2858553,Alexandre Texier,MTL,closed,off the report since 2026-11-18
+2026-11-19T13:45:38Z,2026-11-19,2e75a727d36cd17f,2197859,Artemi Panarin,LAK,status_changed,Day-to-Day -> Expected to be out until at least Nov 23
+2026-11-19T13:45:38Z,2026-11-19,596c1477467a08ac,26799195,Jacob Melanson,SEA,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 21
+2026-11-19T13:45:38Z,2026-11-19,86d6dc424fed0b5a,2093866,Colton Sissons,TOR,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 27
+2026-11-19T13:45:38Z,2026-11-19,1d458c9d5cac8cea,2279395,Guillaume Brisebois,VAN,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 22
