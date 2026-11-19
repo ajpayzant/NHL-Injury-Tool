@@ -249,7 +249,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28895794,Danila Yurov,MIN,8483525,2003-12-22,R,roster,2026-10-05
 28899547,Seamus Casey,NJD,8483429,2004-01-08,D,roster,2026-09-24
 28899550,Artem Duda,UTA,8483436,2004-04-08,D,roster,2026-11-16
-28899562,Cameron Lund,SJS,,,,unmatched,2026-11-11
+28899562,Cameron Lund,SJS,,,,unmatched,2026-11-19
 28899567,Matthew Poitras,BOS,8483505,2004-03-10,C,roster,2026-09-24
 28899568,Elias Salomonsson,WPG,8483510,2004-08-31,D,search,2026-09-29
 28899577,Niklas Kokko,SEA,,,,unmatched,2026-11-15
@@ -276,6 +276,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29167155,Connor Bedard,CHI,8484144,2005-07-17,C,roster,2026-09-24
 29167156,Zach Benson,BUF,8484145,2005-05-12,L,roster,2026-11-02
 29167157,Tristan Bertucci,DAL,8484146,2005-07-12,D,search,2026-09-29
+29167162,Gavin Brindley,COL,8484149,2004-10-05,C,roster,2026-11-19
 29167190,Jakub Dvorak,LAK,8484163,2005-05-25,D,search,2026-09-27
 29167224,Samuel Honzek,CGY,8484180,2004-11-12,L,roster,2026-10-10
 29167287,Quentin Musty,SJS,8484200,2005-07-06,L,search,2026-09-29
@@ -367,7 +368,7 @@ dfo:2727,Alex Nedeljkovic,SJS,8477968,1996-01-07,G,roster,2026-09-30
 dfo:28990,Logan Thompson,WSH,8480313,1997-02-25,G,roster,2026-09-29
 dfo:29143,Lukas Dostal,ANA,8480843,2000-06-22,G,roster,2026-09-29
 dfo:30486,Pyotr Kochetkov,CAR,8481611,1999-06-25,G,roster,2026-09-29
-dfo:33773,Cameron Lund,SJS,,,,unmatched,2026-11-11
+dfo:33773,Cameron Lund,SJS,,,,unmatched,2026-11-19
 dfo:34603,Arvid Soderblom,CHI,8482821,1999-08-19,G,roster,2026-09-29
 dfo:35165,Gabriel Perreault,NYR,8484210,2005-05-07,R,roster (nickname),2026-09-29
 dfo:36542,Berkly Catton,SEA,8484800,2006-01-14,C,roster,2026-09-29
@@ -376,8 +377,8 @@ dfo:3792,Mackenzie Blackwood,COL,8478406,1996-12-09,G,roster,2026-09-29
 dfo:38089,Landon Slaggert,CHI,8482172,2002-06-25,L,roster,2026-09-29
 dfo:38130,Damian Clara,ANA,8484391,2005-01-13,G,search,2026-09-29
 dfo:38455,Tom Willander,VAN,,,,unmatched,2026-11-03
-dfo:38474,Matthew Schaefer,NYI,,,,unmatched,2026-11-11
-dfo:38739,Andrea Glauser,,,,,unmatched,2026-11-11
+dfo:38474,Matthew Schaefer,NYI,,,,unmatched,2026-11-19
+dfo:38739,Andrea Glauser,,,,,unmatched,2026-11-19
 dfo:3874,Carter Hart,VGK,8479394,1998-08-13,G,roster,2026-09-29
 dfo:38893,Viking Gustafsson Nyberg,MIN,8486166,2003-09-21,D,roster,2026-09-29
 dfo:4741,Stuart Skinner,WPG,8479973,1998-11-01,G,roster,2026-09-29
