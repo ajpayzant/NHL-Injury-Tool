@@ -186,6 +186,125 @@ def news_time(ts) -> str:
     return "" if pd.isna(ts) else f"{ts.hour % 12 or 12}:{ts:%M} {'AM' if ts.hour < 12 else 'PM'}"
 
 
+# How serious each news status is, for "better / worse" and source cross-checks.
+# "Other" (call-ups, lineup notes) has no rank and is left out of comparisons.
+SEVERITY = {"Returning": 0, "Activated": 0, "Practicing": 1, "Day-to-day": 2, "Game-time decision": 2,
+            "Being evaluated": 2, "Left game": 3, "Out": 3, "Week-to-week": 4, "IR": 5, "Month-to-month": 5,
+            "Out indefinitely": 6, "Injured non-roster": 6, "LTIR": 6, "Out for season": 7}
+LOOKBACK = pd.Timedelta(days=45)  # how far back an earlier status still counts as "was"
+
+
+def status_changes(n: pd.DataFrame, since: pd.Timestamp) -> pd.DataFrame:
+    """Players whose news status moved in the window: the status before the window
+    (else his first item in it) against his latest item in it, one row per player,
+    with ``direction`` Better / Worse / Changed."""
+    rated = n[n["news_status"].isin(list(SEVERITY))].sort_values("published_at")
+    recent = rated[rated["date"] >= since]
+    if recent.empty:
+        return recent.assign(was_status="", was_date=pd.NaT, was_headline="", direction="", updates=0)
+    now = recent.groupby("pkey").tail(1).set_index("pkey")
+    before = rated[(rated["date"] < since) & (rated["date"] >= since - LOOKBACK)].groupby("pkey").tail(1)
+    first_in = recent.groupby("pkey").head(1)
+    was = pd.concat([before, first_in[~first_in["pkey"].isin(before["pkey"])]]).set_index("pkey")
+    out = now.join(was[["news_status", "date", "headline", "news_id"]].add_prefix("was_"), how="inner")
+    back = ["Returning", "Activated"]  # "activated" then "will return": the same news
+    out = out[(out["was_news_status"] != out["news_status"]) & (out["was_news_id"] != out["news_id"])
+              & ~(out["was_news_status"].isin(back) & out["news_status"].isin(back))]
+    out["updates"] = recent.groupby("pkey").size().reindex(out.index)
+    delta = out["news_status"].map(SEVERITY) - out["was_news_status"].map(SEVERITY)
+    out["direction"] = ["Better" if d < 0 else "Worse" if d > 0 else "Changed" for d in delta]
+    return (out.rename(columns={"was_news_status": "was_status"}).reset_index()
+            .sort_values("published_at", ascending=False))
+
+
+def reports(n: pd.DataFrame) -> pd.DataFrame:
+    """One row per NHL.com Status Report, newest first: url, date, published, notes, teams."""
+    c = n[n["source"] == "NHL.com"]
+    out = c.groupby("source_url").agg(date=("date", "min"), published=("published_at", "min"),
+                                      updated=("updated_at", "max"), notes=("news_id", "size"),
+                                      teams=("team_shown", "nunique")).reset_index()
+    return out.sort_values("published", ascending=False).reset_index(drop=True)
+
+
+def report_diff(n: pd.DataFrame, url: str) -> dict[str, pd.DataFrame]:
+    """What one Status Report changed against the report before it:
+    ``new`` (players not in the previous report), ``changed`` (in both, status moved,
+    with ``was_status``), ``carried`` (in both, same status), ``dropped`` (in the
+    previous report, not this one; their rows from the previous report), and ``prev``,
+    the previous report's url ("" if none)."""
+    reps = reports(n)
+    c = n[n["source"] == "NHL.com"]
+    cur = c[c["source_url"] == url]
+    later = reps.loc[reps["source_url"] == url, "published"]
+    older = reps[reps["published"] < later.iloc[0]] if len(later) else reps.iloc[0:0]
+    prev_url = older.iloc[0]["source_url"] if len(older) else ""
+    prev = c[c["source_url"] == prev_url]
+    was = prev.drop_duplicates("pkey").set_index("pkey")["news_status"]
+    in_prev = cur["pkey"].isin(was.index)
+    both = cur[in_prev].assign(was_status=cur.loc[in_prev, "pkey"].map(was))
+    moved = both["was_status"] != both["news_status"]
+    return {"new": cur[~in_prev] if prev_url else cur.iloc[0:0], "changed": both[moved],
+            "carried": both[~moved], "dropped": prev[~prev["pkey"].isin(cur["pkey"])], "prev": prev_url}
+
+
+def cross_check(inj: pd.DataFrame, n: pd.DataFrame, since: pd.Timestamp) -> pd.DataFrame:
+    """Players whose sources disagree, from news in the window: one row per player and
+    issue, with the CBS status and each news source's latest status.
+
+    - **News says back, CBS still lists him**: latest news is Returning or Activated,
+      but he has an open CBS injury.
+    - **News more serious than CBS**: CBS has him day-to-day (not on IR), the latest
+      news says week-to-week, IR or longer.
+    - **CBS more serious than news**: CBS has him out for the season or on IR, the
+      latest news says day-to-day or a game-time decision.
+    - **Daily Faceoff and NHL.com differ**: each has an item within 36 hours of the
+      other, one good news and the other bad.
+    - **Not on CBS report**: latest news is bad or uncertain, no open CBS injury."""
+    rated = n[(n["date"] >= since) & n["news_status"].isin(list(SEVERITY))].sort_values("published_at")
+    cols = ["pkey", "player", "team_shown", "position", "issue", "cbs", "dfo", "nhl", "headline", "source",
+            "published_at", "date"]
+    if rated.empty:
+        return pd.DataFrame(columns=cols)
+    latest = rated.groupby("pkey").tail(1).set_index("pkey")
+    by_src = {s: rated[rated["source"] == s].groupby("pkey").tail(1).set_index("pkey")
+              for s in ("Daily Faceoff", "NHL.com")}
+    open_now = inj[inj["is_open"]].sort_values("first_seen").groupby("pkey").tail(1).set_index("pkey")
+    sev = latest["news_status"].map(SEVERITY)
+    listed = latest.index.isin(open_now.index)
+    cbs_cat = latest.index.map(open_now["status_category"]).astype(object)
+    cbs_ir = latest.index.map(open_now["on_ir"]).astype(object)
+    issues = {
+        "News says back, CBS still lists him": listed & latest["news_status"].isin(["Returning", "Activated"]),
+        "News more serious than CBS": listed & (cbs_cat == "Day-to-day") & (cbs_ir != True) & (sev >= 4),  # noqa: E712
+        "CBS more serious than news": listed & ((cbs_cat == "Out for season") | (cbs_ir == True)) & (sev == 2),  # noqa: E712
+        "Not on CBS report": ~listed & latest["tone"].isin(["bad", "warn"]),
+    }
+    d, h = by_src["Daily Faceoff"], by_src["NHL.com"]
+    both = d.index.intersection(h.index)
+    gap = (d.loc[both, "published_at"] - h.loc[both, "published_at"]).abs() <= pd.Timedelta(hours=36)
+    differ = [k for k in both[gap.values] if {d.at[k, "tone"], h.at[k, "tone"]} == {"good", "bad"}]
+    issues["Daily Faceoff and NHL.com differ"] = latest.index.isin(differ)
+
+    def said(src: pd.DataFrame, k: str) -> str:
+        return f"{src.at[k, 'news_status']} ({fmt_date(src.at[k, 'date'], year=False)})" if k in src.index else ""
+
+    rows = []
+    for issue, mask in issues.items():
+        for k in latest.index[mask]:
+            r = latest.loc[k]
+            cbs = "Not listed"
+            if k in open_now.index:  # "IR · back ~Nov 21", not CBS's full sentence
+                o = open_now.loc[k]
+                cbs = "IR" if bool(o["on_ir"]) else str(o["status_category"])
+                if pd.notna(o.get("expected_return", pd.NaT)):
+                    cbs += f" · back ~{fmt_date(o['expected_return'], year=False)}"
+            rows.append({"pkey": k, "player": r["player"], "team_shown": r["team_shown"], "position": r["position"],
+                         "issue": issue, "cbs": cbs, "dfo": said(d, k), "nhl": said(h, k), "headline": r["headline"],
+                         "source": r["source"], "published_at": r["published_at"], "date": r["date"]})
+    out = pd.DataFrame(rows, columns=cols)
+    return out.sort_values("published_at", ascending=False).reset_index(drop=True)
+
+
 def not_on_report(inj: pd.DataFrame, n: pd.DataFrame, since: pd.Timestamp) -> pd.DataFrame:
     """Players the news reported hurt since ``since`` who have no open CBS injury:
     the latest bad or uncertain item per player."""

@@ -69,6 +69,23 @@ def test_player_profile_and_filters():
     for tone in ("Bad news", "Uncertain", "Good news", "All"):
         at.segmented_control(key="news_tone").set_value(tone).run()
         assert not at.exception, [e.value for e in at.exception]
+    # The per-source tabs: Daily Faceoff status changes, each NHL.com report, the cross-check.
+    for direction in ("Worse", "Better", "All"):
+        try:
+            at.segmented_control(key="dfo_dir").set_value(direction).run()
+        except KeyError:  # no status changes in this window
+            break
+        assert not at.exception, [e.value for e in at.exception]
+    try:
+        reports = at.selectbox(key="nhl_report")
+    except KeyError:
+        reports = None
+    if reports is not None:
+        for i in range(min(3, len(reports.options))):
+            at.selectbox(key="nhl_report").select_index(i).run()
+            assert not at.exception, [e.value for e in at.exception]
+    at.multiselect[0].set_value(["MTL"]).run()
+    assert not at.exception, [e.value for e in at.exception]
 
     at.switch_page("views/injury_types.py").run()
     at.segmented_control[0].set_value("Body region").run()
