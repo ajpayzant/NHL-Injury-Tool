@@ -2314,3 +2314,10 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-19T14:45:51Z,2026-11-19,669f072e2d55b9b9,28899550,Artem Duda,UTA,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
 2026-11-19T16:00:52Z,2026-11-19,78fb6c360669fa14,1771013,Scott Wedgewood,COL,closed,off the report since 2026-11-18
 2026-11-19T16:15:38Z,2026-11-19,d45e16bdf5309d6e,2879806,Brandon Hagel,TBL,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 25
+2026-11-19T17:15:36Z,2026-11-19,a2cbf06c48412ee2,3158655,Mattias Samuelsson,BUF,opened,Undisclosed - Day-to-Day
+2026-11-19T17:15:36Z,2026-11-19,b1999c4c28607f57,29167155,Connor Bedard,CHI,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
+2026-11-19T17:15:36Z,2026-11-19,ab33bb9bb347c0bf,2076014,Aleksander Barkov,FLA,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 21
+2026-11-19T17:15:36Z,2026-11-19,2e75a727d36cd17f,2197859,Artemi Panarin,LAK,status_changed,Expected to be out until at least Nov 23 -> Expected to be out until at least Nov 21
+2026-11-19T17:15:36Z,2026-11-19,85b0a1f621572a92,3140864,Nicholas Robertson,PIT,opened,Undisclosed - Day-to-Day
+2026-11-19T17:15:36Z,2026-11-19,467d4e3f3de288bd,26802547,Isak Rosen,WPG,status_changed,IR. Expected to be out until at least Nov 19 -> IR. Expected to be out until at least Nov 21
+2026-11-19T17:15:36Z,2026-11-19,a43b995ad29d3440,2094777,Dylan DeMelo,WPG,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Dec 26
