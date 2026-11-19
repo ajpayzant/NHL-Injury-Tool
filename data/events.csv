@@ -2328,3 +2328,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-19T22:00:42Z,2026-11-19,7fc2d9c0258e7f1e,29167162,Gavin Brindley,COL,status_changed,Day-to-Day -> Expected to be out until at least Nov 25
 2026-11-19T22:00:42Z,2026-11-19,1c0cabf4bba781b8,2845129,Cale Makar,COL,status_changed,Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 28
 2026-11-19T22:00:42Z,2026-11-19,745f8e86c42e4971,50001174,Jake O'Brien,SEA,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 10
+2026-11-19T22:15:25Z,2026-11-19,d5cda721f6be4fc1,2147172,Hayden Hodgson,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
+2026-11-19T22:15:25Z,2026-11-19,c6c660b37b0bc0f0,1897633,Nick Cousins,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
