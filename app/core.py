@@ -155,13 +155,30 @@ def _news(key: tuple) -> pd.DataFrame:
     n["pkey"] = n["nhl_id"].where(n["nhl_id"] != "", "dfo:" + n["dfo_player_id"])
     n["tone"] = n["news_status"].map(dfo.TONE).fillna("")
     n["source"] = n["news_id"].str.startswith(nhlcom.ID_PREFIX).map({True: "NHL.com", False: "Daily Faceoff"})
-    return n.sort_values("published_at", ascending=False).reset_index(drop=True)
+    # NHL.com often carries a note into the next day's report word for word; ``repeat_of``
+    # is the date that player's same note first appeared (NaT if it's new).
+    # Compared without punctuation or case: a re-run note can swap curly quotes for straight.
+    said = n["headline"].str.lower().str.replace(r"[^a-z0-9]+", " ", regex=True).str.strip()
+    nhl = n["source"] == "NHL.com"
+    first = (n[nhl].assign(said=said[nhl]).sort_values("published_at")
+             .groupby(["pkey", "said"])["date"].transform("first").reindex(n.index))
+    n["repeat_of"] = first.where(first < n["date"])
+    # A Status Report's items share one time: keep them grouped by team, a shared
+    # note's players together.
+    return n.sort_values(["published_at", "team_shown", "headline", "player"],
+                         ascending=[False, True, True, True], kind="stable").reset_index(drop=True)
 
 
 def news() -> pd.DataFrame:
     """Injury news (Daily Faceoff items and NHL.com Status Report notes), newest first,
-    with the player key, team to show and ``source``."""
+    with the player key, team to show, ``source`` and ``repeat_of``."""
     return _news(_mtimes())
+
+
+def drop_repeats(n: pd.DataFrame, since: pd.Timestamp) -> pd.DataFrame:
+    """Without NHL.com notes repeated from a report on or after ``since`` (the
+    earlier copy is already in the window)."""
+    return n[~(n["repeat_of"] >= since)]
 
 
 def news_time(ts) -> str:

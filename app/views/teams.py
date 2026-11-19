@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 import charts
-from core import (avg_days_out, display_table, fmt_date, games_lost, download_buttons, load, news,
+from core import (avg_days_out, display_table, drop_repeats, fmt_date, games_lost, download_buttons, load, news,
                   news_time, seasons, today)
 from nhl_injuries.reference import TEAMS
 
@@ -52,7 +52,8 @@ else:
                    "expected_return", "duration", "games_missed", "on_ir", "latest_news", "latest_news_at"])
 
 team_news = news()
-team_news = team_news[(team_news["team_shown"] == team) & (team_news["date"] >= today() - pd.Timedelta(days=13))]
+team_news = drop_repeats(team_news[(team_news["team_shown"] == team)
+                                   & (team_news["date"] >= today() - pd.Timedelta(days=13))], today() - pd.Timedelta(days=13))
 st.subheader("Injury news, last 14 days")
 if team_news.empty:
     st.caption(f"No injury news about the {name} in the last 14 days.")

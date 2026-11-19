@@ -359,11 +359,17 @@ _HISTORY = re.compile(r"\b(?:for the first time )?since (?:sustaining|suffering|
                       r"\bafter (?!missing)[^,;]*?\bmissed\b[^,;]*|"  # "practiced after their No. 1 goalie missed a win"
                       # "could play for the first time in more than a month": history, not a timeline
                       r"\bfor the first time in (?:more than |over |nearly |almost |about )?[\w-]+ (?:days?|weeks?|months?)\b|"
-                      rf"(?:{_RANGE.pattern})\s+(?:after|before|since)\b[^,;]*", re.I)
+                      rf"(?:{_RANGE.pattern})\s+(?:after|before|since)\b[^,;]*|"
+                      # "will make his season debut after being scratched the first two games"
+                      r"\b(?:after|since) (?:being|he was) (?:a healthy )?scratch(?:ed)?\b[^,;]*|"
+                      # a closing aside: "... and play David Reinbacher, who has been scratched the past two games"
+                      # (only about a scratch: ", who has a lower-body injury and..." is the news)
+                      r",\s+who\s[^,;]*\bscratch[^,;]*$", re.I)
 # Checked first, whatever Daily Faceoff's rules say.
 _FIRST = [(s, re.compile(p, re.I)) for s, p in [
     ("Out", r"^\W*neither\b"),  # "Neither Sanderson nor Zub are expected to play"
     ("Other", r"\bNHL debut\b"),  # a call-up, not a return from injury
+    ("Other", r"\bhealthy scratch(?:ed|es)?\b"),  # a lineup choice, not an injury
     ("Game-time decision", r"\bcould (?:return|play|be back|be available|rejoin|dress|be in the lineup)\b|"
                            r"\b(?:is|are) (?:also )?possible\b|\bpossible to play\b"),
     ("Returning", r"\b(?:played|returned|dressed) after (?:missing|sitting out|being)\b|"

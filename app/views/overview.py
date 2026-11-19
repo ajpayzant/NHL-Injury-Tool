@@ -30,7 +30,7 @@ c[3].metric("Returned in last 7 days", len(back_7), border=True)
 feed = news()
 if len(feed):
     st.subheader("Latest injury news")
-    top = feed.head(6)
+    top = feed[feed["repeat_of"].isna()].head(6)  # not notes NHL.com carried over from an earlier report
     st.markdown("\n".join(
         f"- **[{r['player']}]({player_link(r['player'], r['pkey'])})** ({r['team_shown'] or '—'}) · "
         f"{r['headline']} <span style='color:#8a8984;font-size:.85em'>{fmt_date(r['date'], year=False)} "

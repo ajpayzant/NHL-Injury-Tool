@@ -5,7 +5,7 @@ from html import escape
 import pandas as pd
 import streamlit as st
 
-from core import (fmt_date, history, last_updated, load, news, news_time, not_on_report, player_link,
+from core import (drop_repeats, fmt_date, history, last_updated, load, news, news_time, not_on_report, player_link,
                   team_label, today, tracking_changes_since)
 from nhl_injuries.reference import TEAMS
 
@@ -32,7 +32,7 @@ if team_f:
     feed = feed[feed["team_shown"].isin(team_f) | feed["team"].isin(team_f)]
 if SOURCES[source_f]:
     feed = feed[feed["source"] == SOURCES[source_f]]
-recent_news = feed[feed["date"] >= since]
+recent_news = drop_repeats(feed[feed["date"] >= since], since)
 missing = not_on_report(all_inj, feed, since)
 
 new = inj[inj["first_seen"] >= since].sort_values(["first_seen", "latest_team", "player"],
@@ -163,6 +163,8 @@ def feed_item(r: pd.Series, missing_ids: set[str]) -> str:
     tags += [badge(r["news_status"], r["tone"])] if r["news_status"] != "Other" else []
     if r["surgery"]:
         tags.append(badge("Surgery", "bad"))
+    if pd.notna(r["repeat_of"]):  # its first copy is older than the window
+        tags.append(badge(f"Repeated from {fmt_date(r['repeat_of'], year=False)}"))
     if r["news_id"] in missing_ids:
         tags.append(badge("Not on CBS report", "warn"))
     src = [f"via <a href='{escape(r['source_url'])}' target='_blank'>{escape(r['source_name'] or 'source')}</a>"

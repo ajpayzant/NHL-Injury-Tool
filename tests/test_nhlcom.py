@@ -135,6 +135,10 @@ def test_co_subjects_get_their_own_injury_and_predicate():
     ("{p} practiced with the Senators (6-3-0) on Monday and is expected to return Wednesday.", "Returning"),
     ("{p} did not return Saturday, but the coach said he will play on the road trip.", "Out"),
     ("{p} skated in a noncontact jersey Saturday, one week after the defenseman was injured.", "Practicing"),
+    # Scratches are lineup choices, not injuries.
+    ("{p} will made his season debut after being scratched the first two games of the season.", "Returning"),
+    ("{p} was a healthy scratch against the Devils on Tuesday.", "Other"),
+    ("The Canadiens could go with seven defensemen and play {p}, who has been scratched the past two games.", "Other"),
 ])
 def test_sentence_rules(sentence, status):
     rows = nhlcom.parse_story(story([("Ottawa Senators", sentence.format(p=ent("Jordan Example", 8400001)))]), STAMP)
