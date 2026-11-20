@@ -2361,3 +2361,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-20T15:00:50Z,2026-11-20,85b0a1f621572a92,3140864,Nicholas Robertson,PIT,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
 2026-11-20T15:00:50Z,2026-11-20,afe4e1fb444936e2,2147348,Ross Johnston,STL,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
 2026-11-20T15:00:50Z,2026-11-20,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,status_changed,Expected to be out until at least Nov 22 -> Day-to-Day
+2026-11-20T16:30:58Z,2026-11-20,fa7a2782c8ac98ad,1128973,Evgeni Malkin,PIT,opened,Upper Body - Expected to be out until at least Nov 25
+2026-11-20T16:30:58Z,2026-11-20,85b0a1f621572a92,3140864,Nicholas Robertson,PIT,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 27
+2026-11-20T16:30:58Z,2026-11-20,51bf574a5c5cab42,3140738,Vincent Desharnais,WSH,status_changed,IR. Expected to be out until at least Dec 5 -> IR. Expected to be out until at least Nov 25
