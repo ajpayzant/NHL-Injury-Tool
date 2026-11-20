@@ -2333,3 +2333,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-20T00:00:49Z,2026-11-19,04fb538cfc43a22d,2245517,Logan Stanley,NYI,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
 2026-11-20T00:00:49Z,2026-11-19,69cb9fb649b88bde,28895748,Conor Geekie,TBL,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Nov 27
 2026-11-20T00:00:49Z,2026-11-19,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 22
+2026-11-20T00:15:41Z,2026-11-19,85b0a1f621572a92,3140864,Nicholas Robertson,PIT,type_changed,Undisclosed -> Lower Body
+2026-11-20T00:15:41Z,2026-11-19,85b0a1f621572a92,3140864,Nicholas Robertson,PIT,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
+2026-11-20T00:15:41Z,2026-11-19,afe4e1fb444936e2,2147348,Ross Johnston,STL,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
