@@ -2348,3 +2348,16 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-20T10:15:55Z,2026-11-20,922197175989c109,2198288,Thomas Chabot,OTT,closed,off the report since 2026-11-19
 2026-11-20T12:01:00Z,2026-11-20,90ea4481b5546241,1897752,Jean-Gabriel Pageau,NYI,closed,off the report since 2026-11-19
 2026-11-20T12:15:49Z,2026-11-20,a2cbf06c48412ee2,3158655,Mattias Samuelsson,BUF,closed,off the report since 2026-11-19
+2026-11-20T15:00:50Z,2026-11-20,7fc2d9c0258e7f1e,29167162,Gavin Brindley,COL,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,94b1568a636ab5d2,1639453,Tyler Myers,DAL,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,0031bb3ec14549fb,1899125,Ryan Nugent-Hopkins,EDM,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,703ca834423fb470,2269463,Trevor Moore,LAK,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,2e75a727d36cd17f,2197859,Artemi Panarin,LAK,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,67e49bf86a288c49,2198229,Yakov Trenin,MIN,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,90424d139079975b,26799102,Zack Bolduc,MTL,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,04fb538cfc43a22d,2245517,Logan Stanley,NYI,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,d5cda721f6be4fc1,2147172,Hayden Hodgson,OTT,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,c6c660b37b0bc0f0,1897633,Nick Cousins,OTT,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,85b0a1f621572a92,3140864,Nicholas Robertson,PIT,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,afe4e1fb444936e2,2147348,Ross Johnston,STL,status_changed,Expected to be out until at least Nov 21 -> Day-to-Day
+2026-11-20T15:00:50Z,2026-11-20,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,status_changed,Expected to be out until at least Nov 22 -> Day-to-Day
