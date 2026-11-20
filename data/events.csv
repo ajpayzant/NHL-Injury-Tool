@@ -2367,3 +2367,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-20T17:45:47Z,2026-11-20,66275bf29a5bafd6,2940989,Joseph Veleno,NYR,status_changed,IR. Expected to be out until at least Jan 3 -> IR. Expected to be out until at least Dec 27
 2026-11-20T17:45:47Z,2026-11-20,0337264932bc9ff8,2094395,Oliver Bjorkstrand,NYR,opened,Upper Body - Day-to-Day
 2026-11-20T17:45:47Z,2026-11-20,85b0a1f621572a92,3140864,Nicholas Robertson,PIT,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 5
+2026-11-20T18:45:50Z,2026-11-20,62fabfb7b9eb41be,3130100,Connor McMichael,STL,opened,Undisclosed - Expected to be out until at least Nov 22
+2026-11-20T18:45:50Z,2026-11-20,cd13aa112943b0b7,26798991,Dylan Guenther,UTA,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 21
