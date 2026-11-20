@@ -2330,3 +2330,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-19T22:00:42Z,2026-11-19,745f8e86c42e4971,50001174,Jake O'Brien,SEA,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 10
 2026-11-19T22:15:25Z,2026-11-19,d5cda721f6be4fc1,2147172,Hayden Hodgson,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
 2026-11-19T22:15:25Z,2026-11-19,c6c660b37b0bc0f0,1897633,Nick Cousins,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
+2026-11-20T00:00:49Z,2026-11-19,04fb538cfc43a22d,2245517,Logan Stanley,NYI,status_changed,Day-to-Day -> Expected to be out until at least Nov 21
+2026-11-20T00:00:49Z,2026-11-19,69cb9fb649b88bde,28895748,Conor Geekie,TBL,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Nov 27
+2026-11-20T00:00:49Z,2026-11-19,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 22
