@@ -2341,3 +2341,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-20T03:15:57Z,2026-11-19,0db99ffe55d448b9,2076037,Ryan Pulock,NYI,opened,Lower Body - Day-to-Day
 2026-11-20T04:45:54Z,2026-11-19,fc06179e0792a9c5,2992501,Mathieu Olivier,CBJ,opened,Undisclosed - Day-to-Day
 2026-11-20T04:45:54Z,2026-11-19,1ffd6a263d2cdeba,2940939,Quinn Hughes,MIN,opened,Upper Body - Day-to-Day
+2026-11-20T06:00:59Z,2026-11-20,7fc2d9c0258e7f1e,29167162,Gavin Brindley,COL,type_changed,Upper Body -> Concussion
+2026-11-20T06:00:59Z,2026-11-20,973b51d3be411b65,1771071,Brendan Gallagher,VAN,opened,Lower Body - Day-to-Day
