@@ -2416,3 +2416,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-21T17:15:50Z,2026-11-21,9247f0be64d35780,50066703,Alberts Smits,NYR,status_changed,IR. Expected to be out until at least Dec 3 -> IR. Expected to be out until at least Jan 30
 2026-11-21T17:15:50Z,2026-11-21,5d1025c90d6f9b82,26640187,Pavel Dorofeyev,NYR,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 22
 2026-11-21T17:15:50Z,2026-11-21,0337264932bc9ff8,2094395,Oliver Bjorkstrand,NYR,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Jan 30
+2026-11-21T18:05:16Z,2026-11-21,0031bb3ec14549fb,1899125,Ryan Nugent-Hopkins,EDM,status_changed,Day-to-Day -> Expected to be out until at least Nov 22
+2026-11-21T18:05:16Z,2026-11-21,0db99ffe55d448b9,2076037,Ryan Pulock,NYI,status_changed,Day-to-Day -> Expected to be out until at least Nov 23
+2026-11-21T18:05:16Z,2026-11-21,973b51d3be411b65,1771071,Brendan Gallagher,VAN,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 27
