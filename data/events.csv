@@ -2419,3 +2419,13 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-21T18:05:16Z,2026-11-21,0031bb3ec14549fb,1899125,Ryan Nugent-Hopkins,EDM,status_changed,Day-to-Day -> Expected to be out until at least Nov 22
 2026-11-21T18:05:16Z,2026-11-21,0db99ffe55d448b9,2076037,Ryan Pulock,NYI,status_changed,Day-to-Day -> Expected to be out until at least Nov 23
 2026-11-21T18:05:16Z,2026-11-21,973b51d3be411b65,1771071,Brendan Gallagher,VAN,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 27
+2026-11-21T19:15:52Z,2026-11-21,3bd88e6c4e437f11,29404915,Beckett Sennecke,ANA,opened,Upper Body - IR. Expected to be out until at least Nov 27
+2026-11-21T19:15:52Z,2026-11-21,0db0590a7634a0ae,29404928,Konsta Helenius,BUF,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Dec 1
+2026-11-21T19:15:52Z,2026-11-21,9cfd3ff1e20579ae,26799264,Oskar Back,DAL,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Nov 25
+2026-11-21T19:15:52Z,2026-11-21,703ca834423fb470,2269463,Trevor Moore,LAK,status_changed,Day-to-Day -> Expected to be out until at least Nov 23
+2026-11-21T19:15:52Z,2026-11-21,2e75a727d36cd17f,2197859,Artemi Panarin,LAK,status_changed,Day-to-Day -> Expected to be out until at least Nov 23
+2026-11-21T19:15:52Z,2026-11-21,1ffd6a263d2cdeba,2940939,Quinn Hughes,MIN,status_changed,Day-to-Day -> Expected to be out until at least Nov 25
+2026-11-21T19:15:52Z,2026-11-21,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 23
+2026-11-21T19:15:52Z,2026-11-21,669f072e2d55b9b9,28899550,Artem Duda,UTA,status_changed,Day-to-Day -> Expected to be out until at least Nov 23
+2026-11-21T19:15:52Z,2026-11-21,1d993f800bd9c278,2845708,Elias Pettersson,VAN,opened,Upper Body - Expected to be out until at least Nov 22
+2026-11-21T19:15:52Z,2026-11-21,467d4e3f3de288bd,26802547,Isak Rosen,WPG,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 23
