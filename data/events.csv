@@ -2408,3 +2408,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-21T15:00:48Z,2026-11-21,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-11-20
 2026-11-21T15:00:48Z,2026-11-21,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,reopened,was marked returned 2026-11-20
 2026-11-21T15:00:48Z,2026-11-21,ba041e78cffab97c,28899568,Elias Salomonsson,WPG,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 23
+2026-11-21T16:15:54Z,2026-11-21,c6c660b37b0bc0f0,1897633,Nick Cousins,OTT,type_changed,Upper Body -> Head
+2026-11-21T16:15:54Z,2026-11-21,8d28c92a95e8b55a,28851236,Nick Blankenburg,TOR,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 23
+2026-11-21T16:15:54Z,2026-11-21,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 23
+2026-11-21T16:15:54Z,2026-11-21,f647a3bb4a0802d1,29098351,Cole McWard,TOR,type_changed,Undisclosed -> Lower Body
