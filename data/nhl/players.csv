@@ -333,6 +333,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 3107125,Elvis Merzlikins,CBJ,8478007,1994-04-13,G,roster,2026-09-24
 3110649,Nico Sturm,MIN,8481477,1995-05-03,C,roster,2026-10-12
 3111074,Blake Lizotte,PIT,8481481,1997-12-13,C,roster,2026-09-24
+3116162,Martin Pospisil,CGY,8481028,1999-11-19,C,roster,2026-11-21
 3117362,Joel Kiviranta,DAL,8481641,1996-03-23,L,roster,2026-10-07
 3130083,Bowen Byram,CHI,8481524,2001-06-13,D,roster,2026-10-03
 3130086,Philip Broberg,STL,8481598,2001-06-25,D,roster,2026-11-15
@@ -358,6 +359,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 433603,Corey Perry,LAK,8470621,1985-05-16,R,roster,2026-09-24
 50001091,Carter Bear,DET,8485362,2006-11-04,L,search,2026-09-28
 50001108,Gabriel D'Aigle,PIT,8485569,2006-11-21,G,search,2026-09-27
+50001120,Anton Frondell,CHI,8485391,2007-05-07,C,roster,2026-11-21
 50001127,James Hagens,BOS,8485395,2006-11-03,C,roster,2026-11-06
 50001142,Benjamin Kindel,PIT,8485414,2007-04-19,C,roster (nickname),2026-09-24
 50001174,Jake O'Brien,SEA,8485383,2007-06-16,C,search,2026-09-27
