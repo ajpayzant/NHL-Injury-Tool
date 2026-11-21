@@ -2432,3 +2432,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-21T20:15:48Z,2026-11-21,d0f48e86438fb930,3130083,Bowen Byram,CHI,status_changed,IR. Expected to be out until at least Nov 21 -> IR. Expected to be out until at least Nov 27
 2026-11-21T20:15:48Z,2026-11-21,94b1568a636ab5d2,1639453,Tyler Myers,DAL,status_changed,Day-to-Day -> Expected to be out until at least Nov 25
 2026-11-21T20:15:48Z,2026-11-21,0815be4a3c4107a2,1897737,Vladislav Namestnikov,WPG,type_changed,Undisclosed -> Lower Body
+2026-11-21T21:15:46Z,2026-11-21,7fc2d9c0258e7f1e,29167162,Gavin Brindley,COL,status_changed,Day-to-Day -> Expected to be out until at least Dec 1
+2026-11-21T21:15:46Z,2026-11-21,d1ac0e36851564d4,2076027,Nathan MacKinnon,COL,status_changed,Expected to be out until at least Dec 12 -> Expected to be out until at least Feb 13
+2026-11-21T21:15:46Z,2026-11-21,ff26c20b429a2ec9,1770929,Zach Hyman,EDM,opened,Illness - Day-to-Day
+2026-11-21T21:15:46Z,2026-11-21,27abc2a115dd8cd9,1707441,Ryan O'Reilly,NSH,opened,Undisclosed - Day-to-Day
+2026-11-21T21:15:46Z,2026-11-21,69cb9fb649b88bde,28895748,Conor Geekie,TBL,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 12
