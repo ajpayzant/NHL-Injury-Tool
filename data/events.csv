@@ -2499,3 +2499,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-22T17:30:48Z,2026-11-22,8fb75e2c66bd9f37,2269473,Jack Roslovic,TOR,opened,Upper Body - Day-to-Day
 2026-11-22T18:31:00Z,2026-11-22,f7a7254d9b7c1764,2858572,Jonah Gadjovich,FLA,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 12
 2026-11-22T18:31:00Z,2026-11-22,ab33bb9bb347c0bf,2076014,Aleksander Barkov,FLA,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 25
+2026-11-22T19:30:50Z,2026-11-22,0db0590a7634a0ae,29404928,Konsta Helenius,BUF,status_changed,IR. Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Dec 6
+2026-11-22T19:30:50Z,2026-11-22,2b99e71e9075a7a3,2147336,Nikolaj Ehlers,CAR,type_changed,Undisclosed -> Lower Body
+2026-11-22T19:30:50Z,2026-11-22,29e2417a406b0a79,29088530,Wyatt Kaiser,CHI,opened,Suspension - Expected to be out until at least Nov 29
