@@ -2482,3 +2482,17 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-22T14:30:46Z,2026-11-22,669f072e2d55b9b9,28899550,Artem Duda,UTA,status_changed,Expected to be out until at least Nov 23 -> Day-to-Day
 2026-11-22T14:30:46Z,2026-11-22,1d458c9d5cac8cea,2279395,Guillaume Brisebois,VAN,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Nov 29
 2026-11-22T14:30:46Z,2026-11-22,1d993f800bd9c278,2845708,Elias Pettersson,VAN,status_changed,Expected to be out until at least Nov 22 -> Expected to be out until at least Nov 25
+2026-11-22T15:27:30Z,2026-11-22,b1999c4c28607f57,29167155,Connor Bedard,CHI,status_changed,Expected to be out until at least Mar 1 -> IR. Expected to be out until at least Mar 1
+2026-11-22T15:27:30Z,2026-11-22,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,aa8a60c666296470,50001179,Bryce Pickford,MTL,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,c5c898ceb98cd4cf,29102361,Lucas Condotta,MTL,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,f99c6e1dccf9640c,28899632,Aidan Thompson,NYR,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,c7db43d44a79272c,29167287,Quentin Musty,SJS,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,61a51b5deef74ccb,2879747,Kyle Keyser,SJS,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,620048a7bd273eb4,1282170,Logan Couture,SJS,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,745f8e86c42e4971,50001174,Jake O'Brien,SEA,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,5ffabd583e44135a,26799690,William Villeneuve,TOR,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,7f4cb5291ee66844,29373582,Cade Webber,TOR,reopened,was marked returned 2026-11-21
+2026-11-22T15:27:30Z,2026-11-22,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-11-21
