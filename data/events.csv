@@ -2470,3 +2470,15 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-22T13:30:41Z,2026-11-22,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,closed,off the report since 2026-11-21
 2026-11-22T13:30:41Z,2026-11-22,745f8e86c42e4971,50001174,Jake O'Brien,SEA,closed,off the report since 2026-11-21
 2026-11-22T13:30:41Z,2026-11-22,fb4b24442e186c8e,1707401,Ryan Ellis,CHI,closed,off the report since 2026-11-21
+2026-11-22T14:30:46Z,2026-11-22,43063d64184692ed,26798892,Justin Danforth,BUF,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Dec 1
+2026-11-22T14:30:46Z,2026-11-22,43caedaeca4e2ca3,29237433,William Wallinder,DET,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-22T14:30:46Z,2026-11-22,2e75a727d36cd17f,2197859,Artemi Panarin,LAK,status_changed,Expected to be out until at least Nov 23 -> Day-to-Day
+2026-11-22T14:30:46Z,2026-11-22,703ca834423fb470,2269463,Trevor Moore,LAK,status_changed,Expected to be out until at least Nov 23 -> Day-to-Day
+2026-11-22T14:30:46Z,2026-11-22,0db99ffe55d448b9,2076037,Ryan Pulock,NYI,status_changed,Expected to be out until at least Nov 23 -> Day-to-Day
+2026-11-22T14:30:46Z,2026-11-22,5d1025c90d6f9b82,26640187,Pavel Dorofeyev,NYR,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Nov 25
+2026-11-22T14:30:46Z,2026-11-22,d5cda721f6be4fc1,2147172,Hayden Hodgson,OTT,status_changed,Expected to be out until at least Nov 23 -> Day-to-Day
+2026-11-22T14:30:46Z,2026-11-22,62fabfb7b9eb41be,3130100,Connor McMichael,STL,status_changed,Expected to be out until at least Nov 22 -> Day-to-Day
+2026-11-22T14:30:46Z,2026-11-22,65cea2d79f49a829,2245497,Clayton Keller,UTA,status_changed,Expected to be out until at least Nov 23 -> Day-to-Day
+2026-11-22T14:30:46Z,2026-11-22,669f072e2d55b9b9,28899550,Artem Duda,UTA,status_changed,Expected to be out until at least Nov 23 -> Day-to-Day
+2026-11-22T14:30:46Z,2026-11-22,1d458c9d5cac8cea,2279395,Guillaume Brisebois,VAN,status_changed,IR. Expected to be out until at least Nov 22 -> IR. Expected to be out until at least Nov 29
+2026-11-22T14:30:46Z,2026-11-22,1d993f800bd9c278,2845708,Elias Pettersson,VAN,status_changed,Expected to be out until at least Nov 22 -> Expected to be out until at least Nov 25
