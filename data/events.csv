@@ -2508,3 +2508,4 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-22T23:30:56Z,2026-11-22,62fabfb7b9eb41be,3130100,Connor McMichael,STL,type_changed,Undisclosed -> Lower Body
 2026-11-22T23:30:56Z,2026-11-22,62fabfb7b9eb41be,3130100,Connor McMichael,STL,status_changed,Day-to-Day -> Expected to be out until at least Nov 25
 2026-11-23T00:30:56Z,2026-11-22,2deba578de371a55,50001120,Anton Frondell,CHI,status_changed,Day-to-Day -> Expected to be out until at least Nov 25
+2026-11-23T02:30:47Z,2026-11-22,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Dec 1
