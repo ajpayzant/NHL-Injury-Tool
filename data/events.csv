@@ -2529,3 +2529,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-23T17:00:53Z,2026-11-23,ae9b5d0e60a038f1,3116162,Martin Pospisil,CGY,status_changed,Day-to-Day -> Expected to be out until at least Nov 28
 2026-11-23T17:00:53Z,2026-11-23,0db99ffe55d448b9,2076037,Ryan Pulock,NYI,status_changed,Day-to-Day -> Expected to be out until at least Nov 25
 2026-11-23T17:30:56Z,2026-11-23,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,closed,off the report since 2026-11-23
+2026-11-23T17:45:47Z,2026-11-23,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 27
+2026-11-23T17:45:47Z,2026-11-23,05771ebd826ea2ad,2245501,Jordan Kyrou,WSH,status_changed,Day-to-Day -> Expected to be out until at least Dec 1
+2026-11-23T17:45:47Z,2026-11-23,467d4e3f3de288bd,26802547,Isak Rosen,WPG,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 27
