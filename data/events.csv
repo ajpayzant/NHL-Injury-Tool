@@ -2545,3 +2545,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-23T20:01:03Z,2026-11-23,bf5ec3d5a72cb5db,2000679,Jacob Trouba,SJS,opened,Lower Body - Expected to be out until at least Dec 1
 2026-11-23T20:15:55Z,2026-11-23,79a82f82d265e157,1897686,Jonathan Huberdeau,CGY,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Dec 1
 2026-11-23T20:15:55Z,2026-11-23,1ffd6a263d2cdeba,2940939,Quinn Hughes,MIN,status_changed,Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 27
+2026-11-23T23:00:46Z,2026-11-23,ae71a811e885f322,2197823,Erik Gustafsson,LAK,type_changed,Upper Body -> Hand
+2026-11-23T23:00:46Z,2026-11-23,ae71a811e885f322,2197823,Erik Gustafsson,LAK,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 20
+2026-11-23T23:00:46Z,2026-11-23,669f072e2d55b9b9,28899550,Artem Duda,UTA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 30
