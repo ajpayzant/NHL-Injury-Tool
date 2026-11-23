@@ -2511,3 +2511,14 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-23T02:30:47Z,2026-11-22,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Dec 1
 2026-11-23T04:30:56Z,2026-11-22,0ef212a57b30adb0,2992322,Sean Durzi,NYR,closed,off the report since 2026-11-22
 2026-11-23T09:30:57Z,2026-11-23,29e2417a406b0a79,29088530,Wyatt Kaiser,CHI,closed,off the report since 2026-11-22
+2026-11-23T14:31:00Z,2026-11-23,2b99e71e9075a7a3,2147336,Nikolaj Ehlers,CAR,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,2deba578de371a55,50001120,Anton Frondell,CHI,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,94b1568a636ab5d2,1639453,Tyler Myers,DAL,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,ff26c20b429a2ec9,1770929,Zach Hyman,EDM,status_changed,Expected to be out until at least Nov 24 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,0031bb3ec14549fb,1899125,Ryan Nugent-Hopkins,EDM,status_changed,Expected to be out until at least Nov 24 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,fa7a2782c8ac98ad,1128973,Evgeni Malkin,PIT,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,e5763a4495998bce,29237421,Declan Carlile,PIT,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,62fabfb7b9eb41be,3130100,Connor McMichael,STL,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,be0718829fd4b7e0,2000659,Zemgus Girgensons,TBL,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,1d993f800bd9c278,2845708,Elias Pettersson,VAN,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-23T14:31:00Z,2026-11-23,611541f26e3d130a,2147354,Dylan Larkin,DET,closed,off the report since 2026-11-22
