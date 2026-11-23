@@ -2538,3 +2538,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-23T18:15:55Z,2026-11-23,cd13aa112943b0b7,26798991,Dylan Guenther,UTA,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 25
 2026-11-23T18:45:47Z,2026-11-23,e6ec0e36df223c7b,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Mar 23 -> Expected to be out until at least Mar 21
 2026-11-23T19:15:53Z,2026-11-23,e6ec0e36df223c7b,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Mar 21 -> Expected to be out until at least Mar 23
+2026-11-23T19:31:02Z,2026-11-23,625b236620321e72,1897650,Joel Edmundson,LAK,opened,Undisclosed - Day-to-Day
+2026-11-23T19:31:02Z,2026-11-23,e5c6d19504025360,2245486,Filip Gustavsson,MIN,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 25
+2026-11-23T19:31:02Z,2026-11-23,e6ec0e36df223c7b,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Mar 23 -> Expected to be out until at least Mar 21
+2026-11-23T19:31:02Z,2026-11-23,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 30
