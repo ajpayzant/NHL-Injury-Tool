@@ -2532,3 +2532,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-23T17:45:47Z,2026-11-23,04277cfa870d8782,2915882,Kirill Marchenko,TOR,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 27
 2026-11-23T17:45:47Z,2026-11-23,05771ebd826ea2ad,2245501,Jordan Kyrou,WSH,status_changed,Day-to-Day -> Expected to be out until at least Dec 1
 2026-11-23T17:45:47Z,2026-11-23,467d4e3f3de288bd,26802547,Isak Rosen,WPG,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 27
+2026-11-23T18:15:55Z,2026-11-23,c3630cb8b169f38f,2921433,Kiefer Sherwood,SJS,status_changed,Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Dec 1
+2026-11-23T18:15:55Z,2026-11-23,e6ec0e36df223c7b,2271605,Michael Carcone,UTA,opened,Upper Body - Expected to be out until at least Mar 23
+2026-11-23T18:15:55Z,2026-11-23,82e168ef90f561e6,3140308,John Marino,UTA,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 28
+2026-11-23T18:15:55Z,2026-11-23,cd13aa112943b0b7,26798991,Dylan Guenther,UTA,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 25
