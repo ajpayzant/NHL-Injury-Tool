@@ -2523,3 +2523,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-23T14:31:00Z,2026-11-23,1d993f800bd9c278,2845708,Elias Pettersson,VAN,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
 2026-11-23T14:31:00Z,2026-11-23,611541f26e3d130a,2147354,Dylan Larkin,DET,closed,off the report since 2026-11-22
 2026-11-23T15:00:59Z,2026-11-23,8d28c92a95e8b55a,28851236,Nick Blankenburg,TOR,status_changed,IR. Expected to be out until at least Nov 23 -> IR. Expected to be out until at least Nov 27
+2026-11-23T16:15:52Z,2026-11-23,0db99ffe55d448b9,2076037,Ryan Pulock,NYI,type_changed,Lower Body -> Shoulder
+2026-11-23T16:15:52Z,2026-11-23,d5cda721f6be4fc1,2147172,Hayden Hodgson,OTT,status_changed,Day-to-Day -> Expected to be out until at least Nov 28
+2026-11-23T16:15:52Z,2026-11-23,05771ebd826ea2ad,2245501,Jordan Kyrou,WSH,opened,Upper Body - Day-to-Day
