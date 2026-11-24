@@ -2600,3 +2600,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-24T21:01:02Z,2026-11-24,7f4cb5291ee66844,29373582,Cade Webber,TOR,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 26
 2026-11-24T22:30:54Z,2026-11-24,48c2fdb790c4321b,2992501,Mathieu Olivier,CBJ,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 3
 2026-11-24T22:30:54Z,2026-11-24,f062cdf4cead8304,28895759,Matthew Savoie,EDM,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 1
+2026-11-24T23:30:57Z,2026-11-24,10edf194f4613a00,2260804,Pavel Buchnevich,STL,type_changed,Undisclosed -> Upper Body
+2026-11-24T23:30:57Z,2026-11-24,62fabfb7b9eb41be,3130100,Connor McMichael,STL,status_changed,Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 27
+2026-11-24T23:30:57Z,2026-11-24,27c5d126e9a0f3e2,28895793,Jimmy Snuggerud,STL,type_changed,Undisclosed -> Upper Body
+2026-11-24T23:30:57Z,2026-11-24,ee3ab6fb03a551a5,2198223,Brandon Carlo,STL,type_changed,Undisclosed -> Lower Body
+2026-11-24T23:30:57Z,2026-11-24,ee3ab6fb03a551a5,2198223,Brandon Carlo,STL,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 2
