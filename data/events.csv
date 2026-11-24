@@ -2556,3 +2556,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-24T03:00:49Z,2026-11-23,4ab58e058f5b53e2,1770966,Kyle Palmieri,NYI,opened,Lower Body - Expected to be out until at least Nov 25
 2026-11-24T04:15:53Z,2026-11-23,b1999c4c28607f57,29167155,Connor Bedard,CHI,status_changed,IR. Expected to be out until at least Mar 1 -> IR. Expected to be out until at least Mar 23
 2026-11-24T04:45:49Z,2026-11-23,b1999c4c28607f57,29167155,Connor Bedard,CHI,status_changed,IR. Expected to be out until at least Mar 23 -> IR. Expected to be out until at least Mar 1
+2026-11-24T05:00:58Z,2026-11-24,b311b6619df5a3cd,2845700,Morgan Frost,CGY,opened,Upper Body - Day-to-Day
+2026-11-24T05:00:58Z,2026-11-24,b1999c4c28607f57,29167155,Connor Bedard,CHI,status_changed,IR. Expected to be out until at least Mar 1 -> IR. Expected to be out until at least Mar 23
