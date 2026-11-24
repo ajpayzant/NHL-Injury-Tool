@@ -121,6 +121,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2197866,Brayden Point,TBL,8478010,1996-03-13,C,roster,2026-11-09
 2197870,Evan Rodrigues,NJD,8478542,1993-07-28,C,roster,2026-11-02
 2197885,Linus Ullmark,OTT,8476999,1993-07-31,G,roster,2026-10-06
+2198223,Brandon Carlo,STL,8478443,1996-11-26,D,roster,2026-11-24
 2198224,Jake DeBrusk,VAN,8478498,1996-10-17,L,roster,2026-09-28
 2198229,Yakov Trenin,MIN,8478508,1997-01-13,C,roster,2026-11-19
 2198231,Pavel Zacha,BOS,8478401,1997-04-06,C,roster,2026-10-18
@@ -144,6 +145,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2245515,Mikhail Sergachev,UTA,8479410,1998-06-25,D,roster,2026-10-07
 2245517,Logan Stanley,NYI,8479378,1998-05-26,D,roster,2026-11-15
 2245518,Sam Steel,DAL,8479351,1998-02-03,C,roster,2026-10-24
+2260804,Pavel Buchnevich,STL,8477402,1995-04-17,L,roster,2026-11-24
 2265487,Gustav Forsling,FLA,8478055,1996-06-12,D,roster,2026-10-02
 2267064,MacKenzie MacEachern,VAN,8476907,1994-03-09,L,search,2026-09-29
 2269082,Kyle Capobianco,DAL,8478476,1997-08-13,D,roster,2026-10-28
@@ -259,6 +261,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28895781,Isaac Howard,EDM,8483455,2004-03-30,L,roster,2026-10-31
 28895785,Jiri Kulich,BUF,8483468,2004-04-14,C,roster,2026-09-24
 28895787,Maveric Lamoureux,UTA,8483472,2004-01-13,D,roster,2026-09-28
+28895793,Jimmy Snuggerud,STL,8483516,2004-06-01,R,roster,2026-11-24
 28895794,Danila Yurov,MIN,8483525,2003-12-22,R,roster,2026-10-05
 28899547,Seamus Casey,NJD,8483429,2004-01-08,D,roster,2026-09-24
 28899550,Artem Duda,UTA,8483436,2004-04-08,D,roster,2026-11-16
