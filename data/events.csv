@@ -2590,3 +2590,11 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-24T19:45:42Z,2026-11-24,6676502ec7be53d2,1133425,Brad Marchand,FLA,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 25
 2026-11-24T19:45:42Z,2026-11-24,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,reopened,was marked returned 2026-11-23
 2026-11-24T20:00:51Z,2026-11-24,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,team_changed,MTL -> DET
+2026-11-24T21:01:02Z,2026-11-24,4ab58e058f5b53e2,1770966,Kyle Palmieri,NYI,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 1
+2026-11-24T21:01:02Z,2026-11-24,5d1025c90d6f9b82,26640187,Pavel Dorofeyev,NYR,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 27
+2026-11-24T21:01:02Z,2026-11-24,d5cda721f6be4fc1,2147172,Hayden Hodgson,OTT,status_changed,Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 28
+2026-11-24T21:01:02Z,2026-11-24,69cb9fb649b88bde,28895748,Conor Geekie,TBL,type_changed,Upper Body -> Shoulder
+2026-11-24T21:01:02Z,2026-11-24,c4a8a39d94bb494a,3107125,Elvis Merzlikins,TOR,status_changed,IR. Expected to be out until at least Mar 30 -> IR. Expected to be out until at least Apr 3
+2026-11-24T21:01:02Z,2026-11-24,5ffabd583e44135a,26799690,William Villeneuve,TOR,status_changed,IR. Expected to be out until at least Dec 5 -> IR. Expected to be out until at least Dec 30
+2026-11-24T21:01:02Z,2026-11-24,daa8f2bb8219e51e,2076018,Max Domi,TOR,status_changed,IR. Expected to be out until at least Jan 30 -> IR. Expected to be out until at least Apr 10
+2026-11-24T21:01:02Z,2026-11-24,7f4cb5291ee66844,29373582,Cade Webber,TOR,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 26
