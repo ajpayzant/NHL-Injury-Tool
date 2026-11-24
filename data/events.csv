@@ -2598,3 +2598,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-24T21:01:02Z,2026-11-24,5ffabd583e44135a,26799690,William Villeneuve,TOR,status_changed,IR. Expected to be out until at least Dec 5 -> IR. Expected to be out until at least Dec 30
 2026-11-24T21:01:02Z,2026-11-24,daa8f2bb8219e51e,2076018,Max Domi,TOR,status_changed,IR. Expected to be out until at least Jan 30 -> IR. Expected to be out until at least Apr 10
 2026-11-24T21:01:02Z,2026-11-24,7f4cb5291ee66844,29373582,Cade Webber,TOR,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 26
+2026-11-24T22:30:54Z,2026-11-24,48c2fdb790c4321b,2992501,Mathieu Olivier,CBJ,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 3
+2026-11-24T22:30:54Z,2026-11-24,f062cdf4cead8304,28895759,Matthew Savoie,EDM,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 1
