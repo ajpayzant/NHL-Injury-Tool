@@ -2587,3 +2587,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-24T19:01:03Z,2026-11-24,ee3ab6fb03a551a5,2198223,Brandon Carlo,STL,opened,Undisclosed - Day-to-Day
 2026-11-24T19:01:03Z,2026-11-24,62fabfb7b9eb41be,3130100,Connor McMichael,STL,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
 2026-11-24T19:01:03Z,2026-11-24,27c5d126e9a0f3e2,28895793,Jimmy Snuggerud,STL,opened,Undisclosed - Day-to-Day
+2026-11-24T19:45:42Z,2026-11-24,6676502ec7be53d2,1133425,Brad Marchand,FLA,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 25
+2026-11-24T19:45:42Z,2026-11-24,107cc173bc26bb6c,2275417,Sam Montembeault,MTL,reopened,was marked returned 2026-11-23
