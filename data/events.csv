@@ -2580,3 +2580,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-24T17:15:52Z,2026-11-24,f562dca1997dcf89,2198287,Anthony Beauvillier,WSH,opened,Personal - Day-to-Day
 2026-11-24T17:45:48Z,2026-11-24,f1ec3551d60d4060,26799243,Tyson Kozak,BUF,opened,Undisclosed - Day-to-Day
 2026-11-24T17:45:48Z,2026-11-24,2b99e71e9075a7a3,2147336,Nikolaj Ehlers,CAR,status_changed,Day-to-Day -> Expected to be out until at least Nov 28
+2026-11-24T18:30:47Z,2026-11-24,1c0cabf4bba781b8,2845129,Cale Makar,COL,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 25
+2026-11-24T18:30:47Z,2026-11-24,91dcb25ededba19e,2269082,Kyle Capobianco,DAL,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 1
+2026-11-24T18:30:47Z,2026-11-24,89adcc02fb96dc7b,28895766,Lian Bichsel,DAL,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 9
