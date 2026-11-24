@@ -2550,3 +2550,4 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-23T23:00:46Z,2026-11-23,669f072e2d55b9b9,28899550,Artem Duda,UTA,status_changed,Day-to-Day -> IR. Expected to be out until at least Nov 30
 2026-11-24T00:45:45Z,2026-11-23,04845ee72eb799f6,29404908,Ivan Demidov,MTL,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 28
 2026-11-24T00:45:45Z,2026-11-23,8fb75e2c66bd9f37,2269473,Jack Roslovic,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
+2026-11-24T02:00:58Z,2026-11-23,04845ee72eb799f6,29404908,Ivan Demidov,MTL,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 30
