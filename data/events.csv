@@ -2564,3 +2564,10 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-24T11:01:02Z,2026-11-24,cd13aa112943b0b7,26798991,Dylan Guenther,UTA,closed,off the report since 2026-11-23
 2026-11-24T13:01:06Z,2026-11-24,625b236620321e72,1897650,Joel Edmundson,LAK,closed,off the report since 2026-11-23
 2026-11-24T13:01:06Z,2026-11-24,703ca834423fb470,2269463,Trevor Moore,LAK,closed,off the report since 2026-11-23
+2026-11-24T15:00:53Z,2026-11-24,b36f6b9b700c1245,29167168,Leo Carlsson,ANA,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-24T15:00:53Z,2026-11-24,48c2fdb790c4321b,2992501,Mathieu Olivier,CBJ,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-24T15:00:53Z,2026-11-24,1c9aaa8e29ad42df,2076030,Sean Monahan,CBJ,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-24T15:00:53Z,2026-11-24,f062cdf4cead8304,28895759,Matthew Savoie,EDM,status_changed,IR. Expected to be out until at least Nov 24 -> IR. Expected to be out until at least Nov 28
+2026-11-24T15:00:53Z,2026-11-24,0db99ffe55d448b9,2076037,Ryan Pulock,NYI,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-24T15:00:53Z,2026-11-24,4ab58e058f5b53e2,1770966,Kyle Palmieri,NYI,status_changed,Expected to be out until at least Nov 25 -> Day-to-Day
+2026-11-24T15:00:53Z,2026-11-24,8fb75e2c66bd9f37,2269473,Jack Roslovic,TOR,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
