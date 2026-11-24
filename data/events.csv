@@ -2551,3 +2551,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-24T00:45:45Z,2026-11-23,04845ee72eb799f6,29404908,Ivan Demidov,MTL,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 28
 2026-11-24T00:45:45Z,2026-11-23,8fb75e2c66bd9f37,2269473,Jack Roslovic,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
 2026-11-24T02:00:58Z,2026-11-23,04845ee72eb799f6,29404908,Ivan Demidov,MTL,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 30
+2026-11-24T03:00:49Z,2026-11-23,b36f6b9b700c1245,29167168,Leo Carlsson,ANA,status_changed,Day-to-Day -> Expected to be out until at least Nov 25
+2026-11-24T03:00:49Z,2026-11-23,48c2fdb790c4321b,2992501,Mathieu Olivier,CBJ,opened,Upper Body - Expected to be out until at least Nov 25
+2026-11-24T03:00:49Z,2026-11-23,4ab58e058f5b53e2,1770966,Kyle Palmieri,NYI,opened,Lower Body - Expected to be out until at least Nov 25
