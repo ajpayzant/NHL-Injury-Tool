@@ -2574,3 +2574,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-24T15:15:56Z,2026-11-24,cd56068a174ac6c9,2000667,Mike Matheson,MTL,status_changed,Expected to be out until at least Dec 5 -> IR. Expected to be out until at least Dec 5
 2026-11-24T15:45:58Z,2026-11-24,d54d5b4feb41172a,50001127,James Hagens,BOS,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 27
 2026-11-24T16:00:59Z,2026-11-24,69cb9fb649b88bde,28895748,Conor Geekie,TBL,status_changed,IR. Expected to be out until at least Dec 12 -> IR. Expected to be out until at least Mar 30
+2026-11-24T17:15:52Z,2026-11-24,ff26c20b429a2ec9,1770929,Zach Hyman,EDM,type_changed,Illness -> Impaired Vision
+2026-11-24T17:15:52Z,2026-11-24,ff26c20b429a2ec9,1770929,Zach Hyman,EDM,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
+2026-11-24T17:15:52Z,2026-11-24,0db99ffe55d448b9,2076037,Ryan Pulock,NYI,status_changed,Day-to-Day -> Expected to be out until at least Dec 4
+2026-11-24T17:15:52Z,2026-11-24,f562dca1997dcf89,2198287,Anthony Beauvillier,WSH,opened,Personal - Day-to-Day
