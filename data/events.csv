@@ -2622,3 +2622,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-25T16:45:57Z,2026-11-25,b311b6619df5a3cd,2845700,Morgan Frost,CGY,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
 2026-11-25T16:45:57Z,2026-11-25,8cae88479813f6c1,26603168,Egor Chinakhov,PIT,opened,Undisclosed - Expected to be out until at least Nov 27
 2026-11-25T16:45:57Z,2026-11-25,1d993f800bd9c278,2845708,Elias Pettersson,VAN,status_changed,Day-to-Day -> Expected to be out until at least Dec 4
+2026-11-25T17:00:45Z,2026-11-25,b311b6619df5a3cd,2845700,Morgan Frost,CGY,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
+2026-11-25T17:00:45Z,2026-11-25,28d901323e509682,2000666,Olli Maatta,MIN,status_changed,IR. Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Nov 27
+2026-11-25T17:00:45Z,2026-11-25,1d993f800bd9c278,2845708,Elias Pettersson,VAN,status_changed,Expected to be out until at least Dec 4 -> Day-to-Day
+2026-11-25T17:00:45Z,2026-11-25,51bf574a5c5cab42,3140738,Vincent Desharnais,WSH,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 25
