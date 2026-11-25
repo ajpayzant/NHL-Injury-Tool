@@ -2609,3 +2609,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-25T05:15:55Z,2026-11-25,0031bb3ec14549fb,1899125,Ryan Nugent-Hopkins,EDM,closed,off the report since 2026-11-24
 2026-11-25T06:00:52Z,2026-11-25,7714cb5addeddd9e,29457401,Marc Gatcomb,VGK,opened,Face - Day-to-Day
 2026-11-25T06:30:48Z,2026-11-25,f562dca1997dcf89,2198287,Anthony Beauvillier,WSH,closed,off the report since 2026-11-24
+2026-11-25T13:45:53Z,2026-11-25,28d901323e509682,2000666,Olli Maatta,MIN,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 27
+2026-11-25T13:45:53Z,2026-11-25,2759479ab8d3f04e,26802563,William Trudeau,NSH,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 30
+2026-11-25T13:45:53Z,2026-11-25,f060ae79ad71b6cd,2147651,Warren Foegele,OTT,status_changed,IR. Expected to be out until at least Dec 3 -> IR. Expected to be out until at least Dec 27
+2026-11-25T13:45:53Z,2026-11-25,3802f71216997c70,28978638,Elmer Soderblom,PIT,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 30
