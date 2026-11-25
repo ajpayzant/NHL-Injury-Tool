@@ -2637,3 +2637,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-25T19:15:58Z,2026-11-25,0db0590a7634a0ae,29404928,Konsta Helenius,BUF,status_changed,IR. Expected to be out until at least Dec 6 -> IR. Expected to be out until at least Dec 1
 2026-11-25T19:15:58Z,2026-11-25,27c5d126e9a0f3e2,28895793,Jimmy Snuggerud,STL,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
 2026-11-25T19:15:58Z,2026-11-25,10edf194f4613a00,2260804,Pavel Buchnevich,STL,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
+2026-11-25T23:15:46Z,2026-11-25,9cfd3ff1e20579ae,26799264,Oskar Back,DAL,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 25
+2026-11-25T23:15:46Z,2026-11-25,7e60cc379ba32b1a,2147516,Nick Schmaltz,UTA,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 30
