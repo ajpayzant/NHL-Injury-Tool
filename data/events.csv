@@ -2630,3 +2630,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-25T17:15:50Z,2026-11-25,28d901323e509682,2000666,Olli Maatta,MIN,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 1
 2026-11-25T17:15:50Z,2026-11-25,1d993f800bd9c278,2845708,Elias Pettersson,VAN,status_changed,Day-to-Day -> Expected to be out until at least Dec 4
 2026-11-25T17:15:50Z,2026-11-25,51bf574a5c5cab42,3140738,Vincent Desharnais,WSH,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 27
+2026-11-25T18:15:59Z,2026-11-25,488a9fb6f24f1cec,2940993,K'Andre Miller,CAR,opened,Illness - Day-to-Day
+2026-11-25T18:15:59Z,2026-11-25,9cfd3ff1e20579ae,26799264,Oskar Back,DAL,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 27
