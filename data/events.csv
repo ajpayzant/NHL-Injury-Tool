@@ -2645,3 +2645,4 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-26T00:15:57Z,2026-11-25,56f1d6350be3c128,1685405,Victor Hedman,TBL,opened,Illness - Expected to be out until at least Nov 27
 2026-11-26T00:15:57Z,2026-11-25,e6ec0e36df223c7b,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Mar 21 -> IR. Expected to be out until at least Mar 21
 2026-11-26T01:00:52Z,2026-11-25,43caedaeca4e2ca3,29237433,William Wallinder,DET,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
+2026-11-26T01:15:54Z,2026-11-25,43caedaeca4e2ca3,29237433,William Wallinder,DET,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
