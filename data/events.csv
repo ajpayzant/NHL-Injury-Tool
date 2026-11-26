@@ -2665,3 +2665,15 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-26T07:30:58Z,2026-11-26,1c0cabf4bba781b8,2845129,Cale Makar,COL,closed,off the report since 2026-11-25
 2026-11-26T12:30:57Z,2026-11-26,c9ae6e34c69086fd,3158655,Mattias Samuelsson,BUF,closed,off the report since 2026-11-25
 2026-11-26T13:31:00Z,2026-11-26,9cfd3ff1e20579ae,26799264,Oskar Back,DAL,closed,off the report since 2026-11-25
+2026-11-26T14:45:57Z,2026-11-26,b36f6b9b700c1245,29167168,Leo Carlsson,ANA,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,f1ec3551d60d4060,26799243,Tyson Kozak,BUF,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,b311b6619df5a3cd,2845700,Morgan Frost,CGY,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,ae9b5d0e60a038f1,3116162,Martin Pospisil,CGY,status_changed,Expected to be out until at least Nov 28 -> Expected to be out until at least Dec 3
+2026-11-26T14:45:57Z,2026-11-26,488a9fb6f24f1cec,2940993,K'Andre Miller,CAR,status_changed,Expected to be out until at least Nov 28 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,2b99e71e9075a7a3,2147336,Nikolaj Ehlers,CAR,status_changed,Expected to be out until at least Nov 28 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,6f78a0b129e47b01,2094538,Tyler Bertuzzi,CHI,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,43caedaeca4e2ca3,29237433,William Wallinder,DET,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,27c5d126e9a0f3e2,28895793,Jimmy Snuggerud,STL,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,10edf194f4613a00,2260804,Pavel Buchnevich,STL,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,e4ae369ebb00e48e,2178853,Erik Cernak,TBL,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
+2026-11-26T14:45:57Z,2026-11-26,56f1d6350be3c128,1685405,Victor Hedman,TBL,status_changed,Expected to be out until at least Nov 27 -> Day-to-Day
