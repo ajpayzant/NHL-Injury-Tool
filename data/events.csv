@@ -2639,3 +2639,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-25T19:15:58Z,2026-11-25,10edf194f4613a00,2260804,Pavel Buchnevich,STL,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
 2026-11-25T23:15:46Z,2026-11-25,9cfd3ff1e20579ae,26799264,Oskar Back,DAL,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 25
 2026-11-25T23:15:46Z,2026-11-25,7e60cc379ba32b1a,2147516,Nick Schmaltz,UTA,status_changed,IR. Expected to be out until at least Nov 25 -> IR. Expected to be out until at least Nov 30
+2026-11-26T00:15:57Z,2026-11-25,f1ec3551d60d4060,26799243,Tyson Kozak,BUF,status_changed,Day-to-Day -> Expected to be out until at least Nov 27
+2026-11-26T00:15:57Z,2026-11-25,488a9fb6f24f1cec,2940993,K'Andre Miller,CAR,status_changed,Day-to-Day -> Expected to be out until at least Nov 28
+2026-11-26T00:15:57Z,2026-11-25,e4ae369ebb00e48e,2178853,Erik Cernak,TBL,opened,Illness - Expected to be out until at least Nov 27
+2026-11-26T00:15:57Z,2026-11-25,56f1d6350be3c128,1685405,Victor Hedman,TBL,opened,Illness - Expected to be out until at least Nov 27
+2026-11-26T00:15:57Z,2026-11-25,e6ec0e36df223c7b,2271605,Michael Carcone,UTA,status_changed,Expected to be out until at least Mar 21 -> IR. Expected to be out until at least Mar 21
