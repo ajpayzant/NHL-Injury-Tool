@@ -2681,3 +2681,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-26T17:01:00Z,2026-11-26,8fb75e2c66bd9f37,2269473,Jack Roslovic,TOR,status_changed,Day-to-Day -> Expected to be out until at least Nov 28
 2026-11-26T18:30:49Z,2026-11-26,8e4d8afb1e35c904,29167308,Gabe Perreault,NYR,opened,Lower Body - Expected to be out until at least Dec 31
 2026-11-26T19:15:47Z,2026-11-26,578d841516214bfd,28895755,Denton Mateychuk,CBJ,status_changed,Day-to-Day -> Expected to be out until at least Nov 30
+2026-11-26T20:45:46Z,2026-11-26,1dc0e8af759f3230,1897644,Brenden Dillon,NJD,opened,Suspension - Expected to be out until at least Dec 5
+2026-11-26T20:45:46Z,2026-11-26,8e4d8afb1e35c904,29167308,Gabe Perreault,NYR,status_changed,Expected to be out until at least Dec 31 -> IR. Expected to be out until at least Dec 31
