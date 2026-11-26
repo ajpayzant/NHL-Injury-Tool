@@ -2652,3 +2652,5 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-26T04:00:54Z,2026-11-25,578d841516214bfd,28895755,Denton Mateychuk,CBJ,opened,Concussion - Day-to-Day
 2026-11-26T04:00:54Z,2026-11-25,8cae88479813f6c1,26603168,Egor Chinakhov,PIT,status_changed,Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 2
 2026-11-26T04:00:54Z,2026-11-25,d60bb5c795b572b6,26799012,Pontus Holmberg,TBL,status_changed,Day-to-Day -> Expected to be out until at least Dec 2
+2026-11-26T05:01:07Z,2026-11-26,1ffd6a263d2cdeba,2940939,Quinn Hughes,MIN,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 3
+2026-11-26T05:01:07Z,2026-11-26,5ec7a6ec78a178f6,26560471,Kaiden Guhle,MTL,opened,Undisclosed - Day-to-Day
