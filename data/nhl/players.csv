@@ -268,7 +268,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28895794,Danila Yurov,MIN,8483525,2003-12-22,R,roster,2026-10-05
 28899547,Seamus Casey,NJD,8483429,2004-01-08,D,roster,2026-09-24
 28899550,Artem Duda,UTA,8483436,2004-04-08,D,roster,2026-11-16
-28899562,Cameron Lund,SJS,,,,unmatched,2026-11-19
+28899562,Cameron Lund,SJS,8483481,2004-06-07,C,roster (nickname),2026-11-27
 28899567,Matthew Poitras,BOS,8483505,2004-03-10,C,roster,2026-09-24
 28899568,Elias Salomonsson,WPG,8483510,2004-08-31,D,search,2026-09-29
 28899577,Niklas Kokko,SEA,,,,unmatched,2026-11-23
@@ -410,8 +410,8 @@ dfo:3792,Mackenzie Blackwood,COL,8478406,1996-12-09,G,roster,2026-09-29
 dfo:38089,Landon Slaggert,CHI,8482172,2002-06-25,L,roster,2026-09-29
 dfo:38130,Damian Clara,ANA,8484391,2005-01-13,G,search,2026-09-29
 dfo:38455,Tom Willander,VAN,,,,unmatched,2026-11-03
-dfo:38474,Matthew Schaefer,NYI,,,,unmatched,2026-11-19
-dfo:38739,Andrea Glauser,,,,,unmatched,2026-11-19
+dfo:38474,Matthew Schaefer,NYI,,,,unmatched,2026-11-27
+dfo:38739,Andrea Glauser,,,,,unmatched,2026-11-27
 dfo:3874,Carter Hart,VGK,8479394,1998-08-13,G,roster,2026-09-29
 dfo:38893,Viking Gustafsson Nyberg,MIN,8486166,2003-09-21,D,roster,2026-09-29
 dfo:4741,Stuart Skinner,WPG,8479973,1998-11-01,G,roster,2026-09-29
