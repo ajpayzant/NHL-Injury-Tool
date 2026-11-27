@@ -2684,3 +2684,4 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-26T20:45:46Z,2026-11-26,1dc0e8af759f3230,1897644,Brenden Dillon,NJD,opened,Suspension - Expected to be out until at least Dec 5
 2026-11-26T20:45:46Z,2026-11-26,8e4d8afb1e35c904,29167308,Gabe Perreault,NYR,status_changed,Expected to be out until at least Dec 31 -> IR. Expected to be out until at least Dec 31
 2026-11-26T22:30:49Z,2026-11-26,7fc2d9c0258e7f1e,29167162,Gavin Brindley,COL,status_changed,Expected to be out until at least Dec 1 -> Expected to be out until at least Dec 8
+2026-11-27T01:45:52Z,2026-11-26,7fc2d9c0258e7f1e,29167162,Gavin Brindley,COL,status_changed,Expected to be out until at least Dec 8 -> IR. Expected to be out until at least Dec 8
