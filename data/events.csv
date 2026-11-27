@@ -2760,3 +2760,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-27T21:45:55Z,2026-11-27,6f78a0b129e47b01,2094538,Tyler Bertuzzi,CHI,status_changed,Day-to-Day -> Expected to be out until at least Nov 29
 2026-11-27T21:45:55Z,2026-11-27,5ada5afa044247d5,2845126,Martin Necas,COL,opened,Upper Body - Expected to be out until at least Nov 28
 2026-11-27T21:45:55Z,2026-11-27,0e6aa22cb2bcf3ac,2845125,Owen Tippett,PHI,opened,Lower Body - Expected to be out until at least Nov 28
+2026-11-27T22:45:48Z,2026-11-27,c6f64de83b05cad9,1240390,Patrick Kane,CHI,type_changed,Foot -> Lower Body
+2026-11-27T22:45:48Z,2026-11-27,c6b25c36a74051f2,3116690,Filip Hallander,EDM,status_changed,Expected to be out until at least Dec 12 -> Expected to be out until at least Dec 17
+2026-11-27T22:45:48Z,2026-11-27,d60bb5c795b572b6,26799012,Pontus Holmberg,TBL,status_changed,IR. Expected to be out until at least Dec 2 -> IR. Expected to be out until at least Dec 26
+2026-11-27T22:45:48Z,2026-11-27,b66fb458b2e4378a,2845320,Filip Chytil,VAN,opened,Undisclosed - Day-to-Day
