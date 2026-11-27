@@ -2746,3 +2746,8 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-27T20:00:55Z,2026-11-27,ff26c20b429a2ec9,1770929,Zach Hyman,EDM,status_changed,Expected to be out until at least Dec 3 -> Day-to-Day
 2026-11-27T20:00:55Z,2026-11-27,5ec7a6ec78a178f6,26560471,Kaiden Guhle,MTL,type_changed,Upper Body -> Undisclosed
 2026-11-27T20:00:55Z,2026-11-27,5ec7a6ec78a178f6,26560471,Kaiden Guhle,MTL,status_changed,Expected to be out until at least Nov 30 -> Day-to-Day
+2026-11-27T20:01:48Z,2026-11-27,f1ec3551d60d4060,26799243,Tyson Kozak,BUF,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 1
+2026-11-27T20:01:48Z,2026-11-27,c6b25c36a74051f2,3116690,Filip Hallander,EDM,status_changed,Day-to-Day -> Expected to be out until at least Dec 12
+2026-11-27T20:01:48Z,2026-11-27,ff26c20b429a2ec9,1770929,Zach Hyman,EDM,status_changed,Day-to-Day -> Expected to be out until at least Dec 3
+2026-11-27T20:01:48Z,2026-11-27,5ec7a6ec78a178f6,26560471,Kaiden Guhle,MTL,type_changed,Undisclosed -> Upper Body
+2026-11-27T20:01:48Z,2026-11-27,5ec7a6ec78a178f6,26560471,Kaiden Guhle,MTL,status_changed,Day-to-Day -> Expected to be out until at least Nov 30
