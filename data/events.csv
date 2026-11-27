@@ -2751,3 +2751,9 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-27T20:01:48Z,2026-11-27,ff26c20b429a2ec9,1770929,Zach Hyman,EDM,status_changed,Day-to-Day -> Expected to be out until at least Dec 3
 2026-11-27T20:01:48Z,2026-11-27,5ec7a6ec78a178f6,26560471,Kaiden Guhle,MTL,type_changed,Undisclosed -> Upper Body
 2026-11-27T20:01:48Z,2026-11-27,5ec7a6ec78a178f6,26560471,Kaiden Guhle,MTL,status_changed,Day-to-Day -> Expected to be out until at least Nov 30
+2026-11-27T20:45:48Z,2026-11-27,5edca1a4703a2ac1,28895775,Noah Ostlund,BUF,status_changed,Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Dec 1
+2026-11-27T20:45:48Z,2026-11-27,43caedaeca4e2ca3,29237433,William Wallinder,DET,status_changed,Day-to-Day -> Expected to be out until at least Nov 28
+2026-11-27T20:45:48Z,2026-11-27,d60bb5c795b572b6,26799012,Pontus Holmberg,TBL,type_changed,Undisclosed -> Lower Body
+2026-11-27T20:45:48Z,2026-11-27,d60bb5c795b572b6,26799012,Pontus Holmberg,TBL,status_changed,Expected to be out until at least Dec 2 -> IR. Expected to be out until at least Dec 2
+2026-11-27T20:45:48Z,2026-11-27,e4ae369ebb00e48e,2178853,Erik Cernak,TBL,status_changed,Day-to-Day -> Expected to be out until at least Nov 28
+2026-11-27T20:45:48Z,2026-11-27,64534d633d9c316b,1771089,Christopher Tanev,TOR,opened,Lower Body - Day-to-Day
