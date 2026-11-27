@@ -2720,3 +2720,10 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-27T15:30:54Z,2026-11-27,706640526ce4d2d8,2267064,MacKenzie MacEachern,VAN,reopened,was marked returned 2026-11-26
 2026-11-27T15:30:54Z,2026-11-27,05771ebd826ea2ad,2245501,Jordan Kyrou,WSH,status_changed,Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Dec 1
 2026-11-27T15:30:54Z,2026-11-27,467d4e3f3de288bd,26802547,Isak Rosen,WPG,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 30
+2026-11-27T17:01:01Z,2026-11-27,9e7ac91d7b81dbec,2845355,Ryan Poehling,ANA,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Nov 28
+2026-11-27T17:01:01Z,2026-11-27,18e32d09feedb42d,29167156,Zach Benson,BUF,opened,Upper Body - Expected to be out until at least Dec 1
+2026-11-27T17:01:01Z,2026-11-27,5edca1a4703a2ac1,28895775,Noah Ostlund,BUF,opened,Undisclosed - Expected to be out until at least Dec 1
+2026-11-27T17:01:01Z,2026-11-27,52f2791bb83415a5,26799321,Zachary L'Heureux,COL,status_changed,IR. Expected to be out until at least Nov 27 -> IR. Expected to be out until at least Dec 8
+2026-11-27T17:01:01Z,2026-11-27,68c671ffcebd1e8a,2992338,Declan Chisholm,NJD,opened,Illness - Expected to be out until at least Nov 28
+2026-11-27T17:01:01Z,2026-11-27,4ab58e058f5b53e2,1770966,Kyle Palmieri,NYI,type_changed,Lower Body -> Knee
+2026-11-27T17:01:01Z,2026-11-27,4ab58e058f5b53e2,1770966,Kyle Palmieri,NYI,status_changed,IR. Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Jun 1

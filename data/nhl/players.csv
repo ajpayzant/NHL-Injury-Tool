@@ -261,6 +261,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 28895758,Frank Nazar,CHI,8483493,2004-01-14,C,roster,2026-10-10
 28895759,Matthew Savoie,EDM,8483512,2004-01-01,C,roster (nickname),2026-09-24
 28895766,Lian Bichsel,DAL,8483425,2004-05-18,D,roster,2026-11-13
+28895775,Noah Ostlund,BUF,8483500,2004-03-11,C,roster,2026-11-27
 28895781,Isaac Howard,EDM,8483455,2004-03-30,L,roster,2026-10-31
 28895785,Jiri Kulich,BUF,8483468,2004-04-14,C,roster,2026-09-24
 28895787,Maveric Lamoureux,UTA,8483472,2004-01-13,D,roster,2026-09-28
@@ -345,6 +346,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2992271,Alec Regula,EDM,8480831,2000-08-06,D,roster,2026-09-27
 2992289,Akil Thomas,VAN,8480851,2000-01-02,C,search,2026-09-29
 2992322,Sean Durzi,NYR,8480434,1998-10-21,D,roster,2026-10-31
+2992338,Declan Chisholm,NJD,8480990,2000-01-12,D,roster,2026-11-27
 2992501,Mathieu Olivier,CBJ,8479671,1997-02-11,R,roster,2026-11-19
 2992841,Logan O'Connor,COL,8481186,1996-08-14,R,roster,2026-09-28
 3103731,Johnathan Kovacevic,NJD,8480192,1997-07-12,D,roster,2026-09-24
