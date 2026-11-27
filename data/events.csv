@@ -2731,3 +2731,4 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-27T18:00:58Z,2026-11-27,c6b25c36a74051f2,3116690,Filip Hallander,EDM,type_changed,Lower Body -> Knee
 2026-11-27T18:00:58Z,2026-11-27,7b6ddccecaffe3f9,3130097,Dakota Joshua,TOR,opened,Illness - Expected to be out until at least Nov 28
 2026-11-27T18:45:36Z,2026-11-27,27c5d126e9a0f3e2,28895793,Jimmy Snuggerud,STL,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 2
+2026-11-27T19:15:56Z,2026-11-27,27c5d126e9a0f3e2,28895793,Jimmy Snuggerud,STL,status_changed,IR. Expected to be out until at least Dec 2 -> Day-to-Day
