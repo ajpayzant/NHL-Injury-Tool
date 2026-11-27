@@ -2727,3 +2727,6 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-27T17:01:01Z,2026-11-27,68c671ffcebd1e8a,2992338,Declan Chisholm,NJD,opened,Illness - Expected to be out until at least Nov 28
 2026-11-27T17:01:01Z,2026-11-27,4ab58e058f5b53e2,1770966,Kyle Palmieri,NYI,type_changed,Lower Body -> Knee
 2026-11-27T17:01:01Z,2026-11-27,4ab58e058f5b53e2,1770966,Kyle Palmieri,NYI,status_changed,IR. Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Jun 1
+2026-11-27T18:00:58Z,2026-11-27,b36f6b9b700c1245,29167168,Leo Carlsson,ANA,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 1
+2026-11-27T18:00:58Z,2026-11-27,c6b25c36a74051f2,3116690,Filip Hallander,EDM,type_changed,Lower Body -> Knee
+2026-11-27T18:00:58Z,2026-11-27,7b6ddccecaffe3f9,3130097,Dakota Joshua,TOR,opened,Illness - Expected to be out until at least Nov 28
