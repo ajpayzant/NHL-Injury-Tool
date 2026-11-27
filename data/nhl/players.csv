@@ -98,6 +98,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 2147348,Ross Johnston,STL,8477527,1994-02-18,L,roster,2026-10-18
 2147354,Dylan Larkin,DET,8477946,1996-07-30,C,roster,2026-09-24
 2147463,William Nylander,TOR,8477939,1996-05-01,R,roster,2026-10-19
+2147475,David Pastrnak,BOS,8477956,1996-05-25,R,roster,2026-11-27
 2147476,Nick Paul,TOR,8477426,1995-03-20,L,roster,2026-09-24
 2147507,Bryan Rust,PIT,8475810,1992-05-11,R,roster,2026-09-27
 2147516,Nick Schmaltz,UTA,8477951,1996-02-23,C,roster,2026-11-12
@@ -302,6 +303,7 @@ key,player,team,nhl_id,birth_date,nhl_position,matched_by,checked
 29167168,Leo Carlsson,ANA,8484153,2004-12-26,C,roster,2026-11-22
 29167190,Jakub Dvorak,LAK,8484163,2005-05-25,D,search,2026-09-27
 29167224,Samuel Honzek,CGY,8484180,2004-11-12,L,roster,2026-10-10
+29167273,Matvei Michkov,PHI,8484387,2004-12-09,R,roster,2026-11-27
 29167287,Quentin Musty,SJS,8484200,2005-07-06,L,search,2026-09-29
 29167308,Gabe Perreault,NYR,8484210,2005-05-07,R,roster,2026-11-26
 29167322,Calum Ritchie,NYI,8484221,2005-01-21,C,roster,2026-10-18
