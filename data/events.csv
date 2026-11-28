@@ -2785,3 +2785,22 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-28T08:15:59Z,2026-11-28,2759479ab8d3f04e,26802563,William Trudeau,NSH,closed,off the report since 2026-11-27
 2026-11-28T10:00:45Z,2026-11-28,7714cb5addeddd9e,29457401,Marc Gatcomb,VGK,closed,off the report since 2026-11-27
 2026-11-28T11:45:48Z,2026-11-28,036984f9a6091ca6,29167273,Matvei Michkov,PHI,closed,off the report since 2026-11-27
+2026-11-28T15:01:03Z,2026-11-28,9e5628f507db51c6,2271612,A.J. Greer,ANA,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 6
+2026-11-28T15:01:03Z,2026-11-28,18e32d09feedb42d,29167156,Zach Benson,BUF,status_changed,Expected to be out until at least Dec 1 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,ae9b5d0e60a038f1,3116162,Martin Pospisil,CGY,status_changed,Expected to be out until at least Dec 3 -> Expected to be out until at least Dec 5
+2026-11-28T15:01:03Z,2026-11-28,6f78a0b129e47b01,2094538,Tyler Bertuzzi,CHI,status_changed,Expected to be out until at least Nov 29 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,5ada5afa044247d5,2845126,Martin Necas,COL,status_changed,Expected to be out until at least Nov 28 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,578d841516214bfd,28895755,Denton Mateychuk,CBJ,status_changed,Expected to be out until at least Nov 30 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,ac59d7353e2d4503,26802454,Simon Edvinsson,DET,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 1
+2026-11-28T15:01:03Z,2026-11-28,43caedaeca4e2ca3,29237433,William Wallinder,DET,status_changed,Expected to be out until at least Nov 28 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,7b3d974cb60e4f05,2197831,Mattias Janmark,EDM,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 27
+2026-11-28T15:01:03Z,2026-11-28,5ecf0de31d3a5ff3,29167190,Jakub Dvorak,LAK,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 30
+2026-11-28T15:01:03Z,2026-11-28,68c671ffcebd1e8a,2992338,Declan Chisholm,NJD,status_changed,Expected to be out until at least Nov 28 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,0e6aa22cb2bcf3ac,2845125,Owen Tippett,PHI,status_changed,Expected to be out until at least Nov 28 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,9a61eaf1807503a5,2094574,Ryan Graves,PIT,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Jan 1
+2026-11-28T15:01:03Z,2026-11-28,9edb31f502dcddeb,2987952,Tyler Tucker,STL,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 12
+2026-11-28T15:01:03Z,2026-11-28,e4ae369ebb00e48e,2178853,Erik Cernak,TBL,status_changed,Expected to be out until at least Nov 28 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,8fb75e2c66bd9f37,2269473,Jack Roslovic,TOR,status_changed,Expected to be out until at least Nov 28 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,f647a3bb4a0802d1,29098351,Cole McWard,TOR,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Nov 30
+2026-11-28T15:01:03Z,2026-11-28,7b6ddccecaffe3f9,3130097,Dakota Joshua,TOR,status_changed,Expected to be out until at least Nov 28 -> Day-to-Day
+2026-11-28T15:01:03Z,2026-11-28,0815be4a3c4107a2,1897737,Vladislav Namestnikov,WPG,status_changed,IR. Expected to be out until at least Nov 28 -> IR. Expected to be out until at least Dec 6
