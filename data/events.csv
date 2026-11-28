@@ -2807,3 +2807,7 @@ at,date,injury_id,player_id,player,team,event,detail
 2026-11-28T16:00:47Z,2026-11-28,64534d633d9c316b,1771089,Christopher Tanev,TOR,status_changed,Expected to be out until at least Nov 30 -> IR. Expected to be out until at least Dec 5
 2026-11-28T17:00:49Z,2026-11-28,7925333ad024552a,2147475,David Pastrnak,BOS,status_changed,Day-to-Day -> Expected to be out until at least Dec 1
 2026-11-28T17:00:49Z,2026-11-28,1d993f800bd9c278,2845708,Elias Pettersson,VAN,status_changed,Expected to be out until at least Dec 4 -> IR. Expected to be out until at least Dec 4
+2026-11-28T18:15:52Z,2026-11-28,a6920bcd699622af,26799324,Brennan Othmann,CGY,opened,Upper Body - Expected to be out until at least Dec 3
+2026-11-28T18:15:52Z,2026-11-28,79a82f82d265e157,1897686,Jonathan Huberdeau,CGY,status_changed,IR. Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Dec 3
+2026-11-28T18:15:52Z,2026-11-28,28d901323e509682,2000666,Olli Maatta,MIN,status_changed,IR. Expected to be out until at least Dec 1 -> IR. Expected to be out until at least Nov 29
+2026-11-28T18:15:52Z,2026-11-28,2d0b12e0c1c262cb,1899099,Philipp Grubauer,SEA,status_changed,Day-to-Day -> IR. Expected to be out until at least Dec 6
